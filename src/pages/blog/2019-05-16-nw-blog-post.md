@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Nw blog post
+title: New blog post
 date: 2019-05-16T08:54:29.048Z
 description: new blog post
 featuredpost: false
