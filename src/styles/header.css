@@ -1,0 +1,8 @@
+.main-header {
+  padding: var(--padding);
+  display: flex;
+}
+
+.mobile-toggle {
+  margin-left: auto;
+}

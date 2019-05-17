@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from './Header';
-// import { Link } from 'gatsby';
+import { Link } from 'gatsby';
 import logo from '../img/logo.svg';
 import mobileNavToggler from '../img/mobile-nav-toggle.svg';
 
@@ -36,12 +36,14 @@ const Navbar = class extends React.Component {
   render() {
     return (
       <Header>
-        <img src={logo} />
+        <Link to='/'>
+          <img src={logo} alt={'The Expat Magazine'} />
+        </Link>
         {/* <nav className='' role='navigation' aria-label='main-navigation' /> */}
-        <a href={'#'} className='wf-montserrat'>
+        <button type='button' className='wf-montserrat mobile-toggle'>
           <span>MENU</span>
-          <img src={mobileNavToggler} />
-        </a>
+          <img alt='toggle mobile navigation' src={mobileNavToggler} />
+        </button>
       </Header>
     );
   }
