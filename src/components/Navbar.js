@@ -38,7 +38,8 @@ const Navbar = class extends React.Component {
       <Header>
         <img src={logo} />
         {/* <nav className='' role='navigation' aria-label='main-navigation' /> */}
-        <a href={'#'}>
+        <a href={'#'} className='wf-montserrat'>
+          <span>MENU</span>
           <img src={mobileNavToggler} />
         </a>
       </Header>
