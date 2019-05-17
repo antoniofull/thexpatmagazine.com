@@ -1,6 +1,8 @@
 import React from 'react';
-import { Link } from 'gatsby';
+import Header from './Header';
+// import { Link } from 'gatsby';
 import logo from '../img/logo.svg';
+import mobileNavToggler from '../img/mobile-nav-toggle.svg';
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -33,9 +35,13 @@ const Navbar = class extends React.Component {
 
   render() {
     return (
-      <header>
-        <nav className='' role='navigation' aria-label='main-navigation' />
-      </header>
+      <Header>
+        <img src={logo} />
+        {/* <nav className='' role='navigation' aria-label='main-navigation' /> */}
+        <a href={'#'}>
+          <img src={mobileNavToggler} />
+        </a>
+      </Header>
     );
   }
 };
