@@ -4,6 +4,8 @@ import Footer from '../components/Footer';
 import Navbar from '../components/Navbar';
 import useSiteMetadata from './SiteMetadata';
 
+import '../styles/typography.css';
+
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata();
   return (
@@ -42,6 +44,10 @@ const TemplateWrapper = ({ children }) => {
         <meta property='og:title' content={title} />
         <meta property='og:url' content='/' />
         <meta property='og:image' content='/img/og-image.jpg' />
+        <link
+          href='https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i|Montserrat:400,600&display=swap'
+          rel='stylesheet'
+        />
       </Helmet>
       <Navbar />
       <div>{children}</div>
