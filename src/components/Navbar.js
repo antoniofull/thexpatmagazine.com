@@ -39,11 +39,12 @@ const Navbar = class extends React.Component {
         <Link to='/'>
           <img src={logo} alt={'The Expat Magazine'} />
         </Link>
-        {/* <nav className='' role='navigation' aria-label='main-navigation' /> */}
-        <button type='button' className='wf-montserrat mobile-toggle'>
+        <div className='mobile-toggle'>
           <span>MENU</span>
-          <img alt='toggle mobile navigation' src={mobileNavToggler} />
-        </button>
+          <button type='button' className='wf-montserrat btn-link'>
+            <img alt='toggle mobile navigation' src={mobileNavToggler} />
+          </button>
+        </div>
       </Header>
     );
   }
