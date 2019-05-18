@@ -1,0 +1,35 @@
+---
+templateKey: blog-post
+title: Amsterdam Exposed
+date: 2019-03-25T21:25:54.852Z
+description: >-
+  The red haze from the lights was intoxicating but ominous. Best way to
+  describe it, it felt like visiting Pleasure Island from Pinocchio seconds
+  before everyone turned into donkeys. There was a sense of immediacy, a feeling
+  it might be the last night on Earth. From here the district derives much of
+  its power. That, combined with fantasy, creates a potent cocktail, and a
+  paradox. While there is a feeling of being transported to another time, there
+  is also a feeling of being immersed in the now. Both happen at once. While
+  terrifying, it was also exhilarating, and for many, highly addictive.
+featuredpost: true
+featuredimage: /img/amsterdam-exposed-cover-small.jpg
+tags:
+  - amazon
+  - red light district
+  - ebooks
+  - amsterdam
+category: Guest Posts
+---
+Some of the curtains were drawn. Most were not, and we found ourselves surrounded by a swarm of attractive women. Every girl seemed to have her own approach to doing business. One girl stood halfway out her doorway, smiling at everyone. One just winked. Another sat on a barstool, reading a magazine and talking on her cell phone. The prettiest girl was stretched out on her bed in partially unbuttoned jeans, working on a crossword puzzle. Most seemed disinterested in the men around them, heightening their appeal. For hookers, they were playing hard to get.
+
+After a minute, the current took us full circle and spit us out onto Bethlemsteeg. The district can be overwhelming, and I was feeling the effects. The rules of society no longer seemed to apply. The place had its own code, something I knew nothing about. Oliver hadn’t spoken in minutes. He just stood next to me in silence, picking his cuticles. This was his country, but the district was unlike anything he had imagined or remembered. It was worse in many respects, but also intriguing, and surreal.
+
+The length of the street names was also surreal, making them so convoluted they were almost impossible to pronounce. This only heightened my sense of disorientation. While the Dutch use the Roman alphabet, the language often seemed as foreign as Cyrillic or Greek. Once I realized most of the streets ended with kade, straat, or steeg, they became a bit more manageable.
+
+We made our way back to the corner of Sint Annendwarstraat and Bethlemsteeg, and once there, proceeded down Trompettersteeg, the narrowest street in the district. Just like no trip to San Francisco is complete without a drive down Lombard Street, no trip to the district is complete without a walk down Trompettersteeg. 16 tightly packed windows line both sides of a pathway only a few feet wide, which becomes narrower as you go. Out of necessity, Oliver and I walked in a single file line. At times we had to sidestep. Once we started, there was no turning back. The crowds basically made that impossible.
+
+The girls stood inches away on both sides of the street. We could just about feel the warmth from their bodies as we passed one beautiful girl after another who didn’t seem to belong there. Almost all of them were stunning. Some made eye contact, trying to lure us in. Merely inches away, their gazes were intense and intimate. I would look away, only to be confronted by the next girl in line. Many of the women were as lifelike as department store mannequins, or perhaps wax figures from Madame Tussauds. They stood quietly behind their windows amidst cans of Red Bull and lubricating jelly, swaying back and forth.
+
+Trompettersteeg, while intense, takes only about 30 seconds to navigate. We made our way through and found ourselves standing on the edge of a canal. Looking at the reflections on the water was refreshing. Just like New York City couldn’t survive without Central Park, the same could be said about Amsterdam’s canals. The city couldn’t breathe without them.
+
+As I gazed across the water, I was ready to begin. The problem was, I had no idea how to start. I had no contacts. I had no experience. I was an outsider. Every day, thousands of tourists swarm the district. Now I was one of them. The thought of building a relationship with one of these women seemed crazier than ever. They didn’t come to Amsterdam for a social life. They certainly didn’t come to write a book.
