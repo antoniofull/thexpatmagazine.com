@@ -1,0 +1,15 @@
+:root {
+  --padding: 16px;
+  --padding-s: 8px;
+  --padding-l: 24px;
+  --padding-xl: 32px;
+
+  /* Colors */
+  --color-accent: hsla(281, 86, 64, 1);
+}
+
+.btn-link {
+  background: none;
+  border: none;
+  padding: 0;
+}

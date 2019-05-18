@@ -1,0 +1,14 @@
+.main-header {
+  padding: var(--padding);
+  display: flex;
+}
+
+.mobile-toggle {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+.mobile-toggle > span {
+  margin-right: var(--padding-s);
+}
