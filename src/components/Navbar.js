@@ -3,6 +3,7 @@ import Header from './Header';
 import { Link } from 'gatsby';
 import logo from '../img/logo.svg';
 import mobileNavToggler from '../img/mobile-nav-toggle.svg';
+import MobileNavigation from './MobileNavigation';
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -34,6 +35,7 @@ const Navbar = class extends React.Component {
   };
 
   render() {
+    console.log(this.state);
     return (
       <Header>
         <Link to='/'>
@@ -41,10 +43,15 @@ const Navbar = class extends React.Component {
         </Link>
         <div className='mobile-toggle'>
           <span>MENU</span>
-          <button type='button' className='wf-montserrat btn-link'>
+          <button
+            type='button'
+            className='wf-montserrat btn-link'
+            onClick={this.toggleHamburger}
+          >
             <img alt='toggle mobile navigation' src={mobileNavToggler} />
           </button>
         </div>
+        <MobileNavigation active={this.state.active} />
       </Header>
     );
   }

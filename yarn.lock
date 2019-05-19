@@ -5566,6 +5566,10 @@ gud@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/gud/-/gud-1.0.0.tgz#a489581b17e6a70beca9abe3ae57de7a499852c0"
 
+gutenberg-web-type@^1.2.3:
+  version "1.2.3"
+  resolved "https://registry.yarnpkg.com/gutenberg-web-type/-/gutenberg-web-type-1.2.3.tgz#8b6187155884b6e288a4915c459eb274f42c71e5"
+
 gzip-size@3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/gzip-size/-/gzip-size-3.0.0.tgz#546188e9bdc337f673772f81660464b389dce520"

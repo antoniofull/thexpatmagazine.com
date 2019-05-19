@@ -4,7 +4,11 @@ import Footer from '../components/Footer';
 import Navbar from '../components/Navbar';
 import useSiteMetadata from './SiteMetadata';
 
-import '../styles/typography.css';
+// Import css files
+// import '../styles/reset.css';
+// import '../styles/layout.css';
+
+// import '~/gutenberg-web-type/gutenberg.scss';
 
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata();
@@ -51,7 +55,7 @@ const TemplateWrapper = ({ children }) => {
       </Helmet>
       <Navbar />
       <div>{children}</div>
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 };
