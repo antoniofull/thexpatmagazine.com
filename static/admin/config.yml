@@ -27,6 +27,21 @@ collections:
       - { label: 'Tags', name: 'tags', widget: 'list' }
       - { label: 'Category', name: 'category', widget: 'string' }
 
+  - name: 'categories'
+    label: 'Categories'
+    folder: 'src/pages/blog'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+      - {
+          label: 'Template Key',
+          name: 'templateKey',
+          widget: 'hidden',
+          default: 'blog-post',
+        }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'text' }
+
   - name: 'pages'
     label: 'Pages'
     files:
