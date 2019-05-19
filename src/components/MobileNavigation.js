@@ -1,18 +1,23 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { Link } from 'gatsby';
+import { useSpring, animated } from 'react-spring';
 
 import bg from '../img/nav-bg.svg';
 import '../styles/mobile-nav.css';
 
 const MobileNavigation = ({ active }) => {
+  const props = useSpring({
+    backgroundImage: `url(${bg})`,
+    top: active ? '0%' : '-100%'
+  });
   if (active) {
     return (
-      <nav
+      <animated.nav
         className='nav--mobile'
         role='navigation'
         aria-label='main-navigation'
-        style={{ backgroundImage: `url(${bg})` }}
+        style={props}
       >
         <ul>
           <li>
@@ -34,7 +39,7 @@ const MobileNavigation = ({ active }) => {
             <Link to=''>Guest Posts</Link>
           </li>
         </ul>
-      </nav>
+      </animated.nav>
     );
   }
 
