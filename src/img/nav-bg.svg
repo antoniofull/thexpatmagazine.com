@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="589px" viewBox="0 0 375 589" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Background</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile-Navigation" fill-rule="nonzero">
+            <g id="NAVIGATION" transform="translate(0.000000, -1.000000)">
+                <g id="Background">
+                    <path d="M5.68434189e-14,588.087278 C250,541.994498 375,442.473507 375,289.524305 C375,136.575103 375,40.4003343 375,1 L5.68434189e-14,1 L5.68434189e-14,588.087278 Z" id="Path-2-Copy" fill="#DBA5F5"></path>
+                    <path d="M-1.98951966e-13,589.596252 C250,496.469936 375,373.432177 375,220.482975 C375,67.5337728 375,-5.6272189 375,1 L-1.98951966e-13,1 L-1.98951966e-13,589.596252 Z" id="Path-2" fill="#BE52F2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

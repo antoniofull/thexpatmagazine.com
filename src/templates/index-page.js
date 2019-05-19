@@ -11,9 +11,6 @@ import '../styles/layout.css';
 const IndexPage = () => {
   return (
     <Layout>
-      <div className=''>
-        <h1 className=''>Latest Stories</h1>
-      </div>
       <section className='section'>
         <div className='container'>
           <div className='content'>
