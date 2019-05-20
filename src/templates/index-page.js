@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 
 import Layout from '../components/Layout';
 import BlogRoll from '../components/BlogRoll';
+import '../styles/reset.css';
 
 const IndexPage = () => {
   return (
