@@ -13,6 +13,7 @@ const Navbar = class extends React.Component {
       active: false,
       navBarActiveClass: ''
     };
+    this.toggleHamburger = this.toggleHamburger.bind(this);
   }
 
   toggleHamburger = () => {
@@ -51,7 +52,10 @@ const Navbar = class extends React.Component {
             <img alt='toggle mobile navigation' src={mobileNavToggler} />
           </button>
         </div>
-        <MobileNavigation active={this.state.active} />
+        <MobileNavigation
+          active={this.state.active}
+          toggleState={this.toggleHamburger}
+        />
       </Header>
     );
   }

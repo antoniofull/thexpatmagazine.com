@@ -9,7 +9,7 @@ import '../styles/mobile-nav.css';
 
 import SearchForm from './SearchForm';
 
-const MobileNavigation = ({ active }) => {
+const MobileNavigation = ({ active, toggleState }) => {
   if (active) {
     return (
       <Motion
@@ -55,6 +55,7 @@ const MobileNavigation = ({ active }) => {
             <button
               className='btn btn--circle btn--secondary btn--close'
               style={{ backgroundImage: `url(${closeBtn})` }}
+              onClick={toggleState}
             />
           </div>
         )}
