@@ -3,6 +3,19 @@
   height: 100%;
   position: fixed;
   top: 0;
+  left: 0;
   background-repeat: no-repeat;
   transform-origin: top left;
+  padding: var(--padding-l);
+}
+
+.btn--close {
+  background-color: #fff;
+  background-repeat: no-repeat;
+  width: 68px;
+  height: 68px;
+  position: fixed;
+  top: 85%;
+  left: 50%;
+  transform: translateX(-50%);
 }
