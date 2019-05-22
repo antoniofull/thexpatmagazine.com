@@ -4,8 +4,6 @@ import { Link } from 'gatsby';
 import { Motion, spring } from 'react-motion';
 import Div100vh from 'react-div-100vh';
 
-import bg from '../img/nav-bg.svg';
-import closeBtn from '../img/close-nav.svg';
 import '../styles/mobile-nav.css';
 
 import SearchForm from './SearchForm';
@@ -14,6 +12,7 @@ const MobileNavigation = ({ active, toggleState }) => {
   if (active) {
     const [btnTop, setBtnTop] = useState(400);
     const bntRef = useRef();
+
     useEffect(() => {
       const top = window.innerHeight - 50;
       setBtnTop(top);
@@ -28,44 +27,44 @@ const MobileNavigation = ({ active, toggleState }) => {
             <div
               className='nav--mobile'
               style={{
-                backgroundImage: `url(${bg})`,
                 opacity: style.opacity,
                 transform: `translateY(${style.y}px)`
               }}
             >
-              <SearchForm />
-              <nav
-                className='main-nav wf-montserrat'
-                role='navigation'
-                aria-label='main-navigation'
-              >
-                <ul className='main-nav__list'>
-                  <li className='main-nav__item'>
-                    <Link to='/'>Stories</Link>
-                  </li>
-                  <li className='main-nav__item'>
-                    <Link to='/'>Destinations</Link>
-                  </li>
-                  {/* <li className='main-nav__item'>
+              <div className='nav--mobile__bg'>
+                <SearchForm />
+                <nav
+                  className='main-nav wf-montserrat'
+                  role='navigation'
+                  aria-label='main-navigation'
+                >
+                  <ul className='main-nav__list'>
+                    <li className='main-nav__item'>
+                      <Link to='/'>Stories</Link>
+                    </li>
+                    <li className='main-nav__item'>
+                      <Link to='/'>Destinations</Link>
+                    </li>
+                    {/* <li className='main-nav__item'>
                     <Link to='/'>Countries</Link>
                   </li> */}
-                  <li className='main-nav__item'>
-                    <Link to='/'>Expat Tips</Link>
-                  </li>
-                  <li className='main-nav__item'>
-                    <Link to='/'>Travel Tips</Link>
-                  </li>
-                  <li className='main-nav__item'>
-                    <Link to='/'>Guest Posts</Link>
-                  </li>
-                </ul>
-              </nav>
+                    <li className='main-nav__item'>
+                      <Link to='/'>Expat Tips</Link>
+                    </li>
+                    <li className='main-nav__item'>
+                      <Link to='/'>Travel Tips</Link>
+                    </li>
+                    <li className='main-nav__item'>
+                      <Link to='/'>Guest Posts</Link>
+                    </li>
+                    <li className='main-nav__item'>
+                      <Link to='/'>All Tags</Link>
+                    </li>
+                  </ul>
+                </nav>
+              </div>
               <button
                 className='btn btn--circle btn--secondary btn--close'
-                style={{
-                  backgroundImage: `url(${closeBtn})`,
-                  top: `${btnTop}px`
-                }}
                 onClick={toggleState}
                 ref={bntRef}
               />

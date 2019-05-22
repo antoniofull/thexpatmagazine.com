@@ -42,6 +42,22 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Description', name: 'description', widget: 'text' }
 
+  - name: 'authors'
+    label: 'Authors'
+    folder: 'src/pages/authors'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+      - {
+          label: 'Template Key',
+          name: 'templateKey',
+          widget: 'hidden',
+          default: 'blog-post',
+        }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Bio', name: 'bio', widget: 'text' }
+      - { label: 'Link', name: 'link', widget: 'string' }
+
   - name: 'pages'
     label: 'Pages'
     files:

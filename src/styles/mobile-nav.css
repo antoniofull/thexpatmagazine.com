@@ -13,14 +13,21 @@
 
 .nav--mobile {
   width: 100%;
-  height: 100vh; /* Fallback for browsers that do not support Custom Properties */
-  height: calc(var(--vh, 1vh) * 100);
+  height: 100%;
   position: fixed;
   top: 0;
   left: 0;
-  background-repeat: no-repeat;
+  z-index: 1000;
   transform-origin: top left;
+}
+
+.nav--mobile__bg {
   padding: var(--padding-l);
+  background-image: url('/img/nav-bg.svg');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  height: 100%;
+  position: relative;
 }
 
 .btn--close {
@@ -29,15 +36,16 @@
   width: 48px;
   height: 48px;
   position: fixed;
-  top: 80%;
   background-size: contain;
   left: 50%;
+  bottom: var(--margin);
   opacity: 0;
   transform: translateX(-50%);
   animation-name: btn;
   animation-delay: 0.7s;
   animation-fill-mode: forwards;
   animation-duration: 1s;
+  background-image: url('/img/close-nav.svg');
 }
 
 .main-nav__list {
@@ -51,4 +59,20 @@
   text-decoration: none;
   text-transform: uppercase;
   color: #fff;
+}
+
+@media screen and (min-width: 768px) {
+  .btn--close {
+    bottom: var(--margin-xl);
+  }
+}
+
+@media screen and (max-height: 500px) {
+  .main-nav__list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .main-nav__item {
+    flex: 1 1 50%;
+  }
 }
