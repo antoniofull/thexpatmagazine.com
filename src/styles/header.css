@@ -1,6 +1,7 @@
 .main-header {
   padding: var(--padding);
   display: flex;
+  height: 80px;
 }
 
 .mobile-toggle {
