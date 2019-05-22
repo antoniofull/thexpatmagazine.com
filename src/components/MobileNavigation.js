@@ -27,27 +27,27 @@ const MobileNavigation = ({ active, toggleState }) => {
           >
             <SearchForm />
             <nav
-              className='main-nav'
+              className='main-nav wf-montserrat'
               role='navigation'
               aria-label='main-navigation'
             >
-              <ul>
-                <li>
+              <ul className='main-nav__list'>
+                <li className='main-nav__item'>
                   <Link to='/'>Stories</Link>
                 </li>
-                <li>
+                <li className='main-nav__item'>
                   <Link to='/'>Destinations</Link>
                 </li>
-                <li>
+                <li className='main-nav__item'>
                   <Link to='/'>Countries</Link>
                 </li>
-                <li>
+                <li className='main-nav__item'>
                   <Link to='/'>Expat Tips</Link>
                 </li>
-                <li>
+                <li className='main-nav__item'>
                   <Link to='/'>Travel Tips</Link>
                 </li>
-                <li>
+                <li className='main-nav__item'>
                   <Link to='/'>Guest Posts</Link>
                 </li>
               </ul>

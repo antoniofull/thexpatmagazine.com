@@ -4,6 +4,15 @@
   --padding-l: 24px;
   --padding-xl: 32px;
 
+  --margin: 16px;
+  --margin-s: 8px;
+  --margin-l: 24px;
+  --margin-xl: 32px;
+
   /* Colors */
   --color-accent: hsla(281, 86, 64, 1);
+  --color-text-primary: #444444;
+  --color-text-secondary: #9b9da0;
+
+  --border-radius: 4px;
 }
