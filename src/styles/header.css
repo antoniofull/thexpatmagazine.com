@@ -2,6 +2,7 @@
   padding: var(--padding);
   display: flex;
   height: 80px;
+  position: relative;
 }
 
 .main-header:after {
