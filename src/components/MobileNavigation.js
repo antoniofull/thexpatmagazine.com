@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useRef, useEffect, useState } from 'react';
 import PropTypes from 'prop-types';
 import { Link } from 'gatsby';
 import { Motion, spring } from 'react-motion';
@@ -12,6 +12,12 @@ import SearchForm from './SearchForm';
 
 const MobileNavigation = ({ active, toggleState }) => {
   if (active) {
+    const [btnTop, setBtnTop] = useState(400);
+    const bntRef = useRef();
+    useEffect(() => {
+      const top = window.innerHeight - 50;
+      setBtnTop(top);
+    }, []);
     return (
       <Motion
         defaultStyle={{ opacity: 0, y: -1600 }}
@@ -40,9 +46,9 @@ const MobileNavigation = ({ active, toggleState }) => {
                   <li className='main-nav__item'>
                     <Link to='/'>Destinations</Link>
                   </li>
-                  <li className='main-nav__item'>
+                  {/* <li className='main-nav__item'>
                     <Link to='/'>Countries</Link>
-                  </li>
+                  </li> */}
                   <li className='main-nav__item'>
                     <Link to='/'>Expat Tips</Link>
                   </li>
@@ -56,8 +62,12 @@ const MobileNavigation = ({ active, toggleState }) => {
               </nav>
               <button
                 className='btn btn--circle btn--secondary btn--close'
-                style={{ backgroundImage: `url(${closeBtn})` }}
+                style={{
+                  backgroundImage: `url(${closeBtn})`,
+                  top: `${btnTop}px`
+                }}
                 onClick={toggleState}
+                ref={bntRef}
               />
             </div>
           </Div100vh>

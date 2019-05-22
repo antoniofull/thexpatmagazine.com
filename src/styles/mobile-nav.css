@@ -1,3 +1,12 @@
+@keyframes btn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
 .main-nav {
   margin-top: var(--margin-xl);
 }
@@ -17,12 +26,18 @@
 .btn--close {
   background-color: transparent;
   background-repeat: no-repeat;
-  width: 68px;
-  height: 68px;
+  width: 48px;
+  height: 48px;
   position: fixed;
-  top: calc(100% - 136px);
+  top: 80%;
+  background-size: contain;
   left: 50%;
+  opacity: 0;
   transform: translateX(-50%);
+  animation-name: btn;
+  animation-delay: 0.7s;
+  animation-fill-mode: forwards;
+  animation-duration: 1s;
 }
 
 .main-nav__list {
