@@ -1,20 +1,13 @@
 ---
 templateKey: blog-post
 title: Should I stay or should I go? Data and feelings about expat life
-author: Rossella Davi
-type: post
-date: 2019-05-11T16:15:33+00:00
-url: /2019/expat-life/should-i-stay-or-should-i-go-data-and-feelings-about-expat-life/
-featured_image: /wp-content/uploads/2019/05/ben-white-148783-unsplash.jpg
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
-categories:
-  - Expat
-  - Living abroad
+date: 2019-05-11T16:15:33.000Z
+description: ' Before analyzing data and interesting numbers about expats (and not) in the world, I&#8217;d like to share some stories and thoughts from some followers of the'
+featuredpost: true
+featuredimage: /img/amsterdam-exposed-cover-small.jpg
 tags:
   - expat life
+category: Destinations
 ---
 
 <p style="text-align: left;">
