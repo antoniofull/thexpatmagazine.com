@@ -5,41 +5,7 @@ author: thexpatmagazine
 type: post
 date: 2014-03-02T17:25:47+00:00
 url: /2014/europe/10-signs-living-long-italy/
-featured_image: /wp-content/uploads/2014/02/italiangestures-500x500.jpg
-featured:
-  - 'false'
-post_views_count:
-  - 2
-kd_featured-image-2_post_id:
-  - 84
-kd_featured-image-4_post_id:
-  - 84
-kd_featured-image-3_post_id:
-  - 84
-kd_featured-image-5_post_id:
-  - 84
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
-bd_video_type:
-  - youtube
-bd_post_background_color:
-  - '#'
-bd_post_background_repeat:
-  - repeat
-bd_post_background_attachment:
-  - scroll
-bd_post_background_x:
-  - center
-bd_post_background_y:
-  - center
-bd_review_type:
-  - stars
-bd_criteria_display:
-  - t
-et_enqueued_post_fonts:
-  - 'a:2:{s:6:"family";a:0:{}s:6:"subset";a:2:{i:0;s:5:"latin";i:1;s:9:"latin-ext";}}'
+featuredimage: /wp-content/uploads/2014/02/italiangestures-500x500.jpg
 categories:
   - Europe
   - Italy

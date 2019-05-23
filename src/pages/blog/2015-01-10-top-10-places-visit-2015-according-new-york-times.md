@@ -35,14 +35,14 @@ et_enqueued_post_fonts:
 categories:
   - Travel
 tags:
-  - 2015
+  - '2015'
   - cities to visit
   - travel
 ---
 
 The New York Times has published the list of the top 52 places to visit in 2015. The city of Milan, Italy, tops the list mainly because of the Expo2015 which expects to bring more than 20.000.000  visitors.
 
-We already suggested some* **[good reasons for living in Milan][1]***, you should [check it out][1]!
+We already suggested some\* **[good reasons for living in Milan][1]\***, you should [check it out][1]!
 
 So let&#8217;s see the _**top 10 cities to visit in 2015.**_<!--more-->
 

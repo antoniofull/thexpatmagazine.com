@@ -5,33 +5,8 @@ author: thexpatmagazine
 type: post
 date: 2014-03-03T16:33:46+00:00
 url: /2014/europe/sicily-husband-works-thousands-miles-away-writes-love/
-featured_image: /wp-content/uploads/2014/03/love_letter-357x500.jpg
-featured:
-  - 'false'
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
-bd_video_type:
-  - youtube
-bd_post_background_color:
-  - '#'
-bd_post_background_repeat:
-  - repeat
-bd_post_background_attachment:
-  - scroll
-bd_post_background_x:
-  - center
-bd_post_background_y:
-  - center
-bd_review_type:
-  - stars
-bd_criteria_display:
-  - t
-rop_post_url_twitter:
-  - 'http://localhost/thexpatmagazine-wp/2014/europe/sicily-germany-italian-love-letter/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-et_enqueued_post_fonts:
-  - 'a:2:{s:6:"family";a:0:{}s:6:"subset";a:2:{i:0;s:5:"latin";i:1;s:9:"latin-ext";}}'
+featuredimage: /wp-content/uploads/2014/03/love_letter-357x500.jpg
+
 categories:
   - Europe
   - Expat

@@ -4,36 +4,7 @@ title: Most punctual airport in the world
 author: thexpatmagazine
 type: post
 date: 2015-01-12T12:34:26+00:00
-url: /2015/travel/punctual-airport-world/
-featured_image: /wp-content/uploads/2015/01/bristol-700x500.jpg
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
-bd_video_type:
-  - youtube
-bd_post_background_color:
-  - '#'
-bd_post_background_repeat:
-  - repeat
-bd_post_background_attachment:
-  - scroll
-bd_post_background_x:
-  - center
-bd_post_background_y:
-  - center
-bd_review_type:
-  - stars
-bd_criteria_display:
-  - t
-yuzo_related_post_metabox:
-  - 'a:3:{s:17:"yuzo_include_post";s:0:"";s:17:"yuzo_exclude_post";s:0:"";s:21:"yuzo_disabled_related";N;}'
-meta_box_featured:
-  - off
-rop_post_url_twitter:
-  - 'http://localhost/thexpatmagazine-wp/2015/travel/punctual-airport-world/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-et_enqueued_post_fonts:
-  - 'a:2:{s:6:"family";a:0:{}s:6:"subset";a:2:{i:0;s:5:"latin";i:1;s:9:"latin-ext";}}'
+featuredimage: /wp-content/uploads/2015/01/bristol-700x500.jpg
 categories:
   - Travel
 tags:
@@ -48,13 +19,13 @@ Surprising the first place on the list is taken by the small Hub of _**Bristol**
 
 [<img class="alignnone size-full wp-image-385" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2015/01/bristol.jpg" alt="Bristol" width="750" height="536" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2015/01/bristol.jpg 750w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2015/01/bristol-300x214.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2015/01/bristol-700x500.jpg 700w" sizes="(max-width: 750px) 100vw, 750px" />][1]Foto Credit : wikipedia.
 
-The first airport from London to top the rank is Luton, among the first 10 but far away from the performance of the best airport. The second place is taken by the ***Brussels South Charleroi Airport*** at 93.1% (**Ryanair** flies also from here)  and **Berlin Schoenefeld** at 92.3% of scheduled flights.
+The first airport from London to top the rank is Luton, among the first 10 but far away from the performance of the best airport. The second place is taken by the **_Brussels South Charleroi Airport_** at 93.1% (**Ryanair** flies also from here)  and **Berlin Schoenefeld** at 92.3% of scheduled flights.
 
 [wp\_ad\_camp_1]
 
 **Atlanta** is the most busiest airline in the World, but ranks only 12th while **Dubai** is 14th. If we look at the largest Hub then germans confirms their leadership in punctuality, with Munich Airport the most punctual at 89% of flights arrived in time. **Tokyo** and **Seattle** follow the German Hub.
 
-Surprises also in the airlines companies, with **Latvia&#8217;s airBaltic** outperforming all others at 94.9%.  Second  ***Hawaiian Airlines*** at 92.3% and third _**Austrian Airlines**_ at 90%.
+Surprises also in the airlines companies, with **Latvia&#8217;s airBaltic** outperforming all others at 94.9%.  Second  **_Hawaiian Airlines_** at 92.3% and third _**Austrian Airlines**_ at 90%.
 
 These are the others airlines companies in the rank :
 

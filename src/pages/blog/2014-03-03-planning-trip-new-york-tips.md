@@ -5,7 +5,7 @@ author: thexpatmagazine
 type: post
 date: 2014-03-03T13:00:42+00:00
 url: /2014/america/planning-trip-new-york-tips/
-featured_image: /wp-content/uploads/2014/03/Screen-Shot-2014-03-02-at-20.02.18.png
+featuredimage: /wp-content/uploads/2014/03/Screen-Shot-2014-03-02-at-20.02.18.png
 categories:
   - America
   - North America

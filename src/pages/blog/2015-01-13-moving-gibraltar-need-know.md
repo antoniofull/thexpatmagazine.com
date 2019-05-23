@@ -5,7 +5,7 @@ author: thexpatmagazine
 type: post
 date: 2015-01-13T12:56:33+00:00
 url: /2015/europe/moving-gibraltar-need-know/
-featured_image: /wp-content/uploads/2015/01/Gibraltar-667x500.jpg
+featuredimage: /wp-content/uploads/2015/01/Gibraltar-667x500.jpg
 sbg_selected_sidebar:
   - 'a:1:{i:0;s:1:"0";}'
 sbg_selected_sidebar_replacement:
