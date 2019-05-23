@@ -6,6 +6,7 @@ import MediaQuery from 'react-responsive';
 import logo from '../img/logo.svg';
 import mobileNavToggler from '../img/mobile-nav-toggle.svg';
 import MobileNavigation from './MobileNavigation';
+import DesktopNav from './DesktopNav';
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -40,7 +41,7 @@ const Navbar = class extends React.Component {
   render() {
     return (
       <Header>
-        <Link to='/'>
+        <Link className='logo' to='/'>
           <img src={logo} alt={'The Expat Magazine'} />
         </Link>
         <MediaQuery query='(max-device-width: 1024px)'>
@@ -54,6 +55,9 @@ const Navbar = class extends React.Component {
             active={this.state.active}
             toggleState={this.toggleHamburger}
           />
+        </MediaQuery>
+        <MediaQuery query='(min-device-width: 1025px)'>
+          <DesktopNav />
         </MediaQuery>
       </Header>
     );

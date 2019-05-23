@@ -24,3 +24,9 @@
   align-items: center;
   margin-left: auto;
 }
+
+@media screen and (min-width: 1025px) {
+  .main-header {
+    display: flex;
+  }
+}

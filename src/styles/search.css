@@ -13,6 +13,7 @@
   position: relative;
   height: 48px;
   width: 100%;
+  max-width: 600px;
   animation-delay: 0.5s;
   animation-fill-mode: forwards;
   animation-name: search;
