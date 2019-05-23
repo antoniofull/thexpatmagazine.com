@@ -1,9 +1,18 @@
 import React from 'react';
 import { Link, graphql, StaticQuery } from 'gatsby';
+import PreviewCompatibleImage from './PreviewCompatibleImage';
 
 const FeaturedPosts = ({ data, count }) => (
   <section className='featured-posts'>
-    {data.allMarkdownRemark.edges[0].node.frontmatter.featuredimage}
+    {data.allMarkdownRemark.edges[0].node.frontmatter.title}
+    <PreviewCompatibleImage
+      imageInfo={{
+        image: data.allMarkdownRemark.edges[0].node.frontmatter.featuredimage,
+        alt: `featured image thumbnail for post ${
+          data.allMarkdownRemark.edges[0].node.frontmatter.title
+        }`
+      }}
+    />
   </section>
 );
 
