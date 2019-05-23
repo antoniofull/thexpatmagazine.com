@@ -39,7 +39,9 @@ const DesktopNav = ({ active }) => {
         className='search-toggle-desktop'
         onClick={() => setSearchState(!isSearchOpen)}
       >
-        <SearchIcon className='search-icon' />
+        <SearchIcon
+          className={`search-icon ${isSearchOpen && 'search-icon--open'}`}
+        />
       </button>
       {isSearchOpen && <SearchForm />}
     </React.Fragment>
