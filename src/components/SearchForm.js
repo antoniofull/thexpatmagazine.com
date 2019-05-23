@@ -1,5 +1,5 @@
 import React from 'react';
-import searchIcon from '../img/icon-search.svg';
+import SearchIcon from '../img/icon-search.svg';
 import '../styles/search.css';
 
 const SearchForm = () => (
@@ -11,11 +11,9 @@ const SearchForm = () => (
       placeholder='Type and hit enter'
       className='search__input'
     />
-    <button
-      type='submit'
-      className='btn--search'
-      style={{ backgroundImage: `url(${searchIcon})` }}
-    />
+    <button type='submit' className='btn--search'>
+      <SearchIcon />
+    </button>
   </form>
 );
 

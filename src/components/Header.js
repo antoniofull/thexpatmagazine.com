@@ -4,7 +4,7 @@ import '../styles/header.css';
 
 const Header = ({ children }) => (
   <header className='main-header' role='banner'>
-    {children}
+    <div className='main-header__container'>{children}</div>
   </header>
 );
 

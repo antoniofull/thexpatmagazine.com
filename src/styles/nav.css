@@ -80,7 +80,7 @@
 @media screen and (min-width: 1025px) {
   .main-nav__list {
     display: flex;
-    align-content: center;
+    align-items: center;
     justify-content: space-between;
     height: 100%;
   }
@@ -88,7 +88,8 @@
   .main-nav {
     margin-top: 0;
     flex: 1;
-    margin-left: var(--margin-xl);
+    max-width: 700px;
+    margin-left: auto;
   }
 
   .main-nav__item {
@@ -99,5 +100,12 @@
     text-decoration: none;
     text-transform: uppercase;
     color: var(--color-text-primary);
+  }
+  .search-toggle-desktop {
+    cursor: pointer;
+  }
+  .search-icon {
+    margin-left: var(--margin-xl);
+    display: block;
   }
 }

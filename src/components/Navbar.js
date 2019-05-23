@@ -3,8 +3,8 @@ import Header from './Header';
 import { Link } from 'gatsby';
 import MediaQuery from 'react-responsive';
 
-import logo from '../img/logo.svg';
-import mobileNavToggler from '../img/mobile-nav-toggle.svg';
+import Logo from '../img/logo.svg';
+import MobileNavToggler from '../img/mobile-nav-toggle.svg';
 import MobileNavigation from './MobileNavigation';
 import DesktopNav from './DesktopNav';
 
@@ -42,13 +42,13 @@ const Navbar = class extends React.Component {
     return (
       <Header>
         <Link className='logo' to='/'>
-          <img src={logo} alt={'The Expat Magazine'} />
+          <Logo alt={'The Expat Magazine'} />
         </Link>
         <MediaQuery query='(max-device-width: 1024px)'>
           <div className='mobile-toggle' onClick={this.toggleHamburger}>
             <span>MENU</span>
             <button type='button' className='wf-montserrat btn-link'>
-              <img alt='toggle mobile navigation' src={mobileNavToggler} />
+              <MobileNavToggler />
             </button>
           </div>
           <MobileNavigation

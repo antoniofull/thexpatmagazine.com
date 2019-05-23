@@ -1,8 +1,12 @@
 .main-header {
-  padding: var(--padding);
-  display: flex;
   height: 80px;
   position: relative;
+}
+.main-header__container {
+  width: 100%;
+  height: 100%;
+  padding: var(--padding);
+  display: flex;
 }
 
 .main-header:after {
@@ -28,5 +32,9 @@
 @media screen and (min-width: 1025px) {
   .main-header {
     display: flex;
+  }
+  .main-header__container {
+    max-width: 1280px;
+    margin: 0 auto;
   }
 }
