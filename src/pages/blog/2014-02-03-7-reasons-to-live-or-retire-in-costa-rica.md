@@ -1,22 +1,20 @@
 ---
 templateKey: blog-post
 title: 7 reasons to live (or retire) in Costa Rica
-author: thexpatmagazine
-type: post
-date: 2014-02-03T11:36:00+00:00
-featuredpost: false
-featuredimage: /img/Costa_Rica_VolcanoParrot_0.jpg
-categories:
-  - America
-  - Costa Rica
+date: 2014-02-03T11:36:00.000Z
+description: >-
+  Costa Rica is a tropical-paradise in the Central America, surrounded by
+  beautiful lands that will leave you breathless.
+featuredpost: true
+featuredimage: /img/costa_rica_volcanoparrot_0.jpg
 tags:
   - cheap
   - costa rica
   - healthy life
   - reasons to live
+category: Destinations
 ---
-
-<img class="size-medium wp-image-50 alignleft" style="line-height: 1.5em;" alt="Costa Rica" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/02/Costa_Rica_VolcanoParrot_0-300x240.jpg" width="300" height="240" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/02/Costa_Rica_VolcanoParrot_0-300x240.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/02/Costa_Rica_VolcanoParrot_0.jpg 366w" sizes="(max-width: 300px) 100vw, 300px" />**Costa Rica** is a tropical-paradise in the **Central America**, surrounded by beautiful lands that will leave you breathless. <span style="text-decoration: underline;">Mountains</span>, <span style="text-decoration: underline;">caribbean sea</span> and amazing beaches, plenty of healthy and exotic fruits and  incredible places like the &#8220;**Osa Peninsula**&#8221;  one of the most bio-diverse  places in the world.
+**Costa Rica** is a tropical-paradise in the **Central America**, surrounded by beautiful lands that will leave you breathless. <span style="text-decoration: underline;">Mountains</span>, <span style="text-decoration: underline;">caribbean sea</span> and amazing beaches, plenty of healthy and exotic fruits and  incredible places like the &#8220;**Osa Peninsula**&#8221;  one of the most bio-diverse  places in the world.
 
 **Life is cheap** and people are among the **happiest in the** world. Is one of the most democratic country in Latin America and has no army since 1948.
 
