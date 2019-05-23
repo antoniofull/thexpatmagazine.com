@@ -61,6 +61,9 @@
   .search {
     animation-delay: 0.2s;
     box-shadow: 0px 4px 8px -3px rgba(17, 17, 17, 0.06);
+    border: 1px solid var(--border-color);
+    left: 50%;
+    transform: translateX(-50%);
   }
 
   .search-form {
@@ -71,7 +74,7 @@
     right: var(--margin-xl);
     z-index: 1000;
     border-radius: var(--border-radius);
-    max-width: 1280px;
+    max-width: 960px;
   }
 
   .search__input {

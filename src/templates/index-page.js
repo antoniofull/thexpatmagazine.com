@@ -3,6 +3,8 @@ import PropTypes from 'prop-types';
 
 import Layout from '../components/Layout';
 import BlogRoll from '../components/BlogRoll';
+import FeaturedPosts from '../components/FeaturedPosts';
+
 import '../styles/variables.css';
 import '../styles/reset.css';
 import '../styles/typography.css';
@@ -10,11 +12,13 @@ import '../styles/typography.css';
 const IndexPage = () => {
   return (
     <Layout>
-      <section className='section'>
+      <main className='home'>
         <div className='container'>
-          <div className='content'>{<BlogRoll />}</div>
+          <div className='content'>
+            <FeaturedPosts />
+          </div>
         </div>
-      </section>
+      </main>
     </Layout>
   );
 };

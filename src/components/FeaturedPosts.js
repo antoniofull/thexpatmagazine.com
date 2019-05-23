@@ -3,7 +3,7 @@ import { Link, graphql, StaticQuery } from 'gatsby';
 
 const FeaturedPosts = ({ data, count }) => (
   <section className='featured-posts'>
-    {data.allMarkdownRemark.edges[0].node.frontmatter.title}
+    {data.allMarkdownRemark.edges[0].node.frontmatter.featuredimage}
   </section>
 );
 
@@ -29,7 +29,7 @@ export default () => (
                 featuredpost
                 featuredimage {
                   childImageSharp {
-                    fluid(maxWidth: 120, quality: 100) {
+                    fluid(maxWidth: 1200, quality: 100) {
                       ...GatsbyImageSharpFluid
                     }
                   }
