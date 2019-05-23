@@ -12,7 +12,7 @@ const IndexPage = () => {
     <Layout>
       <section className='section'>
         <div className='container'>
-          <div className='content'>{/* <BlogRoll /> */}</div>
+          <div className='content'>{<BlogRoll />}</div>
         </div>
       </section>
     </Layout>

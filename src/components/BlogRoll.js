@@ -2,6 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { Link, graphql, StaticQuery } from 'gatsby';
 import PreviewCompatibleImage from './PreviewCompatibleImage';
+import FeaturedPosts from './FeaturedPosts';
 
 class BlogRoll extends React.Component {
   render() {
@@ -10,6 +11,7 @@ class BlogRoll extends React.Component {
 
     return (
       <div className=''>
+        <FeaturedPosts />
         {posts &&
           posts.map(({ node: post }) => (
             <div className='' key={post.id}>
