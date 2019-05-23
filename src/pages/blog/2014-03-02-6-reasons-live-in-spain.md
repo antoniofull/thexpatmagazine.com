@@ -1,0 +1,74 @@
+---
+templateKey: blog-post
+title: 6 reasons to live in Spain
+author: thexpatmagazine
+type: post
+date: 2014-03-02T18:40:11+00:00
+url: /2014/europe/6-reasons-live-in-spain/
+featured_image: /wp-content/uploads/2014/03/corrida_san_fermin.jpg
+sbg_selected_sidebar:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_replacement:
+  - 'a:1:{i:0;s:1:"0";}'
+bd_video_type:
+  - youtube
+bd_post_background_color:
+  - '#'
+bd_post_background_repeat:
+  - repeat
+bd_post_background_attachment:
+  - scroll
+bd_post_background_x:
+  - center
+bd_post_background_y:
+  - center
+bd_review_type:
+  - stars
+bd_criteria_display:
+  - t
+rop_post_url_twitter:
+  - 'http://localhost/thexpatmagazine-wp/2014/europe/6-reasons-live-in-spain/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
+et_enqueued_post_fonts:
+  - 'a:2:{s:6:"family";a:0:{}s:6:"subset";a:2:{i:0;s:5:"latin";i:1;s:9:"latin-ext";}}'
+categories:
+  - Europe
+  - Spain
+tags:
+  - barcelona
+  - madrid
+  - spain
+---
+
+**Spain** is a mediterranean country in the south of **Europe** and is one of the country hit by the crisis. Now is slowly recovering, however being a cheap country with a nice weather almost all the year and fabulous people is easy for many expats fall in love for this country.  I&#8217;ve collected my list of the most important reasons to **live in Spain**.<!--more-->
+
+[<img class="alignnone size-medium wp-image-97" alt="live spain" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/03/corrida_san_fermin-300x191.jpg" width="300" height="191" />][1]
+
+1 &#8211; **The people.**
+
+Really, spanish people are awesome. Always smiling and ready for &#8220;fiesta&#8221; they are often in a good mood. It&#8217;s easy to enter in a bar and start talking with someone and even more easy in the big cities like Madrid or Barcelona. I notice this his also influence on many expats and making friendship in Spain is easy 🙂
+
+2 &#8211; **The Weather**
+
+I have a friend in Chicago, few weeks ago was -50C. Scary, right now in Sevilla is 17C. 🙂 Weather is one of the &#8220;perks&#8217; of Spain, hot during summer and not so cold during winter. If you live in the South you can forget about heavy coats and scarf and gloves, yeah! Madrid as in the internal has a more &#8220;international&#8221; weather so you might want to consider Barcelona as is also near by the sea.
+
+3 &#8211; **Is cheap.**
+
+Despite the crisis Spain is still a **cheap country**. Madrid is in average less expensive that many other European cities and the south is even more cheaper. Renting a room costs around 200 euros. Of course the job situation is not good and be aware that the salary in Spain are also &#8220;cheap&#8221;, they are called &#8220;mileurista&#8221;.
+
+4 &#8211; **Sea, Mountain, History**.
+
+Like all the European countries Spain offers a lot of things to do and to see, with a lot of history. Barcelona is a mix of modern and antique art with some of the most beautiful building of Spain. Same goes for Madrid and his beautiful districts full of  multicultural history. But Spain is not only Madrid and Barcelona, from Sevilla to Malaga or Granada, there is really a lot to see and to do, and if you like snow you can still go to Andorras 🙂
+
+5 &#8211; **Is a good investment for retire**.
+
+If you are planning to retire in a different country than you live, so why not consider Spain? Buying an house is cheaper than other countries, living is also cheap  compared with countries like Netherlands or Norway, and this is the reason why many of north european come to Spain for their retirement.
+
+6 &#8211; **Food, incredible good food**.
+
+If you never tried Spanish food, you must! They have a lot of different types of food and, like Italy, they are different from region to region but is all good! Did you know that the best restaurant in the world was <a href="http://en.wikipedia.org/wiki/ElBulli" target="_blank">spanish</a>? Paella, tapas, pulpo á galeg, tortillas, so much goodness you will not regret!
+
+Do you live in Spain? What do you think? Let us know in the comments.
+
+Foto <a href="http://sunshineandsiestas.com/2013/07/09/uno-de-enero-dos-de-febrero-experiencing-the-san-fermines-festival-of-pamplona/" target="_blank">credit</a>.
+
+[1]: http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/03/corrida_san_fermin.jpg
