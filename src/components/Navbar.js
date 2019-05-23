@@ -44,7 +44,7 @@ const Navbar = class extends React.Component {
         <Link className='logo' to='/'>
           <Logo alt={'The Expat Magazine'} />
         </Link>
-        <MediaQuery query='(max-device-width: 1024px)'>
+        <MediaQuery query='(max-width: 1024px)'>
           <div className='mobile-toggle' onClick={this.toggleHamburger}>
             <span>MENU</span>
             <button type='button' className='wf-montserrat btn-link'>
@@ -56,7 +56,7 @@ const Navbar = class extends React.Component {
             toggleState={this.toggleHamburger}
           />
         </MediaQuery>
-        <MediaQuery query='(min-device-width: 1025px)'>
+        <MediaQuery query='(min-width: 1025px)'>
           <DesktopNav />
         </MediaQuery>
       </Header>
