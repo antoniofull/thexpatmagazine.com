@@ -23,53 +23,40 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'text' }
-      - { label: 'Featured Post', name: 'featuredpost', widget: 'boolean' }
+      - {
+          label: 'Featured Post',
+          name: 'featuredpost',
+          widget: 'boolean',
+          required: false,
+        }
       - { label: 'Featured Image', name: 'featuredimage', widget: image }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Tags', name: 'tags', widget: 'list' }
-      - {
-          label: 'country',
-          name: 'country',
-          widget: 'relation',
-          collection: 'country',
-          searchFields: ['title'],
-          displayFields: ['title'],
-          required: false,
-        }
+      - label: 'Country'
+        name: 'country'
+        widget: 'relation'
+        collection: 'country'
+        searchFields: ['title']
+        valueField: 'title'
+        required: false
+        displayFields: ['title']
+
       - label: 'Author'
         name: 'author'
         widget: 'relation'
         collection: 'authors'
-        searchFields: ['name', 'facebook']
+        searchFields: ['name']
         valueField: 'title'
-        displayFields:
-          [
-            'name',
-            'photo',
-            'bio',
-            'instagram',
-            'facebook',
-            'twitter',
-            'pinterest',
-          ]
+        displayFields: ['title']
 
       - label: 'Guest Author'
         name: 'guest-author'
         widget: 'relation'
         collection: 'guest-authors'
         searchFields: ['name', 'instagram']
-        valueField: 'name'
+        valueField: 'title'
         required: false
-        displayFields:
-          [
-            'name',
-            'photo',
-            'bio',
-            'instagram',
-            'facebook',
-            'twitter',
-            'pinterest',
-          ]
+        displayFields: ['title']
 
   - name: 'country'
     label: 'Country'
