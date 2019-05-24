@@ -12,7 +12,7 @@ laurel_meta_fullimage_height:
   - 660
 mashsb_twitter_handle:
   - thexpatmagazine
-categories:
+category:
   - Expat
   - Inspiration
 tags:

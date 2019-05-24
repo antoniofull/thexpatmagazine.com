@@ -8,7 +8,7 @@ url: /2014/europe/switzerland-immigration/
 featuredimage: /wp-content/uploads/2014/03/border-switzerland-750x500.jpg
 reltwitter:
   - 'https://localhost/thexpatmagazine-wp/2014/europe/switzerland-immigration/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-categories:
+category:
   - Europe
   - Switzerland
 tags:

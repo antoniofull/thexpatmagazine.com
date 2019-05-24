@@ -6,7 +6,7 @@ type: post
 date: 2014-12-30T12:58:19.000Z
 url: /2014/europe/7-reasons-live-milan/
 featuredimage: /wp-content/uploads/2014/12/14971250168_1f99afda24_z-606x500.jpg
-categories:
+category:
   - Europe
   - Italy
 tags:

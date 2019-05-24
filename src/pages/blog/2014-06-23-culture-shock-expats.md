@@ -9,7 +9,7 @@ featuredimage: /wp-content/uploads/2014/06/culture-667x500.jpg
 reltwitter:
   - 'https://localhost/thexpatmagazine-wp/2014/expat-life/culture-shock-expats/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
 
-categories:
+category:
   - Expat
 tags:
   - culture shock

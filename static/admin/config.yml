@@ -28,12 +28,60 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Tags', name: 'tags', widget: 'list' }
       - { label: 'Category', name: 'category', widget: 'string' }
+      - label: 'Author'
+        name: 'author'
+        widget: 'relation'
+        collection: 'authors'
+        searchFields: ['name', 'facebook']
+        valueField: 'name'
+        displayFields:
+          [
+            'name',
+            'photo',
+            'bio',
+            'instagram',
+            'facebook',
+            'twitter',
+            'pinterest',
+          ]
 
-  - name: 'categories'
-    label: 'Categories'
-    folder: 'src/pages/categories'
+      - label: 'Guest Author'
+        name: 'guest-author'
+        widget: 'relation'
+        collection: 'guest-authors'
+        searchFields: ['name', 'instagram']
+        valueField: 'name'
+        displayFields:
+          [
+            'name',
+            'photo',
+            'bio',
+            'instagram',
+            'facebook',
+            'twitter',
+            'pinterest',
+          ]
+
+  - name: 'destinations'
+    label: 'Destinations'
+    folder: 'src/pages/destinations'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: 'destinations/{{slug}}'
+    fields:
+      - {
+          label: 'Template Key',
+          name: 'templateKey',
+          widget: 'hidden',
+          default: 'blog-post',
+        }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'text' }
+
+  - name: 'tags'
+    label: 'Tag'
+    folder: 'src/pages/tags'
+    create: true
+    slug: '/tags/{{slug}}'
     fields:
       - {
           label: 'Template Key',
@@ -56,10 +104,48 @@ collections:
           widget: 'hidden',
           default: 'blog-post',
         }
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Bio', name: 'bio', widget: 'text' }
+      - { label: 'Name', name: 'name', widget: 'string' }
+      - { label: 'Bio (In Markdown)', name: 'bio', widget: 'markdown' }
       - { label: 'Photo', name: 'Photo', widget: image }
-      - { label: 'Link', name: 'link', widget: 'string' }
+      - {
+          label: 'Instagram',
+          name: 'instagram',
+          widget: 'string',
+          required: false,
+        }
+      - { label: 'Twitter', name: 'twitter', widget: 'string', required: false }
+      - {
+          label: 'Pinterest',
+          name: 'pinterest',
+          widget: 'string',
+          required: false,
+        }
+      - {
+          label: 'Facebook',
+          name: 'facebook',
+          widget: 'string',
+          required: false,
+        }
+
+  - name: 'guest-authors'
+    label: 'Guest Authors'
+    folder: 'src/pages/guest-authors'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+      - {
+          label: 'Template Key',
+          name: 'templateKey',
+          widget: 'hidden',
+          default: 'blog-post',
+        }
+      - { label: 'Name', name: 'name', widget: 'string' }
+      - { label: 'Bio (In Markdown)', name: 'bio', widget: 'markdown' }
+      - { label: 'Photo', name: 'Photo', widget: image }
+      - { label: 'Instagram', name: 'instagram', widget: 'string' }
+      - { label: 'Twitter', name: 'twitter', widget: 'string' }
+      - { label: 'Pinterest', name: 'pinterest', widget: 'string' }
+      - { label: 'Facebook', name: 'facebook', widget: 'string' }
 
   - name: 'pages'
     label: 'Pages'

@@ -7,7 +7,7 @@ date: 2014-03-02T18:40:11.000Z
 url: /2014/europe/6-reasons-live-in-spain/
 featuredimage: /wp-content/uploads/2014/03/corrida_san_fermin.jpg
 
-categories:
+category:
   - Europe
   - Spain
 tags:

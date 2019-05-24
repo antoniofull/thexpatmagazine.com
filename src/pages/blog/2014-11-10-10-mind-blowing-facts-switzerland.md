@@ -6,7 +6,7 @@ type: post
 date: 2014-11-10T17:12:06.000Z
 url: /2014/europe/10-mind-blowing-facts-switzerland/
 featuredimage: /wp-content/uploads/2014/09/Toblerone-line-Gland-727x500.jpg
-categories:
+category:
   - Europe
   - Switzerland
 tags:

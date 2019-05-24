@@ -6,7 +6,7 @@ type: post
 date: 2017-09-11T12:42:14.000Z
 url: /2017/europe/best-country-world-quality-life/
 featuredimage: /wp-content/uploads/2017/09/tram-2650096_1920-952x500.jpg
-categories:
+category:
   - Europe
   - Portugal
 tags:

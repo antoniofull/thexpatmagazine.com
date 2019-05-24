@@ -8,7 +8,7 @@ url: /2015/travel/outbound-app-social-network-travellers/
 featuredimage: /wp-content/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11.png
 reltwitter:
   - 'https://localhost/thexpatmagazine-wp/2015/travel/outbound-app-social-network-travellers/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-categories:
+category:
   - Travel
 tags:
   - app

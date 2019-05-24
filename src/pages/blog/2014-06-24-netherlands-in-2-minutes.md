@@ -8,7 +8,7 @@ url: /2014/europe/netherlands-in-2-minutes/
 featuredimage: /wp-content/uploads/2014/06/Screen-Shot-2014-06-24-at-08.49.33.png
 reltwitter:
   - 'https://localhost/thexpatmagazine-wp/2014/europe/netherlands-in-2-minutes/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-categories:
+category:
   - Europe
   - Netherlands
 tags:
