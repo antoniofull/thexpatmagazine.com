@@ -5,7 +5,7 @@ author: thexpatmagazine
 type: post
 date: 2019-02-05T17:31:23.000Z
 url: /2019/europe/italy/life-in-italy/
-featured_image: /wp-content/uploads/2019/02/la-so-512424-unsplash-1-1.jpg
+featuredimage: /wp-content/uploads/2019/02/la-so-512424-unsplash-1-1.jpg
 laurel_meta_post_layout:
   - customizer
 laurel_meta_fullimage_height:

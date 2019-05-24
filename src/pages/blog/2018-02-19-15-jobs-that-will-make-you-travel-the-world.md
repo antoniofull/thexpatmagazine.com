@@ -5,9 +5,7 @@ author: Lorena
 type: post
 date: 2018-02-19T09:15:40.000Z
 url: /2018/travel-inspiration/15-jobs-that-will-make-you-travel-the-world/
-featured_image: /wp-content/uploads/2018/02/hiking-1246836_1920.jpg
-et_enqueued_post_fonts:
-  - 'a:2:{s:6:"family";a:0:{}s:6:"subset";a:2:{i:0;s:5:"latin";i:1;s:9:"latin-ext";}}'
+featuredimage: /wp-content/uploads/2018/02/hiking-1246836_1920.jpg
 categories:
   - Inspiration
 tags:
@@ -21,7 +19,7 @@ tags:
 
 Guess what? It is possible, and here&#8217;s a list of 15 opportunities you might want to look for.
 
-<img class="aligncenter size-full wp-image-725" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/02/hiking-1246836_1920.jpg" alt="" width="1920" height="1081" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/02/hiking-1246836_1920.jpg 1200w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/02/hiking-1246836_1920-300x169.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/02/hiking-1246836_1920-768x432.jpg 768w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/02/hiking-1246836_1920-1024x577.jpg 1024w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/02/hiking-1246836_1920-1080x608.jpg 1080w" sizes="(max-width: 1920px) 100vw, 1920px" />
+<img class="aligncenter size-full wp-image-725" src="/img/uploads/2018/02/hiking-1246836_1920.jpg" alt="" width="1920" height="1081" srcset="/img/uploads/2018/02/hiking-1246836_1920.jpg 1200w, /img/uploads/2018/02/hiking-1246836_1920-300x169.jpg 300w, /img/uploads/2018/02/hiking-1246836_1920-768x432.jpg 768w, /img/uploads/2018/02/hiking-1246836_1920-1024x577.jpg 1024w, /img/uploads/2018/02/hiking-1246836_1920-1080x608.jpg 1080w" sizes="(max-width: 1920px) 100vw, 1920px" />
 
 #### **Bartending.**
 

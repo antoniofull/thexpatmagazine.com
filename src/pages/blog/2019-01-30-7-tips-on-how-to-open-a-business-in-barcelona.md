@@ -5,7 +5,7 @@ author: thexpatmagazine
 type: post
 date: 2019-01-30T10:18:47.000Z
 url: /2019/europe/spain/7-tips-on-how-to-open-a-business-in-barcelona/
-featured_image: /wp-content/uploads/2019/01/javier-bosch-544159-unsplash.jpg
+featuredimage: /wp-content/uploads/2019/01/javier-bosch-544159-unsplash.jpg
 laurel_meta_post_layout:
   - customizer
 laurel_meta_fullimage_height:
@@ -52,7 +52,7 @@ It can be expensive no matter which option you choose.  A licence for a decent 
 
 To open whatever type of shop; veg shop, clothes shop, jewellers etc, you won&#8217;t have to go through nearly as much administration as you do for a bar or restaurant.  You likely won&#8217;t need to think so much about things such as sound-proofing and strict fire-coding.  Additionally, the city council is unlikely to demand a project licence for activities.  It could be as simple as providing the right data, completing the documents and having the plans for your shop prepared.
 
-<img class="aligncenter size-large wp-image-1181" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/01/richard-balog-647377-unsplash-1024x682.jpg" alt="" width="1024" height="682" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/01/richard-balog-647377-unsplash-1024x682.jpg 1024w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/01/richard-balog-647377-unsplash-300x200.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/01/richard-balog-647377-unsplash-768x512.jpg 768w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/01/richard-balog-647377-unsplash-1150x766.jpg 1150w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/01/richard-balog-647377-unsplash.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img class="aligncenter size-large wp-image-1181" src="/img/uploads/2019/01/richard-balog-647377-unsplash-1024x682.jpg" alt="" width="1024" height="682" srcset="/img/uploads/2019/01/richard-balog-647377-unsplash-1024x682.jpg 1024w, /img/uploads/2019/01/richard-balog-647377-unsplash-300x200.jpg 300w, /img/uploads/2019/01/richard-balog-647377-unsplash-768x512.jpg 768w, /img/uploads/2019/01/richard-balog-647377-unsplash-1150x766.jpg 1150w, /img/uploads/2019/01/richard-balog-647377-unsplash.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 <ol start="5">
   <li>
@@ -78,7 +78,7 @@ It is important to find the premises you are interested in and then take an engi
 
 You are about to spend and risk a lot of money pursuing a new venture.  Make sure you are working with a local company you can trust. There are many local expats groups who can offer impartial advice, but the best way is to meet with local companies and see who you feel best understands what you are looking to do.  The service we offer, for example, can be end-to-end and we can often drive down prices to deliver and manage the whole project rather than divide it into parts.  It also means you have one point of contact and accountability and you don&#8217;t have to deal with several suppliers.  We would recommend a project management service, in general, to make the process easier.
 
-<img class="alignleft size-medium wp-image-1239" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/01/gobai-300x81.jpeg" alt="" width="300" height="81" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/01/gobai-300x81.jpeg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/01/gobai.jpeg 607w" sizes="(max-width: 300px) 100vw, 300px" />
+<img class="alignleft size-medium wp-image-1239" src="/img/uploads/2019/01/gobai-300x81.jpeg" alt="" width="300" height="81" srcset="/img/uploads/2019/01/gobai-300x81.jpeg 300w, /img/uploads/2019/01/gobai.jpeg 607w" sizes="(max-width: 300px) 100vw, 300px" />
 
 &nbsp;
 
@@ -88,6 +88,6 @@ You are about to spend and risk a lot of money pursuing a new venture.  Make su
 
 For enquiries about starting a business in Barcelona, **GOBAI Group** can offer a free consultation and initial proposal.
 
-Contact: info@gobaigroup.com. Tel. 930 25 86 04   <span lang="ES"><span lang="EN-GB"><a href="http://www.gobaigroup.com/" target="_blank" rel="noopener">www.gobaigroup.com</a> </span></span>
+Contact: info@gobaigroup.com. Tel. 930 25 86 04   <span lang="ES"><span lang="EN-GB"><a href="https://www.gobaigroup.com/" target="_blank" rel="noopener">www.gobaigroup.com</a> </span></span>
 
-[1]: http://localhost/thexpatmagazine-wp/2014/europe/27-reasons-barcelona-best-city-world/
+[1]: https://localhost/thexpatmagazine-wp/2014/europe/27-reasons-barcelona-best-city-world/

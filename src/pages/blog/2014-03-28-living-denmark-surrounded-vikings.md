@@ -5,37 +5,9 @@ author: thexpatmagazine
 type: post
 date: 2014-03-28T06:27:58.000Z
 url: /2014/europe/living-denmark-surrounded-vikings/
-featured_image: /wp-content/uploads/2014/03/Copenhagen-Nyhavn1-753x500.jpg
-kd_featured-image-2_post_id:
-  - 146
-kd_featured-image-3_post_id:
-  - 146
-kd_featured-image-4_post_id:
-  - 146
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
-bd_video_type:
-  - youtube
-bd_post_background_color:
-  - '#'
-bd_post_background_repeat:
-  - repeat
-bd_post_background_attachment:
-  - scroll
-bd_post_background_x:
-  - center
-bd_post_background_y:
-  - center
-bd_review_type:
-  - stars
-bd_criteria_display:
-  - t
-rop_post_url_twitter:
-  - 'http://localhost/thexpatmagazine-wp/2014/europe/living-denmark-surrounded-vikings/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-et_enqueued_post_fonts:
-  - 'a:2:{s:6:"family";a:2:{s:15:"et-gf-quicksand";s:29:"Quicksand:300,regular,500,700";s:10:"et-gf-lato";s:75:"Lato:100,100italic,300,300italic,regular,italic,700,700italic,900,900italic";}s:6:"subset";a:2:{i:0;s:5:"latin";i:1;s:9:"latin-ext";}}'
+featuredimage: /wp-content/uploads/2014/03/Copenhagen-Nyhavn1-753x500.jpg
+reltwitter:
+  - 'https://localhost/thexpatmagazine-wp/2014/europe/living-denmark-surrounded-vikings/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
 categories:
   - America
   - Denmark
@@ -52,7 +24,7 @@ tags:
 
 <span style="color: #555555;"><span style="font-family: 'Times New Roman', serif;"><span style="font-size: medium;">Leaving your beloved, the home where you grew up, the smells and horizons which you&#8217;ve been always got use to, for going to Denmark was not easy, but the bravery in choosing what kind of live&#8217;s path, can make the difference.<!--more--></span></span></span>
 
-[<img alt="Expat denmark" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/03/Copenhagen-Nyhavn-1024x680.jpg" width="785" height="521" />][1]
+[<img alt="Expat denmark" src="/img/uploads/2014/03/Copenhagen-Nyhavn-1024x680.jpg" width="785" height="521" />[1]
 
 <span style="color: #555555;"><span style="font-family: 'Times New Roman', serif;"><span style="font-size: medium;">I remember perfectly when my Danish professor, under whose guidance I had my Erasmus Placement and the thesis for my master, asked me if I was interested in doing a Ph.D (Doctor of Philosophy) at the Aalborg University (AAU). It was the day before my graduation session, and from that moment on my mind was focus on something else&#8230;other than anxiety for the graduation! Too many questions without any answer, too many random variables, using a scientific terminology, and a lot of insecurity, but also a lot of awareness and joy for the great opportunity that I was given to.</span></span></span>
 
@@ -74,4 +46,4 @@ tags:
 
 <span style="color: #555555;"><span style="font-family: georgia, 'palatino linotype', palatino, 'times new roman', times, serif;"><span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: medium;">Lorenzo.</span></span><strong><span style="font-family: 'Times New Roman', serif;"><span style="font-size: medium;">  </span></span></strong></span></span></span>
 
-[1]: http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/03/Copenhagen-Nyhavn.jpg
+[1]: /img/uploads/2014/03/Copenhagen-Nyhavn.jpg

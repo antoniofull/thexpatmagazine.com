@@ -5,35 +5,9 @@ author: thexpatmagazine
 type: post
 date: 2015-01-18T10:01:34.000Z
 url: /2015/travel/outbound-app-social-network-travellers/
-featured_image: /wp-content/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11.png
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
-bd_video_type:
-  - youtube
-bd_post_background_color:
-  - '#'
-bd_post_background_repeat:
-  - repeat
-bd_post_background_attachment:
-  - scroll
-bd_post_background_x:
-  - center
-bd_post_background_y:
-  - center
-bd_review_type:
-  - stars
-bd_criteria_display:
-  - t
-yuzo_related_post_metabox:
-  - 'a:3:{s:17:"yuzo_include_post";s:0:"";s:17:"yuzo_exclude_post";s:0:"";s:21:"yuzo_disabled_related";N;}'
-meta_box_featured:
-  - off
-rop_post_url_twitter:
-  - 'http://localhost/thexpatmagazine-wp/2015/travel/outbound-app-social-network-travellers/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-et_enqueued_post_fonts:
-  - 'a:2:{s:6:"family";a:2:{s:15:"et-gf-quicksand";s:29:"Quicksand:300,regular,500,700";s:10:"et-gf-lato";s:75:"Lato:100,100italic,300,300italic,regular,italic,700,700italic,900,900italic";}s:6:"subset";a:2:{i:0;s:5:"latin";i:1;s:9:"latin-ext";}}'
+featuredimage: /wp-content/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11.png
+reltwitter:
+  - 'https://localhost/thexpatmagazine-wp/2015/travel/outbound-app-social-network-travellers/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
 categories:
   - Travel
 tags:
@@ -42,13 +16,13 @@ tags:
   - travel apps
 ---
 
-We had finally the opportunity to test the new app <a href="http://www.outboundapp.org" target="_blank">Outbound</a>, released just few days ago. I can say I was quite excited to give it a try as finally we can have a sort of social network dedicated only to travellers. (I&#8217;m personally not a big fan of Facebook) 🙂<!--more-->
+We had finally the opportunity to test the new app <a href="https://www.outboundapp.org" target="_blank">Outbound</a>, released just few days ago. I can say I was quite excited to give it a try as finally we can have a sort of social network dedicated only to travellers. (I&#8217;m personally not a big fan of Facebook)
 
 The app is for free and is downloadable from the _**app store**_ or _**Play Store**_ directly, just head to the main site and click on your favorite store to download it. I tried the iphone app.
 
 At the beginning the _registration takes a_ while, including loading the database for the first time. But this is a good sign as there are almost <span style="text-decoration: underline;"><strong><em>1 million of travellers</em></strong></span> registered.
 
-[<img class="alignnone size-large wp-image-410" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11-1024x318.png" alt="outbound" width="785" height="244" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11-1024x318.png 1024w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11-300x93.png 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11-768x239.png 768w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11.png 1223w" sizes="(max-width: 785px) 100vw, 785px" />][1]
+<img class="alignnone size-large wp-image-410" src="/img/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11-1024x318.png" alt="outbound" width="785" height="244" srcset="/img/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11-1024x318.png 1024w, /img/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11-300x93.png 300w, /img/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11-768x239.png 768w, /img/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11.png 1223w" sizes="(max-width: 785px) 100vw, 785px" />[1]
 
 After registering a new profile, I used the email option, but it&#8217;s possible to register with Facebook which should be faster, the app loads your profile page.
 
@@ -66,7 +40,7 @@ This is a very nice feature. Events are a very good way to socialise especially 
 
 The bottom menu, apart of events and profile page, presents also other features like explore,  search and noticeboard.
 
-[wp\_ad\_camp_1]
+
 
 ### Explore.
 
@@ -94,4 +68,4 @@ Did you try this app? Let us know what you think in the comments 😀
 
 &nbsp;
 
-[1]: http://localhost/thexpatmagazine-wp/wp-content/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11.png
+[1]: /img/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11.png

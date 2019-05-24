@@ -5,7 +5,7 @@ author: Rossella Davi
 type: post
 date: 2019-02-25T17:09:49.000Z
 url: /2019/europe/moving-overseas-everything-you-need-to-know/
-featured_image: /wp-content/uploads/2019/02/IMG_3634.jpg
+featuredimage: /wp-content/uploads/2019/02/IMG_3634.jpg
 laurel_meta_post_layout:
   - customizer
 laurel_meta_fullimage_height:
@@ -71,7 +71,7 @@ tags:
         </h4>
         
         <p>
-          Usually, no EU citizens don&#8217;t have immediately the chance to apply for a job. Even though, it really depends on the country you are looking at. <a href="http://localhost/thexpatmagazine-wp/2018/expat-life/top-5-countries-with-effortless-immigration-policies/?preview_id=1117&preview_nonce=e2aa07ae18&post_format=standard&_thumbnail_id=1120&preview=true">Here you can read about the top 5 countries with effortless immigration policies</a>. You will be required to have a working permit, a visa, and plenty of other fun bureaucratic paperwork. For my work permit, my job had to be posted to the <em><strong>entire </strong></em>EU (that is 28 countries for y’all who aren’t aware) for two weeks as a part of my application to prove that I was the only person who could do the job I have. It means that if you have to be chosen out of someone who has already the legal right to work there you need a &#8220;sponsor&#8221; &#8211; meaning a specific company to back you up.
+          Usually, no EU citizens don&#8217;t have immediately the chance to apply for a job. Even though, it really depends on the country you are looking at. <a href="https://localhost/thexpatmagazine-wp/2018/expat-life/top-5-countries-with-effortless-immigration-policies/?preview_id=1117&preview_nonce=e2aa07ae18&post_format=standard&_thumbnail_id=1120&preview=true">Here you can read about the top 5 countries with effortless immigration policies</a>. You will be required to have a working permit, a visa, and plenty of other fun bureaucratic paperwork. For my work permit, my job had to be posted to the <em><strong>entire </strong></em>EU (that is 28 countries for y’all who aren’t aware) for two weeks as a part of my application to prove that I was the only person who could do the job I have. It means that if you have to be chosen out of someone who has already the legal right to work there you need a &#8220;sponsor&#8221; &#8211; meaning a specific company to back you up.
         </p>
         
         <h4>

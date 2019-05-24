@@ -5,7 +5,7 @@ author: thexpatmagazine
 type: post
 date: 2019-04-10T19:11:56.000Z
 url: /2019/expat-life/a-guide-to-living-in-chiang-mai-for-expats-and-digital-nomads/
-featured_image: /wp-content/uploads/2019/04/doi-suthep-2377271_1280.jpg
+featuredimage: /wp-content/uploads/2019/04/doi-suthep-2377271_1280.jpg
 laurel_meta_post_layout:
   - customizer
 laurel_meta_fullimage_height:
@@ -25,7 +25,7 @@ tags:
 
 <span style="font-weight: 300;">Apart from its low cost of living Chiang Mai is compact and easy to get around as compared to the chaotic scenes experienced in Bangkok. You can escape to the lakes, waterfalls, and mountains surrounding Chiang Mai at a moments’ notice, a fact that explains why many tourists often end up staying longer than they had initially planned.</span>
 
-<img class="aligncenter size-large wp-image-1266" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/8085426946_78070e7725_k-1024x699.jpg" alt="" width="1024" height="699" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/8085426946_78070e7725_k-1024x699.jpg 1024w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/8085426946_78070e7725_k-300x205.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/8085426946_78070e7725_k-768x524.jpg 768w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/8085426946_78070e7725_k-1150x784.jpg 1150w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/8085426946_78070e7725_k.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img class="aligncenter size-large wp-image-1266" src="/img/uploads/2019/04/8085426946_78070e7725_k-1024x699.jpg" alt="" width="1024" height="699" srcset="/img/uploads/2019/04/8085426946_78070e7725_k-1024x699.jpg 1024w, /img/uploads/2019/04/8085426946_78070e7725_k-300x205.jpg 300w, /img/uploads/2019/04/8085426946_78070e7725_k-768x524.jpg 768w, /img/uploads/2019/04/8085426946_78070e7725_k-1150x784.jpg 1150w, /img/uploads/2019/04/8085426946_78070e7725_k.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 <span style="font-weight: 300;">Another important factor to point out is that Wifi is abundant while apartments are very easy-to-find. However, you will need to have a Chiang Mai city guide book with you if you do not want to end up getting lost during the first few days. If you are planning on moving to this region, the following are a few factors that you should know:</span>
 
@@ -43,7 +43,7 @@ tags:
 
 <span style="font-weight: 300;">July to October marks the start of the rainy season. This is considered to be one of the best times for you to visit the city. This is because there are fewer vacationers, the skyline is clear, and the vegetation is completely green. This is the best time to arrive and start your search for an accommodation before the high season begins.</span>
 
-<img class="aligncenter size-large wp-image-1267" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/45561792671_d0505dc986_k-1024x683.jpg" alt="" width="1024" height="683" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/45561792671_d0505dc986_k-1024x683.jpg 1024w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/45561792671_d0505dc986_k-300x200.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/45561792671_d0505dc986_k-768x512.jpg 768w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/45561792671_d0505dc986_k-1150x767.jpg 1150w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/45561792671_d0505dc986_k.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img class="aligncenter size-large wp-image-1267" src="/img/uploads/2019/04/45561792671_d0505dc986_k-1024x683.jpg" alt="" width="1024" height="683" srcset="/img/uploads/2019/04/45561792671_d0505dc986_k-1024x683.jpg 1024w, /img/uploads/2019/04/45561792671_d0505dc986_k-300x200.jpg 300w, /img/uploads/2019/04/45561792671_d0505dc986_k-768x512.jpg 768w, /img/uploads/2019/04/45561792671_d0505dc986_k-1150x767.jpg 1150w, /img/uploads/2019/04/45561792671_d0505dc986_k.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 ## **Money**
 
@@ -71,14 +71,14 @@ tags:
 
 <span style="font-weight: 300;"><span>As a life of a digital nomad and years of writing experience, Maryn Mcdonnell is a travel writer who loves exploring the world and shares her travel experiences with other passionate travellers out there. Find Maryn on Twitter </span><a href="https://twitter.com/MarynMcdonnell?lang=en"><span>@MarynMcdonnell</span></a></span>
 
-<img class="aligncenter size-thumbnail wp-image-1271" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/maryn-mcdonnell-image-150x150.jpg" alt="" width="150" height="150" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/maryn-mcdonnell-image-150x150.jpg 150w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/maryn-mcdonnell-image-300x300.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/maryn-mcdonnell-image-768x768.jpg 768w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/maryn-mcdonnell-image.jpg 960w" sizes="(max-width: 150px) 100vw, 150px" />
+<img class="aligncenter size-thumbnail wp-image-1271" src="/img/uploads/2019/04/maryn-mcdonnell-image-150x150.jpg" alt="" width="150" height="150" srcset="/img/uploads/2019/04/maryn-mcdonnell-image-150x150.jpg 150w, /img/uploads/2019/04/maryn-mcdonnell-image-300x300.jpg 300w, /img/uploads/2019/04/maryn-mcdonnell-image-768x768.jpg 768w, /img/uploads/2019/04/maryn-mcdonnell-image.jpg 960w" sizes="(max-width: 150px) 100vw, 150px" />
 
 &nbsp;
 
 &nbsp;
 
 [1]: https://wikitravel.org/en/Northern_Thailand
-[2]: http://www.chiangmaicitylife.com/news/new-visa-rules-explained/
+[2]: https://www.chiangmaicitylife.com/news/new-visa-rules-explained/
 [3]: https://seetefl.com/teaching-jobs-in-chiang-mai/
-[4]: http://localhost/thexpatmagazine-wp/2018/expat-life/tips-expats/
+[4]: https://localhost/thexpatmagazine-wp/2018/expat-life/tips-expats/
 [5]: https://www.gettingstamped.com/tips-for-finding-an-apartment-in-chiang-mai/

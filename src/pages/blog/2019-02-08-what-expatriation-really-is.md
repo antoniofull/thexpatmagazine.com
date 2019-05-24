@@ -5,7 +5,7 @@ author: thexpatmagazine
 type: post
 date: 2019-02-08T17:13:30.000Z
 url: /2019/expat-life/what-expatriation-really-is/
-featured_image: /wp-content/uploads/2019/02/skyscraper-14112_640.jpg
+featuredimage: /wp-content/uploads/2019/02/skyscraper-14112_640.jpg
 laurel_meta_post_layout:
   - customizer
 laurel_meta_fullimage_height:
@@ -52,7 +52,7 @@ So for all you guys who are still hesitating, I only have one word to tell you: 
 
 [ https://mailchi.mp/04d7b5e48126/monthly-newslette-expatriation][4]
 
-[1]: http://www.instagram.com/expatinfinity/
+[1]: https://www.instagram.com/expatinfinity/
 [2]: https://www.facebook.com/expatinfinitycoaching/
 [3]: mailto:hello@anasalido.com
 [4]: https://mailchi.mp/04d7b5e48126/monthly-newslette-expatriation

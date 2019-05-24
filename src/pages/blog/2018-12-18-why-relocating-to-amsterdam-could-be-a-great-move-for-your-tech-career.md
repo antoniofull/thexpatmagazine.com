@@ -5,7 +5,7 @@ author: thexpatmagazine
 type: post
 date: 2018-12-18T20:26:24.000Z
 url: /2018/europe/why-relocating-to-amsterdam-could-be-a-great-move-for-your-tech-career/
-featured_image: /wp-content/uploads/2018/12/amsterdam-architecture-building-208733.jpg
+featuredimage: /wp-content/uploads/2018/12/amsterdam-architecture-building-208733.jpg
 laurel_meta_post_layout:
   - customizer
 laurel_meta_fullimage_height:
@@ -34,7 +34,7 @@ Amsterdam’s venture capital spending has tripled since 2014, and the Dutch gov
 
 But it’s not just the up-and-comers making a home by the Amstel—the city is also home to the European headquarters of global tech giants like Uber, Netflix, and Tesla.
 
-<img class="aligncenter size-full wp-image-1161" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/12/amsterdam-architecture-bicycles-1414467.jpg" alt="" width="1400" height="933" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/12/amsterdam-architecture-bicycles-1414467.jpg 1400w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/12/amsterdam-architecture-bicycles-1414467-300x200.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/12/amsterdam-architecture-bicycles-1414467-768x512.jpg 768w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/12/amsterdam-architecture-bicycles-1414467-1024x682.jpg 1024w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/12/amsterdam-architecture-bicycles-1414467-1150x766.jpg 1150w" sizes="(max-width: 1400px) 100vw, 1400px" />
+<img class="aligncenter size-full wp-image-1161" src="/img/uploads/2018/12/amsterdam-architecture-bicycles-1414467.jpg" alt="" width="1400" height="933" srcset="/img/uploads/2018/12/amsterdam-architecture-bicycles-1414467.jpg 1400w, /img/uploads/2018/12/amsterdam-architecture-bicycles-1414467-300x200.jpg 300w, /img/uploads/2018/12/amsterdam-architecture-bicycles-1414467-768x512.jpg 768w, /img/uploads/2018/12/amsterdam-architecture-bicycles-1414467-1024x682.jpg 1024w, /img/uploads/2018/12/amsterdam-architecture-bicycles-1414467-1150x766.jpg 1150w" sizes="(max-width: 1400px) 100vw, 1400px" />
 
 **Dangling the carrot for international talent**
 
@@ -54,12 +54,12 @@ So great is Amsterdam’s commitment to living well, that the city was ranked nu
 
 &nbsp;
 
-_<img class="alignleft size-thumbnail wp-image-1160" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/12/James-McDonagh_03-150x150.jpg" alt="" width="150" height="150" />_
+_<img class="alignleft size-thumbnail wp-image-1160" src="/img/uploads/2018/12/James-McDonagh_03-150x150.jpg" alt="" width="150" height="150" />_
 
 &nbsp;
 
 _James McDonagh is the Director of EMEA at_ [_Frank Recruitment Group_][3]_, a global leader in staffing for IT professionals with multiple recruitment brands._
 
 [1]: https://www.hubspot.com/european-tech-scene/cities?name=amsterdam
-[2]: http://www.oecdbetterlifeindex.org/
-[3]: http://www.frankgroup.com/
+[2]: https://www.oecdbetterlifeindex.org/
+[3]: https://www.frankgroup.com/

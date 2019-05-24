@@ -5,7 +5,7 @@ author: thexpatmagazine
 type: post
 date: 2018-03-09T08:04:13.000Z
 url: /2018/europe/netherlands/ended-living-utrecht/
-featured_image: /wp-content/uploads/2018/03/199007_1850589581015_4785362_n.jpg
+featuredimage: /wp-content/uploads/2018/03/199007_1850589581015_4785362_n.jpg
 laurel_meta_post_layout:
   - customizer
 laurel_meta_fullimage_height:
@@ -24,7 +24,7 @@ Have you ever had the feeling of wanting to change, leave, explore new places an
 
 After I graduated at university and spending almost one year in Barcelona, I have decided that I wanted more than what I had, I&#8217;m not usually happy with the least I can get, I like challenges and always aim to the best. Back then I didn&#8217;t have much money, well to be honest I didn&#8217;t have any at all, so I started to look for a solution suitable for my situation, something that could give me the opportunity to travel while spending almost nothing&#8230;do you think it was impossible? If your answer is yes, you got it wrong 😉
 
-<img class="alignleft size-medium wp-image-808" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/03/UNADJUSTEDNONRAW_thumb_1e63-199x300.jpg" alt="" width="199" height="300" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/03/UNADJUSTEDNONRAW_thumb_1e63-199x300.jpg 199w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/03/UNADJUSTEDNONRAW_thumb_1e63.jpg 478w" sizes="(max-width: 199px) 100vw, 199px" />
+<img class="alignleft size-medium wp-image-808" src="/img/uploads/2018/03/UNADJUSTEDNONRAW_thumb_1e63-199x300.jpg" alt="" width="199" height="300" srcset="/img/uploads/2018/03/UNADJUSTEDNONRAW_thumb_1e63-199x300.jpg 199w, /img/uploads/2018/03/UNADJUSTEDNONRAW_thumb_1e63.jpg 478w" sizes="(max-width: 199px) 100vw, 199px" />
   
 I have decided to become an aupair, which means living with a local family while helping out with the kids and normal house routine, in exchange I didn&#8217;t have to pay for food or rent. I found a very lovely family that took me in as one of the real family members, and they introduced me to the new (to me) Dutch world. I didn&#8217;t speak any word of the local language and **I didn&#8217;t know anyone there**, not to talk about the fact that I have never been to The Netherlands before that, not even as a tourist.
 

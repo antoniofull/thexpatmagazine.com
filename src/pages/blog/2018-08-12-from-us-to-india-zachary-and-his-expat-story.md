@@ -5,7 +5,7 @@ author: thexpatmagazine
 type: post
 date: 2018-08-12T13:20:05.000Z
 url: /2018/europe/from-us-to-india-zachary-and-his-expat-story/
-featured_image: /wp-content/uploads/2018/08/Ray_s-10.jpg
+featuredimage: /wp-content/uploads/2018/08/Ray_s-10.jpg
 laurel_meta_post_layout:
   - customizer
 laurel_meta_fullimage_height:
@@ -21,7 +21,7 @@ More and more people move abroad looking for new opportunities, they choose the 
 &#8220;_As I approach 7 years of living in India, I’ve been reflecting on my journey and what it’s entailed. Starting in Mumbai and ending in Kolkata, it’s been a **rollercoaster of extraordinary experiences**, discovery, frustration, transformation, self-discovery, great sorrow, great joy and a deep love for the country my family calls home._
 
 <div id="attachment_1088" style="width: 310px" class="wp-caption alignleft">
-  <img class="wp-image-1088 size-medium" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/08/Ray-300x200.jpg" alt="" width="300" height="200" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/08/Ray-300x200.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/08/Ray-768x512.jpg 768w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/08/Ray.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" />
+  <img class="wp-image-1088 size-medium" src="/img/uploads/2018/08/Ray-300x200.jpg" alt="" width="300" height="200" srcset="/img/uploads/2018/08/Ray-300x200.jpg 300w, /img/uploads/2018/08/Ray-768x512.jpg 768w, /img/uploads/2018/08/Ray.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" />
   
   <p class="wp-caption-text">
     Karen Kristian
@@ -37,7 +37,7 @@ _As a company and as an artist, that is what we wish to accomplish –- bringing
 _We started Chaitown Creatives two years ago with the goal to provide a platform for musicians and artists (like painters, photographers and designers, etc.), to express themselves and help them further their careers. We host “Artist Collective” sessions every month, where one or two artists present their work in front of an audience and interact with them. You don’t have to be a musician or an artist to be part. You just need to be able to appreciate the different forms of art that exist. We’re convinced that India, especially Kolkata, has a lot to offer to the world in terms of art, music and creativity._
 
 <div id="attachment_1090" style="width: 310px" class="wp-caption alignleft">
-  <img class="wp-image-1090 size-medium" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/08/travel--300x271.jpg" alt="" width="300" height="271" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/08/travel--300x271.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/08/travel--768x694.jpg 768w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/08/travel-.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" />
+  <img class="wp-image-1090 size-medium" src="/img/uploads/2018/08/travel--300x271.jpg" alt="" width="300" height="271" srcset="/img/uploads/2018/08/travel--300x271.jpg 300w, /img/uploads/2018/08/travel--768x694.jpg 768w, /img/uploads/2018/08/travel-.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" />
   
   <p class="wp-caption-text">
     Karen Kristian

@@ -5,7 +5,7 @@ author: thexpatmagazine
 type: post
 date: 2019-04-18T20:41:07.000Z
 url: /2019/expat-life/feeling-at-home-in-abroadland/
-featured_image: /wp-content/uploads/2019/04/ab_image_book.jpg
+featuredimage: /wp-content/uploads/2019/04/ab_image_book.jpg
 laurel_meta_post_layout:
   - customizer
 laurel_meta_fullimage_height:
@@ -22,7 +22,7 @@ tags:
 
 We who live abroad have multiple definitions for home, and many of us are trying to figure out where we could be the happiest versions of ourselves. Some places you settle almost immediately, whereas in other places it may be a longer journey. When asked, “What is home to you?” expats often mention their loved ones and a place where they can be themselves. How could we keep and cultivate the feeling of home, no matter where we live, to carry it with us like snails carry their shells?
 
-<img class="aligncenter size-large wp-image-1288" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/ab_image01-1024x731.jpg" alt="" width="1024" height="731" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/ab_image01.jpg 1024w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/ab_image01-300x214.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/ab_image01-768x548.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img class="aligncenter size-large wp-image-1288" src="/img/uploads/2019/04/ab_image01-1024x731.jpg" alt="" width="1024" height="731" srcset="/img/uploads/2019/04/ab_image01.jpg 1024w, /img/uploads/2019/04/ab_image01-300x214.jpg 300w, /img/uploads/2019/04/ab_image01-768x548.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 ## **Here are some tips I’ve found on how to feel at home abroad:**
 
@@ -46,7 +46,7 @@ Not having too many items goes well with the life on the move but some objects c
 
 A spot in the forest, your favourite beach, a friendly coffee place, your local library, a co-working space… By finding places where you feel good, your home zone gets wider and your new environment more familiar. Home space includes the digital places too, like the platforms you use and the groups you belong, so you should choose wisely how and with who you are spending your time online too.
 
-<img class="aligncenter size-large wp-image-1289" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/ab_image02-1024x731.jpg" alt="" width="1024" height="731" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/ab_image02.jpg 1024w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/ab_image02-300x214.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/ab_image02-768x548.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img class="aligncenter size-large wp-image-1289" src="/img/uploads/2019/04/ab_image02-1024x731.jpg" alt="" width="1024" height="731" srcset="/img/uploads/2019/04/ab_image02.jpg 1024w, /img/uploads/2019/04/ab_image02-300x214.jpg 300w, /img/uploads/2019/04/ab_image02-768x548.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 **Keep doing your things.**
 
@@ -72,8 +72,8 @@ All of the aspects above can support us with finding the suitable and unique dos
 
 ##### About the author:
 
-Helena Jalanka,the author and illustrator of the book <a href="http://abroadland.com/" target="_blank" rel="noopener"><strong><em>Greetings from Abroadland – Experiences of Family Life Abroad</em></strong></a>. Besides the home, the book’s topics are about moving, adapting, language, culture, environment, early education and visiting friends and family in the native country. The chapters are a mix of personal experiences and intercultural experts’ viewpoints. The compact and colourful guide book comes with 35 real-life cartoons and 75 ‘survive and thrive’ tips.
+Helena Jalanka,the author and illustrator of the book <a href="https://abroadland.com/" target="_blank" rel="noopener"><strong><em>Greetings from Abroadland – Experiences of Family Life Abroad</em></strong></a>. Besides the home, the book’s topics are about moving, adapting, language, culture, environment, early education and visiting friends and family in the native country. The chapters are a mix of personal experiences and intercultural experts’ viewpoints. The compact and colourful guide book comes with 35 real-life cartoons and 75 ‘survive and thrive’ tips.
 
-<img class="aligncenter size-thumbnail wp-image-1290" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/ab_image05-150x150.jpg" alt="" width="150" height="150" />
+<img class="aligncenter size-thumbnail wp-image-1290" src="/img/uploads/2019/04/ab_image05-150x150.jpg" alt="" width="150" height="150" />
 
 &nbsp;

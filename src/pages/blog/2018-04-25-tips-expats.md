@@ -5,7 +5,7 @@ author: thexpatmagazine
 type: post
 date: 2018-04-25T14:00:50.000Z
 url: /2018/expat-life/tips-expats/
-featured_image: /wp-content/uploads/2018/04/nature-3345307_1920.jpg
+featuredimage: /wp-content/uploads/2018/04/nature-3345307_1920.jpg
 laurel_meta_post_layout:
   - customizer
 laurel_meta_fullimage_height:

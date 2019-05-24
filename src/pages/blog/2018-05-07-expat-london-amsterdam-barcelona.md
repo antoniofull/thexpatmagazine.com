@@ -5,7 +5,7 @@ author: Alessio Tedde
 type: post
 date: 2018-05-07T18:06:55.000Z
 url: /2018/europe/netherlands/expat-london-amsterdam-barcelona/
-featured_image: /wp-content/uploads/2018/05/IMG_5584-e1526734827525.jpg
+featuredimage: /wp-content/uploads/2018/05/IMG_5584-e1526734827525.jpg
 laurel_meta_post_layout:
   - customizer
 laurel_meta_fullimage_height:
@@ -41,7 +41,7 @@ tags:
 </p>
 
 <div id="attachment_906" style="width: 970px" class="wp-caption aligncenter">
-  <img class="2009 wp-image-906 size-full" title="Piccadilly Circus" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/05/13179056_10209827410110480_6073801087843175313_n.jpg" alt="London " width="960" height="720" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/05/13179056_10209827410110480_6073801087843175313_n.jpg 960w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/05/13179056_10209827410110480_6073801087843175313_n-300x225.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/05/13179056_10209827410110480_6073801087843175313_n-768x576.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" />
+  <img class="2009 wp-image-906 size-full" title="Piccadilly Circus" src="/img/uploads/2018/05/13179056_10209827410110480_6073801087843175313_n.jpg" alt="London " width="960" height="720" srcset="/img/uploads/2018/05/13179056_10209827410110480_6073801087843175313_n.jpg 960w, /img/uploads/2018/05/13179056_10209827410110480_6073801087843175313_n-300x225.jpg 300w, /img/uploads/2018/05/13179056_10209827410110480_6073801087843175313_n-768x576.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" />
   
   <p class="wp-caption-text">
     London Piccadilly Circus
@@ -83,7 +83,7 @@ tags:
 After spending these 5 years in UK, I released I wanted to discover more, so for personal motivation and the will of moving always forward, I have decided to **head to Amsterdam in Holland**.
 
 <div id="attachment_941" style="width: 970px" class="wp-caption aligncenter">
-  <img class="2012 wp-image-941 size-full" title="Amsterdam " src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/05/ams3.jpeg" alt="Amsterdam " width="960" height="614" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/05/ams3.jpeg 960w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/05/ams3-300x192.jpeg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/05/ams3-768x491.jpeg 768w" sizes="(max-width: 960px) 100vw, 960px" />
+  <img class="2012 wp-image-941 size-full" title="Amsterdam " src="/img/uploads/2018/05/ams3.jpeg" alt="Amsterdam " width="960" height="614" srcset="/img/uploads/2018/05/ams3.jpeg 960w, /img/uploads/2018/05/ams3-300x192.jpeg 300w, /img/uploads/2018/05/ams3-768x491.jpeg 768w" sizes="(max-width: 960px) 100vw, 960px" />
   
   <p class="wp-caption-text">
     Amsterdam
@@ -105,7 +105,7 @@ The first impression of the city was fantastic, a beautiful memory of feeling at
 </p>
 
 <div id="attachment_937" style="width: 4011px" class="wp-caption aligncenter">
-  <img class="2018 wp-image-937 size-full" title="Barcelona Platja de la Mar Bella" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/05/BCN1-e1526040121697.jpeg" alt="Barcelona " width="4001" height="1930" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/05/BCN1-e1526040121697.jpeg 1200w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/05/BCN1-e1526040121697-300x145.jpeg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/05/BCN1-e1526040121697-768x370.jpeg 768w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/05/BCN1-e1526040121697-1024x494.jpeg 1024w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/05/BCN1-e1526040121697-1150x555.jpeg 1150w" sizes="(max-width: 4001px) 100vw, 4001px" />
+  <img class="2018 wp-image-937 size-full" title="Barcelona Platja de la Mar Bella" src="/img/uploads/2018/05/BCN1-e1526040121697.jpeg" alt="Barcelona " width="4001" height="1930" srcset="/img/uploads/2018/05/BCN1-e1526040121697.jpeg 1200w, /img/uploads/2018/05/BCN1-e1526040121697-300x145.jpeg 300w, /img/uploads/2018/05/BCN1-e1526040121697-768x370.jpeg 768w, /img/uploads/2018/05/BCN1-e1526040121697-1024x494.jpeg 1024w, /img/uploads/2018/05/BCN1-e1526040121697-1150x555.jpeg 1150w" sizes="(max-width: 4001px) 100vw, 4001px" />
   
   <p class="wp-caption-text">
     Barcelona Platja de la Mar Bella

@@ -5,7 +5,7 @@ author: thexpatmagazine
 type: post
 date: 2019-02-26T16:32:01.000Z
 url: /2019/expat-life/8-apps-to-make-moving-abroad-easier-infographic/
-featured_image: /wp-content/uploads/2019/02/yura-fresh-760055-unsplash.jpg
+featuredimage: /wp-content/uploads/2019/02/yura-fresh-760055-unsplash.jpg
 laurel_meta_post_layout:
   - customizer
 laurel_meta_fullimage_height:
@@ -22,7 +22,7 @@ tags:
 ---
 
 <p class="p1">
-  It’s no secret that the process of moving abroad can be tough as it’s easy to become overwhelmed by all the things you have to do in order to get settled. Fortunately, today’s expats have the technology to support them with hundreds of apps specifically designed to help travelers and emigrants. But which ones are the best? This list from <a href="http://www.hansen-company.com/">Hansen & Company</a> lays out a handy list of eight indispensable apps which you can use to develop language skills, navigate your way around, stay safe and make friends.<!--more-->
+  It’s no secret that the process of moving abroad can be tough as it’s easy to become overwhelmed by all the things you have to do in order to get settled. Fortunately, today’s expats have the technology to support them with hundreds of apps specifically designed to help travelers and emigrants. But which ones are the best? This list from <a href="https://www.hansen-company.com/">Hansen & Company</a> lays out a handy list of eight indispensable apps which you can use to develop language skills, navigate your way around, stay safe and make friends.<!--more-->
 </p>
 
 ## **Learning the Language** {.p1}
@@ -50,9 +50,9 @@ tags:
 </p>
 
 <p class="p1">
-  Read more in the infographic below or download the <a href="http://www.hansen-company.com/wp-content/uploads/2018/11/8-apps-to-make-moving-abroad-easier.jpg" target="_blank" rel="noopener">image directly</a>
+  Read more in the infographic below or download the <a href="https://www.hansen-company.com/wp-content/uploads/2018/11/8-apps-to-make-moving-abroad-easier.jpg" target="_blank" rel="noopener">image directly</a>
 </p>
 
-[<img class="aligncenter wp-image-1242 size-large" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/02/8-apps-to-make-moving-abroad-easier-116x1024.jpg" alt="8-apps-to-make-moving-abroad-easier" width="116" height="1024" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/02/8-apps-to-make-moving-abroad-easier-116x1024.jpg 116w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/02/8-apps-to-make-moving-abroad-easier-34x300.jpg 34w" sizes="(max-width: 116px) 100vw, 116px" />][1]
+<img class="aligncenter wp-image-1242 size-large" src="/img/uploads/2019/02/8-apps-to-make-moving-abroad-easier-116x1024.jpg" alt="8-apps-to-make-moving-abroad-easier" width="116" height="1024" srcset="/img/uploads/2019/02/8-apps-to-make-moving-abroad-easier-116x1024.jpg 116w, /img/uploads/2019/02/8-apps-to-make-moving-abroad-easier-34x300.jpg 34w" sizes="(max-width: 116px) 100vw, 116px" />][1]
 
-[1]: http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/02/8-apps-to-make-moving-abroad-easier.jpg
+[1]: /img/uploads/2019/02/8-apps-to-make-moving-abroad-easier.jpg

@@ -18,7 +18,7 @@ tags:
 
 **Spain** is a mediterranean country in the south of **Europe** and is one of the country hit by the crisis. Now is slowly recovering, however being a cheap country with a nice weather almost all the year and fabulous people is easy for many expats fall in love for this country.  I&#8217;ve collected my list of the most important reasons to **live in Spain**.<!--more-->
 
-[<img class="alignnone size-medium wp-image-97" alt="live spain" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/03/corrida_san_fermin-300x191.jpg" width="300" height="191" />][1]
+<img class="alignnone size-medium wp-image-97" alt="live spain" src="/img/uploads/2014/03/corrida_san_fermin-300x191.jpg" width="300" height="191" />][1]
 
 1 &#8211; **The people.**
 
@@ -42,10 +42,10 @@ If you are planning to retire in a different country than you live, so why not c
 
 6 &#8211; **Food, incredible good food**.
 
-If you never tried Spanish food, you must! They have a lot of different types of food and, like Italy, they are different from region to region but is all good! Did you know that the best restaurant in the world was <a href="http://en.wikipedia.org/wiki/ElBulli" target="_blank">spanish</a>? Paella, tapas, pulpo á galeg, tortillas, so much goodness you will not regret!
+If you never tried Spanish food, you must! They have a lot of different types of food and, like Italy, they are different from region to region but is all good! Did you know that the best restaurant in the world was <a href="https://en.wikipedia.org/wiki/ElBulli" target="_blank">spanish</a>? Paella, tapas, pulpo á galeg, tortillas, so much goodness you will not regret!
 
 Do you live in Spain? What do you think? Let us know in the comments.
 
-Foto <a href="http://sunshineandsiestas.com/2013/07/09/uno-de-enero-dos-de-febrero-experiencing-the-san-fermines-festival-of-pamplona/" target="_blank">credit</a>.
+Foto <a href="https://sunshineandsiestas.com/2013/07/09/uno-de-enero-dos-de-febrero-experiencing-the-san-fermines-festival-of-pamplona/" target="_blank">credit</a>.
 
-[1]: http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/03/corrida_san_fermin.jpg
+[1]: /img/uploads/2014/03/corrida_san_fermin.jpg

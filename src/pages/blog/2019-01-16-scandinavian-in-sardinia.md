@@ -5,7 +5,7 @@ author: thexpatmagazine
 type: post
 date: 2019-01-16T13:00:47.000Z
 url: /2019/europe/italy/scandinavian-in-sardinia/
-featured_image: /wp-content/uploads/2019/01/fullsizeoutput_888.jpg
+featuredimage: /wp-content/uploads/2019/01/fullsizeoutput_888.jpg
 laurel_meta_post_layout:
   - customizer
 laurel_meta_fullimage_height:
@@ -40,7 +40,7 @@ Here&#8217;s her experience&#8230;
   <b><i>‘</i></b><b><i><span lang="EN-US">Come along inside</span></i></b><b><i>……</i></b><b><i><span lang="DE">We</span></i></b><b><i>’</i></b><b><i><span lang="EN-US">ll see if tea and buns can make the world a better place</span></i></b><b><i>’ – </i></b><b><i><span lang="EN-US">The Wind in the Willows</span></i></b><b><i></i></b>
 </p>
 
-<img class="aligncenter size-full wp-image-1170" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/01/IMG_7364.jpg" alt="" width="1050" height="1400" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/01/IMG_7364.jpg 1050w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/01/IMG_7364-225x300.jpg 225w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/01/IMG_7364-768x1024.jpg 768w" sizes="(max-width: 1050px) 100vw, 1050px" />
+<img class="aligncenter size-full wp-image-1170" src="/img/uploads/2019/01/IMG_7364.jpg" alt="" width="1050" height="1400" srcset="/img/uploads/2019/01/IMG_7364.jpg 1050w, /img/uploads/2019/01/IMG_7364-225x300.jpg 225w, /img/uploads/2019/01/IMG_7364-768x1024.jpg 768w" sizes="(max-width: 1050px) 100vw, 1050px" />
 
 ## _My tea is cold_**\_\_** {.Default}
 
@@ -90,7 +90,7 @@ Here&#8217;s her experience&#8230;
 
 <span lang="EN-US">Fortunately, I can buy really, good and strong tea in the supermarket and make a proper ‘</span><span lang="IT">cuppa</span><span lang="EN-US">’ at home – so zen and calm can be found at least every morning. And I choose to enjoy my steamed English Breakfast tea with lemon when I go to a caf</span><span lang="FR">é.</span>
 
-<img class="aligncenter size-full wp-image-1168" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/01/tea.jpg" alt="" width="1400" height="854" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/01/tea.jpg 1400w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/01/tea-300x183.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/01/tea-768x468.jpg 768w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/01/tea-1024x625.jpg 1024w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/01/tea-1150x702.jpg 1150w" sizes="(max-width: 1400px) 100vw, 1400px" />
+<img class="aligncenter size-full wp-image-1168" src="/img/uploads/2019/01/tea.jpg" alt="" width="1400" height="854" srcset="/img/uploads/2019/01/tea.jpg 1400w, /img/uploads/2019/01/tea-300x183.jpg 300w, /img/uploads/2019/01/tea-768x468.jpg 768w, /img/uploads/2019/01/tea-1024x625.jpg 1024w, /img/uploads/2019/01/tea-1150x702.jpg 1150w" sizes="(max-width: 1400px) 100vw, 1400px" />
 
 If you want to know more about her, here&#8217;s her [blog][1]. Enjoy it!
 

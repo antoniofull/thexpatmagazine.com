@@ -5,11 +5,7 @@ author: thexpatmagazine
 type: post
 date: 2017-09-11T12:42:14.000Z
 url: /2017/europe/best-country-world-quality-life/
-featured_image: /wp-content/uploads/2017/09/tram-2650096_1920-952x500.jpg
-meta_box_featured:
-  - on
-et_enqueued_post_fonts:
-  - 'a:2:{s:6:"family";a:2:{s:15:"et-gf-quicksand";s:29:"Quicksand:300,regular,500,700";s:10:"et-gf-lato";s:75:"Lato:100,100italic,300,300italic,regular,italic,700,700italic,900,900italic";}s:6:"subset";a:2:{i:0;s:5:"latin";i:1;s:9:"latin-ext";}}'
+featuredimage: /wp-content/uploads/2017/09/tram-2650096_1920-952x500.jpg
 categories:
   - Europe
   - Portugal
@@ -24,7 +20,7 @@ tags:
 Finding the right country to settle in is never easy. A lot of factors come in when considering a country and, without any doubt, one of the major factor in our choice is the **quality of life**. <a href="https://www.internations.org/expat-insider/" target="_blank" rel="noopener">Expat Insider</a> has released the results for the **2017 poll on the best country in the World for quality of life** and the results are quite surprising.<!--more-->
 
 <div id="attachment_560" style="width: 1034px" class="wp-caption alignnone">
-  <img class="size-large wp-image-560" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2017/09/tram-2650096_1920-1024x538.jpg" alt="Portugal is the country with the best quality of life in the World" width="1024" height="538" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2017/09/tram-2650096_1920-1024x538.jpg 1024w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2017/09/tram-2650096_1920-300x158.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2017/09/tram-2650096_1920-768x403.jpg 768w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2017/09/tram-2650096_1920-952x500.jpg 952w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2017/09/tram-2650096_1920.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />
+  <img class="size-large wp-image-560" src="/img/uploads/2017/09/tram-2650096_1920-1024x538.jpg" alt="Portugal is the country with the best quality of life in the World" width="1024" height="538" srcset="/img/uploads/2017/09/tram-2650096_1920-1024x538.jpg 1024w, /img/uploads/2017/09/tram-2650096_1920-300x158.jpg 300w, /img/uploads/2017/09/tram-2650096_1920-768x403.jpg 768w, /img/uploads/2017/09/tram-2650096_1920-952x500.jpg 952w, /img/uploads/2017/09/tram-2650096_1920.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />
   
   <p class="wp-caption-text">
     Portugal is the country with the best quality of life in the World

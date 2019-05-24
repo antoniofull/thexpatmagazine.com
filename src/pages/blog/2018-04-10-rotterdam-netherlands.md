@@ -5,7 +5,7 @@ author: thexpatmagazine
 type: post
 date: 2018-04-10T20:00:07.000Z
 url: /2018/europe/rotterdam-netherlands/
-featured_image: /wp-content/uploads/2018/04/rotterdam-1598418_1920.jpg
+featuredimage: /wp-content/uploads/2018/04/rotterdam-1598418_1920.jpg
 laurel_meta_post_layout:
   - customizer
 laurel_meta_fullimage_height:
@@ -26,7 +26,7 @@ No, it&#8217;s not all easy there, you have to deal with the language and its st
 
 <div class="fluidbox__wrap">
   <p>
-    <a class="fluidbox__instance-1 fluidbox--initialized fluidbox--closed fluidbox--ready" href="http://expatmagazine.it/wp-content/uploads/2018/03/Ross-in-Rotterdam.jpg"><img class="alignleft wp-image-2284 size-medium fluidbox__thumb" title="Un Paradiso chiamato Rotterdam" src="http://expatmagazine.it/wp-content/uploads/2018/03/Ross-in-Rotterdam-225x300.jpg" sizes="(max-width: 225px) 100vw, 225px" srcset="https://expatmagazine.it/wp-content/uploads/2018/03/Ross-in-Rotterdam-225x300.jpg 225w, https://expatmagazine.it/wp-content/uploads/2018/03/Ross-in-Rotterdam-375x500.jpg 375w, https://expatmagazine.it/wp-content/uploads/2018/03/Ross-in-Rotterdam.jpg 720w" alt="Ross in Rotterdam 225x300 Un Paradiso chiamato Rotterdam" width="225" height="300" /></a>
+    <a class="fluidbox__instance-1 fluidbox--initialized fluidbox--closed fluidbox--ready" href="https://expatmagazine.it/wp-content/uploads/2018/03/Ross-in-Rotterdam.jpg"><img class="alignleft wp-image-2284 size-medium fluidbox__thumb" title="Un Paradiso chiamato Rotterdam" src="https://expatmagazine.it/wp-content/uploads/2018/03/Ross-in-Rotterdam-225x300.jpg" sizes="(max-width: 225px) 100vw, 225px" srcset="https://expatmagazine.it/wp-content/uploads/2018/03/Ross-in-Rotterdam-225x300.jpg 225w, https://expatmagazine.it/wp-content/uploads/2018/03/Ross-in-Rotterdam-375x500.jpg 375w, https://expatmagazine.it/wp-content/uploads/2018/03/Ross-in-Rotterdam.jpg 720w" alt="Ross in Rotterdam 225x300 Un Paradiso chiamato Rotterdam" width="225" height="300" /></a>
   </p>
   
   <p class="fluidbox__ghost">

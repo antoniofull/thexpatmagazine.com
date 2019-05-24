@@ -5,7 +5,7 @@ author: Rossella Davi
 type: post
 date: 2018-07-21T18:48:27.000Z
 url: /2018/expat-life/life-in-a-box-the-unusual-story-of-a-globetrotter/
-featured_image: /wp-content/uploads/2018/07/IMG_4297.jpg
+featuredimage: /wp-content/uploads/2018/07/IMG_4297.jpg
 laurel_meta_post_layout:
   - customizer
 laurel_meta_fullimage_height:
@@ -30,7 +30,7 @@ The first chapter of my “life in a box”, as I have called all my experiences
 
 Since that day I started to travel more often, summer camps, competitions, the beginning of my life in a box, yes because all I needed in order to be happy was related to a box! The plain itself is a metallic box, you eat in a box when you are on board, all I had to bring with me was in a bag or suitcase (another box) and my favourite sport was in a boat (is a box, isn’t it?!).
 
-<img class="alignleft wp-image-1066 size-medium" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/07/IMG_4522-225x300.jpg" alt="" width="225" height="300" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/07/IMG_4522-225x300.jpg 225w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/07/IMG_4522-768x1024.jpg 768w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/07/IMG_4522.jpg 1050w" sizes="(max-width: 225px) 100vw, 225px" />When I was 20 years old, I got a contract with a company and I was assigned to a technical department worldwide, it means I literally started to live with my passport and suitcase always ready! It was so exciting. What do you think about leaving the small Sicilian city (even if it&#8217;is so beautiful), where people work mainly in public administration, to work for an international company and being paid to travel?! My wonderland (or wonder box)! So many surprises, not all positive, but exciting and challenging for sure. I always thought that everything happens for a reason, we should not think too much on what would be next, but get ready, learn by experience, be flexible and always smile..that&#8217;s the secret!!
+<img class="alignleft wp-image-1066 size-medium" src="/img/uploads/2018/07/IMG_4522-225x300.jpg" alt="" width="225" height="300" srcset="/img/uploads/2018/07/IMG_4522-225x300.jpg 225w, /img/uploads/2018/07/IMG_4522-768x1024.jpg 768w, /img/uploads/2018/07/IMG_4522.jpg 1050w" sizes="(max-width: 225px) 100vw, 225px" />When I was 20 years old, I got a contract with a company and I was assigned to a technical department worldwide, it means I literally started to live with my passport and suitcase always ready! It was so exciting. What do you think about leaving the small Sicilian city (even if it&#8217;is so beautiful), where people work mainly in public administration, to work for an international company and being paid to travel?! My wonderland (or wonder box)! So many surprises, not all positive, but exciting and challenging for sure. I always thought that everything happens for a reason, we should not think too much on what would be next, but get ready, learn by experience, be flexible and always smile..that&#8217;s the secret!!
 
 Going back to the topic, the first business trip was to Samsun, Turkey. I had a few stops before getting there, one in Istanbul where I was held by police for a homonymy case. Yes, you got it right, my name is the same as someone wanted from Interpol! Luckily in few hours, I was free again and I could experience other &#8220;boxes&#8221;, the helicopter, and a room of 10square metres, bathroom included&#8230;for 8 weeks.
 
@@ -48,7 +48,7 @@ I have so many memories of the last 17 years&#8230;everything is in my mind and,
 
 Until now, life (and my partner) decided it was time to stop for a while, so I have an apartment now, working days and free weekends, an office&#8230; so a normal life in Aberdeen, Scottland.
 
-<img class="alignleft size-medium wp-image-1067" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/07/IMG_8015-225x300.jpg" alt="" width="225" height="300" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/07/IMG_8015-225x300.jpg 225w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/07/IMG_8015-768x1024.jpg 768w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/07/IMG_8015.jpg 1050w" sizes="(max-width: 225px) 100vw, 225px" />
+<img class="alignleft size-medium wp-image-1067" src="/img/uploads/2018/07/IMG_8015-225x300.jpg" alt="" width="225" height="300" srcset="/img/uploads/2018/07/IMG_8015-225x300.jpg 225w, /img/uploads/2018/07/IMG_8015-768x1024.jpg 768w, /img/uploads/2018/07/IMG_8015.jpg 1050w" sizes="(max-width: 225px) 100vw, 225px" />
 
 I am lucky for what I have, mine was an amazing time travelling and exploring the world even if I lost for a long time the sense of reality.
 

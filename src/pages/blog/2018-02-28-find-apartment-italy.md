@@ -5,13 +5,7 @@ author: Lorena
 type: post
 date: 2018-02-28T11:50:57.000Z
 url: /2018/europe/italy/find-apartment-italy/
-featured_image: /wp-content/uploads/2018/02/move-2481718_1920.jpg
-et_enqueued_post_fonts:
-  - 'a:2:{s:6:"family";a:2:{s:15:"et-gf-quicksand";s:29:"Quicksand:300,regular,500,700";s:10:"et-gf-lato";s:75:"Lato:100,100italic,300,300italic,regular,italic,700,700italic,900,900italic";}s:6:"subset";a:2:{i:0;s:5:"latin";i:1;s:9:"latin-ext";}}'
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
+featuredimage: /wp-content/uploads/2018/02/move-2481718_1920.jpg
 categories:
   - Italy
 tags:
@@ -49,7 +43,7 @@ This is a great way to look for a house or apartment if you don&#8217;t want to 
 &nbsp;
 
 [1]: https://www.immobiliare.it
-[2]: http://www.casa.it/affitti
+[2]: https://www.casa.it/affitti
 
 [3]: https://www.subito.it/annunci-italia/affitto/appartamenti/?ref=dem&xtor=SEC-10308-GOO-[Affitto_Appartamenti]-[E]-S-[%2Bcerco%20%2Bappartamento%20in%20%2Baffitto]&xts=355968
-[4]: http://www.bakeca.it/annunci/cerco-casa/
+[4]: https://www.bakeca.it/annunci/cerco-casa/

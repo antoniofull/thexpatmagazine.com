@@ -5,31 +5,9 @@ author: thexpatmagazine
 type: post
 date: 2014-04-07T16:22:21.000Z
 url: /2014/europe/ten-things-probably-know-germans/
-featured_image: /wp-content/uploads/2014/04/abendbrot-der-woche-667x500.jpg
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
-bd_video_type:
-  - youtube
-bd_post_background_color:
-  - '#'
-bd_post_background_repeat:
-  - repeat
-bd_post_background_attachment:
-  - scroll
-bd_post_background_x:
-  - center
-bd_post_background_y:
-  - center
-bd_review_type:
-  - stars
-bd_criteria_display:
-  - t
-rop_post_url_twitter:
-  - 'http://localhost/thexpatmagazine-wp/2014/europe/ten-things-probably-know-germans/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-et_enqueued_post_fonts:
-  - 'a:2:{s:6:"family";a:0:{}s:6:"subset";a:2:{i:0;s:5:"latin";i:1;s:9:"latin-ext";}}'
+featuredimage: /wp-content/uploads/2014/04/abendbrot-der-woche-667x500.jpg
+reltwitter:
+  - 'https://localhost/thexpatmagazine-wp/2014/europe/ten-things-probably-know-germans/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
 categories:
   - Europe
   - Germany
@@ -48,7 +26,7 @@ Here ten facts about them that you probably did not know, but it would be useful
 
 They like to eat in this way. A hot meal during lunch and a quick and cold dinner. This type of dinner is called  **Abendbrot, **and basically consist of bread with ham, cheese and  vegetables.
 
-[<img class="alignnone size-full wp-image-158" alt="abendbrot" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/04/abendbrot-der-woche.jpg" width="800" height="600" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/04/abendbrot-der-woche.jpg 800w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/04/abendbrot-der-woche-300x225.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/04/abendbrot-der-woche-768x576.jpg 768w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/04/abendbrot-der-woche-667x500.jpg 667w" sizes="(max-width: 800px) 100vw, 800px" />][1]
+<img class="alignnone size-full wp-image-158" alt="abendbrot" src="/img/uploads/2014/04/abendbrot-der-woche.jpg" width="800" height="600" srcset="/img/uploads/2014/04/abendbrot-der-woche.jpg 800w, /img/uploads/2014/04/abendbrot-der-woche-300x225.jpg 300w, /img/uploads/2014/04/abendbrot-der-woche-768x576.jpg 768w, /img/uploads/2014/04/abendbrot-der-woche-667x500.jpg 667w" sizes="(max-width: 800px) 100vw, 800px" />][1]
 
 &nbsp;
 
@@ -68,13 +46,13 @@ Yes, this is not because of some phobia but for hygienic reasons. The air outsid
 
 Sunday is the perfect day to clean your house or do some domestic work, well .. in Germany is not like that, sunday is a quite day dedicated to relax so your neighbours are likely to complain if you do.
 
-[<img class="alignnone size-full wp-image-159" alt="germans" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/04/germans.jpg" width="305" height="286" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/04/germans.jpg 305w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/04/germans-300x281.jpg 300w" sizes="(max-width: 305px) 100vw, 305px" />][2]
+<img class="alignnone size-full wp-image-159" alt="germans" src="/img/uploads/2014/04/germans.jpg" width="305" height="286" srcset="/img/uploads/2014/04/germans.jpg 305w, /img/uploads/2014/04/germans-300x281.jpg 300w" sizes="(max-width: 305px) 100vw, 305px" />][2]
 
 &nbsp;
 
 **6 &#8211; Free body culture.**
 
-<a href="http://en.wikipedia.org/wiki/FKK" target="_blank">FKK</a> is a movement born in Germany about free body culture, so don&#8217;t feel shame if you go to the sauna and find nude people 😀
+<a href="https://en.wikipedia.org/wiki/FKK" target="_blank">FKK</a> is a movement born in Germany about free body culture, so don&#8217;t feel shame if you go to the sauna and find nude people 😀
 
 **7 &#8211; Movies in english? Nein danke!**
 
@@ -96,5 +74,5 @@ Something to add? Let us know in the comments!
 
 &nbsp;
 
-[1]: http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/04/abendbrot-der-woche.jpg
-[2]: http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/04/germans.jpg
+[1]: /img/uploads/2014/04/abendbrot-der-woche.jpg
+[2]: /img/uploads/2014/04/germans.jpg

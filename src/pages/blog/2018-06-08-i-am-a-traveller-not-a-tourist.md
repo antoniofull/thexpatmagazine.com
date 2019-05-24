@@ -5,7 +5,7 @@ author: Rossella Davi
 type: post
 date: 2018-06-08T16:34:57.000Z
 url: /2018/europe/i-am-a-traveller-not-a-tourist/
-featured_image: /wp-content/uploads/2018/06/13445369_10153786440908215_20099517409138804_n.jpg
+featuredimage: /wp-content/uploads/2018/06/13445369_10153786440908215_20099517409138804_n.jpg
 laurel_meta_post_layout:
   - customizer
 laurel_meta_fullimage_height:
@@ -42,7 +42,7 @@ This is a difficult question! It might sound like a cliche, but each city is be
 But if I have to choose a country, then my favourite one is Ireland instead&#8230; such a magic one! I love its culture and people, the most optimist folks I ever met!
 
 <div id="attachment_1041" style="width: 970px" class="wp-caption aligncenter">
-  <img class="wp-image-1041 size-full" title="Amsterdam" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/06/21371124_10155051905088215_2649903609846765611_n.jpg" alt="" width="960" height="720" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/06/21371124_10155051905088215_2649903609846765611_n.jpg 960w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/06/21371124_10155051905088215_2649903609846765611_n-300x225.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/06/21371124_10155051905088215_2649903609846765611_n-768x576.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" />
+  <img class="wp-image-1041 size-full" title="Amsterdam" src="/img/uploads/2018/06/21371124_10155051905088215_2649903609846765611_n.jpg" alt="" width="960" height="720" srcset="/img/uploads/2018/06/21371124_10155051905088215_2649903609846765611_n.jpg 960w, /img/uploads/2018/06/21371124_10155051905088215_2649903609846765611_n-300x225.jpg 300w, /img/uploads/2018/06/21371124_10155051905088215_2649903609846765611_n-768x576.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" />
   
   <p class="wp-caption-text">
     Amsterdam
@@ -79,4 +79,4 @@ I would like to say a big thank you, Maria Giovanna, for sharing your inspiring 
 
 Happy journey to everyone!
 
-[1]: http://localhost/thexpatmagazine-wp/2014/europe/5-reasons-live-netherlands/
+[1]: https://localhost/thexpatmagazine-wp/2014/europe/5-reasons-live-netherlands/

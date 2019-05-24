@@ -5,7 +5,7 @@ author: thexpatmagazine
 type: post
 date: 2018-03-18T15:00:15.000Z
 url: /2018/europe/portugal/10-reasons-why-you-should-love-portugal/
-featured_image: /wp-content/uploads/2018/03/lisbon-2898787_1920.jpg
+featuredimage: /wp-content/uploads/2018/03/lisbon-2898787_1920.jpg
 laurel_meta_post_layout:
   - customizer
 laurel_meta_fullimage_height:

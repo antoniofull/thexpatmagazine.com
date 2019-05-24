@@ -5,7 +5,7 @@ author: Rossella Davi
 type: post
 date: 2019-04-22T17:14:01.000Z
 url: /2019/travel-inspiration/travel-yucatan-ready-to-go/
-featured_image: /wp-content/uploads/2019/04/marv-watson-559149-unsplash.jpg
+featuredimage: /wp-content/uploads/2019/04/marv-watson-559149-unsplash.jpg
 laurel_meta_post_layout:
   - customizer
 laurel_meta_fullimage_height:
@@ -44,7 +44,7 @@ Once you have done all this boring bureaucracy you can start to organize the **b
 
 **Day 5 &#8211; **I am sure you had already heard about **Chichen Itza.  **Of course, you did! It is the Maya&#8217;s place where they found the calendar till 2011 and from there they started to believe it was the prediction of the end of the world. Do I need more words to make you curious about this place?
 
-<img class="aligncenter wp-image-1293 size-medium" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/merida-thexpat-300x225.jpg" alt="" width="300" height="225" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/merida-thexpat-300x225.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/merida-thexpat.jpg 563w" sizes="(max-width: 300px) 100vw, 300px" />
+<img class="aligncenter wp-image-1293 size-medium" src="/img/uploads/2019/04/merida-thexpat-300x225.jpg" alt="" width="300" height="225" srcset="/img/uploads/2019/04/merida-thexpat-300x225.jpg 300w, /img/uploads/2019/04/merida-thexpat.jpg 563w" sizes="(max-width: 300px) 100vw, 300px" />
 
 **Day 6 &#8211;**Uxmal to discover more and get knowledge of the population who used to live in Yucatàn and then follow the &#8220;travel plan&#8221; made before leaving and, always with ADO bus, go to Tulum. Tulum deserves 2/3 days to chill at the beach and from here it will be easy to visit Playa del Carmen (**Day 7) **or go to the mountains to San Cristobal (**Day 8**) for example.
 
@@ -52,7 +52,7 @@ Once you have done all this boring bureaucracy you can start to organize the **b
 
 **Days 12-13-14 &#8211; **The schedule would bring us back to Cancùn, this time to the Zona Hotelera which is closer to the beaches. To explore the areas here, we decided to choose a tour booked online to visit Las Coloradas in Rio Largatos. It is a wonderful pink lake in the middle of nowhere and, if you are lucky, during the visit you&#8217;ll be able to see the flamingos. Usually, it is more convenient to do this tour leaving from Valladolid, just because it is closer.
 
-<img class="aligncenter wp-image-1294 size-medium" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/aa0c90005604291d9f87ec652bc878ec-200x300.jpg" alt="" width="200" height="300" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/aa0c90005604291d9f87ec652bc878ec-200x300.jpg 200w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/aa0c90005604291d9f87ec652bc878ec.jpg 500w" sizes="(max-width: 200px) 100vw, 200px" />
+<img class="aligncenter wp-image-1294 size-medium" src="/img/uploads/2019/04/aa0c90005604291d9f87ec652bc878ec-200x300.jpg" alt="" width="200" height="300" srcset="/img/uploads/2019/04/aa0c90005604291d9f87ec652bc878ec-200x300.jpg 200w, /img/uploads/2019/04/aa0c90005604291d9f87ec652bc878ec.jpg 500w" sizes="(max-width: 200px) 100vw, 200px" />
 
 It wasn&#8217;t difficult to organize all of that, it just took time. The use of websites like Booking.com and Expedia was as crucial (to get all the hotels, services and book some experiences) as the tips from other travellers who have already been there.
 

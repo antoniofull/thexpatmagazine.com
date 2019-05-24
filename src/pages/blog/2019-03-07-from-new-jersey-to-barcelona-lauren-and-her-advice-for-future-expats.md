@@ -5,7 +5,7 @@ author: thexpatmagazine
 type: post
 date: 2019-03-07T20:21:37.000Z
 url: /2019/europe/from-new-jersey-to-barcelona-lauren-and-her-advice-for-future-expats/
-featured_image: /wp-content/uploads/2019/02/Catalan-Flag-in-La-Poble-de-Lliet.jpg
+featuredimage: /wp-content/uploads/2019/02/Catalan-Flag-in-La-Poble-de-Lliet.jpg
 laurel_meta_post_layout:
   - customizer
 laurel_meta_fullimage_height:
@@ -20,7 +20,7 @@ tags:
 
 Moving from New Jersey to Barcelona is quite a change! It is a change that makes you enjoy life and embrace everything that comes with it. Of course, it&#8217;s not always so easy. Things don&#8217;t always go smoothly, but with advice for future expats, it could help to embrace this change much easier.
 
-<img class="alignleft size-medium wp-image-1254" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/03/Barcelona-Cathedral-300x225.jpg" alt="" width="300" height="225" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/03/Barcelona-Cathedral-300x225.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/03/Barcelona-Cathedral-768x576.jpg 768w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/03/Barcelona-Cathedral-1024x768.jpg 1024w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/03/Barcelona-Cathedral-1150x863.jpg 1150w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/03/Barcelona-Cathedral.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />Our story today is from Lauren Smith, an American wife, mother of three, expat and blogger from New Jersey and now living in Barcelona! Her blog, The Expat Chronicle, shares all the aspects of her experience, all the ups and downs of going from the hectic to the hilarious. Also, she wants to help all the people out there who want to make the same step.
+<img class="alignleft size-medium wp-image-1254" src="/img/uploads/2019/03/Barcelona-Cathedral-300x225.jpg" alt="" width="300" height="225" srcset="/img/uploads/2019/03/Barcelona-Cathedral-300x225.jpg 300w, /img/uploads/2019/03/Barcelona-Cathedral-768x576.jpg 768w, /img/uploads/2019/03/Barcelona-Cathedral-1024x768.jpg 1024w, /img/uploads/2019/03/Barcelona-Cathedral-1150x863.jpg 1150w, /img/uploads/2019/03/Barcelona-Cathedral.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />Our story today is from Lauren Smith, an American wife, mother of three, expat and blogger from New Jersey and now living in Barcelona! Her blog, The Expat Chronicle, shares all the aspects of her experience, all the ups and downs of going from the hectic to the hilarious. Also, she wants to help all the people out there who want to make the same step.
 
 So if this feels like it&#8217;s something for you, keep on reading the top tips for you, future expat! One thing that she has learned from this experience is how much she feels inspired and amazed by all the stories of people who, like her, have moved to Spain from another country. And don&#8217;t think this is so uncommon! It&#8217;s so easy to meet new people with different and rich stories, but all united by the same spirit of living abroad. This makes also realize to Lauren that maybe somewhere out there is probably another &#8220;Smith Family&#8221; going thru the same nail-biting agonizing decision-making that we were prior to relocating here for my husband&#8217;s job.
 
@@ -54,7 +54,7 @@ So if this feels like it&#8217;s something for you, keep on reading the top tips
   </p>
   
   <p>
-    <img class="aligncenter size-medium wp-image-1255" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/03/Barcelona-Sunset-300x225.jpg" alt="" width="300" height="225" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/03/Barcelona-Sunset-300x225.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/03/Barcelona-Sunset.jpg 480w" sizes="(max-width: 300px) 100vw, 300px" />
+    <img class="aligncenter size-medium wp-image-1255" src="/img/uploads/2019/03/Barcelona-Sunset-300x225.jpg" alt="" width="300" height="225" srcset="/img/uploads/2019/03/Barcelona-Sunset-300x225.jpg 300w, /img/uploads/2019/03/Barcelona-Sunset.jpg 480w" sizes="(max-width: 300px) 100vw, 300px" />
   </p>
   
   <h4>
@@ -98,7 +98,7 @@ So if this feels like it&#8217;s something for you, keep on reading the top tips
   </p>
   
   <p>
-    <img class="alignleft size-medium wp-image-1249" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/02/Barcelona-225x300.png" alt="" width="225" height="300" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/02/Barcelona-225x300.png 225w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/02/Barcelona.png 480w" sizes="(max-width: 225px) 100vw, 225px" />
+    <img class="alignleft size-medium wp-image-1249" src="/img/uploads/2019/02/Barcelona-225x300.png" alt="" width="225" height="300" srcset="/img/uploads/2019/02/Barcelona-225x300.png 225w, /img/uploads/2019/02/Barcelona.png 480w" sizes="(max-width: 225px) 100vw, 225px" />
   </p>
   
   <p>
@@ -124,5 +124,5 @@ So if this feels like it&#8217;s something for you, keep on reading the top tips
 
 Thank you Lauren for sharing your experience and giving us top tips to embrace this experience as much as possible. For all of you thinking of even starting a business in Barcelona, we have more suggestions for you. Read on the [7 tips to open a business in Barcelona][1]. And if you are curious to learn about expatriates, here&#8217;s [what expatriation really is][2].
 
-[1]: http://localhost/thexpatmagazine-wp/2019/europe/spain/7-tips-on-how-to-open-a-business-in-barcelona/
-[2]: http://localhost/thexpatmagazine-wp/2019/living-abroad/what-expatriation-really-is/
+[1]: https://localhost/thexpatmagazine-wp/2019/europe/spain/7-tips-on-how-to-open-a-business-in-barcelona/
+[2]: https://localhost/thexpatmagazine-wp/2019/living-abroad/what-expatriation-really-is/

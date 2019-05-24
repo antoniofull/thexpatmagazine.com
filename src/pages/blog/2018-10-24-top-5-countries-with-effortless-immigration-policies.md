@@ -5,7 +5,7 @@ author: Abhyank Srinet
 type: post
 date: 2018-10-24T08:10:00.000Z
 url: /2018/expat-life/top-5-countries-with-effortless-immigration-policies/
-featured_image: /wp-content/uploads/2018/10/france.jpg
+featuredimage: /wp-content/uploads/2018/10/france.jpg
 laurel_meta_post_layout:
   - customizer
 laurel_meta_fullimage_height:
@@ -27,7 +27,7 @@ The following is the list of countries with lenient and easy immigration policie
 
 ## **1. Canada**
 
-## **<img class="aligncenter wp-image-1118 size-large" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/10/canada-new-1024x651.jpg" alt="" width="1024" height="651" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/10/canada-new-1024x651.jpg 1024w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/10/canada-new-300x191.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/10/canada-new-768x488.jpg 768w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/10/canada-new-1150x731.jpg 1150w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/10/canada-new.jpg 1380w" sizes="(max-width: 1024px) 100vw, 1024px" />**
+## **<img class="aligncenter wp-image-1118 size-large" src="/img/uploads/2018/10/canada-new-1024x651.jpg" alt="" width="1024" height="651" srcset="/img/uploads/2018/10/canada-new-1024x651.jpg 1024w, /img/uploads/2018/10/canada-new-300x191.jpg 300w, /img/uploads/2018/10/canada-new-768x488.jpg 768w, /img/uploads/2018/10/canada-new-1150x731.jpg 1150w, /img/uploads/2018/10/canada-new.jpg 1380w" sizes="(max-width: 1024px) 100vw, 1024px" />**
 
 Canada is the country with one of the most effortless immigration policies in the world. The country adopted an open immigration policy initiatives to deal with the problem of shortage of skilled labour. However, its attempt has been quite successful in the long run. According to the reports, Canada has a total population of around 36 million people out of which more than 7 million are immigrants from outside.
 
@@ -35,7 +35,7 @@ The increasing Canadian immigrant’s population indicates the welcoming attitud
 
 ## **2. Germany**
 
-<img class="aligncenter wp-image-1119 size-full" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/10/germany-new.jpg" alt="" width="1380" height="704" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/10/germany-new.jpg 1380w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/10/germany-new-300x153.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/10/germany-new-768x392.jpg 768w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/10/germany-new-1024x522.jpg 1024w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/10/germany-new-1150x587.jpg 1150w" sizes="(max-width: 1380px) 100vw, 1380px" />
+<img class="aligncenter wp-image-1119 size-full" src="/img/uploads/2018/10/germany-new.jpg" alt="" width="1380" height="704" srcset="/img/uploads/2018/10/germany-new.jpg 1380w, /img/uploads/2018/10/germany-new-300x153.jpg 300w, /img/uploads/2018/10/germany-new-768x392.jpg 768w, /img/uploads/2018/10/germany-new-1024x522.jpg 1024w, /img/uploads/2018/10/germany-new-1150x587.jpg 1150w" sizes="(max-width: 1380px) 100vw, 1380px" />
 
 \*\* \*\*Germany is considered to be one amongst those nations which attract immigrants towards itself for relocation. It consists of some of the best universities in the world with the very high quality of education, low rates of unemployment, accepting attitude towards refugees and a high rate of economic growth are some of the reasons for the popularity of Germany among the immigrants.
 
@@ -43,7 +43,7 @@ More than 10 million people out of the total of 81 million comprise of the immig
 
 ## **3.France**
 
-<img class="aligncenter wp-image-1120 size-full" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/10/france.jpg" alt="" width="1324" height="818" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/10/france.jpg 1324w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/10/france-300x185.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/10/france-768x474.jpg 768w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/10/france-1024x633.jpg 1024w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/10/france-1150x710.jpg 1150w" sizes="(max-width: 1324px) 100vw, 1324px" />
+<img class="aligncenter wp-image-1120 size-full" src="/img/uploads/2018/10/france.jpg" alt="" width="1324" height="818" srcset="/img/uploads/2018/10/france.jpg 1324w, /img/uploads/2018/10/france-300x185.jpg 300w, /img/uploads/2018/10/france-768x474.jpg 768w, /img/uploads/2018/10/france-1024x633.jpg 1024w, /img/uploads/2018/10/france-1150x710.jpg 1150w" sizes="(max-width: 1324px) 100vw, 1324px" />
 
 \*\* \*\*France has always been a country with an open border policy. Currently, the country has a population of more than 64 million people of which around 6 million are immigrants from outside. The country welcomes diversity of immigrants from countries like Spain, Italy, Germany, Belgium, Argentine, and the United Kingdom. Due to the large population of immigrants the country has a diversely rich culture.
 
@@ -51,7 +51,7 @@ Also, France is one of the most influential countries in the world and a signifi
 
 ## **4. Australia**
 
-<img class="alignnone wp-image-1121 size-full" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/10/australia.jpg" alt="" width="1380" height="921" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/10/australia.jpg 1380w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/10/australia-300x200.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/10/australia-768x513.jpg 768w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/10/australia-1024x683.jpg 1024w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/10/australia-1150x768.jpg 1150w" sizes="(max-width: 1380px) 100vw, 1380px" />
+<img class="alignnone wp-image-1121 size-full" src="/img/uploads/2018/10/australia.jpg" alt="" width="1380" height="921" srcset="/img/uploads/2018/10/australia.jpg 1380w, /img/uploads/2018/10/australia-300x200.jpg 300w, /img/uploads/2018/10/australia-768x513.jpg 768w, /img/uploads/2018/10/australia-1024x683.jpg 1024w, /img/uploads/2018/10/australia-1150x768.jpg 1150w" sizes="(max-width: 1380px) 100vw, 1380px" />
 
 Popularly known as the “land of kangaroos and koala”, Australia is a well-known destination for relocation with liberal immigration policies. The country has a population of around 5.5 million immigrants from different countries. Though one of the most expensive places in the world the people in the country enjoys a high quality of life and living standards.
 
@@ -59,7 +59,7 @@ However, the immigration system in Australia has been designed such that incomin
 
 ## **5.Ireland**
 
-<img class="alignnone wp-image-1122 size-full" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/10/ireland.jpg" alt="" width="1380" height="920" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/10/ireland.jpg 1380w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/10/ireland-300x200.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/10/ireland-768x512.jpg 768w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/10/ireland-1024x683.jpg 1024w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2018/10/ireland-1150x767.jpg 1150w" sizes="(max-width: 1380px) 100vw, 1380px" />
+<img class="alignnone wp-image-1122 size-full" src="/img/uploads/2018/10/ireland.jpg" alt="" width="1380" height="920" srcset="/img/uploads/2018/10/ireland.jpg 1380w, /img/uploads/2018/10/ireland-300x200.jpg 300w, /img/uploads/2018/10/ireland-768x512.jpg 768w, /img/uploads/2018/10/ireland-1024x683.jpg 1024w, /img/uploads/2018/10/ireland-1150x767.jpg 1150w" sizes="(max-width: 1380px) 100vw, 1380px" />
 
 \*\* \*\*Either your love for the beautiful country or your Irish background make Ireland a perfect destination for immigration and relocation. The welcoming attitude of the country backed by open and simple immigration process has led to the movement of more than 40,000 immigrants into the nation in 2014 and since then the population of immigrants has continuously increased.
 

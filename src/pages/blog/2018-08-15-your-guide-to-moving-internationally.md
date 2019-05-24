@@ -5,7 +5,7 @@ author: thexpatmagazine
 type: post
 date: 2018-08-15T06:40:39.000Z
 url: /2018/expat-life/your-guide-to-moving-internationally/
-featured_image: /wp-content/uploads/2018/08/international-departures.jpg
+featuredimage: /wp-content/uploads/2018/08/international-departures.jpg
 laurel_meta_post_layout:
   - customizer
 laurel_meta_fullimage_height:
@@ -33,5 +33,5 @@ Author bio: Kay Lester is the founder and President of Trans-Global Auto Logisti
  <iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/4UvChlDI659DcE" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
 
 <div style="margin-bottom: 5px;">
-  <strong> Your Guide To Moving Internationally </strong> from <strong><a href="http://tgal.us/boat-yacht-shipping/" target="_blank" rel="noopener">Trans Global Auto Logistics</a></strong>
+  <strong> Your Guide To Moving Internationally </strong> from <strong><a href="https://tgal.us/boat-yacht-shipping/" target="_blank" rel="noopener">Trans Global Auto Logistics</a></strong>
 </div>

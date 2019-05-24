@@ -13,15 +13,15 @@ tags:
   - most punctual airpots
 ---
 
-The  <a href="http://www.oag.com" target="_blank"><strong>OAG</strong></a>, the the UK based aviation data monitor, released a press with a study that determines the **most punctual airport in the World**, and the most punctual airlines.
+The  <a href="https://www.oag.com" target="_blank"><strong>OAG</strong></a>, the the UK based aviation data monitor, released a press with a study that determines the **most punctual airport in the World**, and the most punctual airlines.
 
 Surprising the first place on the list is taken by the small Hub of _**Bristol**_ in the UK. The Hub hosts flights in Europe and Africa and has the 94.4 % of the flights arrived within 15 minutes from the scheduled time, making it the most punctual airport in the World.<!--more-->
 
-[<img class="alignnone size-full wp-image-385" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2015/01/bristol.jpg" alt="Bristol" width="750" height="536" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2015/01/bristol.jpg 750w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2015/01/bristol-300x214.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2015/01/bristol-700x500.jpg 700w" sizes="(max-width: 750px) 100vw, 750px" />][1]Foto Credit : wikipedia.
+<img class="alignnone size-full wp-image-385" src="/img/uploads/2015/01/bristol.jpg" alt="Bristol" width="750" height="536" srcset="/img/uploads/2015/01/bristol.jpg 750w, /img/uploads/2015/01/bristol-300x214.jpg 300w, /img/uploads/2015/01/bristol-700x500.jpg 700w" sizes="(max-width: 750px) 100vw, 750px" />[1]Foto Credit : wikipedia.
 
 The first airport from London to top the rank is Luton, among the first 10 but far away from the performance of the best airport. The second place is taken by the **_Brussels South Charleroi Airport_** at 93.1% (**Ryanair** flies also from here)  and **Berlin Schoenefeld** at 92.3% of scheduled flights.
 
-[wp\_ad\_camp_1]
+
 
 **Atlanta** is the most busiest airline in the World, but ranks only 12th while **Dubai** is 14th. If we look at the largest Hub then germans confirms their leadership in punctuality, with Munich Airport the most punctual at 89% of flights arrived in time. **Tokyo** and **Seattle** follow the German Hub.
 
@@ -63,7 +63,7 @@ These are the others airlines companies in the rank :
 </p>
 
 <p class="zn-body__paragraph">
-  You can read the complete press release at this <a href="http://www.oag.com/Press-Room/bristol-airport-and-airbaltic-win-global-otp-battle" target="_blank">link</a>.
+  You can read the complete press release at this <a href="https://www.oag.com/Press-Room/bristol-airport-and-airbaltic-win-global-otp-battle" target="_blank">link</a>.
 </p>
 
 <p class="zn-body__paragraph">
@@ -72,4 +72,4 @@ These are the others airlines companies in the rank :
 
 <p class="zn-body__paragraph">
 
-[1]: http://localhost/thexpatmagazine-wp/wp-content/uploads/2015/01/bristol.jpg
+[1]: /img/uploads/2015/01/bristol.jpg

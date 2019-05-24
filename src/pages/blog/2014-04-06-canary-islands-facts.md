@@ -5,33 +5,7 @@ author: thexpatmagazine
 type: post
 date: 2014-04-06T14:46:47.000Z
 url: /2014/europe/canary-islands-facts/
-featured_image: /wp-content/uploads/2014/04/hierro-751x500.jpg
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
-bd_video_type:
-  - youtube
-bd_post_background_color:
-  - '#'
-bd_post_background_repeat:
-  - repeat
-bd_post_background_attachment:
-  - scroll
-bd_post_background_x:
-  - center
-bd_post_background_y:
-  - center
-bd_review_type:
-  - stars
-bd_criteria_display:
-  - t
-yuzo_related_post_metabox:
-  - 'a:3:{s:17:"yuzo_include_post";s:0:"";s:17:"yuzo_exclude_post";s:0:"";s:21:"yuzo_disabled_related";N;}'
-meta_box_featured:
-  - off
-et_enqueued_post_fonts:
-  - 'a:2:{s:6:"family";a:2:{s:15:"et-gf-quicksand";s:29:"Quicksand:300,regular,500,700";s:10:"et-gf-lato";s:75:"Lato:100,100italic,300,300italic,regular,italic,700,700italic,900,900italic";}s:6:"subset";a:2:{i:0;s:5:"latin";i:1;s:9:"latin-ext";}}'
+featuredimage: /wp-content/uploads/2014/04/hierro-751x500.jpg
 categories:
   - Europe
   - Spain
@@ -51,13 +25,13 @@ The name of canary is not inspired by birds, canaries, as the name could seems. 
 
 **2 &#8211; The canary island pine is a tree capable of resist to fire.**
 
-it&#8217;s property to refrigerate and regenerate made it resistant to fire. After a fire, even if the plant is destroyed, it can grow up again  from the lower trunk. Is one of the most resistant conifers in the world. (<a href="http://en.wikipedia.org/wiki/Pinus_canariensis" target="_blank">wikipedia</a>)
+it&#8217;s property to refrigerate and regenerate made it resistant to fire. After a fire, even if the plant is destroyed, it can grow up again  from the lower trunk. Is one of the most resistant conifers in the world. (<a href="https://en.wikipedia.org/wiki/Pinus_canariensis" target="_blank">wikipedia</a>)
 
 **3 &#8211; Hierro island once was the prime meridian before greenwich**
 
 The Hierro (Iron)  island once was the first meridian, known in European history as the prime meridian in common use outside of the future British Empire.
 
-[<img class="alignnone size-full wp-image-154" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/04/hierro.jpg" alt="hierro" width="1024" height="682" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/04/hierro.jpg 1024w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/04/hierro-300x200.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/04/hierro-768x512.jpg 768w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/04/hierro-751x500.jpg 751w" sizes="(max-width: 1024px) 100vw, 1024px" />][1]
+<img class="alignnone size-full wp-image-154" src="/img/uploads/2014/04/hierro.jpg" alt="hierro" width="1024" height="682" srcset="/img/uploads/2014/04/hierro.jpg 1024w, /img/uploads/2014/04/hierro-300x200.jpg 300w, /img/uploads/2014/04/hierro-768x512.jpg 768w, /img/uploads/2014/04/hierro-751x500.jpg 751w" sizes="(max-width: 1024px) 100vw, 1024px" />][1]
 
 **4 &#8211; There are several different type of &#8220;microclima&#8221;**
 
@@ -65,7 +39,7 @@ Weather is nice and usually the average during the year is 20 ºC, but it can d
 
 **5 &#8211; Te La Palma airport is the first and unique one in Europe completely powered by wind energy**
 
-This <a href="http://en.wikipedia.org/wiki/La_palma" target="_blank">small airport</a>, mostly used for moving between the islands, is the first one in Europe to be  **powered  by wind energy**.
+This <a href="https://en.wikipedia.org/wiki/La_palma" target="_blank">small airport</a>, mostly used for moving between the islands, is the first one in Europe to be  **powered  by wind energy**.
 
 **6 &#8211; The Gran Canaria airport was an official NASA space landing site until 2011.**
 
@@ -83,7 +57,7 @@ In 1977 at the **Tenerife airport** a collision between a klm boing and a Pam an
 
 With only 4 rooms but a beautiful view, this small hotel has the record to be the smallest in the world.
 
-[<img class="alignnone size-full wp-image-153" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/04/hierro-hotel.jpg" alt="smallest hotel in the world" width="500" height="380" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/04/hierro-hotel.jpg 500w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/04/hierro-hotel-300x228.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />][2]
+<img class="alignnone size-full wp-image-153" src="/img/uploads/2014/04/hierro-hotel.jpg" alt="smallest hotel in the world" width="500" height="380" srcset="/img/uploads/2014/04/hierro-hotel.jpg 500w, /img/uploads/2014/04/hierro-hotel-300x228.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />][2]
 
 **10 &#8211; The Wind-Hydro-Pumped Station of El Hierro will power the entire region with sustainable energy.**
 
@@ -99,5 +73,5 @@ The goal is to power the entire region only using sustainable energy.
 
 <span style="color: #4189dd; font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-weight: bold; line-height: normal;"> </span>
 
-[1]: http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/04/hierro.jpg
-[2]: http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/04/hierro-hotel.jpg
+[1]: /img/uploads/2014/04/hierro.jpg
+[2]: /img/uploads/2014/04/hierro-hotel.jpg

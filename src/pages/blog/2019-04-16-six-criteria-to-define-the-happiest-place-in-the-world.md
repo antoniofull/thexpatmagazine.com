@@ -5,7 +5,7 @@ author: Rossella Davi
 type: post
 date: 2019-04-16T19:41:33.000Z
 url: /2019/living-abroad/six-criteria-to-define-the-happiest-place-in-the-world/
-featured_image: /wp-content/uploads/2019/04/markus-spiske-484245-unsplash.jpg
+featuredimage: /wp-content/uploads/2019/04/markus-spiske-484245-unsplash.jpg
 laurel_meta_post_layout:
   - customizer
 laurel_meta_fullimage_height:
@@ -21,7 +21,7 @@ When someone decides to go and live abroad, people usually ask “why there?” 
 
 Since 2012 the United Nations Sustainable Development Solutions Network (UN), in partnership with the Ernesto Illy Foundation, is running the World Happiness Report.
 
-<img class="aligncenter size-large wp-image-1297" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/val-vesa-624638-unsplash-1024x682.jpg" alt="" width="1024" height="682" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/val-vesa-624638-unsplash-1024x682.jpg 1024w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/val-vesa-624638-unsplash-300x200.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/val-vesa-624638-unsplash-768x512.jpg 768w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/val-vesa-624638-unsplash-1150x766.jpg 1150w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2019/04/val-vesa-624638-unsplash.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img class="aligncenter size-large wp-image-1297" src="/img/uploads/2019/04/val-vesa-624638-unsplash-1024x682.jpg" alt="" width="1024" height="682" srcset="/img/uploads/2019/04/val-vesa-624638-unsplash-1024x682.jpg 1024w, /img/uploads/2019/04/val-vesa-624638-unsplash-300x200.jpg 300w, /img/uploads/2019/04/val-vesa-624638-unsplash-768x512.jpg 768w, /img/uploads/2019/04/val-vesa-624638-unsplash-1150x766.jpg 1150w, /img/uploads/2019/04/val-vesa-624638-unsplash.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 ## For 2019 the top places considered the happiest in the world are:
 

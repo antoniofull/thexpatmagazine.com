@@ -6,34 +6,8 @@ type: post
 date: 2015-01-13T12:56:33.000Z
 url: /2015/europe/moving-gibraltar-need-know/
 featuredimage: /wp-content/uploads/2015/01/Gibraltar-667x500.jpg
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
-bd_video_type:
-  - youtube
-bd_post_background_color:
-  - '#'
-bd_post_background_repeat:
-  - repeat
-bd_post_background_attachment:
-  - scroll
-bd_post_background_x:
-  - center
-bd_post_background_y:
-  - center
-bd_review_type:
-  - stars
-bd_criteria_display:
-  - t
-rop_post_url_twitter:
-  - 'http://localhost/thexpatmagazine-wp/2015/europe/moving-gibraltar-need-know/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-yuzo_related_post_metabox:
-  - 'a:3:{s:17:"yuzo_include_post";s:0:"";s:17:"yuzo_exclude_post";s:0:"";s:21:"yuzo_disabled_related";N;}'
-meta_box_featured:
-  - off
-et_enqueued_post_fonts:
-  - 'a:2:{s:6:"family";a:2:{s:15:"et-gf-quicksand";s:29:"Quicksand:300,regular,500,700";s:10:"et-gf-lato";s:75:"Lato:100,100italic,300,300italic,regular,italic,700,700italic,900,900italic";}s:6:"subset";a:2:{i:0;s:5:"latin";i:1;s:9:"latin-ext";}}'
+reltwitter:
+  - 'https://localhost/thexpatmagazine-wp/2015/europe/moving-gibraltar-need-know/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
 categories:
   - Europe
   - United Kingdom
@@ -50,13 +24,13 @@ _**Gibraltar**_ is a **British** overseas territory located in the southern part
 
 The weather and the classic friendly **Spanish** attitude from the **South** make **Gibraltar** an interesting place to relocate. We investigated a little bit to understand how to live and work in **Gibraltar**.
 
-## [<img class="alignnone size-large wp-image-392" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2015/01/Gibraltar-1024x768.jpg" alt="Gibraltar" width="785" height="589" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2015/01/Gibraltar-1024x768.jpg 1024w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2015/01/Gibraltar-300x225.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2015/01/Gibraltar-768x576.jpg 768w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2015/01/Gibraltar-667x500.jpg 667w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2015/01/Gibraltar-800x600.jpg 800w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2015/01/Gibraltar.jpg 1280w" sizes="(max-width: 785px) 100vw, 785px" />][1]
+## <img class="alignnone size-large wp-image-392" src="/img/uploads/2015/01/Gibraltar-1024x768.jpg" alt="Gibraltar" width="785" height="589" srcset="/img/uploads/2015/01/Gibraltar-1024x768.jpg 1024w, /img/uploads/2015/01/Gibraltar-300x225.jpg 300w, /img/uploads/2015/01/Gibraltar-768x576.jpg 768w, /img/uploads/2015/01/Gibraltar-667x500.jpg 667w, /img/uploads/2015/01/Gibraltar-800x600.jpg 800w, /img/uploads/2015/01/Gibraltar.jpg 1280w" sizes="(max-width: 785px) 100vw, 785px" />[1]
 
 ## 1- More than English!
 
 **Gibraltar** is english speaking, but many people prefer to speak Spanish. Then there is** Llanito**, which is an electric mix of British and **Andalusian** **Spanish**. In general learning Spanish is a very good thing.
 
-[wp\_ad\_camp_1]
+
 
 ## 2 &#8211; Most of the expats don&#8217;t live in Gibraltar.
 
@@ -86,9 +60,9 @@ Basically the airport takes the big highway, so anytime a plane is expected to l
 
 ## 8 &#8211; The Costa del Sol.
 
-[<img class="alignnone size-large wp-image-391" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2015/01/costa-del-sol-1024x564.jpg" alt="costa del sol" width="785" height="432" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2015/01/costa-del-sol-1024x564.jpg 1024w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2015/01/costa-del-sol-300x165.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2015/01/costa-del-sol-768x423.jpg 768w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2015/01/costa-del-sol-908x500.jpg 908w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2015/01/costa-del-sol.jpg 1280w" sizes="(max-width: 785px) 100vw, 785px" />][2]
+<img class="alignnone size-large wp-image-391" src="/img/uploads/2015/01/costa-del-sol-1024x564.jpg" alt="costa del sol" width="785" height="432" srcset="/img/uploads/2015/01/costa-del-sol-1024x564.jpg 1024w, /img/uploads/2015/01/costa-del-sol-300x165.jpg 300w, /img/uploads/2015/01/costa-del-sol-768x423.jpg 768w, /img/uploads/2015/01/costa-del-sol-908x500.jpg 908w, /img/uploads/2015/01/costa-del-sol.jpg 1280w" sizes="(max-width: 785px) 100vw, 785px" />[2]
 
 We have to mention again, this is a magnificent place full of sun and lovely people that will make you fall in love at first sight. La _**Costa del Sol**_ goes from the borders of Gib up to the always partying city of Malaga.
 
-[1]: http://localhost/thexpatmagazine-wp/wp-content/uploads/2015/01/Gibraltar.jpg
-[2]: http://localhost/thexpatmagazine-wp/wp-content/uploads/2015/01/costa-del-sol.jpg
+[1]: /img/uploads/2015/01/Gibraltar.jpg
+[2]: /img/uploads/2015/01/costa-del-sol.jpg

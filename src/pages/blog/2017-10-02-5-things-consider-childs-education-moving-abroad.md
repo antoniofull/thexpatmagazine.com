@@ -5,11 +5,7 @@ author: thexpatmagazine
 type: post
 date: 2017-10-02T19:17:01.000Z
 url: /2017/living-abroad/5-things-consider-childs-education-moving-abroad/
-featured_image: /wp-content/uploads/2017/10/knowledge-1052010_1920-667x500.jpg
-meta_box_featured:
-  - on
-et_enqueued_post_fonts:
-  - 'a:2:{s:6:"family";a:0:{}s:6:"subset";a:2:{i:0;s:5:"latin";i:1;s:9:"latin-ext";}}'
+featuredimage: /wp-content/uploads/2017/10/knowledge-1052010_1920-667x500.jpg
 categories:
   - Living abroad
 tags:
@@ -21,7 +17,7 @@ Moving abroad for a new way of life is the start of an exciting adventure for fa
 
 [amazon\_link asins=&#8217;0956845606&#8242; template=&#8217;ProductCarousel&#8217; store=&#8217;thexpatmagazi-21&#8242; marketplace=&#8217;UK&#8217; link\_id=&#8217;f410e6b5-a7a5-11e7-8393-2d506fef9756&#8242;]
 
-## <img class="alignnone size-large wp-image-564" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2017/10/knowledge-1052010_1920-1024x768.jpg" alt="" width="1024" height="768" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2017/10/knowledge-1052010_1920-1024x768.jpg 1024w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2017/10/knowledge-1052010_1920-300x225.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2017/10/knowledge-1052010_1920-768x576.jpg 768w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2017/10/knowledge-1052010_1920-667x500.jpg 667w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2017/10/knowledge-1052010_1920-800x600.jpg 800w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2017/10/knowledge-1052010_1920.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />
+## <img class="alignnone size-large wp-image-564" src="/img/uploads/2017/10/knowledge-1052010_1920-1024x768.jpg" alt="" width="1024" height="768" srcset="/img/uploads/2017/10/knowledge-1052010_1920-1024x768.jpg 1024w, /img/uploads/2017/10/knowledge-1052010_1920-300x225.jpg 300w, /img/uploads/2017/10/knowledge-1052010_1920-768x576.jpg 768w, /img/uploads/2017/10/knowledge-1052010_1920-667x500.jpg 667w, /img/uploads/2017/10/knowledge-1052010_1920-800x600.jpg 800w, /img/uploads/2017/10/knowledge-1052010_1920.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 ## 1. The language barrier
 
@@ -29,7 +25,7 @@ If your first language is English then moving to a country where English is comm
 
 ## 2. Your child’s age
 
-[wp\_ad\_camp_1]
+
 
 If your children are teenagers and approaching crucial exams then the timing of your move can be a concern. International schools may not be close to where you live or work and may not teach the curriculum your child is studying. Online schools such as [InterHigh][1],  may be a great option in such circumstances. It teaches pupils the full British curriculum, from iGCSEs through to AS and A Levels and because of its online status, timetabled lessons can be accessed anywhere in the world where there is an internet connection.
 
@@ -45,4 +41,4 @@ The quality of your social life can have an enormous impact on your children as 
 
 Being based overseas gives children an edge in later life. Learning a new language and experiencing a new culture not only gives them additional skills, but also opens up opportunity in more locations. If you move away from the UK, studying a British-based curriculum at an international or online school can also give you the qualifications and flexibility of being able to return home to work in later life.
 
-[1]: http://www.interhigh.co.uk/
+[1]: https://www.interhigh.co.uk/

@@ -25,7 +25,7 @@ This story is about a  woman and her husband. They both were **illiterate** an
 
 <!--more-->
 
-[<img class="alignnone size-medium wp-image-95" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/03/love_letter-213x300.jpg" alt="Love Letter" width="213" height="300" />][1]
+<img class="alignnone size-medium wp-image-95" src="/img/uploads/2014/03/love_letter-213x300.jpg" alt="Love Letter" width="213" height="300" />[1]
 
 She drew this letter for him, and this is the &#8220;<span style="text-decoration: underline;">translation</span>&#8221; by the write **Comiso Geraldo** :
 
@@ -39,4 +39,4 @@ _Goodbye my love, I’m only yours and faithful, holding together like our two w
 
 This really makes me think how language barriers can be shut down when your love and will are so strong, It doesn&#8217;t matter what language you speak,  you will always find a way to express your feelings and emotions. And you, what do you think?
 
-[1]: http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/03/love_letter.jpg
+[1]: /img/uploads/2014/03/love_letter.jpg

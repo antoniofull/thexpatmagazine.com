@@ -5,35 +5,9 @@ author: thexpatmagazine
 type: post
 date: 2014-11-20T20:42:29.000Z
 url: /2014/living-abroad/diving-top-sites/
-featured_image: /wp-content/uploads/2014/11/Screen-Shot-2014-11-20-at-21.41.37.png
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
-bd_video_type:
-  - youtube
-bd_post_background_color:
-  - '#'
-bd_post_background_repeat:
-  - repeat
-bd_post_background_attachment:
-  - scroll
-bd_post_background_x:
-  - center
-bd_post_background_y:
-  - center
-bd_review_type:
-  - stars
-bd_criteria_display:
-  - t
-rop_post_url_twitter:
-  - 'http://localhost/thexpatmagazine-wp/2014/living-abroad/diving-top-sites/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-yuzo_related_post_metabox:
-  - 'a:3:{s:17:"yuzo_include_post";s:0:"";s:17:"yuzo_exclude_post";s:0:"";s:21:"yuzo_disabled_related";N;}'
-meta_box_featured:
-  - off
-et_enqueued_post_fonts:
-  - 'a:2:{s:6:"family";a:2:{s:15:"et-gf-quicksand";s:29:"Quicksand:300,regular,500,700";s:10:"et-gf-lato";s:75:"Lato:100,100italic,300,300italic,regular,italic,700,700italic,900,900italic";}s:6:"subset";a:2:{i:0;s:5:"latin";i:1;s:9:"latin-ext";}}'
+featuredimage: /wp-content/uploads/2014/11/Screen-Shot-2014-11-20-at-21.41.37.png
+reltwitter:
+  - 'https://localhost/thexpatmagazine-wp/2014/living-abroad/diving-top-sites/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
 categories:
   - Living abroad
 tags:
@@ -47,7 +21,7 @@ Are you a diver or wannabe? Looking for the most beautiful sights to dive? No mo
 
 ## 1 &#8211; Barracuda Point (Malaysia)
 
-[wp\_ad\_camp_1]
+
 
 {{< youtube 0OGp5XNQj5E >}}
 
