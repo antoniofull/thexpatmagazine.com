@@ -104,7 +104,7 @@ collections:
           widget: 'hidden',
           default: 'blog-post',
         }
-      - { label: 'Name', name: 'name', widget: 'string' }
+      - { label: 'Name', name: 'title', widget: 'string' }
       - { label: 'Bio (In Markdown)', name: 'bio', widget: 'markdown' }
       - { label: 'Photo', name: 'Photo', widget: image }
       - {
@@ -139,7 +139,7 @@ collections:
           widget: 'hidden',
           default: 'blog-post',
         }
-      - { label: 'Name', name: 'name', widget: 'string' }
+      - { label: 'Name', name: 'title', widget: 'string' }
       - { label: 'Bio (In Markdown)', name: 'bio', widget: 'markdown' }
       - { label: 'Photo', name: 'Photo', widget: image }
       - { label: 'Instagram', name: 'instagram', widget: 'string' }
