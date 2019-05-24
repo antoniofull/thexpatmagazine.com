@@ -26,7 +26,7 @@ Here ten facts about them that you probably did not know, but it would be useful
 
 They like to eat in this way. A hot meal during lunch and a quick and cold dinner. This type of dinner is called  **Abendbrot, **and basically consist of bread with ham, cheese and  vegetables.
 
-<img class="size-full wp-image-158" alt="abendbrot" src="/img/uploads/2014/04/abendbrot-der-woche.jpg" width="800" height="600" srcset="/img/uploads/2014/04/abendbrot-der-woche.jpg 800w, /img/uploads/2014/04/abendbrot-der-woche-300x225.jpg 300w, /img/uploads/2014/04/abendbrot-der-woche-768x576.jpg 768w, /img/uploads/2014/04/abendbrot-der-woche-667x500.jpg 667w" sizes="(max-width: 800px) 100vw, 800px" />
+<img alt="abendbrot" src="/img/uploads/2014/04/abendbrot-der-woche.jpg" width="800" height="600" srcset="/img/uploads/2014/04/abendbrot-der-woche.jpg 800w, /img/uploads/2014/04/abendbrot-der-woche-300x225.jpg 300w, /img/uploads/2014/04/abendbrot-der-woche-768x576.jpg 768w, /img/uploads/2014/04/abendbrot-der-woche-667x500.jpg 667w" sizes="(max-width: 800px) 100vw, 800px" />
 
 &nbsp;
 
@@ -46,7 +46,7 @@ Yes, this is not because of some phobia but for hygienic reasons. The air outsid
 
 Sunday is the perfect day to clean your house or do some domestic work, well .. in Germany is not like that, sunday is a quite day dedicated to relax so your neighbours are likely to complain if you do.
 
-<img class="size-full wp-image-159" alt="germans" src="/img/uploads/2014/04/germans.jpg" width="305" height="286" srcset="/img/uploads/2014/04/germans.jpg 305w, /img/uploads/2014/04/germans-300x281.jpg 300w" sizes="(max-width: 305px) 100vw, 305px" />
+<img alt="germans" src="/img/uploads/2014/04/germans.jpg" width="305" height="286" srcset="/img/uploads/2014/04/germans.jpg 305w, /img/uploads/2014/04/germans-300x281.jpg 300w" sizes="(max-width: 305px) 100vw, 305px" />
 
 &nbsp;
 

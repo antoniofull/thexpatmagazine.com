@@ -40,10 +40,10 @@ tags:
   <strong>I bought a one-way ticket to London</strong>&#8230; a suitcase of 20 kg, a pair of underwear&#8217;s, socks, two t-shirts (not that much actually), and a couple of photos, while my heart was beating so fast&#8230;full of fears and, at the same time, a lot of curiosity and desire to discover, develop and be myself to create something new.
 </p>
 
-<div id="attachment_906" style="width: 970px" class="wp-caption aligncenter">
-  <img class="2009 wp-image-906 size-full" title="Piccadilly Circus" src="/img/uploads/2018/05/13179056_10209827410110480_6073801087843175313_n.jpg" alt="London " width="960" height="720" srcset="/img/uploads/2018/05/13179056_10209827410110480_6073801087843175313_n.jpg 960w, /img/uploads/2018/05/13179056_10209827410110480_6073801087843175313_n-300x225.jpg 300w, /img/uploads/2018/05/13179056_10209827410110480_6073801087843175313_n-768x576.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" />
+<div id="attachment_906" style="width: 970px" >
+  <img title="Piccadilly Circus" src="/img/uploads/2018/05/13179056_10209827410110480_6073801087843175313_n.jpg" alt="London " width="960" height="720" srcset="/img/uploads/2018/05/13179056_10209827410110480_6073801087843175313_n.jpg 960w, /img/uploads/2018/05/13179056_10209827410110480_6073801087843175313_n-300x225.jpg 300w, /img/uploads/2018/05/13179056_10209827410110480_6073801087843175313_n-768x576.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" />
   
-  <p class="wp-caption-text">
+ <p>
     London Piccadilly Circus
   </p>
 </div>
@@ -82,10 +82,10 @@ tags:
 
 After spending these 5 years in UK, I released I wanted to discover more, so for personal motivation and the will of moving always forward, I have decided to **head to Amsterdam in Holland**.
 
-<div id="attachment_941" style="width: 970px" class="wp-caption aligncenter">
-  <img class="2012 wp-image-941 size-full" title="Amsterdam " src="/img/uploads/2018/05/ams3.jpeg" alt="Amsterdam " width="960" height="614" srcset="/img/uploads/2018/05/ams3.jpeg 960w, /img/uploads/2018/05/ams3-300x192.jpeg 300w, /img/uploads/2018/05/ams3-768x491.jpeg 768w" sizes="(max-width: 960px) 100vw, 960px" />
+<div id="attachment_941" style="width: 970px" >
+  <img title="Amsterdam " src="/img/uploads/2018/05/ams3.jpeg" alt="Amsterdam " width="960" height="614" srcset="/img/uploads/2018/05/ams3.jpeg 960w, /img/uploads/2018/05/ams3-300x192.jpeg 300w, /img/uploads/2018/05/ams3-768x491.jpeg 768w" sizes="(max-width: 960px) 100vw, 960px" />
   
-  <p class="wp-caption-text">
+ <p>
     Amsterdam
   </p>
 </div>
@@ -104,10 +104,10 @@ The first impression of the city was fantastic, a beautiful memory of feeling at
   <strong>I recommend The Netherlands as the best place to build your future</strong>, if you want to settle down and maybe (who knows) buy a house. I am 100% sure about this recommendation because I live in Barcelona at the moment, and I can see better from distance all the positive that The Netherlands has to offer. I have spent 5 years of my life in Holland, full of memories, ups and downs, good and bad, but I become very nostalgic when I think about this time and I miss it.
 </p>
 
-<div id="attachment_937" style="width: 4011px" class="wp-caption aligncenter">
-  <img class="2018 wp-image-937 size-full" title="Barcelona Platja de la Mar Bella" src="/img/uploads/2018/05/BCN1-e1526040121697.jpeg" alt="Barcelona " width="4001" height="1930" srcset="/img/uploads/2018/05/BCN1-e1526040121697.jpeg 1200w, /img/uploads/2018/05/BCN1-e1526040121697-300x145.jpeg 300w, /img/uploads/2018/05/BCN1-e1526040121697-768x370.jpeg 768w, /img/uploads/2018/05/BCN1-e1526040121697-1024x494.jpeg 1024w, /img/uploads/2018/05/BCN1-e1526040121697-1150x555.jpeg 1150w" sizes="(max-width: 4001px) 100vw, 4001px" />
+<div id="attachment_937" style="width: 4011px" >
+  <img title="Barcelona Platja de la Mar Bella" src="/img/uploads/2018/05/BCN1-e1526040121697.jpeg" alt="Barcelona " width="4001" height="1930" srcset="/img/uploads/2018/05/BCN1-e1526040121697.jpeg 1200w, /img/uploads/2018/05/BCN1-e1526040121697-300x145.jpeg 300w, /img/uploads/2018/05/BCN1-e1526040121697-768x370.jpeg 768w, /img/uploads/2018/05/BCN1-e1526040121697-1024x494.jpeg 1024w, /img/uploads/2018/05/BCN1-e1526040121697-1150x555.jpeg 1150w" sizes="(max-width: 4001px) 100vw, 4001px" />
   
-  <p class="wp-caption-text">
+ <p>
     Barcelona Platja de la Mar Bella
   </p>
 </div>

@@ -32,7 +32,7 @@ _“This is a question too difficult for a mathematician. It should be asked of 
 
 These miserable events with the big U.S. tax firm inspired Nathalie to do something about her situation: realizing her love for numbers and a passion to help American expats (like herself), Nathalie did something new. She went to took the IRS exams to become an enrolled agent and partnered with two engineering masterminds, Markus Finster and Joachim Niederreiter. The three of them worked together to create something pretty cool: [MyExpatTaxes]&#8211; the world’s first expat tax solution software where customers can do their U.S. taxes stress-free and in under 30 minutes online.
 
-<img class="alignleft size-medium wp-image-1197" src="/img/uploads/2019/01/websitegraphic-200x300.png" alt="" width="200" height="300" srcset="/img/uploads/2019/01/websitegraphic-200x300.png 200w, /img/uploads/2019/01/websitegraphic.png 600w" sizes="(max-width: 200px) 100vw, 200px" />
+<img  src="/img/uploads/2019/01/websitegraphic-200x300.png" alt="" width="200" height="300" srcset="/img/uploads/2019/01/websitegraphic-200x300.png 200w, /img/uploads/2019/01/websitegraphic.png 600w" sizes="(max-width: 200px) 100vw, 200px" />
 
 _‘’I never thought filing taxes could be this simple! I was so stressed out trying to figure out everything on my own for the first time, but with My Expat Taxes, I didn&#8217;t have to worry at all. Nathalie was beyond helpful, and I&#8217;d readily recommend doing your taxes with My Expat Taxes to anyone for easy and hassle-free filing! Thanks again!’’ -Amber C, Vienna, Austria_
 
@@ -44,7 +44,7 @@ _Additionally, for those interested in following along expat news in English on 
 
 Also, if you are planning to move abroad and need tips & tricks to organize your moving, here&#8217;s your [Guide to Moving Internationally].
 
-<img class="alignleft size-thumbnail wp-image-1196" src="/img/uploads/2019/01/Michelle-Mock-Photography-color-3-150x150.jpg" alt="" width="150" height="150" />
+<img  src="/img/uploads/2019/01/Michelle-Mock-Photography-color-3-150x150.jpg" alt="" width="150" height="150" />
 
 &nbsp;
 

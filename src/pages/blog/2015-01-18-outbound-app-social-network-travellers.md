@@ -22,7 +22,7 @@ The app is for free and is downloadable from the _**app store**_ or _**Play Stor
 
 At the beginning the _registration takes a_ while, including loading the database for the first time. But this is a good sign as there are almost <span style="text-decoration: underline;"><strong><em>1 million of travellers</em></strong></span> registered.
 
-<img class="size-large wp-image-410" src="/img/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11-1024x318.png" alt="outbound" width="785" height="244" srcset="/img/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11-1024x318.png 1024w, /img/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11-300x93.png 300w, /img/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11-768x239.png 768w, /img/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11.png 1223w" sizes="(max-width: 785px) 100vw, 785px" />
+<img  src="/img/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11-1024x318.png" alt="outbound" width="785" height="244" srcset="/img/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11-1024x318.png 1024w, /img/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11-300x93.png 300w, /img/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11-768x239.png 768w, /img/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11.png 1223w" sizes="(max-width: 785px) 100vw, 785px" />
 
 After registering a new profile, I used the email option, but it&#8217;s possible to register with Facebook which should be faster, the app loads your profile page.
 
@@ -39,8 +39,6 @@ Yes, just one click and is possible to look for free wifi hotspots around you.
 This is a very nice feature. Events are a very good way to socialise especially for solo travellers, like me. I see that the feature is not widely used yet, but it might be a very good one.
 
 The bottom menu, apart of events and profile page, presents also other features like explore,  search and noticeboard.
-
-
 
 ### Explore.
 

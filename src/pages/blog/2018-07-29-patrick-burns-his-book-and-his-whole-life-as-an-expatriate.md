@@ -38,7 +38,7 @@ The statistics for the record: my wife, Alison, and I lived in eight countries, 
 
 The USA is now my permanent home. (After Detroit, I had a spell in living in Connecticut and working in New York in the 1990s and now I’m largely retired and living in California.) I still feel I exist without any kind of deep roots anywhere. Living in the US was always a goal and, despite its faults, it remains the most attractive place to be parked for the duration…
 
-<img class="aligncenter size-medium wp-image-1073" src="/img/uploads/2018/07/PATRICK-BURNS-300x238.jpg" alt="" width="300" height="238" srcset="/img/uploads/2018/07/PATRICK-BURNS-300x238.jpg 300w, /img/uploads/2018/07/PATRICK-BURNS.jpg 558w" sizes="(max-width: 300px) 100vw, 300px" />
+<img  src="/img/uploads/2018/07/PATRICK-BURNS-300x238.jpg" alt="" width="300" height="238" srcset="/img/uploads/2018/07/PATRICK-BURNS-300x238.jpg 300w, /img/uploads/2018/07/PATRICK-BURNS.jpg 558w" sizes="(max-width: 300px) 100vw, 300px" />
 
 ### Why did you decide to write a book which includes expat stories?
 
@@ -64,7 +64,7 @@ Having said all that, it would be wrong to give the impression that this is a se
 
 Each story is a self-contained chapter and while there are some links between them, each can be read in isolation. In my mind I felt the book might appeal to various types of expatriate: the experienced ones who would be nodding along with stories and events that chimed with their own experiences; the novices and soon-to-be expats who are looking for something that will give them a feel for what to expect and, of course, the armchair expats who would love to do all these things but in reality will only experience them vicariously from the comforts of their home countries!
 
-<img class="aligncenter size-medium wp-image-1074" src="/img/uploads/2018/07/Screen-Shot-2018-07-14-at-10.33.33-AM-204x300.png" alt="" width="204" height="300" srcset="/img/uploads/2018/07/Screen-Shot-2018-07-14-at-10.33.33-AM-204x300.png 204w, /img/uploads/2018/07/Screen-Shot-2018-07-14-at-10.33.33-AM.png 335w" sizes="(max-width: 204px) 100vw, 204px" />
+<img  src="/img/uploads/2018/07/Screen-Shot-2018-07-14-at-10.33.33-AM-204x300.png" alt="" width="204" height="300" srcset="/img/uploads/2018/07/Screen-Shot-2018-07-14-at-10.33.33-AM-204x300.png 204w, /img/uploads/2018/07/Screen-Shot-2018-07-14-at-10.33.33-AM.png 335w" sizes="(max-width: 204px) 100vw, 204px" />
 
 ### What is the bit of the book that you like the most?
 

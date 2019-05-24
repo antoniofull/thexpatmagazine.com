@@ -19,7 +19,7 @@ tags:
 
 Guess what? It is possible, and here&#8217;s a list of 15 opportunities you might want to look for.
 
-<img class="aligncenter size-full wp-image-725" src="/img/uploads/2018/02/hiking-1246836_1920.jpg" alt="" width="1920" height="1081" srcset="/img/uploads/2018/02/hiking-1246836_1920.jpg 1200w, /img/uploads/2018/02/hiking-1246836_1920-300x169.jpg 300w, /img/uploads/2018/02/hiking-1246836_1920-768x432.jpg 768w, /img/uploads/2018/02/hiking-1246836_1920-1024x577.jpg 1024w, /img/uploads/2018/02/hiking-1246836_1920-1080x608.jpg 1080w" sizes="(max-width: 1920px) 100vw, 1920px" />
+<img  src="/img/uploads/2018/02/hiking-1246836_1920.jpg" alt="" width="1920" height="1081" srcset="/img/uploads/2018/02/hiking-1246836_1920.jpg 1200w, /img/uploads/2018/02/hiking-1246836_1920-300x169.jpg 300w, /img/uploads/2018/02/hiking-1246836_1920-768x432.jpg 768w, /img/uploads/2018/02/hiking-1246836_1920-1024x577.jpg 1024w, /img/uploads/2018/02/hiking-1246836_1920-1080x608.jpg 1080w" sizes="(max-width: 1920px) 100vw, 1920px" />
 
 #### **Bartending.**
 

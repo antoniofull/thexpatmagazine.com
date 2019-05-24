@@ -21,7 +21,7 @@ tags:
 
 **Iceland** was the first time and for the whole country was an incredible shock. Usually police do not carry arms with them, army in Iceland are considered threatened and dangerous and are considered only for sports.
 
-<img class="size-full wp-image-134" alt="iceland police shooting" src="/img/uploads/2014/03/6951334514_e21906983a_b.jpg" width="1024" height="683" srcset="/img/uploads/2014/03/6951334514_e21906983a_b.jpg 1024w, /img/uploads/2014/03/6951334514_e21906983a_b-300x200.jpg 300w, /img/uploads/2014/03/6951334514_e21906983a_b-768x512.jpg 768w, /img/uploads/2014/03/6951334514_e21906983a_b-750x500.jpg 750w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img alt="iceland police shooting" src="/img/uploads/2014/03/6951334514_e21906983a_b.jpg" width="1024" height="683" srcset="/img/uploads/2014/03/6951334514_e21906983a_b.jpg 1024w, /img/uploads/2014/03/6951334514_e21906983a_b-300x200.jpg 300w, /img/uploads/2014/03/6951334514_e21906983a_b-768x512.jpg 768w, /img/uploads/2014/03/6951334514_e21906983a_b-750x500.jpg 750w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 The man was a 59 -years old &#8211; he had a history of mental illness and he started to shot to the police when they entered in the building. The police officers involved in the shooting will go trough a **grief Counselling** and the police department had already apologised to the family of the victim.
 

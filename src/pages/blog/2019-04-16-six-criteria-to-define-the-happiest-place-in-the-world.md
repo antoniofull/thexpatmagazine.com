@@ -21,7 +21,7 @@ When someone decides to go and live abroad, people usually ask “why there?” 
 
 Since 2012 the United Nations Sustainable Development Solutions Network (UN), in partnership with the Ernesto Illy Foundation, is running the World Happiness Report.
 
-<img class="aligncenter size-large wp-image-1297" src="/img/uploads/2019/04/val-vesa-624638-unsplash-1024x682.jpg" alt="" width="1024" height="682" srcset="/img/uploads/2019/04/val-vesa-624638-unsplash-1024x682.jpg 1024w, /img/uploads/2019/04/val-vesa-624638-unsplash-300x200.jpg 300w, /img/uploads/2019/04/val-vesa-624638-unsplash-768x512.jpg 768w, /img/uploads/2019/04/val-vesa-624638-unsplash-1150x766.jpg 1150w, /img/uploads/2019/04/val-vesa-624638-unsplash.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img  src="/img/uploads/2019/04/val-vesa-624638-unsplash-1024x682.jpg" alt="" width="1024" height="682" srcset="/img/uploads/2019/04/val-vesa-624638-unsplash-1024x682.jpg 1024w, /img/uploads/2019/04/val-vesa-624638-unsplash-300x200.jpg 300w, /img/uploads/2019/04/val-vesa-624638-unsplash-768x512.jpg 768w, /img/uploads/2019/04/val-vesa-624638-unsplash-1150x766.jpg 1150w, /img/uploads/2019/04/val-vesa-624638-unsplash.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 ## For 2019 the top places considered the happiest in the world are:
 

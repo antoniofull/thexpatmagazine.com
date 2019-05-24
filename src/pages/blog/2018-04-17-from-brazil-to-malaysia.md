@@ -31,7 +31,7 @@ My name is Bruno Barbosa and I’m 34 years old. I’m Brazilian Jiu-Jitsu Blac
 
 A friend of my from France heard from his friend that there was a MMA Gym opening in Malaysia and they were looking for a Brazilian Jiu-Jitsu Black Belt, so he got in touch with me and asked me if I wanted to apply to be a coach in this gym. So I sent my CV and the Monarchy MMA selected me.
 
-<img class="aligncenter size-full wp-image-872" src="/img/uploads/2018/04/29060879_1680921015331702_7968274664843410176_o.jpg" alt="" width="1080" height="1080" srcset="/img/uploads/2018/04/29060879_1680921015331702_7968274664843410176_o.jpg 1080w, /img/uploads/2018/04/29060879_1680921015331702_7968274664843410176_o-150x150.jpg 150w, /img/uploads/2018/04/29060879_1680921015331702_7968274664843410176_o-300x300.jpg 300w, /img/uploads/2018/04/29060879_1680921015331702_7968274664843410176_o-768x768.jpg 768w, /img/uploads/2018/04/29060879_1680921015331702_7968274664843410176_o-1024x1024.jpg 1024w" sizes="(max-width: 1080px) 100vw, 1080px" />
+<img  src="/img/uploads/2018/04/29060879_1680921015331702_7968274664843410176_o.jpg" alt="" width="1080" height="1080" srcset="/img/uploads/2018/04/29060879_1680921015331702_7968274664843410176_o.jpg 1080w, /img/uploads/2018/04/29060879_1680921015331702_7968274664843410176_o-150x150.jpg 150w, /img/uploads/2018/04/29060879_1680921015331702_7968274664843410176_o-300x300.jpg 300w, /img/uploads/2018/04/29060879_1680921015331702_7968274664843410176_o-768x768.jpg 768w, /img/uploads/2018/04/29060879_1680921015331702_7968274664843410176_o-1024x1024.jpg 1024w" sizes="(max-width: 1080px) 100vw, 1080px" />
 
 #### Tell us a bit more about the place where you grew up?
 
@@ -67,7 +67,7 @@ I’m proud of being a foreigner who’s able to share something that I learned 
 
 Not at the moment!
 
-<img class="aligncenter size-full wp-image-874" src="/img/uploads/2018/04/29542345_1681867821903688_5138587160951830205_n.jpg" alt="" width="959" height="959" srcset="/img/uploads/2018/04/29542345_1681867821903688_5138587160951830205_n.jpg 959w, /img/uploads/2018/04/29542345_1681867821903688_5138587160951830205_n-150x150.jpg 150w, /img/uploads/2018/04/29542345_1681867821903688_5138587160951830205_n-300x300.jpg 300w, /img/uploads/2018/04/29542345_1681867821903688_5138587160951830205_n-768x768.jpg 768w" sizes="(max-width: 959px) 100vw, 959px" />
+<img  src="/img/uploads/2018/04/29542345_1681867821903688_5138587160951830205_n.jpg" alt="" width="959" height="959" srcset="/img/uploads/2018/04/29542345_1681867821903688_5138587160951830205_n.jpg 959w, /img/uploads/2018/04/29542345_1681867821903688_5138587160951830205_n-150x150.jpg 150w, /img/uploads/2018/04/29542345_1681867821903688_5138587160951830205_n-300x300.jpg 300w, /img/uploads/2018/04/29542345_1681867821903688_5138587160951830205_n-768x768.jpg 768w" sizes="(max-width: 959px) 100vw, 959px" />
 
 ##### If you want to know more about Bruno, [here]&#8216;s the link to his page.
 

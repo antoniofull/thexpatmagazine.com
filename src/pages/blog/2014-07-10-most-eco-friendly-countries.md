@@ -28,13 +28,13 @@ So, let&#8217;s see who rank the **first 10**.
 
 As usual Iceland ranks the first. The small country does a lot for the environment, both with social and political initiatives.
 
-<img class="size-full wp-image-204" src="/img/uploads/2014/07/iceland.jpg" alt="iceland" width="670" height="447" srcset="/img/uploads/2014/07/iceland.jpg 670w, /img/uploads/2014/07/iceland-300x200.jpg 300w" sizes="(max-width: 670px) 100vw, 670px" />
+<img  src="/img/uploads/2014/07/iceland.jpg" alt="iceland" width="670" height="447" srcset="/img/uploads/2014/07/iceland.jpg 670w, /img/uploads/2014/07/iceland-300x200.jpg 300w" sizes="(max-width: 670px) 100vw, 670px" />
 
 ### 2 &#8211; Switzerland
 
 Of course another not-surprising country. Switzerland has a lot of green, but also does a lot to preserve it.
 
-<img class="size-full wp-image-205" src="/img/uploads/2014/07/switzerland.jpg" alt="switzerland" width="500" height="333" srcset="/img/uploads/2014/07/switzerland.jpg 500w, /img/uploads/2014/07/switzerland-300x200.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />
+<img  src="/img/uploads/2014/07/switzerland.jpg" alt="switzerland" width="500" height="333" srcset="/img/uploads/2014/07/switzerland.jpg 500w, /img/uploads/2014/07/switzerland-300x200.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />
 
 &nbsp;
 
@@ -42,13 +42,13 @@ Of course another not-surprising country. Switzerland has a lot of green, but al
 
 We all know now Costa Rica right? The &#8220;Switzerland&#8221; of Centre-America ranks on top for environment and commitment to maintain it.
 
-<img class="size-full wp-image-51" src="/img/uploads/2014/02/Costa_Rica_VolcanoParrot_01.jpg" alt="Costa_Rica_VolcanoParrot_0" width="366" height="293" srcset="/img/uploads/2014/02/Costa_Rica_VolcanoParrot_01.jpg 366w, /img/uploads/2014/02/Costa_Rica_VolcanoParrot_01-300x240.jpg 300w" sizes="(max-width: 366px) 100vw, 366px" />
+<img  src="/img/uploads/2014/02/Costa_Rica_VolcanoParrot_01.jpg" alt="Costa_Rica_VolcanoParrot_0" width="366" height="293" srcset="/img/uploads/2014/02/Costa_Rica_VolcanoParrot_01.jpg 366w, /img/uploads/2014/02/Costa_Rica_VolcanoParrot_01-300x240.jpg 300w" sizes="(max-width: 366px) 100vw, 366px" />
 
 ### 4 &#8211; Sweden.
 
 Talking about commitment, Sweden has promised to use wind energy  as primary source  before the 2020.
 
-<img class="size-full wp-image-206" src="/img/uploads/2014/07/stockholm.jpg" alt="stockholm" width="640" height="503" srcset="/img/uploads/2014/07/stockholm.jpg 640w, /img/uploads/2014/07/stockholm-300x236.jpg 300w, /img/uploads/2014/07/stockholm-636x500.jpg 636w" sizes="(max-width: 640px) 100vw, 640px" />
+<img  src="/img/uploads/2014/07/stockholm.jpg" alt="stockholm" width="640" height="503" srcset="/img/uploads/2014/07/stockholm.jpg 640w, /img/uploads/2014/07/stockholm-300x236.jpg 300w, /img/uploads/2014/07/stockholm-636x500.jpg 636w" sizes="(max-width: 640px) 100vw, 640px" />
 
 &nbsp;
 
@@ -58,15 +58,13 @@ foto :Stockholm &#8211;  <a href="https://www.flickr.com/photos/philprice/16286
 
 Other North European country on top another commitment. Norway has promised to stop emitting gas before the 2030.
 
-<img class="size-full wp-image-207" src="/img/uploads/2014/07/norway.jpg" alt="norway" width="640" height="426" srcset="/img/uploads/2014/07/norway.jpg 640w, /img/uploads/2014/07/norway-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />
+<img  src="/img/uploads/2014/07/norway.jpg" alt="norway" width="640" height="426" srcset="/img/uploads/2014/07/norway.jpg 640w, /img/uploads/2014/07/norway-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />
 
 Foto : <a href="https://www.flickr.com/photos/leshaines123/7418439776/in/photolist-bCbzWz-bCbxN4-bpgGAb-bpgEQd-cixrG5-aEiVHY-cixr6q-cfRt4A-ckfW31-8sddrV-aEj5VE-cbHNBQ-eL74hs-a6dgnr-cfRsuw-6zFPo-4vsfKk-763rBN-5fPkrX-nUetk" target="_blank">flickr</a>.
 
 ### 6 &#8211; Mauritius.
 
 Small paradise also for the environment.
-
-<img class="size-full wp-image-208" src="/img/uploads/2014/07/mauritius.jpg" alt="mauritius" width="640" height="426" srcset="/img/uploads/2014/07/mauritius.jpg 640w, /img/uploads/2014/07/mauritius-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />
 
 Foto : <a href="https://www.flickr.com/photos/matze_ott/2247131528/in/photolist-cL6sj-95A6ZD-gbVGkP-iSekrB-hvKeQk-95D7N9-4qz8V3-95D1Hm-4qzeH9-iSd12i-95DeB1-kYbFxy-95A1AR-h7g6qE-hPWN3Y-h7hcXe-4CHH12-95A1nn-95A4Bp-dozvDy-iByEVS-iBxYCL-iBxKDj-ji9Zr4-iBzrR2-iBz7Ri-85udMP-iBzEMF-95DeGb-7RGfG-gn7E7C-4GNAc6-95AeaZ-95D2EY-avZ8H-8GsUAU-95Ae56-95Dfbs-95D7YL-8GsVEo-9MZiwk-iBzvik-4qzdom-WmT8-4C4bHa-iBxjum-iBydqB-gZ8k65-4GSLzd-95zZHc" target="_blank">Flickr</a>.
 
@@ -76,7 +74,7 @@ France has always been one of the most promoter of renewable energy.
 
 &nbsp;
 
-<img class="size-full wp-image-209" src="/img/uploads/2014/07/france.jpg" alt="france" width="640" height="426" srcset="/img/uploads/2014/07/france.jpg 640w, /img/uploads/2014/07/france-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />
+<img  src="/img/uploads/2014/07/france.jpg" alt="france" width="640" height="426" srcset="/img/uploads/2014/07/france.jpg 640w, /img/uploads/2014/07/france-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />
 
 Foto : Corsica  <a href="https://www.flickr.com/photos/terence_s_jones/8011517843/in/photolist-dcX88Z-jGf7nd-d2uQMq-6H5UmZ-6tBEZ6-baAxAx-6H5Ure-aTZSPn-axVWQV-fWjiMW-5fFvmh-dg7UAt-e6eFrB-dXdTvq-bkQ686-bgcdnF-d2uQTy-hmRC8-aAbMyU-dznyua" target="_blank">flickr</a>.
 
@@ -88,7 +86,7 @@ Another little country, Austria. The government is directly supporting the citiz
 
 &nbsp;
 
-<img class="size-full wp-image-210" src="/img/uploads/2014/07/vienna.jpg" alt="vienna" width="640" height="478" srcset="/img/uploads/2014/07/vienna.jpg 640w, /img/uploads/2014/07/vienna-300x224.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />
+<img src="/img/uploads/014/07/vienna.jpg" alt="vienna" width="640" height="478" srcset="/img/uploads/2014/07/vienna.jpg 640w, /img/uploads/2014/07/vienna-300x224.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />
 
 Foto : Vienna &#8211; <a href="https://www.flickr.com/photos/andynash/5465737376/in/photolist-h2wiGW-aLDRoi-dNLLSN-9jZkij-8PBzdu-o4hQtu-dvS82D-bvsYvR-aFztz2-fBqV5f-aHrkwH-aFXFjt-o4ieu1-dZdtca-aGF1dk-dvRVKr-e12nSF-76Evp5-buxw5P-aJ31Gn-bnqDC5-dpZiBD-bHKByB-aQap32-aFga2L-gjRPxL-9xdaXn-aEQdEa-EGSS7-ai32ZA-dTTxLW-awdWEW-779DRz-dC2pjx-bK6UEt-brphWk-dBiNNo-f6AzDW-8L7LUw-aRhRqc-e185Uf-eQFSpR-3g4cYq-bcbM3H-bSekKD-ebnweG-fBbAuz-dVMfZk-e18751-beN8wX" target="_blank">flickr</a>.
 
@@ -98,7 +96,7 @@ Foto : Vienna &#8211; <a href="https://www.flickr.com/photos/andynash/546573737
 
 Despite the political problems, Cuba takes care of their beautiful environment. Yet their efforts are admirable.
 
-<img class="size-full wp-image-211" src="/img/uploads/2014/07/cuba.jpg" alt="cuba" width="640" height="427" srcset="/img/uploads/2014/07/cuba.jpg 640w, /img/uploads/2014/07/cuba-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />
+<img  src="/img/uploads/2014/07/cuba.jpg" alt="cuba" width="640" height="427" srcset="/img/uploads/2014/07/cuba.jpg 640w, /img/uploads/2014/07/cuba-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />
 
 &nbsp;
 
@@ -108,7 +106,7 @@ Foto : <a href="https://www.flickr.com/photos/neiljs/4594251317/in/photolist-5H
 
 **Colombia** is the last in this list. The last year the government made a lot of efforts in order to slow down or stop deforestation.
 
-<img class="size-full wp-image-212" src="/img/uploads/2014/07/colombia.jpg" alt="colombia" width="640" height="429" srcset="/img/uploads/2014/07/colombia.jpg 640w, /img/uploads/2014/07/colombia-300x201.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />
+<img  src="/img/uploads/2014/07/colombia.jpg" alt="colombia" width="640" height="429" srcset="/img/uploads/2014/07/colombia.jpg 640w, /img/uploads/2014/07/colombia-300x201.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />
 
 Foto : <a href="https://www.flickr.com/photos/pedrosz/7654907444/in/photolist-A9w9X-9A8qjY-9yXZNQ-4juoE6-9KzraA-9QcMhM-fb75W6-9zi58n-9MVZWY-A9x9N-94yFyZ-cErphQ-9AzKUK-fazfD7-egwTX4-8A7qC8-9fhXMC-A9x9M-8GXE3H-8GbKWi-8AE3ST-8FGsmS-9Xb7JS-A9wWe-zKDbJ-8C6YW8-8CyhUY-ebHVBS-9S8j24-9REmxE-9PdiCJ-8BaTSq-9NhScs-9TThXg-9LaCwi-cxG4QG-zKCog-jtGC5z-9LQute-6qZ5a6-7mJvh2-8BxJ82-A9wWb-fcjAc2-A9wa2-zKh7u-rje7J-26HsWE-Pjamr-5TTzwX" target="_blank">flickr</a>.
 

@@ -32,7 +32,7 @@ It was April when the first (very) warm day arrived after a cold and long winter
 
 It didn&#8217;t take me too long before transforming in a local for this too. Here you learn how to enjoy even a small corner of sun, as soon as it comes up you are ready to go and enjoy it as much as possible. You even see people sitting on their armchairs on the sidewalk, nope it&#8217;s not crazy&#8230;but it really makes you to enjoy and be grateful for the little things you have day by day.
 
-<img class="aligncenter size-full wp-image-1026" src="/img/uploads/2018/05/UNADJUSTEDNONRAW_thumb_2232.jpg" alt="" width="1024" height="768" srcset="/img/uploads/2018/05/UNADJUSTEDNONRAW_thumb_2232.jpg 1024w, /img/uploads/2018/05/UNADJUSTEDNONRAW_thumb_2232-300x225.jpg 300w, /img/uploads/2018/05/UNADJUSTEDNONRAW_thumb_2232-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img  src="/img/uploads/2018/05/UNADJUSTEDNONRAW_thumb_2232.jpg" alt="" width="1024" height="768" srcset="/img/uploads/2018/05/UNADJUSTEDNONRAW_thumb_2232.jpg 1024w, /img/uploads/2018/05/UNADJUSTEDNONRAW_thumb_2232-300x225.jpg 300w, /img/uploads/2018/05/UNADJUSTEDNONRAW_thumb_2232-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 ### _Feeling &#8220;nordic&#8221; in my own town._
 
@@ -42,7 +42,7 @@ When you grow up in a place where summer lasts approximately 4 months (at least)
 
 Ok, we all know that bikes are the main &#8220;public transport&#8221; in The Netherlands, so no big news here. Have you ever seen the bike parking around the train stations? Well, so big and sooo many bikes parked everywhere. My question when I first saw this was &#8220;how do I not loose my bike?&#8221;, I mean I park it somewhere but it&#8217;s more like a maze game&#8230;will I be able to find it on my way back? My trick is to park it ALWAYS at the same spot or at least in the same area. I remember once I parked it next to a tree before going to gym, and when I came back I didn&#8217;t find it&#8230;.I was starting to panic when I realised I have parked it next to another tree&#8230;so you see, maybe this trick doesn&#8217;t always work. 😉
 
-<img class="aligncenter size-full wp-image-1025" src="/img/uploads/2018/05/bicycle-2580_1920.jpg" alt="" width="1920" height="1280" srcset="/img/uploads/2018/05/bicycle-2580_1920.jpg 1200w, /img/uploads/2018/05/bicycle-2580_1920-300x200.jpg 300w, /img/uploads/2018/05/bicycle-2580_1920-768x512.jpg 768w, /img/uploads/2018/05/bicycle-2580_1920-1024x683.jpg 1024w, /img/uploads/2018/05/bicycle-2580_1920-1150x767.jpg 1150w" sizes="(max-width: 1920px) 100vw, 1920px" />
+<img  src="/img/uploads/2018/05/bicycle-2580_1920.jpg" alt="" width="1920" height="1280" srcset="/img/uploads/2018/05/bicycle-2580_1920.jpg 1200w, /img/uploads/2018/05/bicycle-2580_1920-300x200.jpg 300w, /img/uploads/2018/05/bicycle-2580_1920-768x512.jpg 768w, /img/uploads/2018/05/bicycle-2580_1920-1024x683.jpg 1024w, /img/uploads/2018/05/bicycle-2580_1920-1150x767.jpg 1150w" sizes="(max-width: 1920px) 100vw, 1920px" />
 
 ### _My first birthday in Holland._
 

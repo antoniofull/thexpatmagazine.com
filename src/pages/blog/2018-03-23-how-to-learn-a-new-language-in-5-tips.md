@@ -18,7 +18,7 @@ When you decide to move to an other country, you have to consider various things
 
 &nbsp;
 
-<img class="aligncenter wp-image-832 size-full" src="/img/uploads/2018/03/hello-1502369_1280.png" alt="" width="1280" height="878" srcset="/img/uploads/2018/03/hello-1502369_1280.png 1280w, /img/uploads/2018/03/hello-1502369_1280-300x206.png 300w, /img/uploads/2018/03/hello-1502369_1280-768x527.png 768w, /img/uploads/2018/03/hello-1502369_1280-1024x702.png 1024w, /img/uploads/2018/03/hello-1502369_1280-1150x789.png 1150w" sizes="(max-width: 1280px) 100vw, 1280px" />
+<img  src="/img/uploads/2018/03/hello-1502369_1280.png" alt="" width="1280" height="878" srcset="/img/uploads/2018/03/hello-1502369_1280.png 1280w, /img/uploads/2018/03/hello-1502369_1280-300x206.png 300w, /img/uploads/2018/03/hello-1502369_1280-768x527.png 768w, /img/uploads/2018/03/hello-1502369_1280-1024x702.png 1024w, /img/uploads/2018/03/hello-1502369_1280-1150x789.png 1150w" sizes="(max-width: 1280px) 100vw, 1280px" />
 
 ### Tutors and standard lessons
 

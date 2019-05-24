@@ -27,33 +27,33 @@ Foto <a href="https://www.flickr.com/photos/zlakfoto/13667469923/in/photolist-GY
 
 ### 2 &#8211;**The Beautiful Schönbrunn Palace**, the summer palace of the Habsburgs, has no less than 1440 rooms. Yep, it&#8217;s huge. Take your time to visit it 😀
 
-<img class="size-large wp-image-178" src="/img/uploads/2014/06/5253539063_b04ceda69a_o-1024x584.jpg" alt="Schönbrunn Palace, Vienna" width="785" height="447" />
+<img src="/img/uploads/2014/06/5253539063_b04ceda69a_o-1024x584.jpg" alt="Schönbrunn Palace, Vienna" width="785" height="447" />
 
 Foto <a href="https://www.flickr.com/photos/pamilne/5253539063/in/photolist-4iRgz-8ZV8FS-8ZSbbc-8EwP9W-bM7DY6-8Ey7Gw-8Y9ocs-8ExpxC-91eL8H-8TeZ7N-8EwR49-8TbSBZ-8Y8QMh-8ExFKY-8EtSk6-cTN1XG-cTN24y-cTMuNS-8Euz3X-4iRgC/" target="_blank">Flickr</a>.
 
 ### **3 &#8211; Vienna was divided after the world war in 4 parts, each one lead by Russia, United States, France and Britain and each of them imposed different rules for the zones,  leaving only the first district international and free. In October 1955 Austria was finally re-established as a sovereign state.**
 
-<a style="line-height: 1.5em;" href="/img/uploads/2014/06/child-austria-shoes.jpg"><img class="size-full wp-image-179" src="/img/uploads/2014/06/child-austria-shoes.jpg" alt="child austria shoes" width="605" height="841" srcset="/img/uploads/2014/06/child-austria-shoes.jpg 605w, /img/uploads/2014/06/child-austria-shoes-216x300.jpg 216w, /img/uploads/2014/06/child-austria-shoes-360x500.jpg 360w" sizes="(max-width: 605px) 100vw, 605px" /></a>
+<a style="line-height: 1.5em;" href="/img/uploads/2014/06/child-austria-shoes.jpg"><img src="/img/uploads/2014/06/child-austria-shoes.jpg" alt="child austria shoes" width="605" height="841" srcset="/img/uploads/2014/06/child-austria-shoes.jpg 605w, /img/uploads/2014/06/child-austria-shoes-216x300.jpg 216w, /img/uploads/2014/06/child-austria-shoes-360x500.jpg 360w" sizes="(max-width: 605px) 100vw, 605px" /></a>
 
 Austrian boy receives new shoes during WWII via <a href="https://www.boredpanda.com/must-see-historic-moments/" target="_blank">boredpanda</a>.
 
 ### **4 &#8211; Smoking is permitted. Yes most of the local permit to smoke so don&#8217;t be surprised if you enter in a bar to have a drink and someone is smoking right next to you, and you cannot even complain! You can check this <a href="https://da.stinkts.net/rauchfreie-lokale-in-wien.html" target="_blank">list</a> for the no-smoking places in Vienna, you can thank us later.**
 
-<img class="size-full wp-image-180" src="/img/uploads/2014/06/smoking-vienna.jpg" alt="Smoking in Vienna" width="538" height="404" srcset="/img/uploads/2014/06/smoking-vienna.jpg 538w, /img/uploads/2014/06/smoking-vienna-300x225.jpg 300w" sizes="(max-width: 538px) 100vw, 538px" />
+<img  src="/img/uploads/2014/06/smoking-vienna.jpg" alt="Smoking in Vienna" width="538" height="404" srcset="/img/uploads/2014/06/smoking-vienna.jpg 538w, /img/uploads/2014/06/smoking-vienna-300x225.jpg 300w" sizes="(max-width: 538px) 100vw, 538px" />
 
 Smoke free or not? Via <a href="https://englishgirlinvienna.wordpress.com/2012/03/26/smoking/" target="_blank">englishgirlinvienna</a>.
 
 ### **5 &#8211; Dance, Dance, Dance. (not what you think). Did you say Vienna? Then you said ballets! There are over 300 ballets a year in Vienna, <a href="https://www.viennaticketoffice.com/tanz_en.php" target="_blank">check it out</a> all!**
 
-<img class="size-large wp-image-183" src="/img/uploads/2014/06/164967145_02fd182bf4_o-1024x768.jpg" alt="Ballet VIenna" width="785" height="588" srcset="/img/uploads/2014/06/164967145_02fd182bf4_o-1024x768.jpg 1024w, /img/uploads/2014/06/164967145_02fd182bf4_o-300x225.jpg 300w, /img/uploads/2014/06/164967145_02fd182bf4_o-768x576.jpg 768w, /img/uploads/2014/06/164967145_02fd182bf4_o-667x500.jpg 667w, /img/uploads/2014/06/164967145_02fd182bf4_o-800x600.jpg 800w, /img/uploads/2014/06/164967145_02fd182bf4_o.jpg 1200w" sizes="(max-width: 785px) 100vw, 785px" />
+<img src="/img/uploads/2014/06/164967145_02fd182bf4_o-1024x768.jpg" alt="Ballet VIenna" width="785" height="588" srcset="/img/uploads/2014/06/164967145_02fd182bf4_o-1024x768.jpg 1024w, /img/uploads/2014/06/164967145_02fd182bf4_o-300x225.jpg 300w, /img/uploads/2014/06/164967145_02fd182bf4_o-768x576.jpg 768w, /img/uploads/2014/06/164967145_02fd182bf4_o-667x500.jpg 667w, /img/uploads/2014/06/164967145_02fd182bf4_o-800x600.jpg 800w, /img/uploads/2014/06/164967145_02fd182bf4_o.jpg 1200w" sizes="(max-width: 785px) 100vw, 785px" />
 
 ### ** 6 &#8211;** **They keep wine for them. Vienna is the only city in the world with noteworthy winegrowing operations within thecity boundaries. Yes the wine is local and stays local.**
 
-### <img class="size-large wp-image-187" src="/img/uploads/2014/06/8726536043_7b40132630_k-1024x261.jpg" alt="Heuriger Sirbu Vienna" width="785" height="200" />Foto [Flickr].
+<img src="/img/uploads/2014/06/8726536043_7b40132630_k-1024x261.jpg" alt="Heuriger Sirbu Vienna" width="785" height="200" />Foto [Flickr].
 
 ### 7 &#8211; The Zoo of Vienna is the oldest in the world and it was founded in 1752. The name is Tiergarten Schönbrunn, try to spell it well 🙂
 
-### <img class="size-full wp-image-188" src="/img/uploads/2014/06/zoo-vienna.jpg" alt="zoo vienna" width="800" height="600" srcset="/img/uploads/2014/06/zoo-vienna.jpg 800w, /img/uploads/2014/06/zoo-vienna-300x225.jpg 300w, /img/uploads/2014/06/zoo-vienna-768x576.jpg 768w, /img/uploads/2014/06/zoo-vienna-667x500.jpg 667w" sizes="(max-width: 800px) 100vw, 800px" />Foto [Flickr.]
+<img src="/img/uploads/2014/06/zoo-vienna.jpg" alt="zoo vienna" width="800" height="600" srcset="/img/uploads/2014/06/zoo-vienna.jpg 800w, /img/uploads/2014/06/zoo-vienna-300x225.jpg 300w, /img/uploads/2014/06/zoo-vienna-768x576.jpg 768w, /img/uploads/2014/06/zoo-vienna-667x500.jpg 667w" sizes="(max-width: 800px) 100vw, 800px" />Foto [Flickr.]
 
 ###  **Bonus point.**
 

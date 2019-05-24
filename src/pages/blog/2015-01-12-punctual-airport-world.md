@@ -17,7 +17,7 @@ The  <a href="https://www.oag.com" target="_blank"><strong>OAG</strong></a>, th
 
 Surprising the first place on the list is taken by the small Hub of _**Bristol**_ in the UK. The Hub hosts flights in Europe and Africa and has the 94.4 % of the flights arrived within 15 minutes from the scheduled time, making it the most punctual airport in the World.<!--more-->
 
-<img class="size-full wp-image-385" src="/img/uploads/2015/01/bristol.jpg" alt="Bristol" width="750" height="536" srcset="/img/uploads/2015/01/bristol.jpg 750w, /img/uploads/2015/01/bristol-300x214.jpg 300w, /img/uploads/2015/01/bristol-700x500.jpg 700w" sizes="(max-width: 750px) 100vw, 750px" />Foto Credit : wikipedia.
+<img  src="/img/uploads/2015/01/bristol.jpg" alt="Bristol" width="750" height="536" srcset="/img/uploads/2015/01/bristol.jpg 750w, /img/uploads/2015/01/bristol-300x214.jpg 300w, /img/uploads/2015/01/bristol-700x500.jpg 700w" sizes="(max-width: 750px) 100vw, 750px" />Foto Credit : wikipedia.
 
 The first airport from London to top the rank is Luton, among the first 10 but far away from the performance of the best airport. The second place is taken by the **_Brussels South Charleroi Airport_** at 93.1% (**Ryanair** flies also from here)  and **Berlin Schoenefeld** at 92.3% of scheduled flights.
 

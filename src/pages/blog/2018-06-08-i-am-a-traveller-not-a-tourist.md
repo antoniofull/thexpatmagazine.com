@@ -41,10 +41,10 @@ This is a difficult question! It might sound like a cliche, but each city is be
 
 But if I have to choose a country, then my favourite one is Ireland instead&#8230; such a magic one! I love its culture and people, the most optimist folks I ever met!
 
-<div id="attachment_1041" style="width: 970px" class="wp-caption aligncenter">
+<div id="attachment_1041" style="width: 970px" >
   <img title="Amsterdam" src="/img/uploads/2018/06/21371124_10155051905088215_2649903609846765611_n.jpg" alt="" width="960" height="720" srcset="/img/uploads/2018/06/21371124_10155051905088215_2649903609846765611_n.jpg 960w, /img/uploads/2018/06/21371124_10155051905088215_2649903609846765611_n-300x225.jpg 300w, /img/uploads/2018/06/21371124_10155051905088215_2649903609846765611_n-768x576.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" />
   
-  <p class="wp-caption-text">
+ <p>
     Amsterdam
   </p>
 </div>

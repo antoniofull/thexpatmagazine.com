@@ -28,10 +28,10 @@ If you don&#8217;t you will get a fine, there is no excuse. Not even if you live
 
 ### 3 &#8211; They are always ready to contrast an invasor.
 
-<div id="attachment_219" style="width: 1034px" class="wp-caption alignnone">
+<div id="attachment_219" style="width: 1034px">
   <a href="/img/uploads/2014/09/Toblerone-line-Gland.jpg"><img src="/img/uploads/2014/09/Toblerone-line-Gland-1024x703.jpg" alt="Switzerland" width="1024" height="703" /></a>
   
-  <p class="wp-caption-text">
+  <p>
     Switzerland can survive a nuclear war
   </p>
 </div>

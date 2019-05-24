@@ -33,7 +33,7 @@ Of course, there were some tears sheding, Ross was supposed to see his friends t
 
 &nbsp;
 
-<img class="aligncenter" src="https://hslib.hillingdon.info/uploads/3/9/4/4/39440611/348580775_orig.png" alt="Image result for acs hillingdon" />
+<img  src="https://hslib.hillingdon.info/uploads/3/9/4/4/39440611/348580775_orig.png" alt="Image result for acs hillingdon" />
 
 I agree with Ross when he says that being an expat forces you to grow up quick and to learn how to say goodbye but maybe, it makes you also see the beauty of the goodbyes.
 
@@ -45,6 +45,6 @@ _&#8220;I just want to encourage you to not let that goodbye be permanent. Drop 
 
 What can I say after these meaningful words?! I believe there&#8217;s always something good even when everything around looks so sad. There is joy in tears and nothing is more important then the love we can share with each others. Goodbyes are part of expats life, for sure, but it is a choice and we need the courage to understand how to react to our feelings is one of the best lesson I have ever learnt.
 
-Thank you Ross Bolla for your kindness&#8230;we already love you!!!                                         <img class="size-medium wp-image-1221 aligncenter" src="/img/uploads/2019/02/IMG_1578-768x1152-200x300.jpg" alt="" width="200" height="300" srcset="/img/uploads/2019/02/IMG_1578-768x1152-200x300.jpg 200w, /img/uploads/2019/02/IMG_1578-768x1152.jpg 768w, /img/uploads/2019/02/IMG_1578-768x1152-683x1024.jpg 683w" sizes="(max-width: 200px) 100vw, 200px" />
+Thank you Ross Bolla for your kindness&#8230;we already love you!!!                                         <img  src="/img/uploads/2019/02/IMG_1578-768x1152-200x300.jpg" alt="" width="200" height="300" srcset="/img/uploads/2019/02/IMG_1578-768x1152-200x300.jpg 200w, /img/uploads/2019/02/IMG_1578-768x1152.jpg 768w, /img/uploads/2019/02/IMG_1578-768x1152-683x1024.jpg 683w" sizes="(max-width: 200px) 100vw, 200px" />
 
 : https://www.rossbolla.com

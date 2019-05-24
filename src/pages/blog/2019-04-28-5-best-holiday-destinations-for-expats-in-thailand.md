@@ -22,7 +22,7 @@ tags:
 
 ## **Krabi**
 
-<img class="aligncenter size-large wp-image-1309" src="/img/uploads/2019/04/andrzej-suwara-1155153-unsplash-1024x539.jpg" alt="" width="1024" height="539" srcset="/img/uploads/2019/04/andrzej-suwara-1155153-unsplash-1024x539.jpg 1024w, /img/uploads/2019/04/andrzej-suwara-1155153-unsplash-300x158.jpg 300w, /img/uploads/2019/04/andrzej-suwara-1155153-unsplash-768x404.jpg 768w, /img/uploads/2019/04/andrzej-suwara-1155153-unsplash-1150x605.jpg 1150w, /img/uploads/2019/04/andrzej-suwara-1155153-unsplash.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img  src="/img/uploads/2019/04/andrzej-suwara-1155153-unsplash-1024x539.jpg" alt="" width="1024" height="539" srcset="/img/uploads/2019/04/andrzej-suwara-1155153-unsplash-1024x539.jpg 1024w, /img/uploads/2019/04/andrzej-suwara-1155153-unsplash-300x158.jpg 300w, /img/uploads/2019/04/andrzej-suwara-1155153-unsplash-768x404.jpg 768w, /img/uploads/2019/04/andrzej-suwara-1155153-unsplash-1150x605.jpg 1150w, /img/uploads/2019/04/andrzej-suwara-1155153-unsplash.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 ###### _<span style="font-weight: 400;">Railay Beach</span>_ **&#8211; Photo ©** [**Andrzej Suwara on Unsplash**]
 
@@ -32,7 +32,7 @@ tags:
 
 ## **Ayutthaya**
 
-<img class="aligncenter size-large wp-image-1310" src="/img/uploads/2019/04/ayutthaya-2033589_1920-1024x682.jpg" alt="" width="1024" height="682" srcset="/img/uploads/2019/04/ayutthaya-2033589_1920-1024x682.jpg 1024w, /img/uploads/2019/04/ayutthaya-2033589_1920-300x200.jpg 300w, /img/uploads/2019/04/ayutthaya-2033589_1920-768x512.jpg 768w, /img/uploads/2019/04/ayutthaya-2033589_1920-1150x766.jpg 1150w, /img/uploads/2019/04/ayutthaya-2033589_1920.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img  src="/img/uploads/2019/04/ayutthaya-2033589_1920-1024x682.jpg" alt="" width="1024" height="682" srcset="/img/uploads/2019/04/ayutthaya-2033589_1920-1024x682.jpg 1024w, /img/uploads/2019/04/ayutthaya-2033589_1920-300x200.jpg 300w, /img/uploads/2019/04/ayutthaya-2033589_1920-768x512.jpg 768w, /img/uploads/2019/04/ayutthaya-2033589_1920-1150x766.jpg 1150w, /img/uploads/2019/04/ayutthaya-2033589_1920.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 ###### **Photo ©** [**Bond Supanat on Pixabay**]
 
@@ -42,7 +42,7 @@ tags:
 
 ## **Koh Samui**
 
-<img class="aligncenter size-large wp-image-1311" src="/img/uploads/2019/04/rebecca-cairns-1411956-unsplash-1024x721.jpg" alt="" width="1024" height="721" srcset="/img/uploads/2019/04/rebecca-cairns-1411956-unsplash-1024x721.jpg 1024w, /img/uploads/2019/04/rebecca-cairns-1411956-unsplash-300x211.jpg 300w, /img/uploads/2019/04/rebecca-cairns-1411956-unsplash-768x541.jpg 768w, /img/uploads/2019/04/rebecca-cairns-1411956-unsplash-1150x810.jpg 1150w, /img/uploads/2019/04/rebecca-cairns-1411956-unsplash.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img  src="/img/uploads/2019/04/rebecca-cairns-1411956-unsplash-1024x721.jpg" alt="" width="1024" height="721" srcset="/img/uploads/2019/04/rebecca-cairns-1411956-unsplash-1024x721.jpg 1024w, /img/uploads/2019/04/rebecca-cairns-1411956-unsplash-300x211.jpg 300w, /img/uploads/2019/04/rebecca-cairns-1411956-unsplash-768x541.jpg 768w, /img/uploads/2019/04/rebecca-cairns-1411956-unsplash-1150x810.jpg 1150w, /img/uploads/2019/04/rebecca-cairns-1411956-unsplash.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 ###### **Photo ©** [**Rebecca Cairns on Unsplash**]
 
@@ -50,7 +50,7 @@ tags:
 
 ## **Chiang Rai**
 
-###### <img class="aligncenter size-large wp-image-1313" src="/img/uploads/2019/04/rob-king-1443281-unsplash-1024x769.jpg" alt="" width="1024" height="769" srcset="/img/uploads/2019/04/rob-king-1443281-unsplash-1024x769.jpg 1024w, /img/uploads/2019/04/rob-king-1443281-unsplash-300x225.jpg 300w, /img/uploads/2019/04/rob-king-1443281-unsplash-768x577.jpg 768w, /img/uploads/2019/04/rob-king-1443281-unsplash-1150x863.jpg 1150w, /img/uploads/2019/04/rob-king-1443281-unsplash.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
+###### <img  src="/img/uploads/2019/04/rob-king-1443281-unsplash-1024x769.jpg" alt="" width="1024" height="769" srcset="/img/uploads/2019/04/rob-king-1443281-unsplash-1024x769.jpg 1024w, /img/uploads/2019/04/rob-king-1443281-unsplash-300x225.jpg 300w, /img/uploads/2019/04/rob-king-1443281-unsplash-768x577.jpg 768w, /img/uploads/2019/04/rob-king-1443281-unsplash-1150x863.jpg 1150w, /img/uploads/2019/04/rob-king-1443281-unsplash.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 ###### _<span style="font-weight: 400;">deity statue photography</span>_ **&#8211; Photo ©** [**Rob King on Unsplash**]
 
@@ -60,7 +60,7 @@ tags:
 
 ## **Kanchanaburi**
 
-<img class="aligncenter size-large wp-image-1312" src="/img/uploads/2019/04/waterfall-3182326_1920-1024x702.jpg" alt="" width="1024" height="702" srcset="/img/uploads/2019/04/waterfall-3182326_1920-1024x702.jpg 1024w, /img/uploads/2019/04/waterfall-3182326_1920-300x206.jpg 300w, /img/uploads/2019/04/waterfall-3182326_1920-768x527.jpg 768w, /img/uploads/2019/04/waterfall-3182326_1920-1150x789.jpg 1150w, /img/uploads/2019/04/waterfall-3182326_1920.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img  src="/img/uploads/2019/04/waterfall-3182326_1920-1024x702.jpg" alt="" width="1024" height="702" srcset="/img/uploads/2019/04/waterfall-3182326_1920-1024x702.jpg 1024w, /img/uploads/2019/04/waterfall-3182326_1920-300x206.jpg 300w, /img/uploads/2019/04/waterfall-3182326_1920-768x527.jpg 768w, /img/uploads/2019/04/waterfall-3182326_1920-1150x789.jpg 1150w, /img/uploads/2019/04/waterfall-3182326_1920.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 ###### **Photo ©** [**Pixabay**]
 
@@ -70,7 +70,7 @@ tags:
 
 ### **About the Author:**
 
-<img class="aligncenter size-thumbnail wp-image-1271" src="/img/uploads/2019/04/maryn-mcdonnell-image-150x150.jpg" alt="" width="150" height="150" srcset="/img/uploads/2019/04/maryn-mcdonnell-image-150x150.jpg 150w, /img/uploads/2019/04/maryn-mcdonnell-image-300x300.jpg 300w, /img/uploads/2019/04/maryn-mcdonnell-image-768x768.jpg 768w, /img/uploads/2019/04/maryn-mcdonnell-image.jpg 960w" sizes="(max-width: 150px) 100vw, 150px" />
+<img  src="/img/uploads/2019/04/maryn-mcdonnell-image-150x150.jpg" alt="" width="150" height="150" srcset="/img/uploads/2019/04/maryn-mcdonnell-image-150x150.jpg 150w, /img/uploads/2019/04/maryn-mcdonnell-image-300x300.jpg 300w, /img/uploads/2019/04/maryn-mcdonnell-image-768x768.jpg 768w, /img/uploads/2019/04/maryn-mcdonnell-image.jpg 960w" sizes="(max-width: 150px) 100vw, 150px" />
 
 _<span style="font-weight: 400;">As a life of a digital nomad and years of writing experience, Maryn Mcdonnell is a travel writer who loves exploring the world and shares her travel experiences with other passionate travellers out there. Find Maryn on Twitter </span>_[_<span style="font-weight: 400;">@MarynMcdonnell</span>_]
 

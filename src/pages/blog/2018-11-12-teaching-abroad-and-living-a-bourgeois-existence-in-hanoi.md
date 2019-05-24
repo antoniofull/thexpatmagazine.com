@@ -55,7 +55,7 @@ tags:
 
 <span style="font-weight: 400;">“It often takes these ‘teachers’ months to figure out how proper classroom structure and discipline works and in the meantime, paying customers to suffer their incompetence.”</span>
 
-<img class="aligncenter size-full wp-image-1133" src="/img/uploads/2018/11/Teaching-in-Hanoi-4.png" alt="" width="720" height="401" srcset="/img/uploads/2018/11/Teaching-in-Hanoi-4.png 720w, /img/uploads/2018/11/Teaching-in-Hanoi-4-300x167.png 300w" sizes="(max-width: 720px) 100vw, 720px" />
+<img  src="/img/uploads/2018/11/Teaching-in-Hanoi-4.png" alt="" width="720" height="401" srcset="/img/uploads/2018/11/Teaching-in-Hanoi-4.png 720w, /img/uploads/2018/11/Teaching-in-Hanoi-4-300x167.png 300w" sizes="(max-width: 720px) 100vw, 720px" />
 
 ## ‘White props’
 
@@ -97,7 +97,7 @@ tags:
 
 <span style="font-weight: 400;">“It will rectify itself, the government aren’t going to let it go on forever.”</span>
 
-<img class="aligncenter size-full wp-image-1132" src="/img/uploads/2018/11/photo.jpeg" alt="" width="1548" height="871" srcset="/img/uploads/2018/11/photo.jpeg 1548w, /img/uploads/2018/11/photo-300x169.jpeg 300w, /img/uploads/2018/11/photo-768x432.jpeg 768w, /img/uploads/2018/11/photo-1024x576.jpeg 1024w, /img/uploads/2018/11/photo-1150x647.jpeg 1150w" sizes="(max-width: 1548px) 100vw, 1548px" />
+<img  src="/img/uploads/2018/11/photo.jpeg" alt="" width="1548" height="871" srcset="/img/uploads/2018/11/photo.jpeg 1548w, /img/uploads/2018/11/photo-300x169.jpeg 300w, /img/uploads/2018/11/photo-768x432.jpeg 768w, /img/uploads/2018/11/photo-1024x576.jpeg 1024w, /img/uploads/2018/11/photo-1150x647.jpeg 1150w" sizes="(max-width: 1548px) 100vw, 1548px" />
 
 &nbsp;
 

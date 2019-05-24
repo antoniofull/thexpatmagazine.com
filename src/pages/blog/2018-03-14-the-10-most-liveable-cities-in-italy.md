@@ -28,7 +28,7 @@ You are surrounded by so many historical buildings and it&#8217;s almost like go
 
 La Dolce Vita is the first thing you though about as soon as you read Rome, isn&#8217;t that right? No wonder how the Eternal city caught the heart of millions of people around the world. Its beauty and its history leave you breathless, so I strongly suggest to add this city to your &#8220;top cities to visit before you die&#8221;. On the other side, if you&#8217;re thinking of actually moving there, you may want to consider a couple of things more. The local transport and the traffic jam are the city&#8217;s pain points, it takes really long to travel from one side to the other, regardless of the way you choose to move around.
 
-<img class="aligncenter size-medium wp-image-818" src="/img/uploads/2018/03/rome-1945033_1920-300x169.jpg" alt="" width="300" height="169" srcset="/img/uploads/2018/03/rome-1945033_1920-300x169.jpg 300w, /img/uploads/2018/03/rome-1945033_1920-768x432.jpg 768w, /img/uploads/2018/03/rome-1945033_1920-1024x575.jpg 1024w, /img/uploads/2018/03/rome-1945033_1920-1150x646.jpg 1150w, /img/uploads/2018/03/rome-1945033_1920.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />
+<img  src="/img/uploads/2018/03/rome-1945033_1920-300x169.jpg" alt="" width="300" height="169" srcset="/img/uploads/2018/03/rome-1945033_1920-300x169.jpg 300w, /img/uploads/2018/03/rome-1945033_1920-768x432.jpg 768w, /img/uploads/2018/03/rome-1945033_1920-1024x575.jpg 1024w, /img/uploads/2018/03/rome-1945033_1920-1150x646.jpg 1150w, /img/uploads/2018/03/rome-1945033_1920.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />
 
 ### 8. Reggio Emilia, Emilia Romagna
 
@@ -52,7 +52,7 @@ The fourth place goes to Mantova, Italian Capital of Culture in 2016, an event t
 
 ### 3. Turin, Piedmont
 
-<img class="alignleft size-medium wp-image-813" src="/img/uploads/2018/03/piazza-vittorio-438449_1920-300x200.jpg" alt="" width="300" height="200" srcset="/img/uploads/2018/03/piazza-vittorio-438449_1920-300x200.jpg 300w, /img/uploads/2018/03/piazza-vittorio-438449_1920-768x512.jpg 768w, /img/uploads/2018/03/piazza-vittorio-438449_1920-1024x683.jpg 1024w, /img/uploads/2018/03/piazza-vittorio-438449_1920-1150x767.jpg 1150w, /img/uploads/2018/03/piazza-vittorio-438449_1920.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />
+<img  src="/img/uploads/2018/03/piazza-vittorio-438449_1920-300x200.jpg" alt="" width="300" height="200" srcset="/img/uploads/2018/03/piazza-vittorio-438449_1920-300x200.jpg 300w, /img/uploads/2018/03/piazza-vittorio-438449_1920-768x512.jpg 768w, /img/uploads/2018/03/piazza-vittorio-438449_1920-1024x683.jpg 1024w, /img/uploads/2018/03/piazza-vittorio-438449_1920-1150x767.jpg 1150w, /img/uploads/2018/03/piazza-vittorio-438449_1920.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />
 
 &nbsp;
 

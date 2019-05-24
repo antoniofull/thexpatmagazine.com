@@ -17,15 +17,13 @@ Moving abroad for a new way of life is the start of an exciting adventure for fa
 
 [amazon\_link asins=&#8217;0956845606&#8242; template=&#8217;ProductCarousel&#8217; store=&#8217;thexpatmagazi-21&#8242; marketplace=&#8217;UK&#8217; link\_id=&#8217;f410e6b5-a7a5-11e7-8393-2d506fef9756&#8242;]
 
-## <img class="size-large wp-image-564" src="/img/uploads/2017/10/knowledge-1052010_1920-1024x768.jpg" alt="" width="1024" height="768" srcset="/img/uploads/2017/10/knowledge-1052010_1920-1024x768.jpg 1024w, /img/uploads/2017/10/knowledge-1052010_1920-300x225.jpg 300w, /img/uploads/2017/10/knowledge-1052010_1920-768x576.jpg 768w, /img/uploads/2017/10/knowledge-1052010_1920-667x500.jpg 667w, /img/uploads/2017/10/knowledge-1052010_1920-800x600.jpg 800w, /img/uploads/2017/10/knowledge-1052010_1920.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />
+## <img  src="/img/uploads/2017/10/knowledge-1052010_1920-1024x768.jpg" alt="" width="1024" height="768" srcset="/img/uploads/2017/10/knowledge-1052010_1920-1024x768.jpg 1024w, /img/uploads/2017/10/knowledge-1052010_1920-300x225.jpg 300w, /img/uploads/2017/10/knowledge-1052010_1920-768x576.jpg 768w, /img/uploads/2017/10/knowledge-1052010_1920-667x500.jpg 667w, /img/uploads/2017/10/knowledge-1052010_1920-800x600.jpg 800w, /img/uploads/2017/10/knowledge-1052010_1920.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 ## 1. The language barrier
 
 If your first language is English then moving to a country where English is commonly spoken such as the USA, Australia or South Africa, means that at least your child does not have a language barrier to overcome whilst learning and socialising. If you are moving to a non-English speaking country then it can be a little bit trickier for your child to integrate into the schooling system if they haven’t yet learnt the language. A good solution may be a local international school near your new home which provides a UK curriculum education. International schooling can ensure that your child does not fall behind due to a lack of understanding. As mentioned later in this article, online education is also a viable option.
 
 ## 2. Your child’s age
-
-
 
 If your children are teenagers and approaching crucial exams then the timing of your move can be a concern. International schools may not be close to where you live or work and may not teach the curriculum your child is studying. Online schools such as [InterHigh],  may be a great option in such circumstances. It teaches pupils the full British curriculum, from iGCSEs through to AS and A Levels and because of its online status, timetabled lessons can be accessed anywhere in the world where there is an internet connection.
 

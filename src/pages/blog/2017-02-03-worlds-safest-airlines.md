@@ -20,10 +20,10 @@ tags:
 
 Travelling by air is the safest method of transportation today, but despite that many people are still afraid of flying. Every time an accident happen it will make all the headlines and some airlines are considered less safer than others. But what are the safest airline companies in the **World**? Well <a href="https://www.airlineratings.com/" target="_blank">airlineratings.com </a>is a website that wants to give you the answer. <!--more-->
 
-<div id="attachment_487" style="width: 795px" class="wp-caption alignnone">
-  <img class="size-large wp-image-487" src="/img/uploads/2017/02/world-safest-airline-1024x666.jpg" alt="World's safest airlines" width="785" height="511" srcset="/img/uploads/2017/02/world-safest-airline-1024x666.jpg 1024w, /img/uploads/2017/02/world-safest-airline-300x195.jpg 300w, /img/uploads/2017/02/world-safest-airline-768x500.jpg 768w, /img/uploads/2017/02/world-safest-airline.jpg 1280w" sizes="(max-width: 785px) 100vw, 785px" />
+<div id="attachment_487" style="width: 795px" >
+  <img  src="/img/uploads/2017/02/world-safest-airline-1024x666.jpg" alt="World's safest airlines" width="785" height="511" srcset="/img/uploads/2017/02/world-safest-airline-1024x666.jpg 1024w, /img/uploads/2017/02/world-safest-airline-300x195.jpg 300w, /img/uploads/2017/02/world-safest-airline-768x500.jpg 768w, /img/uploads/2017/02/world-safest-airline.jpg 1280w" sizes="(max-width: 785px) 100vw, 785px" />
   
-  <p class="wp-caption-text">
+ <p>
     World&#8217;s safest airlines
   </p>
 </div>
@@ -33,8 +33,6 @@ Every year they release a report which list the **World&#8217;s safest airlines*
 Based on this list of criteria airline ratings compiles the list of the **World&#8217;s safest airlines** and, for the fourth year in a row, there is a company who is leading this list for 2017, the Australian airline **Qantas**.
 
 This company holds the first place again this year, but also holds the record of <span style="text-decoration: underline;">no casualties during its flights</span>, which is very impressive. Anyway there are also other **19 companies** together with them, and we have listed them all  in alphabetical order.
-
-
 
 ### World&#8217;s safest airlines.
 

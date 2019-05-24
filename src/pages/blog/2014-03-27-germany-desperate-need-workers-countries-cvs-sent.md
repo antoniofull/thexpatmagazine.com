@@ -19,7 +19,7 @@ tags:
 
 **Germany**, among the european countries, is indeed the one that had less problems with crisis and is one of the leader of **European** **Union**. But there is a small category of companies that is having serious troubles to survive in this country and the reason is not the crisi itself but rather the fact that cannot find people to hire. We are talking about the small companies, that are not attractive like the international corporation.<!--more-->
 
-<img class="size-full wp-image-141" alt="germany" src="/img/uploads/2014/03/germany.jpg" width="640" height="424" srcset="/img/uploads/2014/03/germany.jpg 640w, /img/uploads/2014/03/germany-300x199.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />
+<img alt="germany" src="/img/uploads/2014/03/germany.jpg" width="640" height="424" srcset="/img/uploads/2014/03/germany.jpg 640w, /img/uploads/2014/03/germany-300x199.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />
 
 The complains are especially for country like Italy, Spain or Greece which are widely affected by the crisis and have an average of 15% unemployment which grows much more if you consider only young people (in Spain can reach the 45%) . But the percentage of cv&#8217;s received from this country is very a little part,  the german recruitment agency Ranstad has conduct a poll with a thousand of companies and the results says that only 14% of italian and portuguese sent their cv to them, some more from Spain, 21%.
 

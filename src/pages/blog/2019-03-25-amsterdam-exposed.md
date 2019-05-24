@@ -30,7 +30,7 @@ Some of the curtains were drawn. Most were not, and we found ourselves surrounde
 
 After a minute, the current took us full circle and spit us out onto Bethlemsteeg. The district can be overwhelming, and I was feeling the effects. The rules of society no longer seemed to
 
-<img class="alignleft size-medium wp-image-1259" src="/img/uploads/2019/03/Amsterdam-Exposed-Cover-small-188x300.jpg" alt="" width="188" height="300" srcset="/img/uploads/2019/03/Amsterdam-Exposed-Cover-small-188x300.jpg 188w, /img/uploads/2019/03/Amsterdam-Exposed-Cover-small-768x1223.jpg 768w, /img/uploads/2019/03/Amsterdam-Exposed-Cover-small-643x1024.jpg 643w, /img/uploads/2019/03/Amsterdam-Exposed-Cover-small.jpg 879w" sizes="(max-width: 188px) 100vw, 188px" />
+<img  src="/img/uploads/2019/03/Amsterdam-Exposed-Cover-small-188x300.jpg" alt="" width="188" height="300" srcset="/img/uploads/2019/03/Amsterdam-Exposed-Cover-small-188x300.jpg 188w, /img/uploads/2019/03/Amsterdam-Exposed-Cover-small-768x1223.jpg 768w, /img/uploads/2019/03/Amsterdam-Exposed-Cover-small-643x1024.jpg 643w, /img/uploads/2019/03/Amsterdam-Exposed-Cover-small.jpg 879w" sizes="(max-width: 188px) 100vw, 188px" />
 
 apply. The place had its own code, something I knew nothing about. Oliver hadn’t spoken in minutes. He just stood next to me in silence, picking his cuticles. This was his country, but the district was unlike anything he had imagined or remembered. It was worse in many respects, but also intriguing, and surreal.
 

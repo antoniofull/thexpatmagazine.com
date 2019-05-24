@@ -24,16 +24,16 @@ How did I end up here?! Easy answer: love for myself and for a man. Yes, because
 
 No, it&#8217;s not all easy there, you have to deal with the language and its strange sounds, the tough weather and the food (as an Italian, good food is a very important matter!), but once you overcome the first obstacles, and having a good basic English skills, and warm clothes, you will find yourself biking while holding your umbrella, like you&#8217;ve always been in this place! This is because in Rotterdam (alright, it happens everywhere in the Netherlands), the easiest way to move around is by &#8220;fiets&#8221; (meaning bike in Dutch).
 
-<div class="fluidbox__wrap">
+<div>
   <p>
-    <a class="fluidbox__instance-1 fluidbox--initialized fluidbox--closed fluidbox--ready" href="https://expatmagazine.it/wp-content/uploads/2018/03/Ross-in-Rotterdam.jpg"><img class="alignleft wp-image-2284 size-medium fluidbox__thumb" title="Un Paradiso chiamato Rotterdam" src="https://expatmagazine.it/wp-content/uploads/2018/03/Ross-in-Rotterdam-225x300.jpg" sizes="(max-width: 225px) 100vw, 225px" srcset="https://expatmagazine.it/wp-content/uploads/2018/03/Ross-in-Rotterdam-225x300.jpg 225w, https://expatmagazine.it/wp-content/uploads/2018/03/Ross-in-Rotterdam-375x500.jpg 375w, https://expatmagazine.it/wp-content/uploads/2018/03/Ross-in-Rotterdam.jpg 720w" alt="Ross in Rotterdam 225x300 Un Paradiso chiamato Rotterdam" width="225" height="300" /></a>
+    <a href="https://expatmagazine.it/wp-content/uploads/2018/03/Ross-in-Rotterdam.jpg"><img title="Un Paradiso chiamato Rotterdam" src="https://expatmagazine.it/wp-content/uploads/2018/03/Ross-in-Rotterdam-225x300.jpg" sizes="(max-width: 225px) 100vw, 225px" srcset="https://expatmagazine.it/wp-content/uploads/2018/03/Ross-in-Rotterdam-225x300.jpg 225w, https://expatmagazine.it/wp-content/uploads/2018/03/Ross-in-Rotterdam-375x500.jpg 375w, https://expatmagazine.it/wp-content/uploads/2018/03/Ross-in-Rotterdam.jpg 720w" alt="Ross in Rotterdam 225x300 Un Paradiso chiamato Rotterdam" width="225" height="300" /></a>
   </p>
   
-  <p class="fluidbox__ghost">
+  <p>
      There are so many things to see in the city, from the most famous ones such as the <strong>Cubic Houses</strong> and the <strong>Markhtal,</strong> to the beautiful <strong>Erasmus Bridge</strong>, passing from the <strong>Oude Haven</strong> (Old Harbour) and the city centre the <strong>Beurs</strong>. What made this city the paradise to me is the combination of cultures, architecture, parks in the city centre, zoo, museums and history.
   </p>
   
-  <p class="fluidbox__ghost">
+  <p>
     Rotterdam has a lot of history and it&#8217;s all there, you can see it just by wandering through the city, the old that survived to the II World War, and new&#8230;they both live together in an apparently disorder and extraordinary armony!
   </p>
 </div>

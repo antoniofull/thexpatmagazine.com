@@ -32,7 +32,7 @@ They also considered and included several factors, let&#8217;s see some of them 
 
 Some results are quite popular, like Luxembourg winning as\* **financial favorite place for expats,\*** but Ecuador surprises a bit. There are several good reasons that make this little country the best in the world for the Expats,  let&#8217;s see why **Ecuador** is considered _**the best country in the World for expats.**_
 
-## <img class="size-full wp-image-323" src="/img/uploads/2014/11/2723872891_4b07d842a8_b.jpg" alt="ecuador" width="1024" height="683" srcset="/img/uploads/2014/11/2723872891_4b07d842a8_b.jpg 1024w, /img/uploads/2014/11/2723872891_4b07d842a8_b-300x200.jpg 300w, /img/uploads/2014/11/2723872891_4b07d842a8_b-768x512.jpg 768w, /img/uploads/2014/11/2723872891_4b07d842a8_b-750x500.jpg 750w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img src="/img/uploads/2014/11/2723872891_4b07d842a8_b.jpg" alt="ecuador" width="1024" height="683" srcset="/img/uploads/2014/11/2723872891_4b07d842a8_b.jpg 1024w, /img/uploads/2014/11/2723872891_4b07d842a8_b-300x200.jpg 300w, /img/uploads/2014/11/2723872891_4b07d842a8_b-768x512.jpg 768w, /img/uploads/2014/11/2723872891_4b07d842a8_b-750x500.jpg 750w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 Credit Photo : <a href="https://www.flickr.com/photos/wurglitsch/2723872891/in/photolist-59GyvH-2ck7v-aSTsai-57YQcS-p7HbCG-74g7DQ-a97Vm3-aoR9Hn-aoTTnd-nDAUp-4VhFR8-fqvoKn-9SzKru-cAPtgS-8pi2U6-6TZivp-9wKezt-eezaGP-eeETem-8pm3CQ-31qohV-7vQCGQ-ejrgRg-2s66kF-eKSbwn-7tkZSK-78TjpN-a5Hfvg-78TagJ-nF9HgY-gszqo3-73nuhJ-6MVKoS-78Tdt3-78Pnr8-fqKhLo-78PrXk-78PnG6-78TbLw-92gtqq-92gt3A-92guSf-92dnui-92ectB-axAr22-4Ee76o-bkriBb-fG1f7p-eeERvS-fbJs2A" target="_blank">Flickr</a>
 

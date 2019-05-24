@@ -23,15 +23,13 @@ You begin to think .. oh my – this did initially seem like a good idea!
 
 **Visas, Permits and Legalisation**
 
-<img class="size-large wp-image-426" src="/img/uploads/2015/02/document-428334_1280-1024x681.jpg" alt="document-428334_1280" width="785" height="522" srcset="/img/uploads/2015/02/document-428334_1280-1024x681.jpg 1024w, /img/uploads/2015/02/document-428334_1280-300x199.jpg 300w, /img/uploads/2015/02/document-428334_1280-768x511.jpg 768w, /img/uploads/2015/02/document-428334_1280-752x500.jpg 752w, /img/uploads/2015/02/document-428334_1280.jpg 1280w" sizes="(max-width: 785px) 100vw, 785px" />
+<img  src="/img/uploads/2015/02/document-428334_1280-1024x681.jpg" alt="document-428334_1280" width="785" height="522" srcset="/img/uploads/2015/02/document-428334_1280-1024x681.jpg 1024w, /img/uploads/2015/02/document-428334_1280-300x199.jpg 300w, /img/uploads/2015/02/document-428334_1280-768x511.jpg 768w, /img/uploads/2015/02/document-428334_1280-752x500.jpg 752w, /img/uploads/2015/02/document-428334_1280.jpg 1280w" sizes="(max-width: 785px) 100vw, 785px" />
 
 Getting the legalities sorted is one of the first things you need to do because until you have visas and work permits and have your UK documents and certificates legalised your hands will be tied to do anything else.
 
 Depending on the country you are moving to you will have a number of processes to complete in order to be able to work and live there.  It may be that your new employer can help with some aspects of this.
 
 There are a number of experienced UK companies who specialize in assisting UK citizens get their documentation in order as per the regulations of the new  host country.  The staff over at [Vital Legalisation] are experts at handling this and they will help you to understand exactly what you are required to do and help you to do it.
-
-
 
 **Your Valuable Documents**
 

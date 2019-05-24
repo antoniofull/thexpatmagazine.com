@@ -28,7 +28,7 @@ category: Destinations
 
 There are so many feelings, reasons, pros & cons that can lead to a decision to live an expat life or stay in your homeland.  How many times have we asked ourselves what to do?
 
-<img class="size-medium wp-image-1320 aligncenter" src="/img/uploads/2019/05/dubbio-130x300.jpg" alt="" width="130" height="300" srcset="/img/uploads/2019/05/dubbio-130x300.jpg 130w, /img/uploads/2019/05/dubbio.jpg 156w" sizes="(max-width: 130px) 100vw, 130px" />
+<img  src="/img/uploads/2019/05/dubbio-130x300.jpg" alt="" width="130" height="300" srcset="/img/uploads/2019/05/dubbio-130x300.jpg 130w, /img/uploads/2019/05/dubbio.jpg 156w" sizes="(max-width: 130px) 100vw, 130px" />
 
 ## Some numbers
 
@@ -40,7 +40,7 @@ The major number of expats is coming from the United Arab Emirates and the U.S.,
 
 The countries producing more expats in the world are China and Uk.
 
-<img class="aligncenter wp-image-1321 size-full" src="/img/uploads/2019/05/statistiche.jpg" alt="" width="300" height="300" srcset="/img/uploads/2019/05/statistiche.jpg 300w, /img/uploads/2019/05/statistiche-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />
+<img  src="/img/uploads/2019/05/statistiche.jpg" alt="" width="300" height="300" srcset="/img/uploads/2019/05/statistiche.jpg 300w, /img/uploads/2019/05/statistiche-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />
 
 I believe the numbers are changing already while you are reading this post.
 
