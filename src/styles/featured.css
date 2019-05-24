@@ -6,18 +6,26 @@
 }
 
 .featured-post {
-  width: 85%;
-  max-width: 840px;
+  width: 90%;
+  max-width: 960px;
   margin: 0 auto;
-  padding: var(--padding-xxl);
+  padding: var(--padding-xl);
   box-shadow: var(--box-shadows);
   background-color: #ffffff;
   position: relative;
-  top: calc(var(--margin-xl) * -1);
+  top: calc(var(--margin-xxl) * -1);
   z-index: 100;
   transition: top 0.3s cubic-bezier(0.6, -0.28, 0.735, 0.045);
 }
 
 .featured-title {
   text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+  .featured-post {
+    top: 50%;
+    transform: translateY(-50%);
+    padding: var(--padding-xxl);
+  }
 }

@@ -36,7 +36,7 @@ h2 {
 }
 
 .wf-large {
-  font-size: var(--font-m);
+  font-size: 24px;
 }
 
 .wf-hero {
@@ -50,6 +50,6 @@ h2 {
     color: var(--color-text-primary);
   }
   .wf-large {
-    font-size: var(--font-xl);
+    font-size: 48px;
   }
 }
