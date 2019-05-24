@@ -7,7 +7,7 @@ featuredpost: true
 featuredimage: /img/amsterdam-exposed-cover-small.jpg
 tags:
   - expat life
-country:
+author: Rossella Daví
 ---
 
 <p style="text-align: left;">
