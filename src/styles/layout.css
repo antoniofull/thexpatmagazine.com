@@ -8,3 +8,8 @@
   max-width: 1280px;
   margin: 0 auto;
 }
+
+.meta {
+  margin: var(--margin-l) auto;
+  max-width: 300px;
+}

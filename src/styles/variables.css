@@ -14,9 +14,16 @@
   --color-primary: #be52f2;
   --color-text-primary: #444444;
   --color-text-secondary: #222222;
-  --color-text-third: #9b9da0;
+  --color-text-third: #585a5c;
 
   --border-radius: 4px;
   --box-shadows: 0 4px 14px 0 rgba(0, 0, 0, 0.05);
   --border-color: rgba(214, 217, 222, 1);
+
+  --font-s: 0.667rem;
+  --font-base: 16px;
+  --font-m: 1.5rem;
+  --font-l: 2.25rem;
+  --font-xl: 3.375rem;
+  --font-xxl: 5.063rem;
 }

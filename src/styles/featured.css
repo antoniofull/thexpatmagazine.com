@@ -6,6 +6,7 @@
 }
 
 .featured-post {
+  width: 85%;
   max-width: 840px;
   margin: 0 auto;
   padding: var(--padding-xxl);
@@ -14,4 +15,9 @@
   position: relative;
   top: calc(var(--margin-xl) * -1);
   z-index: 100;
+  transition: top 0.3s cubic-bezier(0.6, -0.28, 0.735, 0.045);
+}
+
+.featured-title {
+  text-align: center;
 }
