@@ -3,7 +3,7 @@ templateKey: blog-post
 title: The Top 10 Most Expensive Cities in the World
 author: thexpatmagazine
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 01-11-30T00:00:00.000Z
 draft: true
 url: /?p=887
 laurel_meta_post_layout:

@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Six criteria to define the happiest place in the world
 author: Rossella Davi
 type: post
-date: 2019-04-16T19:41:33+00:00
+date: 2019-04-16T19:41:33.000Z
 url: /2019/living-abroad/six-criteria-to-define-the-happiest-place-in-the-world/
 featured_image: /wp-content/uploads/2019/04/markus-spiske-484245-unsplash.jpg
 laurel_meta_post_layout:

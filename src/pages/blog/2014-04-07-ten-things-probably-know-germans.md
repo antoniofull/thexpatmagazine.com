@@ -3,7 +3,7 @@ templateKey: blog-post
 title: ten things you probably did not know about germans
 author: thexpatmagazine
 type: post
-date: 2014-04-07T16:22:21+00:00
+date: 2014-04-07T16:22:21.000Z
 url: /2014/europe/ten-things-probably-know-germans/
 featured_image: /wp-content/uploads/2014/04/abendbrot-der-woche-667x500.jpg
 sbg_selected_sidebar:

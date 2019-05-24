@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Patrick Burns, his book and his whole life as an expatriate
 author: thexpatmagazine
 type: post
-date: 2018-07-29T19:18:23+00:00
+date: 2018-07-29T19:18:23.000Z
 url: /2018/expat-life/patrick-burns-his-book-and-his-whole-life-as-an-expatriate/
 featured_image: /wp-content/uploads/2018/07/Linked-in-cover.png
 laurel_meta_post_layout:

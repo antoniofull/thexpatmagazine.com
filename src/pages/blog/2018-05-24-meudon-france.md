@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 'Meudon: a little history box of art, music and literature in France'
 author: thexpatmagazine
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2016-11-30T00:00:00.000Z
 draft: true
 url: /?p=1016
 laurel_meta_post_layout:

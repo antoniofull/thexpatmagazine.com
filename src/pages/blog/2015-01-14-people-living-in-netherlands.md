@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 10 Things That Only People Living In Netherlands Can Understand
 author: thexpatmagazine
 type: post
-date: 2015-01-14T12:44:26+00:00
+date: 2015-01-14T12:44:26.000Z
 url: /2015/europe/people-living-in-netherlands/
 featured_image: /wp-content/uploads/2015/01/rinsed.gif
 sbg_selected_sidebar:

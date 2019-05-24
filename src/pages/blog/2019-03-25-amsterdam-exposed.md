@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Amsterdam Exposed
 author: thexpatmagazine
 type: post
-date: 2019-03-25T20:15:37+00:00
+date: 2019-03-25T20:15:37.000Z
 url: /2019/europe/amsterdam-exposed/
 featured_image: /wp-content/uploads/2019/03/Amsterdam-Exposed-Cover-small.jpg
 laurel_meta_post_layout:

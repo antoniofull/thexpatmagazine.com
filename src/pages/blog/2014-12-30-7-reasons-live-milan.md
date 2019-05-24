@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 7 reasons why you should live in Milan
 author: thexpatmagazine
 type: post
-date: 2014-12-30T12:58:19+00:00
+date: 2014-12-30T12:58:19.000Z
 url: /2014/europe/7-reasons-live-milan/
 featuredimage: /wp-content/uploads/2014/12/14971250168_1f99afda24_z-606x500.jpg
 categories:

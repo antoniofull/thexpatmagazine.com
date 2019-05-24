@@ -3,7 +3,7 @@ templateKey: blog-post
 title: The ten most peaceful countries in the world
 author: thexpatmagazine
 type: post
-date: 2014-03-25T18:19:36+00:00
+date: 2014-03-25T18:19:36.000Z
 url: /2014/living-abroad/most-peaceful-countries-world/
 sbg_selected_sidebar:
   - 'a:1:{i:0;s:1:"0";}'

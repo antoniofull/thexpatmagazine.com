@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 6 reasons to live in Spain
 author: thexpatmagazine
 type: post
-date: 2014-03-02T18:40:11+00:00
+date: 2014-03-02T18:40:11.000Z
 url: /2014/europe/6-reasons-live-in-spain/
 featuredimage: /wp-content/uploads/2014/03/corrida_san_fermin.jpg
 

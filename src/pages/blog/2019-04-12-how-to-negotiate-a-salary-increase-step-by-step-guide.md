@@ -3,7 +3,7 @@ templateKey: blog-post
 title: How to Negotiate a Salary Increase Step by Step Guide
 author: thexpatmagazine
 type: post
-date: 2019-04-12T09:18:52+00:00
+date: 2019-04-12T09:18:52.000Z
 url: /2019/expat-life/how-to-negotiate-a-salary-increase-step-by-step-guide/
 featured_image: /wp-content/uploads/2019/04/chris-liverani-552022-unsplash.jpg
 laurel_meta_post_layout:

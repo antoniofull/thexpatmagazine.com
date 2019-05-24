@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 'A Scandinavian in Sardinia: a breakdown over tea'
 author: thexpatmagazine
 type: post
-date: 2019-01-16T13:00:47+00:00
+date: 2019-01-16T13:00:47.000Z
 url: /2019/europe/italy/scandinavian-in-sardinia/
 featured_image: /wp-content/uploads/2019/01/fullsizeoutput_888.jpg
 laurel_meta_post_layout:

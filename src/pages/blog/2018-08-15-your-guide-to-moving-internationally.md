@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Your Guide To Moving Internationally
 author: thexpatmagazine
 type: post
-date: 2018-08-15T06:40:39+00:00
+date: 2018-08-15T06:40:39.000Z
 url: /2018/expat-life/your-guide-to-moving-internationally/
 featured_image: /wp-content/uploads/2018/08/international-departures.jpg
 laurel_meta_post_layout:

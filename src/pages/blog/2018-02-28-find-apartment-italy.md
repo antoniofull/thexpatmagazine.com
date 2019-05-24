@@ -3,7 +3,7 @@ templateKey: blog-post
 title: How to find an apartment in Italy
 author: Lorena
 type: post
-date: 2018-02-28T11:50:57+00:00
+date: 2018-02-28T11:50:57.000Z
 url: /2018/europe/italy/find-apartment-italy/
 featured_image: /wp-content/uploads/2018/02/move-2481718_1920.jpg
 et_enqueued_post_fonts:

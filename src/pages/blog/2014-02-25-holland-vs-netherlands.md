@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Holland vs Netherlands
 author: thexpatmagazine
 type: post
-date: 2014-02-25T07:30:36+00:00
+date: 2014-02-25T07:30:36.000Z
 url: /2014/europe/holland-vs-netherlands/
 featuredimage: /wp-content/uploads/2014/02/holland.png
 category: Destinations

@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 10 signs you are living too long in Italy
 author: thexpatmagazine
 type: post
-date: 2014-03-02T17:25:47+00:00
+date: 2014-03-02T17:25:47.000Z
 url: /2014/europe/10-signs-living-long-italy/
 featuredimage: /wp-content/uploads/2014/02/italiangestures-500x500.jpg
 categories:

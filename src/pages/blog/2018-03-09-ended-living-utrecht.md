@@ -3,7 +3,7 @@ templateKey: blog-post
 title: How I ended up living in Utrecht
 author: thexpatmagazine
 type: post
-date: 2018-03-09T08:04:13+00:00
+date: 2018-03-09T08:04:13.000Z
 url: /2018/europe/netherlands/ended-living-utrecht/
 featured_image: /wp-content/uploads/2018/03/199007_1850589581015_4785362_n.jpg
 laurel_meta_post_layout:

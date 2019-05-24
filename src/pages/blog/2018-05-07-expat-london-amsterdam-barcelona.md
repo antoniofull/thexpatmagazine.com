@@ -3,7 +3,7 @@ templateKey: blog-post
 title: My Expat Life between London, Amsterdam and Barcelona
 author: Alessio Tedde
 type: post
-date: 2018-05-07T18:06:55+00:00
+date: 2018-05-07T18:06:55.000Z
 url: /2018/europe/netherlands/expat-london-amsterdam-barcelona/
 featured_image: /wp-content/uploads/2018/05/IMG_5584-e1526734827525.jpg
 laurel_meta_post_layout:

@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Feeling at home in Abroadland
 author: thexpatmagazine
 type: post
-date: 2019-04-18T20:41:07+00:00
+date: 2019-04-18T20:41:07.000Z
 url: /2019/expat-life/feeling-at-home-in-abroadland/
 featured_image: /wp-content/uploads/2019/04/ab_image_book.jpg
 laurel_meta_post_layout:

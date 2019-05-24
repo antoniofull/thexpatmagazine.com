@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Life in a Box, the Unusual Story of a Globetrotter
 author: Rossella Davi
 type: post
-date: 2018-07-21T18:48:27+00:00
+date: 2018-07-21T18:48:27.000Z
 url: /2018/expat-life/life-in-a-box-the-unusual-story-of-a-globetrotter/
 featured_image: /wp-content/uploads/2018/07/IMG_4297.jpg
 laurel_meta_post_layout:

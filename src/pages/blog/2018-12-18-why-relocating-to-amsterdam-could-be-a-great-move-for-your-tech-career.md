@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Why relocating to Amsterdam could be a great move for your tech career
 author: thexpatmagazine
 type: post
-date: 2018-12-18T20:26:24+00:00
+date: 2018-12-18T20:26:24.000Z
 url: /2018/europe/why-relocating-to-amsterdam-could-be-a-great-move-for-your-tech-career/
 featured_image: /wp-content/uploads/2018/12/amsterdam-architecture-building-208733.jpg
 laurel_meta_post_layout:

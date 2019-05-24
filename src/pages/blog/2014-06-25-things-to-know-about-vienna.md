@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 7 things to know about Vienna (plus bonus)
 author: thexpatmagazine
 type: post
-date: 2014-06-25T18:05:42+00:00
+date: 2014-06-25T18:05:42.000Z
 url: /2014/europe/things-to-know-about-vienna/
 featured_image: /wp-content/uploads/2014/06/child-austria-shoes-360x500.jpg
 sbg_selected_sidebar:

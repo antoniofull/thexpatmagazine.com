@@ -3,7 +3,7 @@ templateKey: blog-post
 title: A Guide to Living in Chiang Mai for Expats and Digital Nomads
 author: thexpatmagazine
 type: post
-date: 2019-04-10T19:11:56+00:00
+date: 2019-04-10T19:11:56.000Z
 url: /2019/expat-life/a-guide-to-living-in-chiang-mai-for-expats-and-digital-nomads/
 featured_image: /wp-content/uploads/2019/04/doi-suthep-2377271_1280.jpg
 laurel_meta_post_layout:

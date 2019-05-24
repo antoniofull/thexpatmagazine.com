@@ -3,7 +3,7 @@ templateKey: blog-post
 title: The Best Country In The World For An Expat
 author: thexpatmagazine
 type: post
-date: 2014-11-24T07:59:47+00:00
+date: 2014-11-24T07:59:47.000Z
 url: /2014/america/best-country-world-expat/
 featured_image: /wp-content/uploads/2014/11/2723872891_4b07d842a8_b-750x500.jpg
 kd_featured-image-2_post_id:

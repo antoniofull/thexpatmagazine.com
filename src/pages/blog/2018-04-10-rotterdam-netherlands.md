@@ -3,7 +3,7 @@ templateKey: blog-post
 title: My Paradise Called Rotterdam
 author: thexpatmagazine
 type: post
-date: 2018-04-10T20:00:07+00:00
+date: 2018-04-10T20:00:07.000Z
 url: /2018/europe/rotterdam-netherlands/
 featured_image: /wp-content/uploads/2018/04/rotterdam-1598418_1920.jpg
 laurel_meta_post_layout:

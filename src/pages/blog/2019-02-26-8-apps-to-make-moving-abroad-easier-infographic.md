@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 8 Apps to Make Moving Abroad Easier (Infographic)
 author: thexpatmagazine
 type: post
-date: 2019-02-26T16:32:01+00:00
+date: 2019-02-26T16:32:01.000Z
 url: /2019/expat-life/8-apps-to-make-moving-abroad-easier-infographic/
 featured_image: /wp-content/uploads/2019/02/yura-fresh-760055-unsplash.jpg
 laurel_meta_post_layout:

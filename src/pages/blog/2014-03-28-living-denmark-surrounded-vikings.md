@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Living in Denmark…surrounded by the Vikings!
 author: thexpatmagazine
 type: post
-date: 2014-03-28T06:27:58+00:00
+date: 2014-03-28T06:27:58.000Z
 url: /2014/europe/living-denmark-surrounded-vikings/
 featured_image: /wp-content/uploads/2014/03/Copenhagen-Nyhavn1-753x500.jpg
 kd_featured-image-2_post_id:

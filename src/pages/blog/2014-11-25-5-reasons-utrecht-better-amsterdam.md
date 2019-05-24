@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 5 Reasons Why Utrecht Is Better Than Amsterdam
 author: thexpatmagazine
 type: post
-date: 2014-11-25T18:22:25+00:00
+date: 2014-11-25T18:22:25.000Z
 url: /2014/europe/5-reasons-utrecht-better-amsterdam/
 featured_image: /wp-content/uploads/2014/11/2117901601_8f2ca3a4b1_o-667x500.jpg
 sbg_selected_sidebar:
@@ -64,7 +64,7 @@ Yes, I repeat it loudly, **Utrecht is dutch Amsterdam is not**. 85% of people li
 
 Photo Credit : <a href="https://www.flickr.com/photos/anneliez/2117901601/in/photolist-7PH5m-7QjfD-4TrkEE-dNfiff-dNfoMQ-7XnqUF-c2hxVW-4hSkNL-71Ay1w-4AF9oC-9QSaMd-4e9NmR-3hNzd-j9J8Cq-3hNzm-3hNzv-h7fg88-5HosC-81iJdr-79hfbF-6VUoan-itcyeK-77vDoY-avap9P-gttbVr-ayofo1-81mPkS-81ivYK-4rxkxz-3hNz8-6Ytf-FHtx8-6J4wBS-2AK2mY-ayFvRd-3etmQ5-6Yv4-8Vm4Qj-6YtX-6YsM-77rHpF-6Ys2-EWAe4-6Yum-FHrLW-8Vm4Md-8Vi11a-8VhZAc-8Vm5aA-8Vm4US" target="_blank">Flickr</a>
 
-Yes, all of these. Sitting on a terrace in a _**Bar in Neude**_ is one of my favorite things to do. It resemble the classic European cafe&#8217; culture with car free centre and a lot of terraces and good drinks. (Hint : Try ***warme wijn*** in winter :D)
+Yes, all of these. Sitting on a terrace in a _**Bar in Neude**_ is one of my favorite things to do. It resemble the classic European cafe&#8217; culture with car free centre and a lot of terraces and good drinks. (Hint : Try **_warme wijn_** in winter :D)
 
 ## 4 &#8211; Speaking about the centre, is beautiful.
 

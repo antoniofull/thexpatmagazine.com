@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 'I am a Traveller, not a Tourist: Maria Giovanna’s Project to Travel Europe'
 author: Rossella Davi
 type: post
-date: 2018-06-08T16:34:57+00:00
+date: 2018-06-08T16:34:57.000Z
 url: /2018/europe/i-am-a-traveller-not-a-tourist/
 featured_image: /wp-content/uploads/2018/06/13445369_10153786440908215_20099517409138804_n.jpg
 laurel_meta_post_layout:

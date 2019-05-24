@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Travel Yucatàn … ready to go?
 author: Rossella Davi
 type: post
-date: 2019-04-22T17:14:01+00:00
+date: 2019-04-22T17:14:01.000Z
 url: /2019/travel-inspiration/travel-yucatan-ready-to-go/
 featured_image: /wp-content/uploads/2019/04/marv-watson-559149-unsplash.jpg
 laurel_meta_post_layout:

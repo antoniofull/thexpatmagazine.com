@@ -3,7 +3,7 @@ templateKey: blog-post
 title: '10 Incredible Secret and Beautiful little town in Europe, number #4 is my favorite.'
 author: thexpatmagazine
 type: post
-date: 2014-11-13T18:00:38+00:00
+date: 2014-11-13T18:00:38.000Z
 url: /2014/europe/8-amazing-places-europe-live/
 featured_image: /wp-content/uploads/2014/11/manarola-italy-800x500.jpg
 sbg_selected_sidebar:

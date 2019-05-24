@@ -3,7 +3,7 @@ templateKey: blog-post
 title: From US to India, Zachary and his expat story
 author: thexpatmagazine
 type: post
-date: 2018-08-12T13:20:05+00:00
+date: 2018-08-12T13:20:05.000Z
 url: /2018/europe/from-us-to-india-zachary-and-his-expat-story/
 featured_image: /wp-content/uploads/2018/08/Ray_s-10.jpg
 laurel_meta_post_layout:

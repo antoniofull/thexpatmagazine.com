@@ -3,7 +3,7 @@ templateKey: blog-post
 title: The most unusual sound in the swedish language
 author: thexpatmagazine
 type: post
-date: 2015-01-25T07:49:25+00:00
+date: 2015-01-25T07:49:25.000Z
 url: /2015/europe/unusual-sound-swedish-language/
 featured_image: /wp-content/uploads/2015/01/Screen-Shot-2015-01-25-at-08.47.36.png
 sbg_selected_sidebar:

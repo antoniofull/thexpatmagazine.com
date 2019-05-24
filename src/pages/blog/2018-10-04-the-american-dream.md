@@ -3,7 +3,7 @@ templateKey: blog-post
 title: The American Dream
 author: Rossella Davi
 type: post
-date: 2018-10-04T13:00:02+00:00
+date: 2018-10-04T13:00:02.000Z
 url: /2018/america/the-american-dream/
 featured_image: /wp-content/uploads/2018/10/41688099_10217383083759858_4657164769994735616_o.jpg
 laurel_meta_post_layout:

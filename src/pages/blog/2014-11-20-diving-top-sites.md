@@ -3,7 +3,7 @@ templateKey: blog-post
 title: The Top 5 Most Amazing Scuba Diving Sites In The World.
 author: thexpatmagazine
 type: post
-date: 2014-11-20T20:42:29+00:00
+date: 2014-11-20T20:42:29.000Z
 url: /2014/living-abroad/diving-top-sites/
 featured_image: /wp-content/uploads/2014/11/Screen-Shot-2014-11-20-at-21.41.37.png
 sbg_selected_sidebar:

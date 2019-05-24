@@ -3,7 +3,7 @@ templateKey: blog-post
 title: World’s safest airlines for 2017
 author: thexpatmagazine
 type: post
-date: 2017-02-03T21:43:42+00:00
+date: 2017-02-03T21:43:42.000Z
 url: /2017/travel/worlds-safest-airlines/
 featured_image: /wp-content/uploads/2017/02/world-safest-airline-768x500.jpg
 sbg_selected_sidebar:

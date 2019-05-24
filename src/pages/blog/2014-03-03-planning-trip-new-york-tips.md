@@ -3,13 +3,10 @@ templateKey: blog-post
 title: Planning a trip to New York? Here some tips
 author: thexpatmagazine
 type: post
-date: 2014-03-03T13:00:42+00:00
+date: 2014-03-03T13:00:42.000Z
 url: /2014/america/planning-trip-new-york-tips/
 featuredimage: /wp-content/uploads/2014/03/Screen-Shot-2014-03-02-at-20.02.18.png
-categories:
-  - America
-  - North America
-  - USA
+category: Destinations
 tags:
   - new york
   - tips

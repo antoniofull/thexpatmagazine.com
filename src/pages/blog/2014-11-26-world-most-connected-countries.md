@@ -3,7 +3,7 @@ templateKey: blog-post
 title: World’s most connected countries
 author: thexpatmagazine
 type: post
-date: 2014-11-26T07:35:49+00:00
+date: 2014-11-26T07:35:49.000Z
 url: /2014/living-abroad/world-most-connected-countries/
 featured_image: /wp-content/uploads/2014/03/Copenhagen-Nyhavn-753x500.jpg
 sbg_selected_sidebar:
@@ -43,7 +43,7 @@ tags:
   - world most connected countries
 ---
 
-The **ITU**, ***International Telecommunication Union***, released yesterday a report for the _**world&#8217;s most connected countries**_ according with their index called **IDI** (_**global ICT Development Index).**_<!--more-->
+The **ITU**, **_International Telecommunication Union_**, released yesterday a report for the _**world&#8217;s most connected countries**_ according with their index called **IDI** (_**global ICT Development Index).**_<!--more-->
 
 [<img class="alignnone size-large wp-image-146" src="http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/03/Copenhagen-Nyhavn-1024x680.jpg" alt="Expat denmark" width="785" height="521" srcset="http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/03/Copenhagen-Nyhavn-1024x680.jpg 1024w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/03/Copenhagen-Nyhavn-300x199.jpg 300w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/03/Copenhagen-Nyhavn-768x510.jpg 768w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/03/Copenhagen-Nyhavn-753x500.jpg 753w, http://localhost/thexpatmagazine-wp/wp-content/uploads/2014/03/Copenhagen-Nyhavn.jpg 1200w" sizes="(max-width: 785px) 100vw, 785px" />][1]
 

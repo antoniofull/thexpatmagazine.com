@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 'From New Jersey to Barcelona: Lauren and her advice for future expats'
 author: thexpatmagazine
 type: post
-date: 2019-03-07T20:21:37+00:00
+date: 2019-03-07T20:21:37.000Z
 url: /2019/europe/from-new-jersey-to-barcelona-lauren-and-her-advice-for-future-expats/
 featured_image: /wp-content/uploads/2019/02/Catalan-Flag-in-La-Poble-de-Lliet.jpg
 laurel_meta_post_layout:

@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Switzerland approved the referendum against immigration
 author: thexpatmagazine
 type: post
-date: 2014-03-17T17:33:55+00:00
+date: 2014-03-17T17:33:55.000Z
 url: /2014/europe/switzerland-immigration/
 featured_image: /wp-content/uploads/2014/03/border-switzerland-750x500.jpg
 sbg_selected_sidebar:

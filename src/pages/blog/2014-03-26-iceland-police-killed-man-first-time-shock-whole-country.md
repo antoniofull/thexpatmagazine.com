@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 'Iceland : the police killed a man for the first time, it’s a shock for the country'
 author: thexpatmagazine
 type: post
-date: 2014-03-26T17:25:04+00:00
+date: 2014-03-26T17:25:04.000Z
 url: /2014/europe/iceland-police-killed-man-first-time-shock-whole-country/
 featured_image: /wp-content/uploads/2014/03/6951334514_e21906983a_b-750x500.jpg
 sbg_selected_sidebar:

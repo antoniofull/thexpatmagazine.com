@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 'Culture shock : what it is and how to deal with it.'
 author: thexpatmagazine
 type: post
-date: 2014-06-23T20:31:23+00:00
+date: 2014-06-23T20:31:23.000Z
 url: /2014/expat-life/culture-shock-expats/
 featured_image: /wp-content/uploads/2014/06/culture-667x500.jpg
 sbg_selected_sidebar:

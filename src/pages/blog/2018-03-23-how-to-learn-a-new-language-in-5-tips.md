@@ -3,7 +3,7 @@ templateKey: blog-post
 title: How to Learn a New Language in 5 Tips
 author: thexpatmagazine
 type: post
-date: 2018-03-23T15:00:06+00:00
+date: 2018-03-23T15:00:06.000Z
 url: /2018/america/how-to-learn-a-new-language-in-5-tips/
 featured_image: /wp-content/uploads/2018/03/hello-1502369_1280.png
 laurel_meta_post_layout:

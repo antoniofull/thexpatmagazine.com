@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 10 Mind blowing facts about Switzerland.
 author: thexpatmagazine
 type: post
-date: 2014-11-10T17:12:06+00:00
+date: 2014-11-10T17:12:06.000Z
 url: /2014/europe/10-mind-blowing-facts-switzerland/
 featured_image: /wp-content/uploads/2014/09/Toblerone-line-Gland-727x500.jpg
 sbg_selected_sidebar:

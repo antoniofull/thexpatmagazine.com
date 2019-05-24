@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 5 things to consider about your child’s education when moving abroad
 author: thexpatmagazine
 type: post
-date: 2017-10-02T19:17:01+00:00
+date: 2017-10-02T19:17:01.000Z
 url: /2017/living-abroad/5-things-consider-childs-education-moving-abroad/
 featured_image: /wp-content/uploads/2017/10/knowledge-1052010_1920-667x500.jpg
 meta_box_featured:
