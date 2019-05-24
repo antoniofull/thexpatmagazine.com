@@ -6,7 +6,7 @@ type: post
 date: 2014-02-25T07:30:36.000Z
 url: /2014/europe/holland-vs-netherlands/
 featuredimage: /wp-content/uploads/2014/02/holland.png
-category: Destinations
+country:
 tags:
   - expats
   - holland

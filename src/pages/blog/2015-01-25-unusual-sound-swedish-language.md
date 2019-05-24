@@ -8,7 +8,7 @@ url: /2015/europe/unusual-sound-swedish-language/
 featuredimage: /wp-content/uploads/2015/01/Screen-Shot-2015-01-25-at-08.47.36.png
 reltwitter:
   - 'https://localhost/thexpatmagazine-wp/2015/europe/unusual-sound-swedish-language/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-category:
+country: 
   - Europe
   - Sweden
 tags:

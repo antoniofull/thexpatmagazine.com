@@ -7,7 +7,7 @@ featuredpost: true
 featuredimage: /img/amsterdam-exposed-cover-small.jpg
 tags:
   - expat life
-category: Destinations
+country:
 ---
 
 <p style="text-align: left;">

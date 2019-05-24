@@ -6,7 +6,7 @@ type: post
 date: 2019-04-28T17:50:52.000Z
 url: /2019/expat-life/5-best-holiday-destinations-for-expats-in-thailand/
 featuredimage: /wp-content/uploads/2019/04/toomas-tartes-1391808-unsplash.jpg
-category:
+country: 
   - Expat
   - Inspiration
 tags:

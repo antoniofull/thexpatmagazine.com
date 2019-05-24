@@ -8,7 +8,7 @@ url: /2014/europe/things-to-know-about-vienna/
 featuredimage: /wp-content/uploads/2014/06/child-austria-shoes-360x500.jpg
 reltwitter:
   - 'https://localhost/thexpatmagazine-wp/2014/europe/things-to-know-about-vienna/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-category:
+country: 
   - Austria
   - Europe
 tags:

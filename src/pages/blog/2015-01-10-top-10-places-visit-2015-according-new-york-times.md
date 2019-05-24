@@ -6,7 +6,7 @@ type: post
 date: 2015-01-10T18:16:50.000Z
 url: /2015/travel/top-10-places-visit-2015-according-new-york-times/
 featuredimage: /wp-content/uploads/2015/01/elqui-valley-1000x500.png
-category:
+country: 
   - Travel
 tags:
   - '2015'

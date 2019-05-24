@@ -8,7 +8,7 @@ url: /2015/europe/people-living-in-netherlands/
 featuredimage: /wp-content/uploads/2015/01/rinsed.gif
 reltwitter:
   - 'https://localhost/thexpatmagazine-wp/2015/europe/people-living-in-netherlands/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-category:
+country: 
   - Europe
   - Netherlands
 tags:

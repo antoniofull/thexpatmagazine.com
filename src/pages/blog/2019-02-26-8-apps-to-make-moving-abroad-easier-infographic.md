@@ -10,7 +10,7 @@ laurel_meta_post_layout:
   - customizer
 laurel_meta_fullimage_height:
   - 660
-category:
+country: 
   - Expat
   - Living abroad
 tags:

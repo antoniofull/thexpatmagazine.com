@@ -6,7 +6,7 @@ type: post
 date: 2014-03-26T17:25:04.000Z
 url: /2014/europe/iceland-police-killed-man-first-time-shock-whole-country/
 featuredimage: /wp-content/uploads/2014/03/6951334514_e21906983a_b-750x500.jpg
-category:
+country: 
   - Europe
   - Iceland
 tags:

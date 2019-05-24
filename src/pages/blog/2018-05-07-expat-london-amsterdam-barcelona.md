@@ -20,7 +20,7 @@ laurel_meta_custom_slider:
   - 1010
 mashsb_og_image:
   - 1007
-category:
+country: 
   - Living abroad
   - Netherlands
   - Spain

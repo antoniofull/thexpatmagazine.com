@@ -6,7 +6,7 @@ type: post
 date: 2015-02-09T18:09:12.000Z
 url: /2015/living-abroad/store-important-documents/
 featuredimage: /wp-content/uploads/2015/02/document-428334_1280-752x500.jpg
-category:
+country: 
   - Living abroad
 tags:
   - documents

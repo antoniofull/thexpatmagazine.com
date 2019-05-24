@@ -6,7 +6,7 @@ type: post
 date: 2014-03-03T13:00:42.000Z
 url: /2014/america/planning-trip-new-york-tips/
 featuredimage: /wp-content/uploads/2014/03/Screen-Shot-2014-03-02-at-20.02.18.png
-category: Destinations
+country:
 tags:
   - new york
   - tips

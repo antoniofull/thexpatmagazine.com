@@ -8,7 +8,7 @@ url: /2014/america/beach-giant-waves-protected-stone-wall-puerto-rico/
 featuredimage: /wp-content/uploads/2014/03/puertorico-889x500.jpg
 reltwitter:
   - 'https://localhost/thexpatmagazine-wp/2014/america/beach-giant-waves-protected-stone-wall-puerto-rico/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-category:
+country: 
   - America
 tags:
   - Playa

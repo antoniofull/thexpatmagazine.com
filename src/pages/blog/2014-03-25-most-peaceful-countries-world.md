@@ -5,7 +5,7 @@ author: thexpatmagazine
 type: post
 date: 2014-03-25T18:19:36.000Z
 url: /2014/living-abroad/most-peaceful-countries-world/
-category:
+country: 
   - Living abroad
 tags:
   - countries

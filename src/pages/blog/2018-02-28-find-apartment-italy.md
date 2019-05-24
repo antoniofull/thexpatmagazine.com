@@ -6,7 +6,7 @@ type: post
 date: 2018-02-28T11:50:57.000Z
 url: /2018/europe/italy/find-apartment-italy/
 featuredimage: /wp-content/uploads/2018/02/move-2481718_1920.jpg
-category:
+country: 
   - Italy
 tags:
   - apartment

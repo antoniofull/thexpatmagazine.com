@@ -8,7 +8,7 @@ url: /2014/europe/living-denmark-surrounded-vikings/
 featuredimage: /wp-content/uploads/2014/03/Copenhagen-Nyhavn1-753x500.jpg
 reltwitter:
   - 'https://localhost/thexpatmagazine-wp/2014/europe/living-denmark-surrounded-vikings/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-category:
+country: 
   - America
   - Denmark
   - Europe
