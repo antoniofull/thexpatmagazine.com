@@ -1,16 +1,18 @@
 ---
 templateKey: blog-post
 title: Holland vs Netherlands
-author: thexpatmagazine
-type: post
 date: 2014-02-25T07:30:36.000Z
-url: /2014/europe/holland-vs-netherlands/
-featuredimage: /wp-content/uploads/2014/02/holland.png
-country:
+description: >-
+  Europe is full of history. Netherlands is one of these countries with a long
+  history and for Us living overseas most of this history is completely unknown.
+featuredpost: true
+featuredimage: /img/netherlands-751x500.jpg
 tags:
   - expats
   - holland
   - netherlands
+country: ''
+author: Rossella Daví
 ---
 
 Europe is full of history. Netherlands is one of these countries with a long history and for Us living overseas most of this history is completely unknown.
