@@ -31,7 +31,7 @@ collections:
           label: 'country',
           name: 'country',
           widget: 'relation',
-          collection: 'destinations',
+          collection: 'country',
           searchFields: ['title'],
           displayFields: ['title'],
           required: false,
