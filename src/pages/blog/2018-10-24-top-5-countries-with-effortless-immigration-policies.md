@@ -51,7 +51,7 @@ Also, France is one of the most influential countries in the world and a signifi
 
 ## **4. Australia**
 
-<img class="alignnone wp-image-1121 size-full" src="/img/uploads/2018/10/australia.jpg" alt="" width="1380" height="921" srcset="/img/uploads/2018/10/australia.jpg 1380w, /img/uploads/2018/10/australia-300x200.jpg 300w, /img/uploads/2018/10/australia-768x513.jpg 768w, /img/uploads/2018/10/australia-1024x683.jpg 1024w, /img/uploads/2018/10/australia-1150x768.jpg 1150w" sizes="(max-width: 1380px) 100vw, 1380px" />
+<img src="/img/uploads/2018/10/australia.jpg" alt="" width="1380" height="921" srcset="/img/uploads/2018/10/australia.jpg 1380w, /img/uploads/2018/10/australia-300x200.jpg 300w, /img/uploads/2018/10/australia-768x513.jpg 768w, /img/uploads/2018/10/australia-1024x683.jpg 1024w, /img/uploads/2018/10/australia-1150x768.jpg 1150w" sizes="(max-width: 1380px) 100vw, 1380px" />
 
 Popularly known as the “land of kangaroos and koala”, Australia is a well-known destination for relocation with liberal immigration policies. The country has a population of around 5.5 million immigrants from different countries. Though one of the most expensive places in the world the people in the country enjoys a high quality of life and living standards.
 
@@ -59,12 +59,12 @@ However, the immigration system in Australia has been designed such that incomin
 
 ## **5.Ireland**
 
-<img class="alignnone wp-image-1122 size-full" src="/img/uploads/2018/10/ireland.jpg" alt="" width="1380" height="920" srcset="/img/uploads/2018/10/ireland.jpg 1380w, /img/uploads/2018/10/ireland-300x200.jpg 300w, /img/uploads/2018/10/ireland-768x512.jpg 768w, /img/uploads/2018/10/ireland-1024x683.jpg 1024w, /img/uploads/2018/10/ireland-1150x767.jpg 1150w" sizes="(max-width: 1380px) 100vw, 1380px" />
+<img src="/img/uploads/2018/10/ireland.jpg" alt="" width="1380" height="920" srcset="/img/uploads/2018/10/ireland.jpg 1380w, /img/uploads/2018/10/ireland-300x200.jpg 300w, /img/uploads/2018/10/ireland-768x512.jpg 768w, /img/uploads/2018/10/ireland-1024x683.jpg 1024w, /img/uploads/2018/10/ireland-1150x767.jpg 1150w" sizes="(max-width: 1380px) 100vw, 1380px" />
 
 \*\* \*\*Either your love for the beautiful country or your Irish background make Ireland a perfect destination for immigration and relocation. The welcoming attitude of the country backed by open and simple immigration process has led to the movement of more than 40,000 immigrants into the nation in 2014 and since then the population of immigrants has continuously increased.
 
 The availability of a plethora of opportunities and the rapidly increasing economic growth are the major reasons for the attraction of people towards the country. The growing range of international companies provide plenty of opportunities to you whether you are a recent graduate willing to gain some valuable experience or you are an experienced professional seeking to take your career to next level. Apart from this, a well-established and high-quality education system, low corporate tax, well connected geographical location and high standards of living of the people in the country attract people from all over the world to come and settle down there.
 
-There you go, hopefully, this list of the countries whose immigration policies are easy helps you in shortening your choices and making an informed decision about where to relocate. If you are planning to settle down in the country after you’ve completed your studies there and have a lot of questions about the immigration policies there, you can check out <u>[Post Graduation Visa & Immigration][1]</u> where you will find all information that you might require. Bon voyage.
+There you go, hopefully, this list of the countries whose immigration policies are easy helps you in shortening your choices and making an informed decision about where to relocate. If you are planning to settle down in the country after you’ve completed your studies there and have a lot of questions about the immigration policies there, you can check out <u>[Post Graduation Visa & Immigration]</u> where you will find all information that you might require. Bon voyage.
 
-[1]: https://www.mim-essay.com/blog/post-study-work-visa-and-immigration
+: https://www.mim-essay.com/blog/post-study-work-visa-and-immigration

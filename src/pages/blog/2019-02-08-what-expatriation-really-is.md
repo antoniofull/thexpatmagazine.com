@@ -48,11 +48,11 @@ In my opinion, the real question to ask then is: **_Is it worth it? And my answe
 
 - And **_having the freedom to discover yourself_**. In my opinion, this is the most important aspect of this article. Expatriation is a great way to learn about yourself. Far away from your family, your friends, the society in which you always have lived and far from its preconceived ideas, norms, expectations, and beliefs that this society has placed in your subconscious since you were a child, you are finally free to choose for yourself. You are free to take the time to find yourself. The distance allows us to be who we really want to be. For me, expatriation has allowed me to do things for myself and by myself. I no longer have to meet the expectations of my loved ones and my family, which has allowed me to spread my wings and become the best version of myself.
 
-So for all you guys who are still hesitating, I only have one word to tell you: GO FOR IT! As you have understood, the word easy is not part of the adventure, and yet expatriation is an **_incredible_** adventure, which deserves to be lived at least once in the lifetime. Keep in mind that expatriation is a lot of organization but also a lot of improvisation. You can not control everything before leaving, you will have to manage some things on the go like, for example, finding a job if you are not sent overseas by your current company. My role as a life coach specialized in expatriation is to help you in all these steps so do not hesitate to contact me, you can reach me by Instagram ([@expatinfinity/][1]), Facebook ( [expatinfinitycoaching/][2] ) or by [email][3]. I also recently launched a monthly newsletter, the link to register is:
+So for all you guys who are still hesitating, I only have one word to tell you: GO FOR IT! As you have understood, the word easy is not part of the adventure, and yet expatriation is an **_incredible_** adventure, which deserves to be lived at least once in the lifetime. Keep in mind that expatriation is a lot of organization but also a lot of improvisation. You can not control everything before leaving, you will have to manage some things on the go like, for example, finding a job if you are not sent overseas by your current company. My role as a life coach specialized in expatriation is to help you in all these steps so do not hesitate to contact me, you can reach me by Instagram ([@expatinfinity/]), Facebook ( [expatinfinitycoaching/] ) or by [email]. I also recently launched a monthly newsletter, the link to register is:
 
-[ https://mailchi.mp/04d7b5e48126/monthly-newslette-expatriation][4]
+[ https://mailchi.mp/04d7b5e48126/monthly-newslette-expatriation]
 
-[1]: https://www.instagram.com/expatinfinity/
-[2]: https://www.facebook.com/expatinfinitycoaching/
-[3]: mailto:hello@anasalido.com
-[4]: https://mailchi.mp/04d7b5e48126/monthly-newslette-expatriation
+: https://www.instagram.com/expatinfinity/
+: https://www.facebook.com/expatinfinitycoaching/
+: mailto:hello@anasalido.com
+: https://mailchi.mp/04d7b5e48126/monthly-newslette-expatriation

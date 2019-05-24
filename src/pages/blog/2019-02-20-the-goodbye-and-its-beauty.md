@@ -39,7 +39,7 @@ I agree with Ross when he says that being an expat forces you to grow up quick a
 
 Ross&#8217; point of view is that goodbyes should not be something sad, no need to moan about. The beauty of a goodbye is that you have someone or something that makes saying goodbye so hard. Is that not a reason to be joyful? Nothing lasts forever like a goodbye.
 
-In his [blog][1], Ross is talking to every single person he met overseas, considering himself the luckiest guy in the world to have had so many good friends that it was so hard to say goodbye to. It can sound weird, but actually, even if people don&#8217;t meet anymore they know for a fact that at one point in time saying goodbye each other was the hardest thing to do and the emotion you are able to feel in that specific moment is the best memory you can ever have It is not fair to say how much sad we are when saying goodbye. We all have done it and that just proves how much they mean to us.
+In his [blog], Ross is talking to every single person he met overseas, considering himself the luckiest guy in the world to have had so many good friends that it was so hard to say goodbye to. It can sound weird, but actually, even if people don&#8217;t meet anymore they know for a fact that at one point in time saying goodbye each other was the hardest thing to do and the emotion you are able to feel in that specific moment is the best memory you can ever have It is not fair to say how much sad we are when saying goodbye. We all have done it and that just proves how much they mean to us.
 
 _&#8220;I just want to encourage you to not let that goodbye be permanent. Drop someone a message. Go visit. The world is so much smaller than you think. Don’t let goodbye be the sad end to it. Recognize the beauty in a goodbye. The beauty that you have people that you couldn’t stand to leave. I love you. And I miss you all!&#8221;_
 
@@ -47,4 +47,4 @@ What can I say after these meaningful words?! I believe there&#8217;s always som
 
 Thank you Ross Bolla for your kindness&#8230;we already love you!!!                                         <img class="size-medium wp-image-1221 aligncenter" src="/img/uploads/2019/02/IMG_1578-768x1152-200x300.jpg" alt="" width="200" height="300" srcset="/img/uploads/2019/02/IMG_1578-768x1152-200x300.jpg 200w, /img/uploads/2019/02/IMG_1578-768x1152.jpg 768w, /img/uploads/2019/02/IMG_1578-768x1152-683x1024.jpg 683w" sizes="(max-width: 200px) 100vw, 200px" />
 
-[1]: https://www.rossbolla.com
+: https://www.rossbolla.com

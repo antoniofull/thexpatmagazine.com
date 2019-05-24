@@ -122,7 +122,7 @@ So if this feels like it&#8217;s something for you, keep on reading the top tips
   </p>
 </div>
 
-Thank you Lauren for sharing your experience and giving us top tips to embrace this experience as much as possible. For all of you thinking of even starting a business in Barcelona, we have more suggestions for you. Read on the [7 tips to open a business in Barcelona][1]. And if you are curious to learn about expatriates, here&#8217;s [what expatriation really is][2].
+Thank you Lauren for sharing your experience and giving us top tips to embrace this experience as much as possible. For all of you thinking of even starting a business in Barcelona, we have more suggestions for you. Read on the [7 tips to open a business in Barcelona]. And if you are curious to learn about expatriates, here&#8217;s [what expatriation really is].
 
-[1]: https://localhost/thexpatmagazine-wp/2019/europe/spain/7-tips-on-how-to-open-a-business-in-barcelona/
-[2]: https://localhost/thexpatmagazine-wp/2019/living-abroad/what-expatriation-really-is/
+: https://localhost/thexpatmagazine-wp/2019/europe/spain/7-tips-on-how-to-open-a-business-in-barcelona/
+: https://localhost/thexpatmagazine-wp/2019/living-abroad/what-expatriation-really-is/

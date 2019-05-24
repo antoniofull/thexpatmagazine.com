@@ -40,7 +40,7 @@ No, it&#8217;s not all easy there, you have to deal with the language and its st
 
 What stroke me the most? It&#8217;s what Rotterdam can offer, thanks to its soul of a metropolitan city enclosed in 319km². Further more, all the people living there, the feeling of being part of a new family met by chance during an Expat Event or while looking for a new apartment through Facebook pages and social networks. Everybody who wants to share his experience or provide useful advice to the &#8220;Expat wanna be&#8221; very often use the social networks, such as &#8220;Expats in Rotterdam&#8221;, &#8220;Italians (or French, Germans, etc.) in Rotterdam&#8221;&#8230;you might want to give it a try.
 
-Looking for a job in 2013 was a bit easier than nowadays, anyway my advice is to learn at least English before going into this adventure. Once you&#8217;ve done that, you can download the [Undutchables][1] app to be up to date on new job opportunities, which you can filter by city or primary language&#8230;remember to be patient and you need a lot of enthusiasm to be back into the game. From my personal experience, I have worked in IT with 2 different companies and I have learned a lot.
+Looking for a job in 2013 was a bit easier than nowadays, anyway my advice is to learn at least English before going into this adventure. Once you&#8217;ve done that, you can download the [Undutchables] app to be up to date on new job opportunities, which you can filter by city or primary language&#8230;remember to be patient and you need a lot of enthusiasm to be back into the game. From my personal experience, I have worked in IT with 2 different companies and I have learned a lot.
 
 From the administrational side, I remember how efficient and fast is the bureaucracy for things such as registration at the municipality, open a bank account and receiving the health insurance card. I think I did everything in 3 hours and 1 appointment, as I knew in advance all the documents needed thanks to the call I had before going to the office.
 
@@ -50,4 +50,4 @@ Doe doe (ciao ciao)
 
 Rossella
 
-[1]: https://undutchables.nl
+: https://undutchables.nl

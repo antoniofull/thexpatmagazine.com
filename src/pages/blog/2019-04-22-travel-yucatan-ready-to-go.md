@@ -30,7 +30,7 @@ Usually, you don&#8217;t have a long list of vaccinations, but just to be sure y
 
 #### **Esta/VISA**
 
-Depending on where you come from, you need permission to enter the States first and Mexico later on. For Italians (I believe European in general) it&#8217;s not needed any special document for Mexico, while it is mandatory the ESTA for the stopover in the US. It is very easy to get it, just go the [official ESTA website][1] and complete the form, if everything is right you&#8217;ll receive your document in less then 1 week and it expires after 3 years for only 14\$.
+Depending on where you come from, you need permission to enter the States first and Mexico later on. For Italians (I believe European in general) it&#8217;s not needed any special document for Mexico, while it is mandatory the ESTA for the stopover in the US. It is very easy to get it, just go the [official ESTA website] and complete the form, if everything is right you&#8217;ll receive your document in less then 1 week and it expires after 3 years for only 14\$.
 
 Once you have done all this boring bureaucracy you can start to organize the **best part of the travel in Yucatàn.**
 
@@ -62,4 +62,4 @@ Of course, I didn&#8217;t experience all of this but my friend did and it was gr
 
 <!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->
 
-[1]: https://esta.cbp.dhs.gov/esta/
+: https://esta.cbp.dhs.gov/esta/

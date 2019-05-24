@@ -18,19 +18,19 @@ Finally your dream to move to Italy has come true, so you are packing up your st
 
 There are different channels and websites that work very well for your house hunting, and the advice here is to check them often and be constant to make the whole process easier.
 
-##### [Immobiliare.it][1]
+##### [Immobiliare.it]
 
 This website collects all the offers from agencies around the country, for both selling and renting. You can search for city or municipality (comune), even using the map if you already know the areas and want to focus on a specific one, as well as applying other filters such as square metres, number of bedrooms, minimum and maximum price, and so on.
 
-##### [Casa.it][2]
+##### [Casa.it]
 
 As for the filters, It works same as the one above, and you may find overlapping offers as agencies often use different platforms for their advertisings. Just don&#8217;t be sceptical, the more you search the more options you will find.
 
-##### [Subito.it][3]
+##### [Subito.it]
 
 Here you can find offers posted both by agencies and private owners, as there&#8217;s any kind of posting I always suggest to read scrupulosy, check all the information and details, and much more be careful: never pay anything in advance, unless you have seen the apartment yourself &#8211; there&#8217;s a lot of scam around.
 
-##### [Bakeca.it ][4]
+##### [Bakeca.it ]
 
 This is similar to Subito.it, as you can find postings from agencies and private owners. Also, if you&#8217;re looking for second-hand items for your new apartment, this is a good way to find them.
 
@@ -42,8 +42,8 @@ This is a great way to look for a house or apartment if you don&#8217;t want to 
 
 &nbsp;
 
-[1]: https://www.immobiliare.it
-[2]: https://www.casa.it/affitti
+: https://www.immobiliare.it
+: https://www.casa.it/affitti
 
-[3]: https://www.subito.it/annunci-italia/affitto/appartamenti/?ref=dem&xtor=SEC-10308-GOO-[Affitto_Appartamenti]-[E]-S-[%2Bcerco%20%2Bappartamento%20in%20%2Baffitto]&xts=355968
-[4]: https://www.bakeca.it/annunci/cerco-casa/
+: https://www.subito.it/annunci-italia/affitto/appartamenti/?ref=dem&xtor=SEC-10308-GOO-[Affitto_Appartamenti]-[E]-S-[%2Bcerco%20%2Bappartamento%20in%20%2Baffitto]&xts=355968
+: https://www.bakeca.it/annunci/cerco-casa/

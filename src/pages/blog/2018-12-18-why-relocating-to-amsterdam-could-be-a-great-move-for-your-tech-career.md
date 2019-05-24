@@ -22,7 +22,7 @@ tags:
 
 Boasting a healthy working-life balance, rich history and cultural diversity, and a rare combination of cosy village-like charm and metropolitan amenities, the Netherlands’ capital has been attracting expats for years—now, it’s the global tech community being tempted to relocate to Amsterdam.
 
-Amsterdam was recently named the [best European tech city to work in][1]. The result is hardly surprising; home to more than 500 international tech companies, the city has also fostered a burgeoning start-up scene, and is teeming with roles across the IT spectrum.
+Amsterdam was recently named the [best European tech city to work in]. The result is hardly surprising; home to more than 500 international tech companies, the city has also fostered a burgeoning start-up scene, and is teeming with roles across the IT spectrum.
 
 **A city powered by start-ups**
 
@@ -38,7 +38,7 @@ But it’s not just the up-and-comers making a home by the Amstel—the city is 
 
 **Dangling the carrot for international talent**
 
-Average salaries for tech workers in Amsterdam are another alluring bonus offered by the city. Wages for IT pros [tend to be higher in Amsterdam than in many other European tech hub][1]s like London, Berlin, Paris, and Dublin; software developers, for example, can earn between €2,750 &#8211; €6,000 a month on average, depending on experience.
+Average salaries for tech workers in Amsterdam are another alluring bonus offered by the city. Wages for IT pros [tend to be higher in Amsterdam than in many other European tech hub]s like London, Berlin, Paris, and Dublin; software developers, for example, can earn between €2,750 &#8211; €6,000 a month on average, depending on experience.
 
 Coupled with the competitive salaries, cost of living in Amsterdam is pretty attractive too; one of the lowest of all Europe’s capitals. Though it varies depending on where, and how, you live, generally €1,000 &#8211; €1,500 will be enough to cover essentials like rent, insurance, groceries, and public transport.
 
@@ -50,7 +50,7 @@ There are also schemes to help smooth the process of landing a work permit for t
 
 What makes relocating to Amsterdam especially attractive to professionals working in the often competitive and fast-paced tech industry, however, is the quality of life on offer. There may be plenty of great jobs available, but you won’t be expected to be shackled to your desk.
 
-So great is Amsterdam’s commitment to living well, that the city was ranked number one in the world for work-life balance in 2018’s [OECD Better Life Index][2]. The Netherlands also ranks above average when it comes to satisfaction with their lives in general; in the OECD residents of the Netherlands rated their contentment 7.4, significantly higher than the 6.4 global average.
+So great is Amsterdam’s commitment to living well, that the city was ranked number one in the world for work-life balance in 2018’s [OECD Better Life Index]. The Netherlands also ranks above average when it comes to satisfaction with their lives in general; in the OECD residents of the Netherlands rated their contentment 7.4, significantly higher than the 6.4 global average.
 
 &nbsp;
 
@@ -58,8 +58,8 @@ _<img class="alignleft size-thumbnail wp-image-1160" src="/img/uploads/2018/12/J
 
 &nbsp;
 
-_James McDonagh is the Director of EMEA at_ [_Frank Recruitment Group_][3]_, a global leader in staffing for IT professionals with multiple recruitment brands._
+_James McDonagh is the Director of EMEA at_ [_Frank Recruitment Group_]_, a global leader in staffing for IT professionals with multiple recruitment brands._
 
-[1]: https://www.hubspot.com/european-tech-scene/cities?name=amsterdam
-[2]: https://www.oecdbetterlifeindex.org/
-[3]: https://www.frankgroup.com/
+: https://www.hubspot.com/european-tech-scene/cities?name=amsterdam
+: https://www.oecdbetterlifeindex.org/
+: https://www.frankgroup.com/

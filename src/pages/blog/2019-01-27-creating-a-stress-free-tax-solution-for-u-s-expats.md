@@ -30,7 +30,7 @@ _“This is a question too difficult for a mathematician. It should be asked of 
 
 ## A Solution to U.S. Expatriate Taxes
 
-These miserable events with the big U.S. tax firm inspired Nathalie to do something about her situation: realizing her love for numbers and a passion to help American expats (like herself), Nathalie did something new. She went to took the IRS exams to become an enrolled agent and partnered with two engineering masterminds, Markus Finster and Joachim Niederreiter. The three of them worked together to create something pretty cool: [MyExpatTaxes][1]&#8211; the world’s first expat tax solution software where customers can do their U.S. taxes stress-free and in under 30 minutes online.
+These miserable events with the big U.S. tax firm inspired Nathalie to do something about her situation: realizing her love for numbers and a passion to help American expats (like herself), Nathalie did something new. She went to took the IRS exams to become an enrolled agent and partnered with two engineering masterminds, Markus Finster and Joachim Niederreiter. The three of them worked together to create something pretty cool: [MyExpatTaxes]&#8211; the world’s first expat tax solution software where customers can do their U.S. taxes stress-free and in under 30 minutes online.
 
 <img class="alignleft size-medium wp-image-1197" src="/img/uploads/2019/01/websitegraphic-200x300.png" alt="" width="200" height="300" srcset="/img/uploads/2019/01/websitegraphic-200x300.png 200w, /img/uploads/2019/01/websitegraphic.png 600w" sizes="(max-width: 200px) 100vw, 200px" />
 
@@ -38,11 +38,11 @@ _‘’I never thought filing taxes could be this simple! I was so stressed out 
 
 The MyExpatTaxes software guides the user to walk through a set of simple questions to determine their tax profile. Once all the information is in the software prints out all your numbers and info onto the correct forms that you need to submit to the IRS. And that’s it! For simple tax profiles, this process takes 30 minutes or less, and MyExpatTaxes even got reports on people getting their U.S. taxes done in less than half that time!
 
-As of 2019, MyExpatTaxes has officially launched a full-scale version of their tax software, powerful enough to support 70% of U.S. expat tax profiles!  Be sure to stay in the loop of the latest news and announcements by signing up for free at [MyExpatTaxes.com][1].
+As of 2019, MyExpatTaxes has officially launched a full-scale version of their tax software, powerful enough to support 70% of U.S. expat tax profiles!  Be sure to stay in the loop of the latest news and announcements by signing up for free at [MyExpatTaxes.com].
 
-_Additionally, for those interested in following along expat news in English on popular European cities, check out_ [_MyExpatCommunity_][2]_, a sub-project of MyExpatTaxes._
+_Additionally, for those interested in following along expat news in English on popular European cities, check out_ [_MyExpatCommunity_]_, a sub-project of MyExpatTaxes._
 
-Also, if you are planning to move abroad and need tips & tricks to organize your moving, here&#8217;s your [Guide to Moving Internationally][3].
+Also, if you are planning to move abroad and need tips & tricks to organize your moving, here&#8217;s your [Guide to Moving Internationally].
 
 <img class="alignleft size-thumbnail wp-image-1196" src="/img/uploads/2019/01/Michelle-Mock-Photography-color-3-150x150.jpg" alt="" width="150" height="150" />
 
@@ -58,6 +58,6 @@ Also, if you are planning to move abroad and need tips & tricks to organize your
 
 **By Michelle H. of MyExpatTaxes\*\*** \*\*
 
-[1]: https://www.myexpattaxes.com/?utm_source=the_expat_magazine&utm_medium=blog_creating_stree-free_taxsolution
-[2]: https://www.myexpatcommunity.com/?utm_source=the_expat_magazine&utm_medium=blog_creating_stree-free_taxsolution
-[3]: https://localhost/thexpatmagazine-wp/2018/expat-life/your-guide-to-moving-internationally/?preview_id=1083&preview_nonce=269b10a6de&post_format=standard&_thumbnail_id=1095&preview=true
+: https://www.myexpattaxes.com/?utm_source=the_expat_magazine&utm_medium=blog_creating_stree-free_taxsolution
+: https://www.myexpatcommunity.com/?utm_source=the_expat_magazine&utm_medium=blog_creating_stree-free_taxsolution
+: https://localhost/thexpatmagazine-wp/2018/expat-life/your-guide-to-moving-internationally/?preview_id=1083&preview_nonce=269b10a6de&post_format=standard&_thumbnail_id=1095&preview=true

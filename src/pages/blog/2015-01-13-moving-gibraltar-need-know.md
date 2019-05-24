@@ -24,7 +24,7 @@ _**Gibraltar**_ is a **British** overseas territory located in the southern part
 
 The weather and the classic friendly **Spanish** attitude from the **South** make **Gibraltar** an interesting place to relocate. We investigated a little bit to understand how to live and work in **Gibraltar**.
 
-## <img class="alignnone size-large wp-image-392" src="/img/uploads/2015/01/Gibraltar-1024x768.jpg" alt="Gibraltar" width="785" height="589" srcset="/img/uploads/2015/01/Gibraltar-1024x768.jpg 1024w, /img/uploads/2015/01/Gibraltar-300x225.jpg 300w, /img/uploads/2015/01/Gibraltar-768x576.jpg 768w, /img/uploads/2015/01/Gibraltar-667x500.jpg 667w, /img/uploads/2015/01/Gibraltar-800x600.jpg 800w, /img/uploads/2015/01/Gibraltar.jpg 1280w" sizes="(max-width: 785px) 100vw, 785px" />[1]
+## <img class="size-large wp-image-392" src="/img/uploads/2015/01/Gibraltar-1024x768.jpg" alt="Gibraltar" width="785" height="589" srcset="/img/uploads/2015/01/Gibraltar-1024x768.jpg 1024w, /img/uploads/2015/01/Gibraltar-300x225.jpg 300w, /img/uploads/2015/01/Gibraltar-768x576.jpg 768w, /img/uploads/2015/01/Gibraltar-667x500.jpg 667w, /img/uploads/2015/01/Gibraltar-800x600.jpg 800w, /img/uploads/2015/01/Gibraltar.jpg 1280w" sizes="(max-width: 785px) 100vw, 785px" />
 
 ## 1- More than English!
 
@@ -60,9 +60,9 @@ Basically the airport takes the big highway, so anytime a plane is expected to l
 
 ## 8 &#8211; The Costa del Sol.
 
-<img class="alignnone size-large wp-image-391" src="/img/uploads/2015/01/costa-del-sol-1024x564.jpg" alt="costa del sol" width="785" height="432" srcset="/img/uploads/2015/01/costa-del-sol-1024x564.jpg 1024w, /img/uploads/2015/01/costa-del-sol-300x165.jpg 300w, /img/uploads/2015/01/costa-del-sol-768x423.jpg 768w, /img/uploads/2015/01/costa-del-sol-908x500.jpg 908w, /img/uploads/2015/01/costa-del-sol.jpg 1280w" sizes="(max-width: 785px) 100vw, 785px" />[2]
+<img class="size-large wp-image-391" src="/img/uploads/2015/01/costa-del-sol-1024x564.jpg" alt="costa del sol" width="785" height="432" srcset="/img/uploads/2015/01/costa-del-sol-1024x564.jpg 1024w, /img/uploads/2015/01/costa-del-sol-300x165.jpg 300w, /img/uploads/2015/01/costa-del-sol-768x423.jpg 768w, /img/uploads/2015/01/costa-del-sol-908x500.jpg 908w, /img/uploads/2015/01/costa-del-sol.jpg 1280w" sizes="(max-width: 785px) 100vw, 785px" />
 
 We have to mention again, this is a magnificent place full of sun and lovely people that will make you fall in love at first sight. La _**Costa del Sol**_ goes from the borders of Gib up to the always partying city of Malaga.
 
-[1]: /img/uploads/2015/01/Gibraltar.jpg
-[2]: /img/uploads/2015/01/costa-del-sol.jpg
+: /img/uploads/2015/01/Gibraltar.jpg
+: /img/uploads/2015/01/costa-del-sol.jpg

@@ -58,10 +58,10 @@ You&#8217;ve quickly realized that not everyone in Italy speaks English. Well, y
 
 10 &#8211;\*\* \*\*<span style="line-height: 1.5em;"> <strong>When you know by heart this</strong></span>
 
-[<img alt="italian gestures" src="/img/uploads/2014/02/italiangestures-300x300.jpg" width="300" height="300" />[1]
+[<img alt="italian gestures" src="/img/uploads/2014/02/italiangestures-300x300.jpg" width="300" height="300" />
 
 Check this <a href="https://www.mymodernmet.com/profiles/blogs/italian-popular-gestures-3" target="_blank">post</a> about italian gestures 🙂
 
 <a href="https://www.mymodernmet.com/profiles/blogs/italian-popular-gestures-3" target="_blank">Foto credit</a>.
 
-[1]: /img/uploads/2014/02/italiangestures.jpg
+: /img/uploads/2014/02/italiangestures.jpg

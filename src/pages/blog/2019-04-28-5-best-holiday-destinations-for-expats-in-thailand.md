@@ -24,7 +24,7 @@ tags:
 
 <img class="aligncenter size-large wp-image-1309" src="/img/uploads/2019/04/andrzej-suwara-1155153-unsplash-1024x539.jpg" alt="" width="1024" height="539" srcset="/img/uploads/2019/04/andrzej-suwara-1155153-unsplash-1024x539.jpg 1024w, /img/uploads/2019/04/andrzej-suwara-1155153-unsplash-300x158.jpg 300w, /img/uploads/2019/04/andrzej-suwara-1155153-unsplash-768x404.jpg 768w, /img/uploads/2019/04/andrzej-suwara-1155153-unsplash-1150x605.jpg 1150w, /img/uploads/2019/04/andrzej-suwara-1155153-unsplash.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
-###### _<span style="font-weight: 400;">Railay Beach</span>_ **&#8211; Photo ©** [**Andrzej Suwara on Unsplash**][1]
+###### _<span style="font-weight: 400;">Railay Beach</span>_ **&#8211; Photo ©** [**Andrzej Suwara on Unsplash**]
 
 <span style="font-weight: 400;">Located near the southern border, this region offers everything for every kind of traveller. From towering limestone cliffs to the Emerald lagoon, the gorgeous turquoise sea, surreal beaches, hot water springs, the extensive jungle and hidden caves, and the countless islands off the coast. </span>
 
@@ -34,7 +34,7 @@ tags:
 
 <img class="aligncenter size-large wp-image-1310" src="/img/uploads/2019/04/ayutthaya-2033589_1920-1024x682.jpg" alt="" width="1024" height="682" srcset="/img/uploads/2019/04/ayutthaya-2033589_1920-1024x682.jpg 1024w, /img/uploads/2019/04/ayutthaya-2033589_1920-300x200.jpg 300w, /img/uploads/2019/04/ayutthaya-2033589_1920-768x512.jpg 768w, /img/uploads/2019/04/ayutthaya-2033589_1920-1150x766.jpg 1150w, /img/uploads/2019/04/ayutthaya-2033589_1920.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
-###### **Photo ©** [**Bond Supanat on Pixabay**][2]
+###### **Photo ©** [**Bond Supanat on Pixabay**]
 
 <span style="font-weight: 400;">Ayutthaya</span> <span style="font-weight: 400;">was once considered the most beautiful city in the world by European diplomats who visited it. Today, it&#8217;s one of the places to visit in Thailand for fans of history and those who appreciate culture and tradition. </span>
 
@@ -44,7 +44,7 @@ tags:
 
 <img class="aligncenter size-large wp-image-1311" src="/img/uploads/2019/04/rebecca-cairns-1411956-unsplash-1024x721.jpg" alt="" width="1024" height="721" srcset="/img/uploads/2019/04/rebecca-cairns-1411956-unsplash-1024x721.jpg 1024w, /img/uploads/2019/04/rebecca-cairns-1411956-unsplash-300x211.jpg 300w, /img/uploads/2019/04/rebecca-cairns-1411956-unsplash-768x541.jpg 768w, /img/uploads/2019/04/rebecca-cairns-1411956-unsplash-1150x810.jpg 1150w, /img/uploads/2019/04/rebecca-cairns-1411956-unsplash.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
-###### **Photo ©** [**Rebecca Cairns on Unsplash**][3]
+###### **Photo ©** [**Rebecca Cairns on Unsplash**]
 
 <span style="font-weight: 400;">Expats looking for the ideal beach holiday abroad should look no further than Koh Samui. This wonderful island boasts lots of fun and relaxing activities for everyone. It&#8217;s surrounded by beautiful beaches, including Mae Nam, Chaweng, and Lamai. Luxury-seeking travellers can enjoy the many excellent golf courses, top-class resorts, and high-class spas. Things to do include windsurfing, scuba diving, golfing, land tours, etc.</span>
 
@@ -52,7 +52,7 @@ tags:
 
 ###### <img class="aligncenter size-large wp-image-1313" src="/img/uploads/2019/04/rob-king-1443281-unsplash-1024x769.jpg" alt="" width="1024" height="769" srcset="/img/uploads/2019/04/rob-king-1443281-unsplash-1024x769.jpg 1024w, /img/uploads/2019/04/rob-king-1443281-unsplash-300x225.jpg 300w, /img/uploads/2019/04/rob-king-1443281-unsplash-768x577.jpg 768w, /img/uploads/2019/04/rob-king-1443281-unsplash-1150x863.jpg 1150w, /img/uploads/2019/04/rob-king-1443281-unsplash.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
-###### _<span style="font-weight: 400;">deity statue photography</span>_ **&#8211; Photo ©** [**Rob King on Unsplash**][4]
+###### _<span style="font-weight: 400;">deity statue photography</span>_ **&#8211; Photo ©** [**Rob King on Unsplash**]
 
 <span style="font-weight: 400;">This city is surrounded by mountains, offering a more quaint and laid-back feel. You&#8217;ll not find adult distractions like nightclubs here, making it the ideal destination for those looking to get some peace and solitude. </span>
 
@@ -62,7 +62,7 @@ tags:
 
 <img class="aligncenter size-large wp-image-1312" src="/img/uploads/2019/04/waterfall-3182326_1920-1024x702.jpg" alt="" width="1024" height="702" srcset="/img/uploads/2019/04/waterfall-3182326_1920-1024x702.jpg 1024w, /img/uploads/2019/04/waterfall-3182326_1920-300x206.jpg 300w, /img/uploads/2019/04/waterfall-3182326_1920-768x527.jpg 768w, /img/uploads/2019/04/waterfall-3182326_1920-1150x789.jpg 1150w, /img/uploads/2019/04/waterfall-3182326_1920.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
-###### **Photo ©** [**Pixabay**][5]
+###### **Photo ©** [**Pixabay**]
 
 <span style="font-weight: 400;">Located Northwest of Bangkok, the city of Kanchanaburi is ideal for nature enthusiasts. It&#8217;s where expats go to enjoy the best of Thai&#8217;s flora and fauna. It&#8217;s known for its historical attractions, breathtaking natural beauty, and spectacular outdoor activities, including star-gazing, bird-watching, fishing, golfing, canoeing, and trekking. </span>
 
@@ -72,11 +72,11 @@ tags:
 
 <img class="aligncenter size-thumbnail wp-image-1271" src="/img/uploads/2019/04/maryn-mcdonnell-image-150x150.jpg" alt="" width="150" height="150" srcset="/img/uploads/2019/04/maryn-mcdonnell-image-150x150.jpg 150w, /img/uploads/2019/04/maryn-mcdonnell-image-300x300.jpg 300w, /img/uploads/2019/04/maryn-mcdonnell-image-768x768.jpg 768w, /img/uploads/2019/04/maryn-mcdonnell-image.jpg 960w" sizes="(max-width: 150px) 100vw, 150px" />
 
-_<span style="font-weight: 400;">As a life of a digital nomad and years of writing experience, Maryn Mcdonnell is a travel writer who loves exploring the world and shares her travel experiences with other passionate travellers out there. Find Maryn on Twitter </span>_[_<span style="font-weight: 400;">@MarynMcdonnell</span>_][6]
+_<span style="font-weight: 400;">As a life of a digital nomad and years of writing experience, Maryn Mcdonnell is a travel writer who loves exploring the world and shares her travel experiences with other passionate travellers out there. Find Maryn on Twitter </span>_[_<span style="font-weight: 400;">@MarynMcdonnell</span>_]
 
-[1]: https://unsplash.com/photos/XMdhnFTaZ8c
-[2]: https://pixabay.com/photos/ayutthaya-ancient-measure-art-2033589/
-[3]: https://unsplash.com/photos/wvpL1K6IhnI
-[4]: https://unsplash.com/photos/_Woo4d3qrFk
-[5]: https://pixabay.com/photos/waterfall-3182326/
-[6]: https://twitter.com/MarynMcdonnell?lang=en
+: https://unsplash.com/photos/XMdhnFTaZ8c
+: https://pixabay.com/photos/ayutthaya-ancient-measure-art-2033589/
+: https://unsplash.com/photos/wvpL1K6IhnI
+: https://unsplash.com/photos/_Woo4d3qrFk
+: https://pixabay.com/photos/waterfall-3182326/
+: https://twitter.com/MarynMcdonnell?lang=en

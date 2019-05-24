@@ -94,11 +94,11 @@ Reintegration into your home country can be difficult. If you want to talk endle
 
 In terms of relationships with the local population, I saw so many expatriates who regarded themselves as being somehow “special” simply because they were expatriates. This is most obvious where the expat comes from a more developed country and lives in a less developed one but it works in many situations: a tendency to be dismissive of locals; to be overly critical of how things are done and take the view of somehow being “above” what is happening around them. It’s very easy to fall into this trap even for younger people who often have a more open, accepting attitude. Try to leave your prejudices and preconceptions at the door when you start in a new country and don’t be led by those who have lived there a while and may have become cynical…
 
-_“Far Away And Further Back” is available in paperback and Kindle Reader formats from Amazon Books. Here you can find the version for \_\_the [USA][1] and for the UK._
+_“Far Away And Further Back” is available in paperback and Kindle Reader formats from Amazon Books. Here you can find the version for \_\_the [USA] and for the UK._
 
-_There is also an author’s [Facebook page][2] at Patrick H Burns with photographs and additional commentary on several stories._
+_There is also an author’s [Facebook page] at Patrick H Burns with photographs and additional commentary on several stories._
 
 Thank Patrick, for sharing your book and story with us.
 
-[1]: https://www.amazon.com/Away-Further-Back-Patrick-Burns/dp/1986213870/ref=sr_1_1?s=books&ie=UTF8&qid=1532236479&sr=1-1&keywords=far+away+and+further+back
-[2]: https://www.facebook.com/patrickharaldburns/
+: https://www.amazon.com/Away-Further-Back-Patrick-Burns/dp/1986213870/ref=sr_1_1?s=books&ie=UTF8&qid=1532236479&sr=1-1&keywords=far+away+and+further+back
+: https://www.facebook.com/patrickharaldburns/

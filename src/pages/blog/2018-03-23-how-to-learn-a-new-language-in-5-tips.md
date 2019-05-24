@@ -34,7 +34,7 @@ I know what you&#8217;re thinking right now: how am I supposed to watch a movie 
 
 ### Language Exchange
 
-Alright, so far we have had options to train reading and listening, but what about **speaking**? Once you have learned the basics of the language, it is important to practice even more and do it face to face. There are a lot of websites or Facebook groups to look for language exchange tandem, an example is [Conversationexchange,][1]  here you can help other people learning your native language, while you learn theirs too. One very important advice for you: don&#8217;t be scared of failing, just try and speak! Perfection doesn&#8217;t exist, even less when you are learning something new. 😉
+Alright, so far we have had options to train reading and listening, but what about **speaking**? Once you have learned the basics of the language, it is important to practice even more and do it face to face. There are a lot of websites or Facebook groups to look for language exchange tandem, an example is [Conversationexchange,]  here you can help other people learning your native language, while you learn theirs too. One very important advice for you: don&#8217;t be scared of failing, just try and speak! Perfection doesn&#8217;t exist, even less when you are learning something new. 😉
 
 ### Books
 
@@ -42,4 +42,4 @@ Reading books is the last but not least tip you can use when you&#8217;re more c
 
 #### Now it&#8217;s up to you, which tips are you going to use first? Do you have any other tips on this topic? Don&#8217;t hesitate to share them with us.
 
-[1]: https://www.conversationexchange.com
+: https://www.conversationexchange.com

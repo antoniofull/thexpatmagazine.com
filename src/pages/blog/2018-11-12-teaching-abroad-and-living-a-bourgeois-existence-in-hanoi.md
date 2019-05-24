@@ -25,9 +25,9 @@ tags:
 
 **Western graduates can work part-time as teachers whilst enjoying a more-than-comfortable lifestyle in Hanoi. Children in the city get taught English by native speakers. But is this purely a win-win?**
 
-<span style="font-weight: 400;">For more than 30 years, Vietnam has been taking steps to open itself up to the global economy. Since 1986, market liberalisation policies (known as Đổi Mới) have brought impressively consistent economic growth </span>[<span style="font-weight: 400;">(averaging 6.25% GDP growth since 2000</span>][1]<span style="font-weight: 400;">) to one of the world’s last remaining officially communist countries. </span>
+<span style="font-weight: 400;">For more than 30 years, Vietnam has been taking steps to open itself up to the global economy. Since 1986, market liberalisation policies (known as Đổi Mới) have brought impressively consistent economic growth </span>[<span style="font-weight: 400;">(averaging 6.25% GDP growth since 2000</span>]<span style="font-weight: 400;">) to one of the world’s last remaining officially communist countries. </span>
 
-<span style="font-weight: 400;">Successful assimilation with international trade is made much easier with a workforce that speaks the global business language – English. The government recognised this with a 2008 educational initiative which declared that, by 2020, all school leavers should have a ‘</span>[<span style="font-weight: 400;">good grasp of the language’</span>][2]<span style="font-weight: 400;">.</span>
+<span style="font-weight: 400;">Successful assimilation with international trade is made much easier with a workforce that speaks the global business language – English. The government recognised this with a 2008 educational initiative which declared that, by 2020, all school leavers should have a ‘</span>[<span style="font-weight: 400;">good grasp of the language’</span>]<span style="font-weight: 400;">.</span>
 
 <span style="font-weight: 400;">On top of the government’s ambition, a swelling middle class combined with a cultural reverence for education has meant that private English centres have become big business. </span>
 
@@ -91,7 +91,7 @@ tags:
 
 <span style="font-weight: 400;">But a number of parents and schools are leading the charge against these traditional methods. One private centre manager told me there was a growing ‘demand for specialisations’ such as debate, persuasive writing and critical analysis as parents recognise there is more to mastering English than just the four pillars of reading, writing, listening and speaking. </span>
 
-<span style="font-weight: 400;">These specialised classes, however, are only available to those at the top of the income spectrum. A fact that will help replicate the nation’s </span>[<span style="font-weight: 400;">growing economic inequality</span>][3] <span style="font-weight: 400;">within the classroom as well, as analytical and critical thinking education is only available to the super-wealthy.</span>
+<span style="font-weight: 400;">These specialised classes, however, are only available to those at the top of the income spectrum. A fact that will help replicate the nation’s </span>[<span style="font-weight: 400;">growing economic inequality</span>] <span style="font-weight: 400;">within the classroom as well, as analytical and critical thinking education is only available to the super-wealthy.</span>
 
 <span style="font-weight: 400;">But as another foreign teacher, Ben Prizeman, summarised, such problems are the ‘price to pay for speed’, adding: “Ultimately, they’ve [Vietnamese government] got the result they wanted. Lack of regulation, visa issues, the hippie backpacker teacher issue…they are just casualties of the uptake or the huge explosion of English centre development.</span>
 
@@ -103,6 +103,6 @@ tags:
 
 **Thank you** Murray**!**
 
-[1]: https://tradingeconomics.com/vietnam/gdp-growth
-[2]: https://www.theguardian.com/education/2011/nov/08/vietnam-unrealistic-english-teaching-goals
-[3]: https://www.oxfam.org/sites/www.oxfam.org/files/file_attachments/bp-vietnam-inequality-120117-en.pdf
+: https://tradingeconomics.com/vietnam/gdp-growth
+: https://www.theguardian.com/education/2011/nov/08/vietnam-unrealistic-english-teaching-goals
+: https://www.oxfam.org/sites/www.oxfam.org/files/file_attachments/bp-vietnam-inequality-120117-en.pdf

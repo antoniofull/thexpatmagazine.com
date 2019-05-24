@@ -23,13 +23,13 @@ You begin to think .. oh my – this did initially seem like a good idea!
 
 **Visas, Permits and Legalisation**
 
-<img class="alignnone size-large wp-image-426" src="/img/uploads/2015/02/document-428334_1280-1024x681.jpg" alt="document-428334_1280" width="785" height="522" srcset="/img/uploads/2015/02/document-428334_1280-1024x681.jpg 1024w, /img/uploads/2015/02/document-428334_1280-300x199.jpg 300w, /img/uploads/2015/02/document-428334_1280-768x511.jpg 768w, /img/uploads/2015/02/document-428334_1280-752x500.jpg 752w, /img/uploads/2015/02/document-428334_1280.jpg 1280w" sizes="(max-width: 785px) 100vw, 785px" />[1]
+<img class="size-large wp-image-426" src="/img/uploads/2015/02/document-428334_1280-1024x681.jpg" alt="document-428334_1280" width="785" height="522" srcset="/img/uploads/2015/02/document-428334_1280-1024x681.jpg 1024w, /img/uploads/2015/02/document-428334_1280-300x199.jpg 300w, /img/uploads/2015/02/document-428334_1280-768x511.jpg 768w, /img/uploads/2015/02/document-428334_1280-752x500.jpg 752w, /img/uploads/2015/02/document-428334_1280.jpg 1280w" sizes="(max-width: 785px) 100vw, 785px" />
 
 Getting the legalities sorted is one of the first things you need to do because until you have visas and work permits and have your UK documents and certificates legalised your hands will be tied to do anything else.
 
 Depending on the country you are moving to you will have a number of processes to complete in order to be able to work and live there.  It may be that your new employer can help with some aspects of this.
 
-There are a number of experienced UK companies who specialize in assisting UK citizens get their documentation in order as per the regulations of the new  host country.  The staff over at [Vital Legalisation][2] are experts at handling this and they will help you to understand exactly what you are required to do and help you to do it.
+There are a number of experienced UK companies who specialize in assisting UK citizens get their documentation in order as per the regulations of the new  host country.  The staff over at [Vital Legalisation] are experts at handling this and they will help you to understand exactly what you are required to do and help you to do it.
 
 
 
@@ -50,8 +50,8 @@ Many people find that storing these documents away from the home but still in th
 - • Police monitored, alarmed fire proof vault keeps them very safe
 - • If you need them forwarding back to yourselves or to your advisors then just inform us and we shall do it.
 
-The Vital Documents [document storage service][3] is new and unique and it is designed to help UK citizens who are living abroad to keep their important documents in one safe yet accessible place.
+The Vital Documents [document storage service] is new and unique and it is designed to help UK citizens who are living abroad to keep their important documents in one safe yet accessible place.
 
-[1]: /img/uploads/2015/02/document-428334_1280.jpg
-[2]: https://www.vitallegalisation.co.uk
-[3]: https://www.vitaldocuments.co.uk
+: /img/uploads/2015/02/document-428334_1280.jpg
+: https://www.vitallegalisation.co.uk
+: https://www.vitaldocuments.co.uk

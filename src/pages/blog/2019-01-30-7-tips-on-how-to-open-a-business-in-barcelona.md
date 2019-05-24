@@ -18,7 +18,7 @@ tags:
   - top tips
 ---
 
-Setting up a business in sunny [Barcelona][1] is many people’s dream come true.  But, as anyone who has bought or leased commercial property in Barcelona will tell you, there can be many processes and administrative hoops to jump through before you can realise your dream of opening in one of the one world’s most vibrant cities.
+Setting up a business in sunny [Barcelona] is many people’s dream come true.  But, as anyone who has bought or leased commercial property in Barcelona will tell you, there can be many processes and administrative hoops to jump through before you can realise your dream of opening in one of the one world’s most vibrant cities.
 
 \_The Expat Magazine _talks to Jordi Perez, Managing Director of GOBAI Group, a company which specialises in helping international clients open commercial businesses, to give his tips on how to navigate the process. So let&#8217;s explore more&#8230;
 
@@ -90,4 +90,4 @@ For enquiries about starting a business in Barcelona, **GOBAI Group** can offer 
 
 Contact: info@gobaigroup.com. Tel. 930 25 86 04   <span lang="ES"><span lang="EN-GB"><a href="https://www.gobaigroup.com/" target="_blank" rel="noopener">www.gobaigroup.com</a> </span></span>
 
-[1]: https://localhost/thexpatmagazine-wp/2014/europe/27-reasons-barcelona-best-city-world/
+: https://localhost/thexpatmagazine-wp/2014/europe/27-reasons-barcelona-best-city-world/

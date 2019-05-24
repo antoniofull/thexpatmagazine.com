@@ -43,8 +43,8 @@ Are you surprised? I was! I was expecting to see places considered earthly parad
 
 6. Perception of corruption (very linked to trust in government)
 
-To create the ranking and nominate the happiest place in the world 156 countries were taken into consideration, and each criteria was evaluated with a score from 0 to 10. Of course, UN collected information from some others associations such as the World Development Indicators (WDI) released by the World Bank, or World Health Organization (WHO). All details about the studies and methods used for this list are available on the [World Happiness Report 2019 website][1].
+To create the ranking and nominate the happiest place in the world 156 countries were taken into consideration, and each criteria was evaluated with a score from 0 to 10. Of course, UN collected information from some others associations such as the World Development Indicators (WDI) released by the World Bank, or World Health Organization (WHO). All details about the studies and methods used for this list are available on the [World Happiness Report 2019 website].
 
 What’s next? Pack your suitscases, don’t forget the wintercoat and the dictionary, and buy your one-way ticket for happiness !!! And if you like it, just let me know if you agree and which is the happiest place in the world for you&#8230;
 
-[1]: https://worldhappiness.report/ed/2019/#read
+: https://worldhappiness.report/ed/2019/#read

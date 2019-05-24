@@ -31,7 +31,7 @@ it&#8217;s property to refrigerate and regenerate made it resistant to fire. Aft
 
 The Hierro (Iron)  island once was the first meridian, known in European history as the prime meridian in common use outside of the future British Empire.
 
-<img class="alignnone size-full wp-image-154" src="/img/uploads/2014/04/hierro.jpg" alt="hierro" width="1024" height="682" srcset="/img/uploads/2014/04/hierro.jpg 1024w, /img/uploads/2014/04/hierro-300x200.jpg 300w, /img/uploads/2014/04/hierro-768x512.jpg 768w, /img/uploads/2014/04/hierro-751x500.jpg 751w" sizes="(max-width: 1024px) 100vw, 1024px" />][1]
+<img class="size-full wp-image-154" src="/img/uploads/2014/04/hierro.jpg" alt="hierro" width="1024" height="682" srcset="/img/uploads/2014/04/hierro.jpg 1024w, /img/uploads/2014/04/hierro-300x200.jpg 300w, /img/uploads/2014/04/hierro-768x512.jpg 768w, /img/uploads/2014/04/hierro-751x500.jpg 751w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 **4 &#8211; There are several different type of &#8220;microclima&#8221;**
 
@@ -57,7 +57,7 @@ In 1977 at the **Tenerife airport** a collision between a klm boing and a Pam an
 
 With only 4 rooms but a beautiful view, this small hotel has the record to be the smallest in the world.
 
-<img class="alignnone size-full wp-image-153" src="/img/uploads/2014/04/hierro-hotel.jpg" alt="smallest hotel in the world" width="500" height="380" srcset="/img/uploads/2014/04/hierro-hotel.jpg 500w, /img/uploads/2014/04/hierro-hotel-300x228.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />][2]
+<img class="size-full wp-image-153" src="/img/uploads/2014/04/hierro-hotel.jpg" alt="smallest hotel in the world" width="500" height="380" srcset="/img/uploads/2014/04/hierro-hotel.jpg 500w, /img/uploads/2014/04/hierro-hotel-300x228.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />
 
 **10 &#8211; The Wind-Hydro-Pumped Station of El Hierro will power the entire region with sustainable energy.**
 
@@ -73,5 +73,5 @@ The goal is to power the entire region only using sustainable energy.
 
 <span style="color: #4189dd; font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-weight: bold; line-height: normal;"> </span>
 
-[1]: /img/uploads/2014/04/hierro.jpg
-[2]: /img/uploads/2014/04/hierro-hotel.jpg
+: /img/uploads/2014/04/hierro.jpg
+: /img/uploads/2014/04/hierro-hotel.jpg

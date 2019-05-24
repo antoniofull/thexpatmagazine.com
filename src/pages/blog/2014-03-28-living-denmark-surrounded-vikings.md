@@ -24,7 +24,7 @@ tags:
 
 <span style="color: #555555;"><span style="font-family: 'Times New Roman', serif;"><span style="font-size: medium;">Leaving your beloved, the home where you grew up, the smells and horizons which you&#8217;ve been always got use to, for going to Denmark was not easy, but the bravery in choosing what kind of live&#8217;s path, can make the difference.<!--more--></span></span></span>
 
-[<img alt="Expat denmark" src="/img/uploads/2014/03/Copenhagen-Nyhavn-1024x680.jpg" width="785" height="521" />[1]
+[<img alt="Expat denmark" src="/img/uploads/2014/03/Copenhagen-Nyhavn-1024x680.jpg" width="785" height="521" />
 
 <span style="color: #555555;"><span style="font-family: 'Times New Roman', serif;"><span style="font-size: medium;">I remember perfectly when my Danish professor, under whose guidance I had my Erasmus Placement and the thesis for my master, asked me if I was interested in doing a Ph.D (Doctor of Philosophy) at the Aalborg University (AAU). It was the day before my graduation session, and from that moment on my mind was focus on something else&#8230;other than anxiety for the graduation! Too many questions without any answer, too many random variables, using a scientific terminology, and a lot of insecurity, but also a lot of awareness and joy for the great opportunity that I was given to.</span></span></span>
 
@@ -46,4 +46,4 @@ tags:
 
 <span style="color: #555555;"><span style="font-family: georgia, 'palatino linotype', palatino, 'times new roman', times, serif;"><span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: medium;">Lorenzo.</span></span><strong><span style="font-family: 'Times New Roman', serif;"><span style="font-size: medium;">  </span></span></strong></span></span></span>
 
-[1]: /img/uploads/2014/03/Copenhagen-Nyhavn.jpg
+: /img/uploads/2014/03/Copenhagen-Nyhavn.jpg

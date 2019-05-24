@@ -34,13 +34,13 @@ Again a nordic country at the top of the list. This time is Denmark which is mor
 
 <a style="line-height: 1.5em;" href="https://scappoallestero.com/wp-content/uploads/2014/03/large_3906915936.jpg"><img src="https://scappoallestero.com/wp-content/uploads/2014/03/large_3906915936.jpg" alt="Danimarca" width="1024" height="683" /></a>
 
-photo credit: [glamismac][1] via [photopin][2] [cc][3]
+photo credit: [glamismac] via [photopin][cc]
 
 ### 3 &#8211; New Zealand.
 
 New Zealand is not only a peaceful country, ranking third in this list, but is also a country with a vibrant economy and in a strong demand of expats. Beside that is beautiful and is more easy to get a VISA than Australia.  If you can get used to earthquake then might be a good choice.
 
-[<img src="https://scappoallestero.com/wp-content/uploads/2014/03/nuova-zelanda.jpg" alt="Nuova Zelanda" width="804" height="537" />[4]
+[<img src="https://scappoallestero.com/wp-content/uploads/2014/03/nuova-zelanda.jpg" alt="Nuova Zelanda" width="804" height="537" />
 
 &nbsp;
 
@@ -74,13 +74,13 @@ Foto credit : <a href="https://www.flickr.com/photos/marcveraart/2759525172/" t
 
 Again Europe, again North. Finland is the 7th most peaceful country in the world. Probably not the first choice for many expats. 🙂
 
-[<img src="https://scappoallestero.com/wp-content/uploads/2014/03/finlandia-1024x682.jpg" alt="finlandia" width="1024" height="682" />[5]
+[<img src="https://scappoallestero.com/wp-content/uploads/2014/03/finlandia-1024x682.jpg" alt="finlandia" width="1024" height="682" />
 
 foto credit : <a href="https://www.flickr.com/photos/anapaulahrm/10978402764" target="_blank">flickr</a>
 
 ### 8 &#8211; Canada
 
-Canada also make the list as 8th most **peaceful country in the world**.  Canada is also working on some plans to lure more [expats in the country][6].
+Canada also make the list as 8th most **peaceful country in the world**.  Canada is also working on some plans to lure more [expats in the country].
 
 <a style="line-height: 1.5em;" href="https://scappoallestero.com/wp-content/uploads/2014/03/canada.jpg"><img src="https://scappoallestero.com/wp-content/uploads/2014/03/canada.jpg" alt="canada" width="1024" height="683" /></a>
 
@@ -94,7 +94,7 @@ foto credit : <a href="https://www.flickr.com/photos/tequilapartners/3836275728
 
 Sweden ranks 9th in this list. Among the nordic scandinavian countries is probably the one that is having more problem with the economic turndown that is affecting Europe.<a style="line-height: 1.5em;" href="https://scappoallestero.com/wp-content/uploads/2014/03/large_8596989531.jpg"><img src="https://scappoallestero.com/wp-content/uploads/2014/03/large_8596989531.jpg" alt="svezia" width="1024" height="683" /></a>
 
-photo credit: [Ulf Bodin][7] via [photopin][2] [cc][3]
+photo credit: [Ulf Bodin] via [photopin][cc]
 
 ### 10 &#8211; Belgium
 
@@ -110,10 +110,10 @@ foto credit : <a href="https://www.flickr.com/photos/pdbreen/3795455425" target
 
 And you? Where are you planning to move? 🙂
 
-[1]: https://www.flickr.com/photos/glamismac/3906915936/
-[2]: https://photopin.com
-[3]: https://creativecommons.org/licenses/by-nc-sa/2.0/
-[4]: https://scappoallestero.com/wp-content/uploads/2014/03/nuova-zelanda.jpg
-[5]: https://scappoallestero.com/wp-content/uploads/2014/03/finlandia.jpg
-[6]: https://localhost/thexpatmagazine-wp/2014/americas/north-america/canada-plans-2014-lure-expats/ 'Canada plans for 2014 : to lure more expats'
-[7]: https://www.flickr.com/photos/ulfbodin/8596989531/
+: https://www.flickr.com/photos/glamismac/3906915936/
+: https://photopin.com
+: https://creativecommons.org/licenses/by-nc-sa/2.0/
+: https://scappoallestero.com/wp-content/uploads/2014/03/nuova-zelanda.jpg
+: https://scappoallestero.com/wp-content/uploads/2014/03/finlandia.jpg
+: https://localhost/thexpatmagazine-wp/2014/americas/north-america/canada-plans-2014-lure-expats/ 'Canada plans for 2014 : to lure more expats'
+: https://www.flickr.com/photos/ulfbodin/8596989531/

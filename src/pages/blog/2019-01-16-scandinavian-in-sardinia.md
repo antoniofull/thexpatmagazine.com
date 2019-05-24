@@ -92,6 +92,6 @@ Here&#8217;s her experience&#8230;
 
 <img class="aligncenter size-full wp-image-1168" src="/img/uploads/2019/01/tea.jpg" alt="" width="1400" height="854" srcset="/img/uploads/2019/01/tea.jpg 1400w, /img/uploads/2019/01/tea-300x183.jpg 300w, /img/uploads/2019/01/tea-768x468.jpg 768w, /img/uploads/2019/01/tea-1024x625.jpg 1024w, /img/uploads/2019/01/tea-1150x702.jpg 1150w" sizes="(max-width: 1400px) 100vw, 1400px" />
 
-If you want to know more about her, here&#8217;s her [blog][1]. Enjoy it!
+If you want to know more about her, here&#8217;s her [blog]. Enjoy it!
 
-[1]: https://the-compass-adventures.com
+: https://the-compass-adventures.com

@@ -19,7 +19,7 @@ tags:
 
 The **ITU**, **_International Telecommunication Union_**, released yesterday a report for the _**world&#8217;s most connected countries**_ according with their index called **IDI** (_**global ICT Development Index).**_<!--more-->
 
-<img class="alignnone size-large wp-image-146" src="/img/uploads/2014/03/Copenhagen-Nyhavn-1024x680.jpg" alt="Expat denmark" width="785" height="521" srcset="/img/uploads/2014/03/Copenhagen-Nyhavn-1024x680.jpg 1024w, /img/uploads/2014/03/Copenhagen-Nyhavn-300x199.jpg 300w, /img/uploads/2014/03/Copenhagen-Nyhavn-768x510.jpg 768w, /img/uploads/2014/03/Copenhagen-Nyhavn-753x500.jpg 753w, /img/uploads/2014/03/Copenhagen-Nyhavn.jpg 1200w" sizes="(max-width: 785px) 100vw, 785px" />[1]
+<img class="size-large wp-image-146" src="/img/uploads/2014/03/Copenhagen-Nyhavn-1024x680.jpg" alt="Expat denmark" width="785" height="521" srcset="/img/uploads/2014/03/Copenhagen-Nyhavn-1024x680.jpg 1024w, /img/uploads/2014/03/Copenhagen-Nyhavn-300x199.jpg 300w, /img/uploads/2014/03/Copenhagen-Nyhavn-768x510.jpg 768w, /img/uploads/2014/03/Copenhagen-Nyhavn-753x500.jpg 753w, /img/uploads/2014/03/Copenhagen-Nyhavn.jpg 1200w" sizes="(max-width: 785px) 100vw, 785px" />
 
 _<a title="Living in Denmark…surrounded by the Vikings!" href="https://localhost/thexpatmagazine-wp/2014/europe/living-denmark-surrounded-vikings/" target="_blank"><strong>Denmark</strong></a>_ ranks first, followed by _**South Korea Sweden and Iceland.**_ The index is calculated based on the usage of mobile phone and internet connection and there is no surprise that Europe dominates the list taking almost all the first 10 places, leaving space only to Asia with Hong Kong and South Korea.
 
@@ -33,4 +33,4 @@ So as many statistics we already proposed you can see how the North European cou
 
 have you been to _**Denmark**_? Let us know in the comments!
 
-[1]: /img/uploads/2014/03/Copenhagen-Nyhavn.jpg
+: /img/uploads/2014/03/Copenhagen-Nyhavn.jpg

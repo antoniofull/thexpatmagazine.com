@@ -18,7 +18,7 @@ tags:
 
 **Spain** is a mediterranean country in the south of **Europe** and is one of the country hit by the crisis. Now is slowly recovering, however being a cheap country with a nice weather almost all the year and fabulous people is easy for many expats fall in love for this country.  I&#8217;ve collected my list of the most important reasons to **live in Spain**.<!--more-->
 
-<img class="alignnone size-medium wp-image-97" alt="live spain" src="/img/uploads/2014/03/corrida_san_fermin-300x191.jpg" width="300" height="191" />][1]
+<img class="" alt="live spain" src="/img/uploads/2014/03/corrida_san_fermin-300x191.jpg" />
 
 1 &#8211; **The people.**
 
@@ -48,4 +48,4 @@ Do you live in Spain? What do you think? Let us know in the comments.
 
 Foto <a href="https://sunshineandsiestas.com/2013/07/09/uno-de-enero-dos-de-febrero-experiencing-the-san-fermines-festival-of-pamplona/" target="_blank">credit</a>.
 
-[1]: /img/uploads/2014/03/corrida_san_fermin.jpg
+: /img/uploads/2014/03/corrida_san_fermin.jpg

@@ -22,8 +22,6 @@ Often people see **Switzerland** like a kind of boring small country, with not m
 
 During winter it may snow very hard, and of course the night is the worst. But you can be sure that, whatever happen in the night, the street will be clean **before the 8:00 in the morning**.
 
-
-
 ### 2 &#8211; Voting is mandatory.
 
 If you don&#8217;t you will get a fine, there is no excuse. Not even if you live abroad.
@@ -31,7 +29,7 @@ If you don&#8217;t you will get a fine, there is no excuse. Not even if you live
 ### 3 &#8211; They are always ready to contrast an invasor.
 
 <div id="attachment_219" style="width: 1034px" class="wp-caption alignnone">
-  <a href="/img/uploads/2014/09/Toblerone-line-Gland.jpg"><img class="wp-image-219 size-large" src="/img/uploads/2014/09/Toblerone-line-Gland-1024x703.jpg" alt="Switzerland" width="1024" height="703" /></a>
+  <a href="/img/uploads/2014/09/Toblerone-line-Gland.jpg"><img src="/img/uploads/2014/09/Toblerone-line-Gland-1024x703.jpg" alt="Switzerland" width="1024" height="703" /></a>
   
   <p class="wp-caption-text">
     Switzerland can survive a nuclear war

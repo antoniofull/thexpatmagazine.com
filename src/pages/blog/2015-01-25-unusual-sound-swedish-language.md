@@ -24,8 +24,8 @@ It&#8217;s the way how the say yes and well .. we cannot write it down here, you
 
 
 
-[\[youtube youtubeurl=&#8221;URgdIAz4QNg&#8221; \]\[/youtube\]][1]
+[\[youtube youtubeurl=&#8221;URgdIAz4QNg&#8221; \]\[/youtube\]]
 
 Was it fun? Did you try to repeat it? Let Us know in the comments below! 😀
 
-[1]: https://youtube.com/watch?v=URgdIAz4QNg
+: https://youtube.com/watch?v=URgdIAz4QNg

@@ -69,6 +69,6 @@ Not at the moment!
 
 <img class="aligncenter size-full wp-image-874" src="/img/uploads/2018/04/29542345_1681867821903688_5138587160951830205_n.jpg" alt="" width="959" height="959" srcset="/img/uploads/2018/04/29542345_1681867821903688_5138587160951830205_n.jpg 959w, /img/uploads/2018/04/29542345_1681867821903688_5138587160951830205_n-150x150.jpg 150w, /img/uploads/2018/04/29542345_1681867821903688_5138587160951830205_n-300x300.jpg 300w, /img/uploads/2018/04/29542345_1681867821903688_5138587160951830205_n-768x768.jpg 768w" sizes="(max-width: 959px) 100vw, 959px" />
 
-##### If you want to know more about Bruno, [here][1]&#8216;s the link to his page.
+##### If you want to know more about Bruno, [here]&#8216;s the link to his page.
 
-[1]: https://bjjasia.com/2017/09/26/building-an-empire/
+: https://bjjasia.com/2017/09/26/building-an-empire/

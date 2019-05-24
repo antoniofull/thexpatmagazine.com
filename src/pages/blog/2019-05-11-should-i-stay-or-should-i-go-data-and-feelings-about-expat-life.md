@@ -46,11 +46,11 @@ I believe the numbers are changing already while you are reading this post.
 
 I hope migration reasons will be only for ambition, business, love, curiosity and no more for poverty and war.
 
-We constantly share stories and experiences of people who decided to move to another country and, hopefully, these can also help you to answer some of your questions. How can you [feel at home Abroadland][1]? Is there [anything that changes forever when you live abroad][2]?
+We constantly share stories and experiences of people who decided to move to another country and, hopefully, these can also help you to answer some of your questions. How can you [feel at home Abroadland]? Is there [anything that changes forever when you live abroad]?
 
 Looking forward to &#8220;hearing your voice&#8221; and find out your experiences about non-expat and expat life.
 
 &nbsp;
 
-[1]: https://localhost/thexpatmagazine-wp/2019/expat-life/feeling-at-home-in-abroadland/
-[2]: https://localhost/thexpatmagazine-wp/2014/expat-life/8-things-changed-forever-since-live-abroad/
+: https://localhost/thexpatmagazine-wp/2019/expat-life/feeling-at-home-in-abroadland/
+: https://localhost/thexpatmagazine-wp/2014/expat-life/8-things-changed-forever-since-live-abroad/

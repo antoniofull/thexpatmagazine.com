@@ -53,6 +53,6 @@ tags:
   Read more in the infographic below or download the <a href="https://www.hansen-company.com/wp-content/uploads/2018/11/8-apps-to-make-moving-abroad-easier.jpg" target="_blank" rel="noopener">image directly</a>
 </p>
 
-<img class="aligncenter wp-image-1242 size-large" src="/img/uploads/2019/02/8-apps-to-make-moving-abroad-easier-116x1024.jpg" alt="8-apps-to-make-moving-abroad-easier" width="116" height="1024" srcset="/img/uploads/2019/02/8-apps-to-make-moving-abroad-easier-116x1024.jpg 116w, /img/uploads/2019/02/8-apps-to-make-moving-abroad-easier-34x300.jpg 34w" sizes="(max-width: 116px) 100vw, 116px" />][1]
+<img class="aligncenter wp-image-1242 size-large" src="/img/uploads/2019/02/8-apps-to-make-moving-abroad-easier-116x1024.jpg" alt="8-apps-to-make-moving-abroad-easier" width="116" height="1024" srcset="/img/uploads/2019/02/8-apps-to-make-moving-abroad-easier-116x1024.jpg 116w, /img/uploads/2019/02/8-apps-to-make-moving-abroad-easier-34x300.jpg 34w" sizes="(max-width: 116px) 100vw, 116px" />
 
-[1]: /img/uploads/2019/02/8-apps-to-make-moving-abroad-easier.jpg
+: /img/uploads/2019/02/8-apps-to-make-moving-abroad-easier.jpg
