@@ -41,7 +41,7 @@ collections:
         widget: 'relation'
         collection: 'authors'
         searchFields: ['name', 'facebook']
-        valueField: 'name'
+        valueField: 'title'
         displayFields:
           [
             'name',
@@ -59,6 +59,7 @@ collections:
         collection: 'guest-authors'
         searchFields: ['name', 'instagram']
         valueField: 'name'
+        required: false
         displayFields:
           [
             'name',
