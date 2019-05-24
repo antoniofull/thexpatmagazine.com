@@ -5,11 +5,14 @@
 }
 
 .container {
-  max-width: 1280px;
+  max-width: 1440px;
   margin: 0 auto;
 }
 
 .meta {
   margin: var(--margin-l) auto;
   max-width: 300px;
+  color: var(--color-text-third);
+  font-size: 14px;
+  font-family: 'Source Sans Pro', sans-serif;
 }

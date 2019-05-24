@@ -1,18 +1,45 @@
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
 body {
   font-family: 'Lora', serif;
   line-height: 1.5;
   font-size: 100%;
   color: var(--color-text-primary);
+  text-rendering: optimizeLegibility;
+
+  /* Serif Numbers are not looking good, let's make it better */
+  font-variant: lining-nums;
+  -moz-font-feature-settings: 'lnum';
+  -webkit-font-feature-settings: 'lnum';
+  font-feature-settings: 'lnum';
 }
 
+/* Enable Opentype features */
+.fractional {
+  font-variant: diagonal-fractions;
+  -moz-font-feature-settings: 'frac';
+  -webkit-font-feature-settings: 'frac';
+  font-feature-settings: 'frac';
+}
+.ordinal {
+  font-variant-numeric: ordinal;
+  -moz-font-feature-settings: 'ordn';
+  -webkit-font-feature-settings: 'ordn';
+  font-feature-settings: 'ordn';
+}
+.ligature {
+  font-variant-numeric: common-ligatures;
+  -moz-font-feature-settings: 'liga';
+  -webkit-font-feature-settings: 'liga';
+  font-feature-settings: 'liga';
+}
 .wf-source-sans {
   font-family: 'Source Sans Pro', sans-serif;
 }
 .wf-playfair {
   font-family: 'Playfair Display', serif;
-}
-.wf-montserrat {
-  font-family: 'Montserrat', sans-serif;
 }
 
 h1,
@@ -23,6 +50,7 @@ h5,
 h6 {
   font-family: 'Playfair Display', serif;
   color: var(--color-text-third);
+  text-transform: capitalize;
 }
 
 h1 {
