@@ -11,7 +11,8 @@ tags:
   - expats
   - holland
   - netherlands
-country: Destinations
+country: Netherlands
+author: Editorial Team
 ---
 
 **Netherlands** is a country in the North of Europe with 16 million inhabitants and an incredible increasing expat community. The 50% of habitants in Amsterdam don&#8217;t speak dutch.  Thanks to some &#8220;<a href="https://www.expatica.com/nl/finance_business/tax/The-Dutch-30-percent-ruling_explained_11398.html" target="_blank">benefits</a>&#8221; that the Dutch government gives to them, many expats have decided to move there. A lot of them are coming from Us and overseas countries.  Let&#8217;s see  what are the **main 5 reasons to live in the Netherlands** for an expats.<!--more-->
