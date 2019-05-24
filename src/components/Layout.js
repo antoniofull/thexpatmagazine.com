@@ -5,8 +5,8 @@ import Navbar from '../components/Navbar';
 import useSiteMetadata from './SiteMetadata';
 
 // Import css files
-// import '../styles/reset.css';
-// import '../styles/layout.css';
+import '../styles/reset.css';
+import '../styles/layout.css';
 
 // import '~/gutenberg-web-type/gutenberg.scss';
 

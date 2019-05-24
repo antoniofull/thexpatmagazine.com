@@ -1,0 +1,17 @@
+.featured {
+  margin-top: var(--margin-xxl);
+}
+.featured-image {
+  max-height: 560px;
+}
+
+.featured-post {
+  max-width: 840px;
+  margin: 0 auto;
+  padding: var(--padding-xxl);
+  box-shadow: var(--box-shadows);
+  background-color: #ffffff;
+  position: relative;
+  top: calc(var(--margin-xl) * -1);
+  z-index: 100;
+}

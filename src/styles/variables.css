@@ -3,12 +3,13 @@
   --padding-s: 8px;
   --padding-l: 24px;
   --padding-xl: 32px;
+  --padding-xxl: 64px;
 
   --margin: 16px;
   --margin-s: 8px;
   --margin-l: 24px;
   --margin-xl: 32px;
-
+  --margin-xxl: 64px;
   /* Colors */
   --color-primary: #be52f2;
   --color-text-primary: #444444;
