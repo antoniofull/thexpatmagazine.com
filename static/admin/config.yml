@@ -96,7 +96,7 @@ collections:
     label: 'Authors'
     folder: 'src/pages/authors'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: 'author/{{slug}}'
     fields:
       - {
           label: 'Template Key',
@@ -131,7 +131,7 @@ collections:
     label: 'Guest Authors'
     folder: 'src/pages/guest-authors'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: 'guest-author/{{slug}}'
     fields:
       - {
           label: 'Template Key',
