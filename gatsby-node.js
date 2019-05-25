@@ -3,14 +3,6 @@ const path = require('path');
 const { createFilePath } = require('gatsby-source-filesystem');
 const { fmImagesToRelative } = require('gatsby-remark-relative-images');
 
-const wrapper = promise =>
-  promise.then(result => {
-    if (result.errors) {
-      throw result.errors;
-    }
-    return result;
-  });
-
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions;
 
@@ -100,19 +92,6 @@ exports.createPages = ({ actions, graphql }) => {
         });
       }
     });
-
-    // categories.forEach(category => {
-    //   const catPath = `/categories/${_.kebabCase(category)}`;
-
-    //   createPage({
-    //     // path: catPath,
-    //     path: edge.node.fields.slug,
-    //     component: categoryTemplate,
-    //     context: {
-    //       category
-    //     }
-    //   });
-    // });
 
     // Tag pages:
     let tags = [];

@@ -36,7 +36,7 @@ collections:
           name: 'tags',
           widget: 'list',
           allow_add: true,
-          field: { label: Tag, name: tag, widget: list },
+          field: { label: Tag, name: tag, widget: string },
         }
       - label: 'Country'
         name: 'country'

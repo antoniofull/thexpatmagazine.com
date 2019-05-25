@@ -4,7 +4,7 @@ import Helmet from 'react-helmet';
 import { Link, graphql } from 'gatsby';
 import Layout from '../components/Layout';
 
-const CategoriesPage = ({ data }, props) => {
+const CategoriesPage = ({ data }) => {
   if (data) {
     const { title } = data.categoryData.edges[0].node.frontmatter;
     const { description } = data.categoryData.edges[0].node.frontmatter;
