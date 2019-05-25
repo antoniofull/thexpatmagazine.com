@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 import Layout from '../components/Layout';
-import BlogRoll from '../components/BlogRoll';
+// import BlogRoll from '../components/BlogRoll';
 import FeaturedPosts from '../components/FeaturedPosts';
 
 import '../styles/variables.css';

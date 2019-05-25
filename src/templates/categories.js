@@ -1,16 +1,16 @@
 import React from 'react';
-import { kebabCase } from 'lodash';
-import Helmet from 'react-helmet';
+// import { kebabCase } from 'lodash';
+// import Helmet from 'react-helmet';
 import { Link, graphql } from 'gatsby';
 import Layout from '../components/Layout';
 
 const CategoriesPage = ({ data }) => {
-  console.log(data);
   if (data) {
     // const { title } = data.categoryData.edges.node.frontmatter;
     // const { description } = data.categoryData.edges[0].node.frontmatter;
     return (
       <Layout>
+        <Link to='/'>Testing</Link>
         {/* <section className='section'>
           <div className='container content'>
             <div className='columns'>

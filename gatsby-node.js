@@ -10,7 +10,7 @@ exports.createPages = ({ actions, graphql }) => {
   const authorTemplate = require.resolve('./src/templates/blog-author.js');
 
   graphql(`
-    query Authors {
+    {
       allMarkdownRemark(
         filter: { frontmatter: { templateKey: { eq: "blog-author" } } }
       ) {
@@ -23,12 +23,6 @@ exports.createPages = ({ actions, graphql }) => {
             }
             frontmatter {
               title
-              bio
-              photo
-              instagram
-              facebook
-              pinterest
-              twitter
             }
           }
         }
@@ -42,15 +36,15 @@ exports.createPages = ({ actions, graphql }) => {
 
     const authors = authorsResult.data.allMarkdownRemark.edges;
     _.each(authors, edge => {
-      console.log(edge);
-      const authorData = edge.node.frontmatter.title;
+      const { title } = edge.node.frontmatter;
       const id = edge.node.id;
+      console.log(id, edge);
       createPage({
         path: edge.node.fields.slug,
         component: authorTemplate,
         context: {
           id,
-          authorData
+          title
         }
       });
     });
@@ -66,7 +60,6 @@ exports.createPages = ({ actions, graphql }) => {
           node {
             frontmatter {
               title
-              description
             }
             fields {
               slug

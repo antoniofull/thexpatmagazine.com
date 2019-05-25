@@ -1,5 +1,4 @@
 import React from 'react';
-import { kebabCase } from 'lodash';
 import Helmet from 'react-helmet';
 import { Link, graphql } from 'gatsby';
 import Layout from '../../components/Layout';
@@ -38,7 +37,7 @@ const CategoriesPage = ({ data }) => {
 export default CategoriesPage;
 
 export const categoryPageQuery = graphql`
-  query CategoryQuery {
+  query AuthorQuery {
     allMarkdownRemark(
       filter: { frontmatter: { siteSettings: { eq: "blog-author" } } }
     ) {
@@ -50,11 +49,6 @@ export const categoryPageQuery = graphql`
         frontmatter {
           title
           bio
-          photo
-          instagram
-          facebook
-          pinterest
-          twitter
         }
       }
     }
