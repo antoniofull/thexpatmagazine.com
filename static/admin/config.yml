@@ -46,7 +46,6 @@ collections:
         valueField: 'title'
         required: false
         displayFields: ['title']
-        multiple: true
 
       - label: 'Category'
         name: 'category'
@@ -55,6 +54,7 @@ collections:
         searchFields: ['title']
         valueField: 'title'
         displayFields: ['title']
+        multiple: true
 
       - label: 'Author'
         name: 'author'
