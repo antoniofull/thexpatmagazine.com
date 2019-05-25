@@ -2,7 +2,9 @@
 templateKey: blog-post
 title: 7 reasons to live (or retire) in Costa Rica
 date: 2014-02-03T11:36:00.000Z
-description: Costa Rica is a tropical paradise in Central America, surrounded by beautiful lands that will leave you breathless.
+description: >-
+  Costa Rica is a tropical paradise in Central America, surrounded by beautiful
+  lands that will leave you breathless.
 featuredpost: true
 featuredimage: /img/costa_rica_volcanoparrot_0.jpg
 tags:
@@ -10,8 +12,9 @@ tags:
   - costa rica
   - healthy life
   - reasons to live
-country:
-  - Costa Rica
+country: Costa Rica
+category: 'Destinations '
+author: Editorial Team
 ---
 
 **Costa Rica** is a tropical-paradise in the **Central America**, surrounded by beautiful lands that will leave you breathless. <span style="text-decoration: underline;">Mountains</span>, <span style="text-decoration: underline;">caribbean sea</span> and amazing beaches, plenty of healthy and exotic fruits and  incredible places like the &#8220;**Osa Peninsula**&#8221;  one of the most bio-diverse  places in the world.
