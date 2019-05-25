@@ -1,21 +1,21 @@
 ---
 templateKey: blog-post
 title: Feeling at home in Abroadland
-author: thexpatmagazine
-type: post
 date: 2019-04-18T20:41:07.000Z
-url: /2019/expat-life/feeling-at-home-in-abroadland/
-featuredimage: /wp-content/uploads/2019/04/ab_image_book.jpg
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
-country: 
-  - Expat
-  - Living abroad
+description: >-
+  How to find a home abroad? Not the physical property but quite the opposite:
+  what is left when specific walls are taken away, what is in the core of home?
+  And what things can add the feeling of home to you?
+featuredimage: /img/feeling-expat.jpg
 tags:
   - expat experience
   - expat story
+country:
+  - Expat
+  - Living abroad
+category:
+  - Expat Tips
+author: thexpatmagazine
 ---
 
 **How to find a home abroad? Not the physical property but quite the opposite: what is left when specific walls are taken away, what is in the core of home? And what things can add the feeling of home to you?**
