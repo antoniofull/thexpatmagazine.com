@@ -8,7 +8,7 @@ import '../styles/nav.css';
 
 import SearchForm from './SearchForm';
 
-const MobileNavigation = ({ active, toggleState }) => {
+const MobileNavigation = ({ items, active, toggleState }) => {
   if (active) {
     return (
       <Motion
@@ -32,27 +32,13 @@ const MobileNavigation = ({ active, toggleState }) => {
                   aria-label='main-navigation'
                 >
                   <ul className='main-nav__list'>
-                    <li className='main-nav__item'>
-                      <Link to='/'>Stories</Link>
-                    </li>
-                    <li className='main-nav__item'>
-                      <Link to='/'>Destinations</Link>
-                    </li>
-                    {/* <li className='main-nav__item'>
-                    <Link to='/'>Countries</Link>
-                  </li> */}
-                    <li className='main-nav__item'>
-                      <Link to='/'>Expat Tips</Link>
-                    </li>
-                    <li className='main-nav__item'>
-                      <Link to='/'>Travel Tips</Link>
-                    </li>
-                    <li className='main-nav__item'>
-                      <Link to='/'>Guest Posts</Link>
-                    </li>
-                    <li className='main-nav__item'>
-                      <Link to='/'>All Tags</Link>
-                    </li>
+                    {items.map(item => (
+                      <li className='main-nav__item'>
+                        <Link key={item.node.id} to={item.node.fields.slug}>
+                          {item.node.frontmatter.title}
+                        </Link>
+                      </li>
+                    ))}
                   </ul>
                 </nav>
               </div>

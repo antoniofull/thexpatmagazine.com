@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from './Header';
-import { Link, StaticQuery } from 'gatsby';
+import { Link, StaticQuery, graphql } from 'gatsby';
 import MediaQuery from 'react-responsive';
 
 import Logo from '../img/logo.svg';
@@ -39,6 +39,7 @@ const Navbar = class extends React.Component {
   };
 
   render() {
+    const { edges } = this.props.data.allMarkdownRemark;
     return (
       <Header>
         <Link className='logo' to='/'>
@@ -52,12 +53,13 @@ const Navbar = class extends React.Component {
             </button>
           </div>
           <MobileNavigation
+            items={edges}
             active={this.state.active}
             toggleState={this.toggleHamburger}
           />
         </MediaQuery>
         <MediaQuery query='(min-width: 1025px)'>
-          <DesktopNav />
+          <DesktopNav items={edges} />
         </MediaQuery>
       </Header>
     );
@@ -67,10 +69,10 @@ const Navbar = class extends React.Component {
 export default () => (
   <StaticQuery
     query={graphql`
-      query Categories {
+      query Category {
         allMarkdownRemark(
           sort: { order: DESC, fields: [frontmatter___date] }
-          filter: { frontmatter: { templateKey: { eq: "blog-nav" } } }
+          filter: { frontmatter: { siteSettings: { eq: "blog-nav" } } }
         ) {
           edges {
             node {
@@ -79,6 +81,7 @@ export default () => (
                 slug
               }
               frontmatter {
+                siteSettings
                 title
                 description
               }

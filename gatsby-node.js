@@ -3,8 +3,60 @@ const path = require('path');
 const { createFilePath } = require('gatsby-source-filesystem');
 const { fmImagesToRelative } = require('gatsby-remark-relative-images');
 
+const wrapper = promise =>
+  promise.then(result => {
+    if (result.errors) {
+      throw result.errors;
+    }
+    return result;
+  });
+
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions;
+
+  const categoryTemplate = require.resolve('./src/templates/categories.js');
+
+  const categoriesResult = graphql(`
+    {
+      allMarkdownRemark(
+        filter: { frontmatter: { siteSettings: { eq: "blog-nav" } } }
+      ) {
+        totalCount
+        edges {
+          node {
+            frontmatter {
+              title
+              description
+            }
+            fields {
+              slug
+            }
+          }
+        }
+      }
+    }
+  `).then(res => {
+    if (res.errors) {
+      re.errors.forEach(e => console.error(e.toString()));
+      return Promise.reject(res.errors);
+    }
+    // Create Categories
+    const navItems = res.data.allMarkdownRemark.edges;
+
+    _.each(navItems, edge => {
+      const title = edge.node.frontmatter.title;
+      const id = edge.node.id;
+      createPage({
+        // path: catPath,
+        path: edge.node.fields.slug,
+        component: categoryTemplate,
+        context: {
+          title,
+          id
+        }
+      });
+    });
+  });
 
   return graphql(`
     {
@@ -29,21 +81,38 @@ exports.createPages = ({ actions, graphql }) => {
       return Promise.reject(result.errors);
     }
 
+    // Create Posts
     const posts = result.data.allMarkdownRemark.edges;
+
     posts.forEach(edge => {
       const id = edge.node.id;
-      createPage({
-        path: edge.node.fields.slug,
-        tags: edge.node.frontmatter.tags,
-        component: path.resolve(
-          `src/templates/${String(edge.node.frontmatter.templateKey)}.js`
-        ),
-        // additional data can be passed via context
-        context: {
-          id
-        }
-      });
+      if (edge.node.frontmatter.templateKey) {
+        createPage({
+          path: edge.node.fields.slug,
+          tags: edge.node.frontmatter.tags,
+          component: path.resolve(
+            `src/templates/${String(edge.node.frontmatter.templateKey)}.js`
+          ),
+          // additional data can be passed via context
+          context: {
+            id
+          }
+        });
+      }
     });
+
+    // categories.forEach(category => {
+    //   const catPath = `/categories/${_.kebabCase(category)}`;
+
+    //   createPage({
+    //     // path: catPath,
+    //     path: edge.node.fields.slug,
+    //     component: categoryTemplate,
+    //     context: {
+    //       category
+    //     }
+    //   });
+    // });
 
     // Tag pages:
     let tags = [];
