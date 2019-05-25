@@ -1,19 +1,21 @@
 ---
 templateKey: blog-post
 title: 10 signs you are living too long in Italy
-author: thexpatmagazine
-type: post
 date: 2014-03-02T17:25:47.000Z
-url: /2014/europe/10-signs-living-long-italy/
-featuredimage: /wp-content/uploads/2014/02/italiangestures-500x500.jpg
-country: 
-  - Europe
-  - Italy
+description: >-
+  Italy is a beautiful country with a lot of traditions and a lot, a lot of good
+  food :). The friendly attitude of Italians is contagious and if you live with
+  them for a long time, you cannot avoid to start acting like them.
+featuredimage: /img/italiangestures.jpg
 tags:
   - expat
   - expats
   - italy
   - usa
+country: Italy
+category:
+  - Expat Tips
+author: Editorial Team
 ---
 
 **Italy** is a beautiful country with a lot of traditions and a lot, a lot of good food :). The friendly attitude of Italians is contagious and if you live with them for a long time, you cannot avoid to start acting like them.
