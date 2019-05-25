@@ -41,6 +41,13 @@ collections:
         required: false
         displayFields: ['title']
 
+      - label: 'Category'
+        name: 'category'
+        widget: 'list'
+        allow_add: true
+        field: 'Destination'
+        default: ['Destinations']
+
       - label: 'Author'
         name: 'author'
         widget: 'relation'
@@ -57,6 +64,21 @@ collections:
         valueField: 'title'
         required: false
         displayFields: ['title']
+
+  - name: 'category'
+    label: 'Category'
+    folder: 'src/pages/categories'
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - {
+          label: 'Template Key',
+          name: 'templateKey',
+          widget: 'hidden',
+          default: 'blog-post',
+        }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'text' }
 
   - name: 'country'
     label: 'Country'
