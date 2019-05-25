@@ -12,6 +12,9 @@ tags:
   - holland
   - netherlands
 country: Netherlands
+category:
+  - 'Destinations '
+  - Expat Tips
 author: Editorial Team
 ---
 
