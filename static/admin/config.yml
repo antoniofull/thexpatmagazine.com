@@ -31,7 +31,13 @@ collections:
         }
       - { label: 'Featured Image', name: 'featuredimage', widget: image }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: 'Tags', name: 'tags', widget: 'list' }
+      - {
+          label: 'Tags',
+          name: 'tags',
+          widget: 'list',
+          allow_add: true,
+          field: { label: Tag, name: tag, widget: list },
+        }
       - label: 'Country'
         name: 'country'
         widget: 'relation'
