@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Sicily, her husband works thousands of miles away, and this is how she writes to her love.
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2014-03-03T16:33:46.000Z
 url: /2014/europe/sicily-husband-works-thousands-miles-away-writes-love/

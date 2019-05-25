@@ -2,14 +2,37 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  margin: var(--margin-l) auto;
+  max-width: 280px;
+  color: var(--color-text-third);
+  font-size: 12px;
+  font-family: 'Source Sans Pro', sans-serif;
+  border: 1px solid var(--border-color-light);
+  padding: var(--padding);
+  position: relative;
 }
+
+.meta--featured__title {
+  position: absolute;
+  top: -20%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: white;
+  padding: 0 var(--padding);
+}
+
+.meta--align-left {
+  justify-content: start;
+}
+
 .divider--meta {
   height: 100%;
   width: 1px;
-  background-color: #979797;
+  background-color: var(--border-color-light);
   min-height: 25px;
   margin-left: var(--margin-s);
   margin-right: var(--margin-s);
+  max-width: 1px;
 }
 .post-meta--author .gatsby-image-wrapper {
   max-width: 24px;

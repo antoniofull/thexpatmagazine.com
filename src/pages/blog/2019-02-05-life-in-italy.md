@@ -17,6 +17,7 @@ tags:
   - italy
   - life in italy
 country: Italy
+author: Editorial Team
 category:
   - Stories
 author: thexpatmagazine

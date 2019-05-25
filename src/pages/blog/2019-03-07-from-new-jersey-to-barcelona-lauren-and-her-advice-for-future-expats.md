@@ -14,7 +14,7 @@ tags:
 country: Spain
 category:
   - Stories
-author: thexpatmagazine
+author: Editorial Team
 ---
 
 Moving from New Jersey to Barcelona is quite a change! It is a change that makes you enjoy life and embrace everything that comes with it. Of course, it&#8217;s not always so easy. Things don&#8217;t always go smoothly, but with advice for future expats, it could help to embrace this change much easier.

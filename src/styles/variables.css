@@ -4,12 +4,14 @@
   --padding-l: 24px;
   --padding-xl: 32px;
   --padding-xxl: 64px;
+  --padding-hero: 128px;
 
   --margin: 16px;
   --margin-s: 8px;
   --margin-l: 24px;
   --margin-xl: 32px;
   --margin-xxl: 64px;
+  --margin-hero: 128px;
   /* Colors */
   --color-primary: #be52f2;
   --color-accent: #a5affb;
@@ -22,6 +24,7 @@
   --border-radius: 4px;
   --box-shadows: 0 4px 14px 0 rgba(0, 0, 0, 0.05);
   --border-color: rgba(214, 217, 222, 1);
+  --border-color-light: #e8e8e8;
 
   --font-s: 0.667rem;
   --font-base: 16px;

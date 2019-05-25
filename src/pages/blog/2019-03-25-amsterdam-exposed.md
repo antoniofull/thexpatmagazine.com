@@ -12,7 +12,7 @@ tags:
 country: Netherlands
 category:
   - Stories
-author: thexpatmagazine
+author: Editorial Team
 ---
 
 **This is an excerpt from the book:**<a href="https://www.amsterdamexposed.com/home.html" target="_blank" rel="noopener"><strong> Amsterdam Exposed</strong></a>, \_**an American&#8217;s journey into the red light district.** F_rom <a href="https://www.amsterdamexposed.com/author.html" target="_blank" rel="noopener">David Wienir. </a>

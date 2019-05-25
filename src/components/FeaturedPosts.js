@@ -1,5 +1,8 @@
 import React from 'react';
 import { graphql, StaticQuery, Link } from 'gatsby';
+import TextTruncate from 'react-text-truncate';
+import MediaQuery from 'react-responsive';
+
 import PreviewCompatibleImage from './PreviewCompatibleImage';
 import AuthorMeta from './AuthorMeta';
 
@@ -17,23 +20,52 @@ const FeaturedPosts = ({ data, count }) => {
           }}
         />
       </div>
-      <article className='featured-post'>
-        <header>
-          <h2 className='wf-large featured-title'>{post.frontmatter.title}</h2>
-        </header>
-        <div className='meta wf-source-sans'>
-          <span>{post.frontmatter.date}</span>
-          <span className='divider--meta' />
-          <AuthorMeta author={post.frontmatter.author} />
-        </div>
-        <p className='featured-post__excerpt'>{post.excerpt}</p>
-        <Link
-          to={post.fields.slug}
-          className='read-more--featured btn btn--primary'
-        >
-          Read More ...
-        </Link>
-      </article>
+      <div className='featured__container'>
+        <article className='featured-post'>
+          <header>
+            <h2 className='wf-large featured-title'>
+              {post.frontmatter.title}
+            </h2>
+          </header>
+          <div className='meta wf-source-sans meta--featured'>
+            <h3 className='meta--featured__title wf-source-sans'>Written by</h3>
+            <span>{post.frontmatter.date}</span>
+            <span className='divider--meta' />
+            <AuthorMeta author={post.frontmatter.author} />
+          </div>
+          <MediaQuery query='(max-width: 768px)'>
+            <TextTruncate
+              className='featured-post__excerpt'
+              line={3}
+              truncateText='…'
+              text={post.excerpt}
+            />
+          </MediaQuery>
+          <MediaQuery query='(min-width: 769px) and (max-width: 1023px)'>
+            <TextTruncate
+              className='featured-post__excerpt'
+              line={3}
+              truncateText='…'
+              text={post.excerpt}
+            />
+          </MediaQuery>
+          <MediaQuery query='(min-width: 1024px)'>
+            <TextTruncate
+              className='featured-post__excerpt'
+              line={5}
+              truncateText='…'
+              text={post.excerpt}
+            />
+          </MediaQuery>
+
+          <Link
+            to={post.fields.slug}
+            className='read-more--featured btn btn--primary'
+          >
+            Read More ...
+          </Link>
+        </article>
+      </div>
     </section>
   );
 };
@@ -53,7 +85,7 @@ export default () => (
         ) {
           edges {
             node {
-              excerpt(pruneLength: 350)
+              excerpt(pruneLength: 400)
               id
               fields {
                 slug
