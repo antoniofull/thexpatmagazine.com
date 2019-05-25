@@ -38,7 +38,6 @@ exports.createPages = ({ actions, graphql }) => {
     _.each(authors, edge => {
       const { title } = edge.node.frontmatter;
       const id = edge.node.id;
-      console.log(id, edge);
       createPage({
         path: edge.node.fields.slug,
         component: authorTemplate,

@@ -53,7 +53,6 @@ collections:
         collection: 'category'
         searchFields: ['title']
         valueField: 'title'
-        required: false
         displayFields: ['title']
 
       - label: 'Author'

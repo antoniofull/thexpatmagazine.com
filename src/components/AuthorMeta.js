@@ -13,10 +13,14 @@ const AuthorMeta = props => {
     data.edges,
     o => o.node.frontmatter.title === author
   );
+  console.log(authorData);
   if (authorData) {
     return (
       <div className='post-meta--author'>
-        <Link to={authorData.node.slug} className='post-meta--author__link'>
+        <Link
+          to={authorData.node.fields.slug}
+          className='post-meta--author__link'
+        >
           <PreviewCompatibleImage
             className='post-meta--author__image'
             imageInfo={{

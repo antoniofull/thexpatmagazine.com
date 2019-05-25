@@ -6,32 +6,29 @@ import AuthorMeta from './AuthorMeta';
 import '../styles/featured.css';
 
 const FeaturedPosts = ({ data, count }) => {
+  const post = data.allMarkdownRemark.edges[0].node;
   return (
     <section className='featured container'>
       <div className='featured-image'>
         <PreviewCompatibleImage
           imageInfo={{
-            image: data.markdownRemark.frontmatter.featuredimage,
-            alt: `featured image thumbnail for post ${
-              data.markdownRemark.frontmatter.title
-            }`
+            image: post.frontmatter.featuredimage,
+            alt: `featured image thumbnail for post ${post.frontmatter.title}`
           }}
         />
       </div>
       <article className='featured-post'>
         <header>
-          <h2 className='wf-large featured-title'>
-            {data.markdownRemark.frontmatter.title}
-          </h2>
+          <h2 className='wf-large featured-title'>{post.frontmatter.title}</h2>
         </header>
         <div className='meta wf-source-sans'>
-          <span>{data.markdownRemark.frontmatter.date}</span>
+          <span>{post.frontmatter.date}</span>
           <span className='divider--meta' />
-          <AuthorMeta author={data.markdownRemark.frontmatter.author} />
+          <AuthorMeta author={post.frontmatter.author} />
         </div>
-        <p className='featured-post__excerpt'>{data.markdownRemark.excerpt}</p>
+        <p className='featured-post__excerpt'>{post.excerpt}</p>
         <Link
-          to={data.markdownRemark.fields.slug}
+          to={post.fields.slug}
           className='read-more--featured btn btn--primary'
         >
           Read More ...
@@ -45,22 +42,34 @@ export default () => (
   <StaticQuery
     query={graphql`
       query Featured {
-        markdownRemark(frontmatter: { featuredpost: { eq: true } }) {
-          excerpt(pruneLength: 350)
-          id
-          fields {
-            slug
+        allMarkdownRemark(
+          sort: { order: DESC, fields: [frontmatter___date] }
+          filter: {
+            frontmatter: {
+              templateKey: { eq: "blog-post" }
+              featuredpost: { eq: true }
+            }
           }
-          frontmatter {
-            title
-            author
-            templateKey
-            date(formatString: "MMMM DD, YYYY")
-            featuredpost
-            featuredimage {
-              childImageSharp {
-                fluid(maxWidth: 1280, maxHeight: 560, quality: 100) {
-                  ...GatsbyImageSharpFluid
+        ) {
+          edges {
+            node {
+              excerpt(pruneLength: 350)
+              id
+              fields {
+                slug
+              }
+              frontmatter {
+                title
+                author
+                templateKey
+                date(formatString: "MMMM DD, YYYY")
+                featuredpost
+                featuredimage {
+                  childImageSharp {
+                    fluid(maxWidth: 1280, maxHeight: 560, quality: 100) {
+                      ...GatsbyImageSharpFluid
+                    }
+                  }
                 }
               }
             }

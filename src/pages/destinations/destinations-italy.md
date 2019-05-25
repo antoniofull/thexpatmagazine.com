@@ -1,6 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: blog-country
 title: Italy
 description: Italy
 ---
-
