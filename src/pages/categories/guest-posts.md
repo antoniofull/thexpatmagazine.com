@@ -1,5 +1,5 @@
 ---
-templateKey: blog-nav
+siteSettings: blog-nav
 title: Guest Posts
 description: 'Guest Posts '
 ---

@@ -1,5 +1,5 @@
 ---
-templateKey: blog-nav
+siteSettings: blog-nav
 title: Stories
 description: 'Stories '
 ---

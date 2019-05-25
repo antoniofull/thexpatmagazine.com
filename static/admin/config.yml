@@ -80,8 +80,8 @@ collections:
     slug: '{{slug}}'
     fields:
       - {
-          label: 'Template Key',
-          name: 'templateKey',
+          label: 'Site Setting',
+          name: 'siteSettings',
           widget: 'hidden',
           default: 'blog-nav',
         }
