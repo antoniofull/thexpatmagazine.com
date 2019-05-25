@@ -12,6 +12,7 @@ tags:
   - holland
   - netherlands
 country: Netherlands
+category: Destinations
 author: Rossella Daví
 ---
 
