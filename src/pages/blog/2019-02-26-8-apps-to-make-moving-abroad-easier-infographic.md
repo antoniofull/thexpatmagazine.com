@@ -6,11 +6,7 @@ type: post
 date: 2019-02-26T16:32:01.000Z
 url: /2019/expat-life/8-apps-to-make-moving-abroad-easier-infographic/
 featuredimage: /wp-content/uploads/2019/02/yura-fresh-760055-unsplash.jpg
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
-country: 
+country:
   - Expat
   - Living abroad
 tags:
@@ -19,6 +15,9 @@ tags:
   - infographic
   - travel apps
   - utils
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 <p>

@@ -6,15 +6,14 @@ type: post
 date: 2018-04-25T14:00:50.000Z
 url: /2018/expat-life/tips-expats/
 featuredimage: /wp-content/uploads/2018/04/nature-3345307_1920.jpg
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
-country: 
+country:
   - Expat
   - Living abroad
 tags:
   - tips
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 We always talk about expats, living abroad, travelling and more, and I can only imagine how many of you are temped right now…you only want to buy a one-way ticket to pursue your happiness. It’s nothing crazy or absurd, but the willing to explore, experiment, and expand is something you should be proud of.

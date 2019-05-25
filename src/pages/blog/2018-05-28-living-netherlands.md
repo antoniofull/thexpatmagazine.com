@@ -12,12 +12,15 @@ laurel_meta_fullimage_height:
   - 660
 mashsb_twitter_handle:
   - thexpatmagazine
-country: 
+country:
   - Europe
   - Netherlands
 tags:
   - expat life
   - living abroad
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 When you live in another country, there are of course challenging moments and/or situations, but there also those happy and funny moments that mark your stay in this country with a different perspective and point of view, a positive one. Those moments that you will always remember with a smile. For this reason, I want to share with you my 7 funny facts about my expat life in The Netherlands.

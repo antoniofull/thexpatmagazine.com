@@ -10,12 +10,15 @@ laurel_meta_post_layout:
   - customizer
 laurel_meta_fullimage_height:
   - 660
-country: 
+country:
   - Portugal
 tags:
   - europe
   - living abroad
   - things to know
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 How much do you know about Portugal? Sun, good food, nice people and lovely places to visit; but this isn&#8217;t all. There&#8217;s much more to know about its history before moving there, or simply to find out why you should love this country. Here for you 10 reasons:

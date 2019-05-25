@@ -10,10 +10,13 @@ laurel_meta_post_layout:
   - customizer
 laurel_meta_fullimage_height:
   - 660
-country: 
+country:
   - USA
 tags:
   - tax
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 ## The Story

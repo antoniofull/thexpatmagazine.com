@@ -6,19 +6,16 @@ type: post
 date: 2018-11-12T17:55:05.000Z
 url: /2018/expat-life/teaching-abroad-and-living-a-bourgeois-existence-in-hanoi/
 featuredimage: /wp-content/uploads/2018/11/photo.jpeg
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
-mashsb_twitter_handle:
-  - thexpatmagazine
-country: 
+country:
   - Expat
   - Living abroad
 tags:
   - expat life
   - expat opportunities
   - teaching abroad
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 <span style="font-weight: 400;">Looking for expat opportunities abroad, you all have come across the possibility to teach your native language in some other countries. But what does that really mean? What are the benefits and challenges? Today Murray shares his own observations and an honest reflection of the teaching culture for expats in Hanoi by combining a variety of perspectives. </span>

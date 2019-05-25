@@ -6,16 +6,15 @@ type: post
 date: 2019-02-25T17:09:49.000Z
 url: /2019/europe/moving-overseas-everything-you-need-to-know/
 featuredimage: /wp-content/uploads/2019/02/IMG_3634.jpg
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
-country: 
+country:
   - America
   - Europe
 tags:
   - immigration visa
   - living abroad
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 <div id="block-64c29220f0c69b7384b7" >

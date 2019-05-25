@@ -14,10 +14,12 @@ tags:
   - relocating to Amsterdam
   - working abroad
 country: Netherlands
-category: Expat Tips
-author: thexpatmagazine
+category:
+  - Expat Tips
+  - Destinations
 guest-author: James McDonagh
 ---
+
 Boasting a healthy working-life balance, rich history and cultural diversity, and a rare combination of cosy village-like charm and metropolitan amenities, the Netherlands’ capital has been attracting expats for years—now, it’s the global tech community being tempted to relocate to Amsterdam.
 
 Amsterdam was recently named the \[best European tech city to work in]. The result is hardly surprising; home to more than 500 international tech companies, the city has also fostered a burgeoning start-up scene, and is teeming with roles across the IT spectrum.

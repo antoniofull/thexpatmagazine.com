@@ -6,17 +6,14 @@ type: post
 date: 2018-06-08T16:34:57.000Z
 url: /2018/europe/i-am-a-traveller-not-a-tourist/
 featuredimage: /wp-content/uploads/2018/06/13445369_10153786440908215_20099517409138804_n.jpg
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
-mashsb_twitter_handle:
-  - thexpatmagazine
-country: 
+country:
   - Europe
 tags:
   - european capitals
   - travelling
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 Are you a traveller or a tourist?

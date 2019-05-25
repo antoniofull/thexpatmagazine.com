@@ -6,19 +6,16 @@ type: post
 date: 2018-10-24T08:10:00.000Z
 url: /2018/expat-life/top-5-countries-with-effortless-immigration-policies/
 featuredimage: /wp-content/uploads/2018/10/france.jpg
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
-mashsb_twitter_handle:
-  - thexpatmagazine
-country: 
+country:
   - Expat
   - Living abroad
 tags:
   - expatlife
   - immigration policies
   - moving abroad
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 Are you planning to relocate abroad but are not sure about the right destination for you? Well, moving abroad sounds quite interesting and exciting but choosing an ideal location may be a cumbersome task. So, here we have come up with the list of the Top 5 countries with an effortless immigration policy along with a welcoming reputation and booming economies.

@@ -12,13 +12,16 @@ laurel_meta_fullimage_height:
   - 660
 mashsb_twitter_handle:
   - thexpatmagazine
-country: 
+country:
   - Europe
   - France
 tags:
   - living abroad
   - local culture
   - meudon
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 <p >

@@ -6,18 +6,15 @@ type: post
 date: 2018-08-15T06:40:39.000Z
 url: /2018/expat-life/your-guide-to-moving-internationally/
 featuredimage: /wp-content/uploads/2018/08/international-departures.jpg
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
-mashsb_twitter_handle:
-  - thexpatmagazine
-country: 
+country:
   - Expat
   - Living abroad
 tags:
   - international
   - moving
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 The world is becoming smaller. Thanks to advancements in communication technology, it’s become easier than ever to connect with people around the globe. This means international travel and commerce are much more common today. Thus, an unprecedented number of people are living somewhere other than their country of origin. According to a recent United Nations study, **more than 200 million people have relocated to another homeland**. If you’re about to become one of them, you have a lot of work ahead of you.

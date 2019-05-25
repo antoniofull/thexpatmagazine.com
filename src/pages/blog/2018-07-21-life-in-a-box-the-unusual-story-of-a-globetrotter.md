@@ -6,18 +6,15 @@ type: post
 date: 2018-07-21T18:48:27.000Z
 url: /2018/expat-life/life-in-a-box-the-unusual-story-of-a-globetrotter/
 featuredimage: /wp-content/uploads/2018/07/IMG_4297.jpg
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
-mashsb_twitter_handle:
-  - thexpatmagazine
-country: 
+country:
   - Expat
   - Inspiration
 tags:
   - expat story
   - living abroad
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 Hello travellers,

@@ -6,7 +6,7 @@ type: post
 date: 2014-07-10T20:31:04.000Z
 url: /2014/expat-life/most-eco-friendly-countries/
 featuredimage: /wp-content/uploads/2014/07/colombia.jpg
-country: 
+country:
   - Expat
   - Living abroad
 tags:
@@ -14,9 +14,6 @@ tags:
   - environment
   - stockholm
   - vienna
-category:
-  - Expat Tips
-  - Destinations
 category:
   - Expat Tips
   - Destinations

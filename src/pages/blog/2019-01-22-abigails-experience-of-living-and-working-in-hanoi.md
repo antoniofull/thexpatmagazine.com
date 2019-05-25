@@ -10,13 +10,16 @@ laurel_meta_post_layout:
   - customizer
 laurel_meta_fullimage_height:
   - 660
-country: 
+country:
   - Interviews
   - Living abroad
 tags:
   - living abroad
   - vietnam
   - working abroad
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 <span style="font-weight: 400;">With one of the fastest growing economies in Asia, <a href="https://localhost/thexpatmagazine-wp/2018/expat-life/teaching-abroad-and-living-a-bourgeois-existence-in-hanoi/"><strong>Vietnam</strong></a> is seeing a rise in expats who are choosing the country as their first choice for living and working. In 2017 Abigail Burrow found herself making the same decision and moved to <strong>Hanoi</strong>, the </span><span style="font-weight: 400;">country’s</span> <span style="font-weight: 400;">capital. </span>

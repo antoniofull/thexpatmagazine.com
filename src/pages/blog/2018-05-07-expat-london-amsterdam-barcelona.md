@@ -6,21 +6,7 @@ type: post
 date: 2018-05-07T18:06:55.000Z
 url: /2018/europe/netherlands/expat-london-amsterdam-barcelona/
 featuredimage: /wp-content/uploads/2018/05/IMG_5584-e1526734827525.jpg
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
-mashsb_twitter_handle:
-  - thexpatmagazine
-mashsb_og_title:
-  - |
-    https://www.facebook.com/alessio.tedde
-    www.linkedin.com/in/alessio-tedde-a0384a11a
-laurel_meta_custom_slider:
-  - 1010
-mashsb_og_image:
-  - 1007
-country: 
+country:
   - Living abroad
   - Netherlands
   - Spain
@@ -30,6 +16,9 @@ tags:
   - barcelona
   - expat life
   - london
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 <p style="text-align: left;">

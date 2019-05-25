@@ -6,19 +6,16 @@ type: post
 date: 2018-10-04T13:00:02.000Z
 url: /2018/america/the-american-dream/
 featuredimage: /wp-content/uploads/2018/10/41688099_10217383083759858_4657164769994735616_o.jpg
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
-mashsb_twitter_handle:
-  - thexpatmagazine
-country: 
+country:
   - America
   - Living abroad
 tags:
   - american dream
   - expat life
   - expat story
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 Make a dream come true&#8230; Is it possible and how?! Mirko told us about his experience, what he did and why.

@@ -10,7 +10,7 @@ laurel_meta_post_layout:
   - customizer
 laurel_meta_fullimage_height:
   - 660
-country: 
+country:
   - Inspiration
   - Living abroad
   - Netherlands
@@ -18,7 +18,9 @@ tags:
   - expat life
   - living abroad
   - utrecht
-  
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 Have you ever had the feeling of wanting to change, leave, explore new places and experiences? Much more if you feel stuck in the small town where being open minded is not that popular. Yes, this is how I felt and why I decided to leave the sunny and warm Calabria to ended up living in **Utrecht**.

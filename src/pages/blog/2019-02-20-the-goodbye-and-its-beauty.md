@@ -6,15 +6,14 @@ type: post
 date: 2019-02-20T17:54:18.000Z
 url: /2019/america/the-goodbye-and-its-beauty/
 featuredimage: /wp-content/uploads/2019/02/IMG_1578-768x1152.jpg
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
-country: 
+country:
   - America
   - Expat
 tags:
   - expat story
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 Why we need to be sad every time we pronounce or hear the word &#8220;goodbye&#8221;?! Can we learn anything from it?

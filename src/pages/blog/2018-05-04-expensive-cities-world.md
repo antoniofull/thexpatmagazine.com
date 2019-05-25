@@ -4,15 +4,14 @@ title: The Top 10 Most Expensive Cities in the World
 author: thexpatmagazine
 type: post
 date: 2018-11-30T00:00:00.000Z
-draft: true
-url: /?p=887
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
-country: 
+country:
   - Expat
   - Living abroad
+tags:
+  - tips
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 Take your guess, what is the most expensive city in the world? I did the same and the results were a bit different, at least for the order of some of the following cities. Maybe some of you already live in these cities and can also give us personal opinions on this 🙂 but let&#8217;s go ahead and check the list created by The Economist Intelligence Unit, according to the findings of the WorldWide Cost of Living Survey.

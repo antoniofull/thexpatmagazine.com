@@ -8,16 +8,13 @@ url: /2014/europe/8-amazing-places-europe-live/
 featuredimage: /wp-content/uploads/2014/11/manarola-italy-800x500.jpg
 reltwitter:
   - 'https://localhost/thexpatmagazine-wp/2014/europe/8-amazing-places-europe-live/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-country: 
+country:
   - Europe
 tags:
   - europe
   - little
   - town
   - travelling
-category:
-  - Expat Tips
-  - Destinations
 category:
   - Expat Tips
   - Destinations

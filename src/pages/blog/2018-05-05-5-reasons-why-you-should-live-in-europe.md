@@ -6,11 +6,7 @@ type: post
 date: 2018-05-05T14:00:32.000Z
 url: /2018/europe/5-reasons-why-you-should-live-in-europe/
 featuredimage: /wp-content/uploads/2018/05/world-1264062_1920.jpg
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
-country: 
+country:
   - Europe
   - Expat
 tags:
@@ -18,6 +14,9 @@ tags:
   - languages
   - travel
   - wine
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 Most of you have already travelled or lived in Europe, while for others it&#8217;s still the dream of their life. Well, regardless of the times you have (or not) been on this continent, you will all agree with me: it is simply wonderful! Just to give you a few numbers, it covers an area of 10,180,000km², has over 480 million international visitors per year, and includes 7 of the 10 most visited countries.

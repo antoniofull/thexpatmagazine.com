@@ -6,16 +6,15 @@ type: post
 date: 2018-04-10T20:00:07.000Z
 url: /2018/europe/rotterdam-netherlands/
 featuredimage: /wp-content/uploads/2018/04/rotterdam-1598418_1920.jpg
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
-country: 
+country:
   - Europe
   - Netherlands
 tags:
   - living abroad
   - Rotterdam
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 There are places that I have never thought of visiting, even less to be able to call it home; this is until I found my paradise, which is called **Rotterdam**.

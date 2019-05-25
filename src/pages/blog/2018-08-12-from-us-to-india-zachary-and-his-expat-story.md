@@ -6,14 +6,11 @@ type: post
 date: 2018-08-12T13:20:05.000Z
 url: /2018/europe/from-us-to-india-zachary-and-his-expat-story/
 featuredimage: /wp-content/uploads/2018/08/Ray_s-10.jpg
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
-mashsb_twitter_handle:
-  - thexpatmagazine
-country: 
+country:
   - Europe
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 More and more people move abroad looking for new opportunities, they choose the place based on what they like the most, as well as where love or a job will bring them.  I&#8217;m always amazed by all the stories I hear and come across with. That&#8217;s why today I want to share with all of you Zachary&#8217;s expat life, who moved from US to India.  Here&#8217;s his story.

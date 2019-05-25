@@ -6,7 +6,7 @@ type: post
 date: 2014-11-24T07:59:47.000Z
 url: /2014/america/best-country-world-expat/
 featuredimage: /wp-content/uploads/2014/11/2723872891_4b07d842a8_b-750x500.jpg
-country: 
+country:
   - America
   - Ecuador
   - South America
@@ -14,12 +14,6 @@ tags:
   - best expat living
   - ecuador
   - expat life
-category:
-  - Expat Tips
-  - Destinations
-category:
-  - Expat Tips
-  - Destinations
 category:
   - Expat Tips
   - Destinations

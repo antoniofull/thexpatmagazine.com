@@ -8,16 +8,13 @@ url: /2014/living-abroad/diving-top-sites/
 featuredimage: /wp-content/uploads/2014/11/Screen-Shot-2014-11-20-at-21.41.37.png
 reltwitter:
   - 'https://localhost/thexpatmagazine-wp/2014/living-abroad/diving-top-sites/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-country: 
+country:
   - Living abroad
 tags:
   - diving
   - expats
   - sea
   - top list
-category:
-  - Expat Tips
-  - Destinations
 category:
   - Expat Tips
   - Destinations
