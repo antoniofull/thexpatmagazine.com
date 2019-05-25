@@ -6,15 +6,14 @@ type: post
 date: 2019-04-16T19:41:33.000Z
 url: /2019/living-abroad/six-criteria-to-define-the-happiest-place-in-the-world/
 featuredimage: /wp-content/uploads/2019/04/markus-spiske-484245-unsplash.jpg
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
-country: 
+country:
   - Living abroad
   - Travel
 tags:
   - happiest place
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 When someone decides to go and live abroad, people usually ask “why there?” and thinking if maybe they would choose the same city or country too. I believe that it is often a matter of opportunities or emotions that make the decision for us but there are some “real” reasons that can help understanding where to start a new life and be the happiest expat in the happiest place in the world!!

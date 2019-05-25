@@ -16,6 +16,9 @@ tags:
   - netherlands
   - staff pick
   - things to know
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 **Netherlands** is a small country but there are a lot of expats living here, especially in the crowded Amsterdam. But there is more in Netherlands that just coffeeshop and Red Light District, so  we collected some things that only the _**people who live in the Netherlands**_ will understand.<!--more-->

@@ -16,6 +16,9 @@ tags:
   - denmark
   - expatlife
   - italy
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 <span style="font-family: 'Times New Roman', serif;"><span style="font-size: medium;"><strong>Lorenzo</strong> from Italy here wants to share his experience as <strong>Italian in Denmark</strong>.</span></span>

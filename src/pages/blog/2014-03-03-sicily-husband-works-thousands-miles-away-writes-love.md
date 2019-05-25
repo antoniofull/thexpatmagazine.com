@@ -7,7 +7,7 @@ date: 2014-03-03T16:33:46.000Z
 url: /2014/europe/sicily-husband-works-thousands-miles-away-writes-love/
 featuredimage: /wp-content/uploads/2014/03/love_letter-357x500.jpg
 
-country: 
+country:
   - Europe
   - Expat
   - Germany
@@ -17,6 +17,8 @@ tags:
   - germany
   - italy
   - sicily
+category:
+  - Stories
 ---
 
 **Sicily, South of Italy &#8211; 1973**.

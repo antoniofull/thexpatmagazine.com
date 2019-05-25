@@ -12,6 +12,9 @@ tags:
   - apartment
   - live Italy
   - moving to Italy
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 Finally your dream to move to Italy has come true, so you are packing up your stuff and organise all the practical things you need to. You&#8217;re probably excited and scared at the same time, a new job or university, so many things to think about and the house hunting is one of them. Here below you can find some tips on how to find an apartment in Italy.

@@ -12,6 +12,12 @@ country:
 tags:
   - facts
   - switzerland
+category:
+  - Expat Tips
+  - Destinations
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 **Switzerland** is a small country at the heart of Europe and it&#8217;s famous for being a neutral country  for it&#8217;s banks, chocolate and clocks.

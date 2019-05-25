@@ -14,6 +14,9 @@ tags:
   - app
   - outbound
   - travel apps
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 We had finally the opportunity to test the new app <a href="https://www.outboundapp.org" target="_blank">Outbound</a>, released just few days ago. I can say I was quite excited to give it a try as finally we can have a sort of social network dedicated only to travellers. (I&#8217;m personally not a big fan of Facebook)

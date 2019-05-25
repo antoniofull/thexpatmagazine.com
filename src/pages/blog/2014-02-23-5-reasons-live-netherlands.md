@@ -13,7 +13,7 @@ tags:
   - netherlands
 country: Netherlands
 category:
-  - 'Destinations '
+  - Destinations
   - Expat Tips
 author: Editorial Team
 ---

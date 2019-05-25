@@ -14,6 +14,9 @@ country:
 tags:
   - languages
   - swedish
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 **Swedish** is a **North Germanic** language, spoken by about 10 million of people in the world. (Mostly obviously living in **Sweden** :D) Indeed not one of the most popular languages in the world.<!--more-->

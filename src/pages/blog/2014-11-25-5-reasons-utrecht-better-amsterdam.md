@@ -14,6 +14,12 @@ country:
 tags:
   - amsterdam
   - utrecht
+category:
+  - Expat Tips
+  - Destinations
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 Whenever I talk with some friends about my _**life in Netherlands**_, the first questions they ask me are all about Amsterdam and why, despite the fact that I _work in Amsterdam_, I decided to live in **Utrecht**. It seems that many people can just &#8220;recognize&#8221; Netherlands in Amsterdam. With this post I am going to explain you the reasons why  Utrecht is better than Amsterdam for living, I am  writing about the most important 5,  but I could list much more reasons 😀<!--more-->

@@ -15,6 +15,9 @@ tags:
   - idi
   - itu
   - world most connected countries
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 The **ITU**, **_International Telecommunication Union_**, released yesterday a report for the _**world&#8217;s most connected countries**_ according with their index called **IDI** (_**global ICT Development Index).**_<!--more-->

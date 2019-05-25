@@ -14,6 +14,12 @@ country:
 tags:
   - barcelona
   - best city
+category:
+  - Expat Tips
+  - Destinations
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 **Barcelona** is the capital of **Catalonia**, a region of **Spain**. Artists from all over the world come here to get inspired by the amazing night life and the beauty of the &#8220;_Barrios_&#8221; of **Barcelona**. If you have never been here you are missing the best city in the world, here 27 reasons that proof you that **Barcelona is the best city in the World**.<!--more-->

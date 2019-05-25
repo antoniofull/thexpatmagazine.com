@@ -10,12 +10,15 @@ laurel_meta_post_layout:
   - customizer
 laurel_meta_fullimage_height:
   - 660
-country: 
+country:
   - Expat
 tags:
   - salary increase
   - top tips
   - working abroad
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 One of the most controversial topics to be writing on. One of the biggest ‘worth of words’ is only known to a writer that expects nothing but a “loyal increment” in return. Since I’m a writer and I know what credentials I hold when it comes to my job, but there comes to marketing gap where you’re intended not to follow you’re creative work but get reprimanded into rigid “marketing rules & regulations” out of the land of nowhere. When you consider of how to negotiate a salary increase, you’re throttled back into place due to your unworthy usage of words.

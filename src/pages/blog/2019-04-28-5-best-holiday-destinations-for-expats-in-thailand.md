@@ -6,12 +6,15 @@ type: post
 date: 2019-04-28T17:50:52.000Z
 url: /2019/expat-life/5-best-holiday-destinations-for-expats-in-thailand/
 featuredimage: /wp-content/uploads/2019/04/toomas-tartes-1391808-unsplash.jpg
-country: 
+country:
   - Expat
   - Inspiration
 tags:
   - best destinations
   - thailand
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 <span style="font-weight: 400;">Thailand is one of the most popular places for good living abroad. This part of the world has a year-round tropical climate, delicious food, affordable & high-quality healthcare, and a low cost of living among other things. Apart from the welcoming locals, you&#8217;ll most certainly meet a sizeable community of expats in Thailand from various parts of the world. The region exhibits a sophisticated culture and has lots of holiday destinations. Here are some of the most popular, as well as off-the-grid Thailand holiday destinations for </span><a href="https://localhost/thexpatmagazine-wp/2014/expat-life/8-things-changed-forever-since-live-abroad/" target="_blank" rel="noopener"><span style="font-weight: 400;">expats looking to unwind and have fun</span></a><span style="font-weight: 400;">:</span>

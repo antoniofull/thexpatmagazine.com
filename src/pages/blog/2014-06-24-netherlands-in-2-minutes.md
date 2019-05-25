@@ -18,13 +18,14 @@ tags:
   - staff pick
   - video
   - youtube
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 Have you ever been to **Netherlands**?
 
 Are you thinking to move there? Netherlands (also often referred as Holland) is a small country in the North of Europe famous mostly for its &#8220;**infamous**&#8220; **Red light district** and **Coffee-shops**.
-
-
 
 If you never been there and you have no idea what **Netherlands** is, this video will help you to understand most of the country in just 2 minutes, very fun to watch enjoy!
 

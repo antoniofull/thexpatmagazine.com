@@ -16,6 +16,9 @@ tags:
   - facts
   - germans
   - germany
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 Germany is actually one of the most wealthy country in Europe, and beside that germans are famous also for their language, which sometimes does not sounds so friendly  (but of course they are) 🙂

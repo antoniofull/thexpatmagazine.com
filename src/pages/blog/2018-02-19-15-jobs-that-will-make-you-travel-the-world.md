@@ -13,6 +13,9 @@ tags:
   - travel
   - travel working
   - work abroad
+category:
+  - Expat Tips
+  - Destinations
 ---
 
 &#8220;I give up everything and go live in Bora Bora!&#8221;, how many times have you had this thought? Well the destination may be different, but the dream of having a **job that will make you travel the world** has touched your mind for sure. Of course, you can&#8217;t just leave and do it for free, you need a plan and a job that makes you still be independent. So the best solution would be to have a job that makes you (for real) travel the world.
