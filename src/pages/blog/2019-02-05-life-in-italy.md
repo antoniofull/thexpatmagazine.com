@@ -1,23 +1,25 @@
 ---
 templateKey: blog-post
 title: Life in Italy
-author: thexpatmagazine
-type: post
 date: 2019-02-05T17:31:23.000Z
-url: /2019/europe/italy/life-in-italy/
+description: >-
+  Life in Italy  is beautiful, exciting, fun-filled and easy to get used to… My
+  two years living in Italy were amazing, it has easily been a life-changing
+  experience for myself and helped me to understand what really matters to me in
+  life. I can honestly say I have been quite lucky to have had the opportunity
+  to live in one of, if not the most historically rich countries that our planet
+  has to offer, all while working and living like a local.
 featuredimage: /wp-content/uploads/2019/02/la-so-512424-unsplash-1-1.jpg
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
-country: 
-  - Italy
 tags:
   - australia
   - europe
   - expat
   - italy
   - life in italy
+country: Italy
+category:
+  - Stories
+author: thexpatmagazine
 ---
 
 <p>
