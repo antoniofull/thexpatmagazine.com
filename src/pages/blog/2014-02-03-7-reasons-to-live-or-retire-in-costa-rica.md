@@ -14,7 +14,7 @@ tags:
   - reasons to live
 country: Costa Rica
 category:
-  - 'Destinations '
+  - Destinations
   - Expat Tips
 author: Editorial Team
 ---

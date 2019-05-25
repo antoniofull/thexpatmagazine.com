@@ -1,5 +1,5 @@
 ---
 siteSettings: blog-nav
-title: 'Destinations '
+title: Destinations
 description: Follow the destinations
 ---
