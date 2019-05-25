@@ -32,7 +32,7 @@ export default props => (
     query={graphql`
       query Stories {
         allMarkdownRemark(
-          filter: { frontmatter: { category: { eq: "Stories" } } }
+          filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
         ) {
           edges {
             node {
