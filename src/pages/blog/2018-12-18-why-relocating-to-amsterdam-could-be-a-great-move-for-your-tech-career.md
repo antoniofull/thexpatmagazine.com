@@ -1,19 +1,23 @@
 ---
 templateKey: blog-post
 title: Why relocating to Amsterdam could be a great move for your tech career
-author: thexpatmagazine
-type: post
 date: 2018-12-18T20:26:24.000Z
-url: /2018/europe/why-relocating-to-amsterdam-could-be-a-great-move-for-your-tech-career/
-featuredimage: /wp-content/uploads/2018/12/amsterdam-architecture-building-208733.jpg
-country:
-  - Europe
-  - Netherlands
+description: >-
+  Boasting a healthy working-life balance, rich history and cultural diversity,
+  and a rare combination of cosy village-like charm and metropolitan amenities,
+  the Netherlands’ capital has been attracting expats for years—now, it’s the
+  global tech community being tempted to relocate to Amsterdam.
+featuredimage: /img/amsterdam-architecture-building-208733.jpg
 tags:
   - amsterdam
   - expats
   - relocating to Amsterdam
   - working abroad
+country:
+  - Europe
+  - Netherlands
+category: Expat Tips
+author: thexpatmagazine
 ---
 
 Boasting a healthy working-life balance, rich history and cultural diversity, and a rare combination of cosy village-like charm and metropolitan amenities, the Netherlands’ capital has been attracting expats for years—now, it’s the global tech community being tempted to relocate to Amsterdam.
