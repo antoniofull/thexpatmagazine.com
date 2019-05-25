@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from './Header';
-import { Link } from 'gatsby';
+import { Link, StaticQuery } from 'gatsby';
 import MediaQuery from 'react-responsive';
 
 import Logo from '../img/logo.svg';
@@ -64,4 +64,29 @@ const Navbar = class extends React.Component {
   }
 };
 
-export default Navbar;
+export default () => (
+  <StaticQuery
+    query={graphql`
+      query Categories {
+        allMarkdownRemark(
+          sort: { order: DESC, fields: [frontmatter___date] }
+          filter: { frontmatter: { templateKey: { eq: "blog-nav" } } }
+        ) {
+          edges {
+            node {
+              id
+              fields {
+                slug
+              }
+              frontmatter {
+                title
+                description
+              }
+            }
+          }
+        }
+      }
+    `}
+    render={(data, count) => <Navbar data={data} count={count} />}
+  />
+);

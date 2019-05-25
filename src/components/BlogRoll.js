@@ -77,7 +77,7 @@ export default () => (
               id
               fields {
                 slug
-              }
+              } 
               frontmatter {
                 title
                 templateKey
