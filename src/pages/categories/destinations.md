@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Destinations
+title: 'Destinations '
 description: Follow the destinations
 ---
 
