@@ -13,7 +13,9 @@ tags:
   - healthy life
   - reasons to live
 country: Costa Rica
-category: 'Destinations '
+category:
+  - 'Destinations '
+  - Expat Tips
 author: Editorial Team
 ---
 
