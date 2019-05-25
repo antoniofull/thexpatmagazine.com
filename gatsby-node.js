@@ -7,8 +7,56 @@ exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions;
 
   const categoryTemplate = require.resolve('./src/templates/categories.js');
+  const authorTemplate = require.resolve('./src/templates/blog-author.js');
 
-  const categoriesResult = graphql(`
+  graphql(`
+    query Authors {
+      allMarkdownRemark(
+        filter: { frontmatter: { templateKey: { eq: "blog-author" } } }
+      ) {
+        totalCount
+        edges {
+          node {
+            id
+            fields {
+              slug
+            }
+            frontmatter {
+              title
+              bio
+              photo
+              instagram
+              facebook
+              pinterest
+              twitter
+            }
+          }
+        }
+      }
+    }
+  `).then(authorsResult => {
+    if (authorsResult.errors) {
+      authorsResult.errors.forEach(e => console.error(e.toString()));
+      return Promise.reject(authorsResult.errors);
+    }
+
+    const authors = authorsResult.data.allMarkdownRemark.edges;
+    _.each(authors, edge => {
+      console.log(edge);
+      const authorData = edge.node.frontmatter.title;
+      const id = edge.node.id;
+      createPage({
+        path: edge.node.fields.slug,
+        component: authorTemplate,
+        context: {
+          id,
+          authorData
+        }
+      });
+    });
+  });
+
+  graphql(`
     {
       allMarkdownRemark(
         filter: { frontmatter: { siteSettings: { eq: "blog-nav" } } }

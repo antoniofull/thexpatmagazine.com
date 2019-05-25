@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link, graphql, StaticQuery } from 'gatsby';
 import PreviewCompatibleImage from './PreviewCompatibleImage';
+import AuthorMeta from './AuthorMeta';
 
 import '../styles/featured.css';
 
@@ -25,7 +26,7 @@ const FeaturedPosts = ({ data, count }) => {
         </header>
         <p className='meta'>
           <span>{data.markdownRemark.frontmatter.date}</span>
-          <span>{data.markdownRemark.frontmatter.author}</span>
+          <AuthorMeta author={data.markdownRemark.frontmatter.author} />
         </p>
         <p className='featured-post__excerpt'>{data.markdownRemark.excerpt}</p>
         <button className='read-more--featured btn'>Read More ...</button>
@@ -46,6 +47,7 @@ export default () => (
           }
           frontmatter {
             title
+            author
             templateKey
             date(formatString: "MMMM DD, YYYY")
             featuredpost

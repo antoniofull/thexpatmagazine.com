@@ -128,11 +128,11 @@ collections:
           label: 'Template Key',
           name: 'templateKey',
           widget: 'hidden',
-          default: 'blog-post',
+          default: 'blog-author',
         }
       - { label: 'Name', name: 'title', widget: 'string' }
       - { label: 'Bio (In Markdown)', name: 'bio', widget: 'markdown' }
-      - { label: 'Photo', name: 'Photo', widget: image }
+      - { label: 'Photo', name: 'photo', widget: image }
       - {
           label: 'Instagram',
           name: 'instagram',
@@ -163,7 +163,7 @@ collections:
           label: 'Template Key',
           name: 'templateKey',
           widget: 'hidden',
-          default: 'blog-post',
+          default: 'blog-author',
         }
       - { label: 'Name', name: 'title', widget: 'string' }
       - { label: 'Bio (In Markdown)', name: 'bio', widget: 'markdown' }

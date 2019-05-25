@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: blog-author
 title: Rossella Daví
 bio: >-
   I like to define myself as a dreamer not only a traveller. I got to live in
@@ -7,4 +7,3 @@ bio: >-
   always with a curious eye.
 Photo: /img/ros.jpeg
 ---
-
