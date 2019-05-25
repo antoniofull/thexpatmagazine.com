@@ -1,21 +1,18 @@
 ---
 templateKey: blog-post
 title: 7 Tips on how to open a business in Barcelona
-author: thexpatmagazine
-type: post
 date: 2019-01-30T10:18:47.000Z
-url: /2019/europe/spain/7-tips-on-how-to-open-a-business-in-barcelona/
+description: "Setting up a business in sunny [Barcelona] is many people’s dream come true.\_ But, as anyone who has bought or leased commercial property in Barcelona will tell you, there can be many processes and administrative hoops to jump through before you can realise your dream of opening in one of the one world’s most vibrant cities."
 featuredimage: /wp-content/uploads/2019/01/javier-bosch-544159-unsplash.jpg
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
-country: 
-  - Spain
 tags:
   - business abroad
   - open a new business
   - top tips
+country: Spain
+category:
+  - Expat Tips
+  - 'Destinations '
+author: thexpatmagazine
 ---
 
 Setting up a business in sunny [Barcelona] is many people’s dream come true.  But, as anyone who has bought or leased commercial property in Barcelona will tell you, there can be many processes and administrative hoops to jump through before you can realise your dream of opening in one of the one world’s most vibrant cities.
