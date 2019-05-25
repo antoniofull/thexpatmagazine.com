@@ -1,23 +1,18 @@
 ---
 templateKey: blog-post
 title: Amsterdam Exposed
-author: thexpatmagazine
-type: post
 date: 2019-03-25T20:15:37.000Z
-url: /2019/europe/amsterdam-exposed/
-featuredimage: /wp-content/uploads/2019/03/Amsterdam-Exposed-Cover-small.jpg
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
-country: 
-  - Europe
-  - Netherlands
+description: "This is an excerpt from the book: Amsterdam Exposed, an American's journey into the red light district. By David Wienir.\_"
+featuredimage: /img/amsterdam-exposed-cover-small.jpg
 tags:
   - amazon
   - amsterdam
   - ebooks
   - red light district
+country: Netherlands
+category:
+  - Stories
+author: thexpatmagazine
 ---
 
 **This is an excerpt from the book:**<a href="https://www.amsterdamexposed.com/home.html" target="_blank" rel="noopener"><strong> Amsterdam Exposed</strong></a>, \_**an American&#8217;s journey into the red light district.** F_rom <a href="https://www.amsterdamexposed.com/author.html" target="_blank" rel="noopener">David Wienir. </a>
