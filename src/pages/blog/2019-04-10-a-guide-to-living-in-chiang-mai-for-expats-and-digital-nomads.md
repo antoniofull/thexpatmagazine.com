@@ -1,22 +1,19 @@
 ---
 templateKey: blog-post
 title: A Guide to Living in Chiang Mai for Expats and Digital Nomads
-author: thexpatmagazine
-type: post
 date: 2019-04-10T19:11:56.000Z
-url: /2019/expat-life/a-guide-to-living-in-chiang-mai-for-expats-and-digital-nomads/
-featuredimage: /wp-content/uploads/2019/04/doi-suthep-2377271_1280.jpg
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
-country: 
-  - Expat
-  - Living abroad
+description: A Guide to Living in Chiang Mai for Expats and Digital Nomads
+featuredimage: /img/chiang-mai.jpg
 tags:
   - best expat living
   - expat tips
   - thailand
+country:
+  - Expat
+  - Living abroad
+category:
+  - Travel Tips
+author: Editorial Team
 ---
 
 <span style="font-weight: 300;">Chiang Mai, located in </span>[<span style="font-weight: 300;">Northern Thailand</span>] <span style="font-weight: 300;">has in the last few years become a popular location for digital nomads, retirees, and expats who come here after being tempted by the exotic locations, familiarity blend, and the low cost of living in Chiang Mai, Thailand. </span>
