@@ -12,7 +12,7 @@ tags:
   - holland
   - netherlands
 country: Netherlands
-author: Rossella Daví
+author: Editorial Team
 ---
 
 Europe is full of history. Netherlands is one of these countries with a long history and for Us living overseas most of this history is completely unknown.
