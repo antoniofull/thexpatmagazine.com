@@ -132,6 +132,12 @@ collections:
       - { label: 'Name', name: 'title', widget: 'string' }
       - { label: 'Bio (In Markdown)', name: 'bio', widget: 'markdown' }
       - { label: 'Photo', name: 'photo', widget: image }
+       - {
+          label: 'Website',
+          name: 'website',
+          widget: 'string',
+          required: false,
+        }
       - {
           label: 'Instagram',
           name: 'instagram',
