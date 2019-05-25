@@ -43,10 +43,12 @@ collections:
 
       - label: 'Category'
         name: 'category'
-        widget: 'list'
-        allow_add: true
-        field: 'Destination'
-        default: ['Destinations']
+        widget: 'relation'
+        collection: 'category'
+        searchFields: ['title']
+        valueField: 'title'
+        required: false
+        displayFields: ['title']
 
       - label: 'Author'
         name: 'author'
