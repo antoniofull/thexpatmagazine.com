@@ -7,6 +7,7 @@ import useSiteMetadata from './SiteMetadata';
 // Import css files
 import '../styles/reset.css';
 import '../styles/layout.css';
+import '../styles/buttons.css';
 
 // import '~/gutenberg-web-type/gutenberg.scss';
 

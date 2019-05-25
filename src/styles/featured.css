@@ -24,11 +24,27 @@
   margin-left: auto;
   margin-right: auto;
 }
-
+.read-more--featured {
+  width: 180px;
+  height: 48px;
+  border-radius: var(--border-radius);
+  background-color: var(--color-primary);
+  padding: var(--padding);
+  margin: var(--margin-l) auto;
+  font-size: 1rem;
+  color: #ffffff;
+  cursor: pointer;
+}
+.featured-post__excerpt {
+  font-size: var(--font-fixed-mobile);
+}
 @media screen and (min-width: 768px) {
   .featured-post {
     top: 50%;
     transform: translateY(-50%);
     padding: var(--padding-xxl);
+  }
+  .featured-post__excerpt {
+    font-size: 100%;
   }
 }

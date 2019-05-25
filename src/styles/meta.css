@@ -1,0 +1,39 @@
+.meta {
+  display: flex;
+}
+.divider--meta {
+  height: 100%;
+  width: 1px;
+  background-color: #979797;
+  min-height: 25px;
+  margin-left: var(--margin-s);
+  margin-right: var(--margin-s);
+}
+.post-meta--author .gatsby-image-wrapper {
+  max-width: 24px;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  border: 1px solid var(--color-text-third);
+}
+
+.post-meta--author__link {
+  display: flex;
+  text-decoration: none;
+  padding-bottom: var(--padding-s);
+  border: 1px solid #fff;
+}
+
+.post-meta--author__link:hover {
+  border-bottom: 1px solid var(--border-color);
+}
+.post-meta--author__link:visited .post-meta--author__name {
+  color: var(--color-text-secondary);
+}
+
+.post-meta--author__link:hover .post-meta--author__name {
+  color: var(--color-primary);
+}
+.post-meta--author__name {
+  margin-left: var(--margin-s);
+}

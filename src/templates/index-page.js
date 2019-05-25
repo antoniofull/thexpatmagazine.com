@@ -4,6 +4,7 @@ import PropTypes from 'prop-types';
 import Layout from '../components/Layout';
 // import BlogRoll from '../components/BlogRoll';
 import FeaturedPosts from '../components/FeaturedPosts';
+import Stories from '../components/Stories';
 
 import '../styles/variables.css';
 import '../styles/reset.css';
@@ -18,6 +19,7 @@ const IndexPage = () => {
             <FeaturedPosts />
           </div>
         </div>
+        <Stories />
       </main>
     </Layout>
   );

@@ -28,7 +28,9 @@
   align-items: center;
   margin-left: auto;
 }
-
+.mobile-nav__text {
+  margin-right: var(--margin-s);
+}
 @media screen and (min-width: 1025px) {
   .main-header {
     display: flex;

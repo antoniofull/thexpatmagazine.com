@@ -1,5 +1,5 @@
 import React from 'react';
-import { graphql, StaticQuery } from 'gatsby';
+import { graphql, StaticQuery, Link } from 'gatsby';
 import PreviewCompatibleImage from './PreviewCompatibleImage';
 import AuthorMeta from './AuthorMeta';
 
@@ -24,12 +24,18 @@ const FeaturedPosts = ({ data, count }) => {
             {data.markdownRemark.frontmatter.title}
           </h2>
         </header>
-        <div className='meta'>
+        <div className='meta wf-source-sans'>
           <span>{data.markdownRemark.frontmatter.date}</span>
+          <span className='divider--meta' />
           <AuthorMeta author={data.markdownRemark.frontmatter.author} />
         </div>
         <p className='featured-post__excerpt'>{data.markdownRemark.excerpt}</p>
-        <button className='read-more--featured btn'>Read More ...</button>
+        <Link
+          to={data.markdownRemark.fields.slug}
+          className='read-more--featured btn btn--primary'
+        >
+          Read More ...
+        </Link>
       </article>
     </section>
   );
@@ -40,7 +46,7 @@ export default () => (
     query={graphql`
       query Featured {
         markdownRemark(frontmatter: { featuredpost: { eq: true } }) {
-          excerpt(pruneLength: 400)
+          excerpt(pruneLength: 350)
           id
           fields {
             slug

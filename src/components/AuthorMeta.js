@@ -4,6 +4,8 @@ import { Link, graphql, StaticQuery } from 'gatsby';
 
 import PreviewCompatibleImage from './PreviewCompatibleImage';
 
+import '../styles/meta.css';
+
 const AuthorMeta = props => {
   const { data, author } = props;
 
@@ -11,20 +13,26 @@ const AuthorMeta = props => {
     data.edges,
     o => o.node.frontmatter.title === author
   );
+  if (authorData) {
+    return (
+      <div className='post-meta--author'>
+        <Link to={authorData.node.slug} className='post-meta--author__link'>
+          <PreviewCompatibleImage
+            className='post-meta--author__image'
+            imageInfo={{
+              image: authorData.node.frontmatter.photo,
+              alt: `${authorData.node.frontmatter.title}`
+            }}
+          />
+          <h4 className='wf-source-sans post-meta--author__name'>
+            {authorData.node.frontmatter.title}
+          </h4>
+        </Link>
+      </div>
+    );
+  }
 
-  return (
-    <div className='post-meta--author'>
-      <Link to={authorData.node.fields.slug}>
-        <PreviewCompatibleImage
-          imageInfo={{
-            image: authorData.node.frontmatter.photo,
-            alt: `${authorData.node.frontmatter.title}`
-          }}
-        />
-        <h4>{authorData.node.frontmatter.title}</h4>
-      </Link>
-    </div>
-  );
+  return <div>NO result for this post</div>;
 };
 
 export default props => (

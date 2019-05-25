@@ -47,7 +47,7 @@ const Navbar = class extends React.Component {
         </Link>
         <MediaQuery query='(max-width: 1024px)'>
           <div className='mobile-toggle' onClick={this.toggleHamburger}>
-            <span>MENU</span>
+            <span className='mobile-nav__text'>MENU</span>
             <button type='button' className='wf-source-sans btn-link'>
               <MobileNavToggler />
             </button>

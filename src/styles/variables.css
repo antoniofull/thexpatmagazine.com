@@ -12,6 +12,9 @@
   --margin-xxl: 64px;
   /* Colors */
   --color-primary: #be52f2;
+  --color-accent: #a5affb;
+  --color-primary-light: #dba5f5;
+  --color-secondary: #e5e7fa;
   --color-text-primary: #444444;
   --color-text-secondary: #222222;
   --color-text-third: #585a5c;
@@ -26,4 +29,5 @@
   --font-l: 2.25rem;
   --font-xl: 3.375rem;
   --font-xxl: 5.063rem;
+  --font-fixed-mobile: 14px;
 }

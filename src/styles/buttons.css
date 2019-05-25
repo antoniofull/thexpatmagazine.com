@@ -1,0 +1,19 @@
+.btn {
+  border: none;
+  text-decoration: none;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  cursor: pointer;
+
+  background-color: var(--color-primary);
+
+  transition: all 2.3s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+.btn--primary:hover {
+  background-color: var(--color-accent);
+}
