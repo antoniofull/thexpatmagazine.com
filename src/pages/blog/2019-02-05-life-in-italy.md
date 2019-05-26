@@ -20,7 +20,6 @@ country: Italy
 author: Editorial Team
 category:
   - Stories
-author: thexpatmagazine
 ---
 
 <p>
