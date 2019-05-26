@@ -9,6 +9,7 @@ import Stories from '../components/Stories';
 import '../styles/variables.css';
 import '../styles/reset.css';
 import '../styles/typography.css';
+import '../styles/home-page.css';
 
 const IndexPage = () => {
   return (

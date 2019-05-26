@@ -14,12 +14,18 @@
   --margin-hero: 128px;
   /* Colors */
   --color-primary: #be52f2;
-  --color-accent: #a5affb;
   --color-primary-light: #dba5f5;
   --color-secondary: #e5e7fa;
   --color-text-primary: #444444;
   --color-text-secondary: #222222;
   --color-text-third: #585a5c;
+
+  --color-accent: #d0021b;
+  --color-accent-light: #a5affb;
+
+  --color-action: #6979f8;
+
+  --color-body-light: #f4f4f4;
 
   --border-radius: 4px;
   --box-shadows: 0 4px 14px 0 rgba(0, 0, 0, 0.05);
@@ -33,4 +39,6 @@
   --font-xl: 3.375rem;
   --font-xxl: 5.063rem;
   --font-fixed-mobile: 14px;
+
+  --grid-column-width: 320px;
 }

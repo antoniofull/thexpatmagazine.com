@@ -16,9 +16,13 @@
 }
 .has-shadow {
   background: #ffffff;
-  box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.05);
+  box-shadow: var(--box-shadows);
+  transition: all 0.3s cubic-bezier(0.6, -0.28, 0.735, 0.045);
 }
 
+.has-shadow:hover {
+  box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.1);
+}
 .masonry {
   display: flex;
   flex-wrap: wrap;
@@ -27,14 +31,33 @@
 
 .masonry__item {
   flex: 1 1 100%;
-  max-width: 100%;
   padding: var(--padding);
+  transition: all 0.5s cubic-bezier(0.19, 1, 0.22, 1);
+}
+.masonry__item img {
+  transition: all 0.5s cubic-bezier(0.19, 1, 0.22, 1) !important;
 }
 
+.masonry__item:hover img {
+  transform: scale3d(1.05, 1.05, 1.05);
+  filter: grayscale(0.5);
+}
 .masonry__content {
   padding: var(--padding-xl);
 }
 
+.read-more--masonry {
+  color: var(--color-action);
+  display: block;
+  margin: var(--padding-xl) 0 0;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-align: right;
+  transition: all 0.5s cubic-bezier(0.19, 1, 0.22, 1) !important;
+}
+.read-more--masonry:hover {
+  color: var(--color-primary);
+}
 .home-row-header {
   padding-bottom: 4px;
   border-bottom: 2px solid var(--color-primary);
@@ -49,7 +72,7 @@
   @supports (display: grid) {
     .masonry {
       display: grid;
-      grid-template-columns: repeat(2, 1fr);
+      grid-template-columns: repeat(2, minmax(var(--grid-column-width), 1fr));
     }
     .masonry__item {
       max-width: 50%;
@@ -60,31 +83,23 @@
 @media screen and (min-width: 1024px) {
   .masonry__item {
     max-width: 33.33333%;
-    padding: var(--padding-l);
   }
   @supports (display: grid) {
     .masonry {
       display: grid;
-      grid-template-columns: repeat(4, 1fr);
-    }
-    .masonry__item {
-      max-width: 33%;
+      grid-template-columns: repeat(3, minmax(var(--grid-column-width), 1fr));
     }
   }
 }
 
 @media screen and (min-width: 1280px) {
   .masonry__item {
-    max-width: 33.33333%;
-    padding: var(--padding-l);
+    max-width: 25%;
   }
   @supports (display: grid) {
     .masonry {
       display: grid;
-      grid-template-columns: repeat(4, 1fr);
-    }
-    .masonry__item {
-      max-width: 25%;
+      grid-template-columns: repeat(4, minmax(var(--grid-column-width), 1fr));
     }
   }
 }

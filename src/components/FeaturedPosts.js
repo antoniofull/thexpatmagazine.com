@@ -21,7 +21,7 @@ const FeaturedPosts = ({ data, count }) => {
         />
       </div>
       <div className='featured__container'>
-        <div className='featured-post__container'>
+        <div className='featured-post__container has-shadow'>
           <article className='featured-post'>
             <header>
               <h2 className='wf-large featured-title'>
