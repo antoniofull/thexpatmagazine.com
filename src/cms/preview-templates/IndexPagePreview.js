@@ -7,15 +7,15 @@ export const IndexPage = ({
   heading,
   subheading,
   description
-}) => {
+}) => (
   <article>
     <h1>{title}</h1>
     <h2>{heading}</h2>
     <div>{subheading}</div>
     <img src={image} />
     <p>{description}</p>
-  </article>;
-};
+  </article>
+);
 
 const IndexPagePreview = ({ entry, getAsset }) => {
   const data = entry.getIn(['data']).toJS();

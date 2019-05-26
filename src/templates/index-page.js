@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 import Layout from '../components/Layout';
-// import BlogRoll from '../components/BlogRoll';
+import Footer from '../components/Footer';
 import FeaturedPosts from '../components/FeaturedPosts';
 import Stories from '../components/Stories';
 import Tips from '../components/Tips';
@@ -19,9 +19,10 @@ const IndexPage = () => {
       <main className='home'>
         <FeaturedPosts />
         <Stories />
-        <Tips />
         <Destinations />
+        <Tips />
       </main>
+      <Footer />
     </Layout>
   );
 };

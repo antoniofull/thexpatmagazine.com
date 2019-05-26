@@ -18,6 +18,10 @@
 }
 
 /* Helpers */
+::-webkit-scrollbar {
+  width: 0px; /* Remove scrollbar space */
+  background: transparent; /* Optional: just make scrollbar invisible */
+}
 .padding-xl {
   padding: var(--padding-xl);
 }
@@ -32,10 +36,24 @@
 .has-border-bottom {
   border-bottom: 1px solid var(--border-color-light);
 }
+.has-border-top {
+  border-top: 1px solid var(--border-color-light);
+}
 .is-color-white {
   background-color: #ffffff;
 }
-
+.is-color-black {
+  background: #222222;
+}
+.has-text-white {
+  color: #ffffff !important;
+}
+.has-text-center {
+  text-align: center;
+}
+.has-content-box {
+  box-sizing: content-box;
+}
 .is-text-centered {
   display: flex;
   justify-content: center;

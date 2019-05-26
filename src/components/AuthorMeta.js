@@ -12,10 +12,6 @@ const AuthorMeta = props => {
     data.edges,
     o => o.node.frontmatter.title === author
   );
-
-  if (!authorData) {
-    console.log(data);
-  }
   if (authorData) {
     return (
       <div className='post-meta--author'>

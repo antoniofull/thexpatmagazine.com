@@ -11,6 +11,12 @@ module.exports = {
     'gatsby-plugin-sass',
     `gatsby-plugin-transition-link`,
     {
+      resolve: `gatsby-source-instagram`,
+      options: {
+        username: `the_expatmagazine`
+      }
+    },
+    {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: 'gatsby-source-filesystem',
       options: {

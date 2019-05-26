@@ -9,7 +9,10 @@
   justify-content: center;
   cursor: pointer;
 
+  max-width: 240px;
+
   transition: all 2.3s cubic-bezier(0.165, 0.84, 0.44, 1);
+  padding: var(--padding);
 }
 
 .btn--primary {
@@ -19,4 +22,8 @@
 
 .btn--primary:hover {
   background-color: var(--color-accent);
+}
+
+.btn--rounded {
+  border-radius: calc(var(--border-radius) * 1.5);
 }
