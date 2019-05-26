@@ -4,6 +4,7 @@
   align-items: center;
   margin: var(--margin-l) auto;
   max-width: 280px;
+  min-height: 24px;
   color: var(--color-text-third);
   font-size: 12px;
   font-family: 'Source Sans Pro', sans-serif;
@@ -21,6 +22,9 @@
   padding: 0 var(--padding);
 }
 
+.meta__date {
+  min-height: 24px;
+}
 .meta--align-left {
   justify-content: start;
 }

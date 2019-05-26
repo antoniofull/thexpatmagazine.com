@@ -40,7 +40,7 @@ const Stories = ({ data }) => {
   const imagesLoadedOptions = { background: '.my-bg-image-el' };
   return (
     <React.Fragment>
-      <h3 alt='Latest Stories' className='container padding-xl'>
+      <h3 alt='Latest Stories' className='home-row-header container padding-xl'>
         Latest Stories
       </h3>
       <Masonry

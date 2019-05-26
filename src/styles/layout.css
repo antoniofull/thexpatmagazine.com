@@ -35,6 +35,12 @@
   padding: var(--padding-xl);
 }
 
+.home-row-header {
+  padding-bottom: 4px;
+  border-bottom: 2px solid var(--color-primary);
+  display: inline-block;
+}
+
 @media screen and (min-width: 667px) {
   .masonry__item {
     max-width: 50%;
