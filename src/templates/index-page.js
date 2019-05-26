@@ -6,6 +6,7 @@ import Layout from '../components/Layout';
 import FeaturedPosts from '../components/FeaturedPosts';
 import Stories from '../components/Stories';
 import Tips from '../components/Tips';
+import Destinations from '../components/Destinations';
 
 import '../styles/variables.css';
 import '../styles/reset.css';
@@ -19,6 +20,7 @@ const IndexPage = () => {
         <FeaturedPosts />
         <Stories />
         <Tips />
+        <Destinations />
       </main>
     </Layout>
   );

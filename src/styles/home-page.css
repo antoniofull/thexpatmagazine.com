@@ -9,8 +9,10 @@ body {
 .home-row--white {
   background: #ffffff;
 }
+.home-row--blue {
+  background-color: var(--color-body-accent);
+}
 .container--home {
-  background: #ffffff;
   max-width: 1600px;
   display: block;
   margin-left: auto;

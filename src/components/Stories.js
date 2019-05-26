@@ -55,7 +55,7 @@ const Stories = ({ data }) => {
     <ReactResizeDetector handleWidth handleHeight>
       {({ width, height }) => (
         <section className='home-row'>
-          <div className='container container--home container-row'>
+          <div className='container container--home is-color-white container-row'>
             <h3
               alt='Latest Stories'
               className='home-row__header container padding-xl'
