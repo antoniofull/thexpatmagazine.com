@@ -26,6 +26,7 @@
   --color-action: #6979f8;
 
   --color-body-light: #f4f4f4;
+  --color-body-accent: rgba(228, 236, 243, 0.6);
 
   --border-radius: 4px;
   --box-shadows: 0 4px 14px 0 rgba(0, 0, 0, 0.05);
