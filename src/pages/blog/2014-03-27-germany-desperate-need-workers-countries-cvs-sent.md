@@ -1,15 +1,12 @@
 ---
 templateKey: blog-post
 title: Germany is in desperate need of workers from other countries, but only few Cv’s are sent
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2014-03-27T17:20:33.000Z
 url: /2014/europe/germany-desperate-need-workers-countries-cvs-sent/
 featuredimage: /wp-content/uploads/2014/03/germany.jpg
-reltwitter:
-  - 'https://localhost/thexpatmagazine-wp/2014/europe/germany-desperate-need-workers-countries-cvs-sent/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-country: 
-  - Europe
+country:
   - Germany
 tags:
   - expat

@@ -1,15 +1,13 @@
 ---
 templateKey: blog-post
 title: Beach With Giant Waves Protected by a Stone Wall in Puerto Rico
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2014-03-28T18:48:32.000Z
 url: /2014/america/beach-giant-waves-protected-stone-wall-puerto-rico/
 featuredimage: /wp-content/uploads/2014/03/puertorico-889x500.jpg
-reltwitter:
-  - 'https://localhost/thexpatmagazine-wp/2014/america/beach-giant-waves-protected-stone-wall-puerto-rico/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-country: 
-  - America
+country:
+  - Puerto Rico
 tags:
   - Playa
   - Puerto Nuevo

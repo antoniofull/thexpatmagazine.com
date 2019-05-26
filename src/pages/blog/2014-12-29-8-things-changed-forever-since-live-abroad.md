@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 8 Things that changed forever since you live abroad
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2014-12-29T17:04:15.000Z
 url: /2014/expat-life/8-things-changed-forever-since-live-abroad/

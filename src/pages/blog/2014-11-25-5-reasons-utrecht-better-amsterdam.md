@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 5 Reasons Why Utrecht Is Better Than Amsterdam
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2014-11-25T18:22:25.000Z
 url: /2014/europe/5-reasons-utrecht-better-amsterdam/

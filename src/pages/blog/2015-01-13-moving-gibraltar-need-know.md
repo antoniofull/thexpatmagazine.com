@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Moving to Gibraltar, what do you need to know.
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2015-01-13T12:56:33.000Z
 url: /2015/europe/moving-gibraltar-need-know/

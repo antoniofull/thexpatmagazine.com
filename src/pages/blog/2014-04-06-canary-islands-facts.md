@@ -1,13 +1,12 @@
 ---
 templateKey: blog-post
 title: 10 facts to know about Canary islands
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2014-04-06T14:46:47.000Z
 url: /2014/europe/canary-islands-facts/
 featuredimage: /wp-content/uploads/2014/04/hierro-751x500.jpg
-country: 
-  - Europe
+country:
   - Spain
 tags:
   - canarias

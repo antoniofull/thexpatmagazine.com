@@ -16,7 +16,7 @@ country:
 category:
   - Expat Tips
   - Destinations
-author: thexpatmagazine
+author: Editorial Team
 ---
 <p>
   It’s no secret that the process of moving abroad can be tough as it’s easy to become overwhelmed by all the things you have to do in order to get settled. Fortunately, today’s expats have the technology to support them with hundreds of apps specifically designed to help travelers and emigrants. But which ones are the best? This list from <a href="https://www.hansen-company.com/">Hansen & Company</a> lays out a handy list of eight indispensable apps which you can use to develop language skills, navigate your way around, stay safe and make friends.

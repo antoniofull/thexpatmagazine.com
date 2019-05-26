@@ -11,7 +11,8 @@ tags:
   - expats
   - holland
   - netherlands
-country: Netherlands
+country:
+  - Netherlands
 category:
   - Destinations
   - Expat Tips

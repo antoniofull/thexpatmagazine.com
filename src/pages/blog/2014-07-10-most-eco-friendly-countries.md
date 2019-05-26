@@ -1,13 +1,12 @@
 ---
 templateKey: blog-post
 title: The 10 most eco-friendly countries in the world
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2014-07-10T20:31:04.000Z
 url: /2014/expat-life/most-eco-friendly-countries/
 featuredimage: /wp-content/uploads/2014/07/colombia.jpg
 country:
-  - Expat
   - Living abroad
 tags:
   - eco-friendly

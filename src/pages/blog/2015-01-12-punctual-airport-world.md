@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Most punctual airport in the world
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2015-01-12T12:34:26.000Z
 featuredimage: /wp-content/uploads/2015/01/bristol-700x500.jpg

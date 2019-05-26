@@ -1,16 +1,13 @@
 ---
 templateKey: blog-post
 title: 7 things to know about Vienna (plus bonus)
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2014-06-25T18:05:42.000Z
 url: /2014/europe/things-to-know-about-vienna/
 featuredimage: /wp-content/uploads/2014/06/child-austria-shoes-360x500.jpg
-reltwitter:
-  - 'https://localhost/thexpatmagazine-wp/2014/europe/things-to-know-about-vienna/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-country: 
+country:
   - Austria
-  - Europe
 tags:
   - fun facts
   - things to know

@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 27 Reasons Why Barcelona Is The Best City In The World
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2014-11-16T20:31:47.000Z
 url: /2014/europe/27-reasons-barcelona-best-city-world/

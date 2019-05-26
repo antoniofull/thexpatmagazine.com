@@ -1,6 +1,21 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { IndexPage } from '../../templates/index-page';
+
+export const IndexPage = ({
+  image,
+  title,
+  heading,
+  subheading,
+  description
+}) => {
+  <article>
+    <h1>{title}</h1>
+    <h2>{heading}</h2>
+    <div>{subheading}</div>
+    <img src={image} />
+    <p>{description}</p>
+  </article>;
+};
 
 const IndexPagePreview = ({ entry, getAsset }) => {
   const data = entry.getIn(['data']).toJS();

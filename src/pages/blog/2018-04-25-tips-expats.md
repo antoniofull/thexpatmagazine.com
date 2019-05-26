@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 7 Top Tips for Wannabe Expats
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2018-04-25T14:00:50.000Z
 url: /2018/expat-life/tips-expats/

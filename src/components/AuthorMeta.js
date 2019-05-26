@@ -8,11 +8,14 @@ import '../styles/meta.css';
 
 const AuthorMeta = props => {
   const { data, author } = props;
-
   const authorData = _.find(
     data.edges,
     o => o.node.frontmatter.title === author
   );
+
+  if (!authorData) {
+    console.log(data);
+  }
   if (authorData) {
     return (
       <div className='post-meta--author'>
@@ -27,7 +30,7 @@ const AuthorMeta = props => {
               alt: `${authorData.node.frontmatter.title}`
             }}
           />
-          <h4 className='wf-source-sans post-meta--author__name'>
+          <h4 className='post-meta--author__name wf-os'>
             {authorData.node.frontmatter.title}
           </h4>
         </Link>

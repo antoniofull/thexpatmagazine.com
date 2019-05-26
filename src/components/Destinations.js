@@ -12,7 +12,7 @@ const Destinations = ({ data }) => {
       className='destination article--home has-border article--full-image'
       key={story.node.id}
     >
-      <div className=''>
+      <div className='destination__content'>
         {story.node.frontmatter.featuredimage && (
           <Link to={story.node.fields.slug}>
             <PreviewCompatibleImage
@@ -26,18 +26,20 @@ const Destinations = ({ data }) => {
           </Link>
         )}
         <div className='article--home__content is-color-white'>
-          <h2 className=''>{story.node.frontmatter.title}</h2>
-          <div className='meta meta--align-left wf-source-sans'>
+          <h2 className='article-home__header'>
+            {story.node.frontmatter.title}
+          </h2>
+          <div className='meta meta--home-row meta--align-left '>
             <span className='meta__date'>{story.node.frontmatter.date}</span>
             <span className='divider--meta' />
             <AuthorMeta author={story.node.frontmatter.author} />
           </div>
-          <div>{story.node.excerpt}</div>
+          <div className='excerpt'>{story.node.excerpt}</div>
           <Link
             to={story.node.fields.slug}
             className='read-more read-more--full-image'
           >
-            Read More
+            Read More <span className='arrow-action'>→</span>
           </Link>
         </div>
       </div>
@@ -54,11 +56,8 @@ const Destinations = ({ data }) => {
           Destinations
         </h3>
         <div className='container-home--articles'>{stories}</div>
-        <div className='view-all-home'>
-          <Link
-            to='/categories/destinations/'
-            className='wf-source-sans view-all'
-          >
+        <div className='view-all-home view-all-home--accent'>
+          <Link to='/categories/destinations/' className=' view-all'>
             View All Destinations
           </Link>
         </div>
@@ -92,9 +91,10 @@ export default props => (
                 title
                 date(formatString: "MMMM DD, YYYY")
                 author
+                category
                 featuredimage {
                   childImageSharp {
-                    fluid(maxWidth: 700, maxHeight: 400, quality: 100) {
+                    fluid(maxWidth: 700, maxHeight: 600, quality: 100) {
                       ...GatsbyImageSharpFluid
                     }
                   }

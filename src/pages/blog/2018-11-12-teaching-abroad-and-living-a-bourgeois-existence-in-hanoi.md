@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Teaching abroad and living ‘a bourgeois existence’ in Hanoi
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2018-11-12T17:55:05.000Z
 url: /2018/expat-life/teaching-abroad-and-living-a-bourgeois-existence-in-hanoi/

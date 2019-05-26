@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Your Guide To Moving Internationally
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2018-08-15T06:40:39.000Z
 url: /2018/expat-life/your-guide-to-moving-internationally/

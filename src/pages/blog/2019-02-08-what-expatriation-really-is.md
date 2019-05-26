@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: What expatriation really is
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2019-02-08T17:13:30.000Z
 url: /2019/expat-life/what-expatriation-really-is/

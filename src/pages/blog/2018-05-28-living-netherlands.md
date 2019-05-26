@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 7 Funny Facts about my Expat Life in The Netherlands
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2018-05-28T16:31:12.000Z
 url: /2018/europe/living-netherlands/

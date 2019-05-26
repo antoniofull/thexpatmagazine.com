@@ -2,12 +2,13 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: var(--padding) var(--padding-s);
+  padding: 0 var(--padding-s);
   max-width: 280px;
   min-height: 24px;
   color: var(--color-text-third);
   font-size: 12px;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: '-apple-system', 'HelveticaNeue-Light', 'Helvetica Neue Light',
+    'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
   position: relative;
 }
 .meta img {
@@ -54,6 +55,8 @@
   filter: contrast(2);
 }
 .post-meta--author__name {
+  font-weight: 300;
+  color: var(--color-text-third);
 }
 .post-meta--author__link {
   display: flex;

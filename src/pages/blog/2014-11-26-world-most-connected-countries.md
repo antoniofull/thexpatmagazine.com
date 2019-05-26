@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: World’s most connected countries
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2014-11-26T07:35:49.000Z
 url: /2014/living-abroad/world-most-connected-countries/

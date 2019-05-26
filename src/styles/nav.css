@@ -10,6 +10,9 @@
 .main-nav {
   margin-top: var(--margin-xl);
 }
+.main-nav--desktop {
+  font-size: 16px;
+}
 
 .nav--mobile {
   width: 100%;

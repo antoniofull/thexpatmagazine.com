@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Meudon: a little history box of art, music and literature in France'
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2016-11-30T00:00:00.000Z
 draft: true

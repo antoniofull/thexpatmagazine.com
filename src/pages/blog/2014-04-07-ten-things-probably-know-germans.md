@@ -1,15 +1,12 @@
 ---
 templateKey: blog-post
 title: ten things you probably did not know about germans
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2014-04-07T16:22:21.000Z
 url: /2014/europe/ten-things-probably-know-germans/
 featuredimage: /wp-content/uploads/2014/04/abendbrot-der-woche-667x500.jpg
-reltwitter:
-  - 'https://localhost/thexpatmagazine-wp/2014/europe/ten-things-probably-know-germans/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-country: 
-  - Europe
+country:
   - Germany
 tags:
   - Abendbrot

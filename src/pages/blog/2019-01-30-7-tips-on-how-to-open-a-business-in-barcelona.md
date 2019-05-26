@@ -12,7 +12,7 @@ country: Spain
 category:
   - Expat Tips
   - Destinations
-author: thexpatmagazine
+author: Editorial Team
 ---
 
 Setting up a business in sunny [Barcelona] is many people’s dream come true.  But, as anyone who has bought or leased commercial property in Barcelona will tell you, there can be many processes and administrative hoops to jump through before you can realise your dream of opening in one of the one world’s most vibrant cities.

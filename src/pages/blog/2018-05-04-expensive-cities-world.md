@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: The Top 10 Most Expensive Cities in the World
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2018-11-30T00:00:00.000Z
 country:

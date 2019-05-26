@@ -3,7 +3,7 @@ import SearchIcon from '../img/icon-search.svg';
 import '../styles/search.css';
 
 const SearchForm = () => (
-  <form className='search-form search wf-source-sans'>
+  <form className='search-form search '>
     <label>Search For Items</label>
 
     <input

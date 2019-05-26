@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Outbound App : The Social Network For Travellers'
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2015-01-18T10:01:34.000Z
 url: /2015/travel/outbound-app-social-network-travellers/

@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: From Brazil To Malaysia, Bruno’s Experience as an Expat
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2018-04-17T13:00:01.000Z
 url: /2018/expat-life/from-brazil-to-malaysia/

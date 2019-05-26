@@ -1,12 +1,10 @@
 ---
 templateKey: blog-post
 title: The ten most peaceful countries in the world
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2014-03-25T18:19:36.000Z
 url: /2014/living-abroad/most-peaceful-countries-world/
-country:
-  - Living abroad
 tags:
   - countries
   - most peaceful
@@ -14,7 +12,6 @@ tags:
   - zurich
 category:
   - Expat Tips
-  - Destinations
 ---
 
 The **Global peace index** is the ranking of the most peaceful countries in the world. The list is compiled by the IEP (**institute for economics and peace**) since 2007. Here his the latest list of the most peaceful countries in the world.<!--more-->

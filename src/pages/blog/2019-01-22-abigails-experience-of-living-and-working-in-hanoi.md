@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Abigail’s experience of living and working in Hanoi
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2019-01-22T19:19:14.000Z
 url: /2019/living-abroad/abigails-experience-of-living-and-working-in-hanoi/

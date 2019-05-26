@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Creating a Stress-Free Tax Solution for U.S. Expats
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2019-01-27T16:54:15.000Z
 url: /2019/america/north-america/usa-north-america/creating-a-stress-free-tax-solution-for-u-s-expats/

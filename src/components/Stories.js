@@ -11,8 +11,6 @@ const masonryOptions = {
 };
 
 const Stories = ({ data }) => {
-  // console.log(size, size.get());
-
   const stories = data.allMarkdownRemark.edges.map(story => (
     <article
       className='story story--home container--story container story-masonry masonry__item'
@@ -31,8 +29,10 @@ const Stories = ({ data }) => {
         )}
 
         <div className='masonry__content'>
-          <h2 className='story__title'>{story.node.frontmatter.title}</h2>
-          <div className='meta meta--align-left wf-source-sans'>
+          <h2 className='article-home__header'>
+            {story.node.frontmatter.title}
+          </h2>
+          <div className='meta meta--home-row meta--align-left'>
             <span className='meta__date'>{story.node.frontmatter.date}</span>
             <span className='divider--meta' />
             <AuthorMeta author={story.node.frontmatter.author} />
@@ -73,10 +73,7 @@ const Stories = ({ data }) => {
               {stories}
             </Masonry>
             <div className='view-all-home'>
-              <Link
-                to='/categories/stories/'
-                className='wf-source-sans view-all'
-              >
+              <Link to='/categories/stories/' className=' view-all'>
                 View All Stories
               </Link>
             </div>

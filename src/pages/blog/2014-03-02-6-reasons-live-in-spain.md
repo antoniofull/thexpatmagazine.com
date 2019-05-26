@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 6 reasons to live in Spain
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2014-03-02T18:40:11.000Z
 url: /2014/europe/6-reasons-live-in-spain/

@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 10 Reasons Why you Should Love Portugal
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2018-03-18T15:00:15.000Z
 url: /2018/europe/portugal/10-reasons-why-you-should-love-portugal/

@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 5 Best Holiday Destinations for Expats in Thailand
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2019-04-28T17:50:52.000Z
 url: /2019/expat-life/5-best-holiday-destinations-for-expats-in-thailand/

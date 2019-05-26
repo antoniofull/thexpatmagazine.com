@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: The Top 8 Countries for Expats
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2018-03-28T17:00:55.000Z
 url: /2018/europe/netherlands/the-top-8-countries-for-expats/

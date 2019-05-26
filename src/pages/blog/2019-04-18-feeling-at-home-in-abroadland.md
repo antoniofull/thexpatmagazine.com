@@ -15,7 +15,7 @@ country:
   - Living abroad
 category:
   - Expat Tips
-author: thexpatmagazine
+author: Editorial Team
 ---
 
 **How to find a home abroad? Not the physical property but quite the opposite: what is left when specific walls are taken away, what is in the core of home? And what things can add the feeling of home to you?**

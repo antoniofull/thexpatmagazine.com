@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: The best country in the World for quality of life
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2017-09-11T12:42:14.000Z
 url: /2017/europe/best-country-world-quality-life/

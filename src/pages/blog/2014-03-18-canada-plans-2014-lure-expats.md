@@ -1,13 +1,11 @@
 ---
 templateKey: blog-post
 title: 'Canada plans for 2014 : to lure more expats'
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2014-03-18T13:30:23.000Z
 url: /2014/america/north-america/canada-plans-2014-lure-expats/
 featuredimage: /wp-content/uploads/2014/03/canada.jpg
-reltwitter:
-  - 'https://localhost/thexpatmagazine-wp/2014/america/north-america/canada-plans-2014-lure-expats/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
 country:
   - Canada
   - North America

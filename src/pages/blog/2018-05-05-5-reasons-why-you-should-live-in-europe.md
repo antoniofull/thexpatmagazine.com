@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 5 Reasons why you Should Live in Europe
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2018-05-05T14:00:32.000Z
 url: /2018/europe/5-reasons-why-you-should-live-in-europe/

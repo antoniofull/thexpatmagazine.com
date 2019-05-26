@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: The 10 most liveable cities in Italy
-author: thexpatmagazine
+author: Editorial Team
 type: post
 date: 2018-03-14T17:55:01.000Z
 url: /2018/europe/italy/the-10-most-liveable-cities-in-italy/

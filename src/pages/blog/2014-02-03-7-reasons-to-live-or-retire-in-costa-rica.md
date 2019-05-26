@@ -12,7 +12,8 @@ tags:
   - costa rica
   - healthy life
   - reasons to live
-country: Costa Rica
+country:
+  - Costa Rica
 category:
   - Destinations
   - Expat Tips

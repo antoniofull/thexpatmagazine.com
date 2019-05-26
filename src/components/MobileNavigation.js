@@ -27,7 +27,7 @@ const MobileNavigation = ({ items, active, toggleState }) => {
               <div className='nav--mobile__bg'>
                 <SearchForm />
                 <nav
-                  className='main-nav wf-source-sans'
+                  className='main-nav '
                   role='navigation'
                   aria-label='main-navigation'
                 >

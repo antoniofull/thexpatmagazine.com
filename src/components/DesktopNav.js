@@ -9,7 +9,7 @@ const DesktopNav = ({ active, items }) => {
   return (
     <React.Fragment>
       <nav
-        className='main-nav wf-source-sans'
+        className='main-nav main-nav--desktop'
         role='navigation'
         aria-label='main-navigation'
       >

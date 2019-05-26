@@ -11,7 +11,7 @@ const Tips = ({ data }) => {
       className='tip article--home has-border article--full-image'
       key={story.node.id}
     >
-      <div className=''>
+      <div className='article-home__header'>
         {story.node.frontmatter.featuredimage && (
           <Link to={story.node.fields.slug}>
             <PreviewCompatibleImage
@@ -26,17 +26,17 @@ const Tips = ({ data }) => {
         )}
         <div className='article--home__content'>
           <h2 className=''>{story.node.frontmatter.title}</h2>
-          <div className='meta meta--align-left wf-source-sans'>
+          <div className='meta meta--home-row meta--align-left '>
             <span className='meta__date'>{story.node.frontmatter.date}</span>
             <span className='divider--meta' />
             <AuthorMeta author={story.node.frontmatter.author} />
           </div>
-          <div>{story.node.excerpt}</div>
+          <div className='excerpt'>{story.node.excerpt}</div>
           <Link
             to={story.node.fields.slug}
             className='read-more read-more--full-image'
           >
-            Read More
+            Read More <span className='arrow-action'>→</span>
           </Link>
         </div>
       </div>
@@ -54,7 +54,7 @@ const Tips = ({ data }) => {
         </h3>
         <div className='container-home--articles'>{stories}</div>
         <div className='view-all-home'>
-          <Link to='/categories/stories/' className='wf-source-sans view-all'>
+          <Link to='/categories/stories/' className=' view-all'>
             View All Travels Suggestions
           </Link>
         </div>
