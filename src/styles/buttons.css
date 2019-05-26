@@ -9,12 +9,11 @@
   justify-content: center;
   cursor: pointer;
 
-  background-color: var(--color-primary);
-
   transition: all 2.3s cubic-bezier(0.165, 0.84, 0.44, 1);
 }
 
 .btn--primary {
+  background-color: var(--color-primary);
   color: var(--color-white);
 }
 

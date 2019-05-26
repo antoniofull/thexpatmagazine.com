@@ -5,9 +5,7 @@
   background: var(--color-white);
   position: relative;
 }
-.destination__content {
-  padding: var(--padding-xl) var(--padding);
-}
+
 .destination__country {
   position: absolute;
   transform: translate(-50%, -50%);

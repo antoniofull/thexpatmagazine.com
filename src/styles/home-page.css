@@ -109,6 +109,7 @@ body {
     .container-home--articles {
       display: grid;
       grid-template-columns: repeat(2, minmax(var(--grid-column-width), 1fr));
+      column-gap: var(--margin);
     }
     .article--home {
       max-width: 100%;
@@ -145,6 +146,10 @@ body {
     .container-home--articles {
       display: grid;
       grid-template-columns: repeat(4, minmax(var(--grid-column-width), 1fr));
+      column-gap: var(--margin);
+    }
+    .article--home {
+      max-width: 100%;
     }
   }
 }

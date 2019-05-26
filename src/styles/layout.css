@@ -136,8 +136,7 @@
     max-width: 33.33333%;
   }
   @supports (display: grid) {
-    .masonry,
-    .container-home--articles {
+    .masonry {
       display: grid;
       grid-template-columns: repeat(3, minmax(var(--grid-column-width), 1fr));
     }
@@ -149,8 +148,7 @@
     max-width: 25%;
   }
   @supports (display: grid) {
-    .masonry,
-    .container-home--articles {
+    .masonry {
       display: grid;
       grid-template-columns: repeat(4, minmax(var(--grid-column-width), 1fr));
     }
