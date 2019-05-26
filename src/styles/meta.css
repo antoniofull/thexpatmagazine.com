@@ -2,20 +2,28 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: var(--margin-l) auto;
+  padding: var(--padding) var(--padding-s);
   max-width: 280px;
   min-height: 24px;
   color: var(--color-text-third);
   font-size: 12px;
   font-family: 'Source Sans Pro', sans-serif;
-  border-bottom: 1px solid var(--border-color-light);
-  padding-bottom: var(--padding);
   position: relative;
 }
-
+.meta img {
+  margin-right: var(--margin);
+  display: block;
+}
+.meta h1,
+.meta h2,
+.meta h3,
+.meta h4,
+.meta h5 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
 .meta__date {
   min-height: 14px;
-  margin-right: var(--margin-s);
   color: var(--text-color-primary);
 }
 .meta--align-left {
@@ -26,7 +34,7 @@
   height: 100%;
   width: 1px;
   background-color: var(--border-color-light);
-  min-height: 25px;
+  min-height: 14px;
   margin-left: var(--margin-s);
   margin-right: var(--margin-s);
   max-width: 1px;
@@ -45,7 +53,8 @@
   transition: all 2s cubic-bezier(0.075, 0.82, 0.165, 1);
   filter: contrast(2);
 }
-
+.post-meta--author__name {
+}
 .post-meta--author__link {
   display: flex;
   align-items: center;

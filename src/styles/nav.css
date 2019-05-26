@@ -100,7 +100,7 @@
   .main-nav__item a {
     text-decoration: none;
     text-transform: uppercase;
-    color: var(--color-text-primary);
+    color: var(--color-text);
   }
   .search-toggle-desktop {
     cursor: pointer;

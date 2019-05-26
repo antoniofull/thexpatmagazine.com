@@ -1,6 +1,7 @@
 import React from 'react';
 import { graphql, StaticQuery, Link } from 'gatsby';
 import TextTruncate from 'react-text-truncate';
+import Truncate from 'react-truncate';
 import MediaQuery from 'react-responsive';
 
 import PreviewCompatibleImage from './PreviewCompatibleImage';
@@ -11,7 +12,7 @@ import '../styles/featured.css';
 const FeaturedPosts = ({ data, count }) => {
   const post = data.allMarkdownRemark.edges[0].node;
   return (
-    <section className='featured container'>
+    <section className='featured is-color-white'>
       <div className='featured-image'>
         <PreviewCompatibleImage
           imageInfo={{
@@ -23,10 +24,8 @@ const FeaturedPosts = ({ data, count }) => {
       <div className='featured__container'>
         <div className='featured-post__container has-shadow'>
           <article className='featured-post'>
-            <header>
-              <h2 className='wf-large featured-title'>
-                {post.frontmatter.title}
-              </h2>
+            <header className='featured-post__header'>
+              <h2 className='featured-title'>{post.frontmatter.title}</h2>
             </header>
             <div className='meta wf-source-sans meta--featured'>
               <h3 className='meta--featured__title wf-source-sans'>
@@ -34,11 +33,14 @@ const FeaturedPosts = ({ data, count }) => {
               </h3>
               <AuthorMeta author={post.frontmatter.author} />
               <span className='divider--meta' />
-              <span className='meta__date'>On: {post.frontmatter.date}</span>
+              <span className='meta__date is-text-centered'>
+                On: {post.frontmatter.date}
+              </span>
             </div>
             <MediaQuery query='(max-width: 768px)'>
               <TextTruncate
-                className='featured-post__excerpt'
+                textElement='p'
+                className='excerpt'
                 line={2}
                 truncateText='…'
                 text={post.excerpt}
@@ -46,7 +48,8 @@ const FeaturedPosts = ({ data, count }) => {
             </MediaQuery>
             <MediaQuery query='(min-width: 769px) and (max-width: 1023px)'>
               <TextTruncate
-                className='featured-post__excerpt'
+                textElement='p'
+                className='excerpt'
                 line={3}
                 truncateText='…'
                 text={post.excerpt}
@@ -54,7 +57,8 @@ const FeaturedPosts = ({ data, count }) => {
             </MediaQuery>
             <MediaQuery query='(min-width: 1024px)'>
               <TextTruncate
-                className='featured-post__excerpt'
+                textElement='p'
+                className='excerpt'
                 line={4}
                 truncateText='…'
                 text={post.excerpt}

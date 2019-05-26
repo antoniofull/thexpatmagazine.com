@@ -5,6 +5,7 @@ import Layout from '../components/Layout';
 // import BlogRoll from '../components/BlogRoll';
 import FeaturedPosts from '../components/FeaturedPosts';
 import Stories from '../components/Stories';
+import Tips from '../components/Tips';
 
 import '../styles/variables.css';
 import '../styles/reset.css';
@@ -15,12 +16,9 @@ const IndexPage = () => {
   return (
     <Layout>
       <main className='home'>
-        <div className='container'>
-          <div className='content'>
-            <FeaturedPosts />
-          </div>
-        </div>
+        <FeaturedPosts />
         <Stories />
+        <Tips />
       </main>
     </Layout>
   );

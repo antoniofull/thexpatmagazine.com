@@ -15,20 +15,20 @@ const Stories = ({ data }) => {
 
   const stories = data.allMarkdownRemark.edges.map(story => (
     <article
-      className='story story--home container story-masonry masonry__item'
+      className='story story--home container--story container story-masonry masonry__item'
       key={story.node.id}
     >
       <div className='masonry__container has-shadow'>
-        <Link to={story.node.fields.slug}>
-          <PreviewCompatibleImage
-            imageInfo={{
-              image: story.node.frontmatter.featuredimage,
-              alt: `${story.node.frontmatter.title} - ${
-                story.node.frontmatter.description
-              }`
-            }}
-          />
-        </Link>
+        {story.node.frontmatter.featuredimage && (
+          <Link to={story.node.fields.slug}>
+            <PreviewCompatibleImage
+              imageInfo={{
+                image: story.node.frontmatter.featuredimage,
+                alt: `${story.node.frontmatter.title} - ${story.node.excerpt}`
+              }}
+            />
+          </Link>
+        )}
 
         <div className='masonry__content'>
           <h2 className='story__title'>{story.node.frontmatter.title}</h2>
@@ -37,12 +37,12 @@ const Stories = ({ data }) => {
             <span className='divider--meta' />
             <AuthorMeta author={story.node.frontmatter.author} />
           </div>
-          <div>{story.node.excerpt}</div>
+          <div className='excerpt'>{story.node.excerpt}</div>
           <Link
             to={story.node.fields.slug}
             className='read-more read-more--masonry'
           >
-            Read More
+            Read More <span className='arrow-action'>→</span>
           </Link>
         </div>
       </div>
@@ -72,6 +72,14 @@ const Stories = ({ data }) => {
             >
               {stories}
             </Masonry>
+            <div className='view-all-home'>
+              <Link
+                to='/categories/stories/'
+                className='wf-source-sans view-all'
+              >
+                View All Stories
+              </Link>
+            </div>
           </div>
         </section>
       )}

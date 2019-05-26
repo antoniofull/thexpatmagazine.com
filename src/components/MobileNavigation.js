@@ -33,7 +33,7 @@ const MobileNavigation = ({ items, active, toggleState }) => {
                 >
                   <ul className='main-nav__list'>
                     {items.map(item => (
-                      <li className='main-nav__item'>
+                      <li className='main-nav__item' key={item.node.id}>
                         <Link key={item.node.id} to={item.node.fields.slug}>
                           {item.node.frontmatter.title}
                         </Link>
