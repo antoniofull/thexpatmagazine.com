@@ -1,12 +1,12 @@
 import React from 'react';
-import { StaticQuery, graphql, Link } from 'gatsby';
+import { Link } from 'gatsby';
 
 import AuthorMeta from './AuthorMeta';
-import PreviewCompatibleImage from './PreviewCompatibleImage';
+import Img from 'gatsby-image';
 import '../styles/tips.css';
 
-const Tips = ({ data }) => {
-  const stories = data.allMarkdownRemark.edges.map(story => (
+const Tips = ({ posts, count }) => {
+  const stories = posts.map(story => (
     <article
       className='tip article--home has-border article--full-image'
       key={story.node.id}
@@ -14,13 +14,8 @@ const Tips = ({ data }) => {
       <div className='article-home__header'>
         {story.node.frontmatter.featuredimage && (
           <Link to={story.node.fields.slug}>
-            <PreviewCompatibleImage
-              imageInfo={{
-                image: story.node.frontmatter.featuredimage,
-                alt: `${story.node.frontmatter.title} - ${
-                  story.node.frontmatter.description
-                }`
-              }}
+            <Img
+              fluid={story.node.frontmatter.featuredimage.childImageSharp.grid}
             />
           </Link>
         )}
@@ -63,44 +58,4 @@ const Tips = ({ data }) => {
   );
 };
 
-export default props => (
-  <StaticQuery
-    query={graphql`
-      query Tips {
-        allMarkdownRemark(
-          limit: 8
-          filter: {
-            frontmatter: {
-              templateKey: { eq: "blog-post" }
-              category: { in: ["Expat Tips", "Travel Tips"] }
-            }
-          }
-          sort: { order: DESC, fields: frontmatter___date }
-        ) {
-          edges {
-            node {
-              id
-              excerpt(pruneLength: 150)
-              fields {
-                slug
-              }
-              frontmatter {
-                title
-                date(formatString: "MMMM DD, YYYY")
-                author
-                featuredimage {
-                  childImageSharp {
-                    fluid(maxWidth: 700, maxHeight: 400, quality: 100) {
-                      ...GatsbyImageSharpFluid
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    `}
-    render={data => <Tips data={data} {...props} />}
-  />
-);
+export default Tips;

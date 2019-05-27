@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { graphql } from 'gatsby';
 import _ from 'lodash';
@@ -20,34 +20,75 @@ function featured(post) {
 }
 
 function story(post) {
-  console.log(_.find(post.node.frontmatter.category));
-  console.log(_.includes(post.node.frontmatter.category, 'Stories'));
-  // return post.node.frontmatter.category.toLowerCase() === 'stories';
+  return _.includes(post.node.frontmatter.category, 'stories');
 }
 
-const IndexPage = ({ data }) => {
-  const posts = data.allMarkdownRemark.edges;
-  // featured posts
-  const featureds = _.filter(posts, featured);
-  const stories = _.filter(posts, story);
+function country(post) {
+  return _.includes(post.node.frontmatter.category, 'destinations');
+}
 
-  //featuredpost
-  return (
-    <Layout>
-      <main className='home'>
-        <FeaturedPosts posts={featureds} />
-        <Stories posts={stories} />
-        <Destinations />
-        <Tips />
-      </main>
-      <Footer />
-    </Layout>
-  );
-};
+function tip(post) {
+  return _.some(post.node.frontmatter.category, _.method('match', /tips/i));
+}
+
+class IndexPage extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {};
+  }
+
+  componentDidMount() {
+    const posts = this.props.data.posts.edges;
+    const authors = this.props.data.authors.edges;
+    this.setState({
+      ...this.state,
+      posts,
+      authors
+    });
+  }
+
+  render() {
+    const { posts } = this.state;
+    const { authors } = this.state;
+    if (posts && posts.length) {
+      const featureds = _.filter(posts, featured);
+      const stories = _.filter(posts, story);
+      const destinations = _.filter(posts, country);
+      const tips = _.filter(posts, tip);
+      return (
+        <Layout>
+          <main className='home'>
+            <FeaturedPosts
+              authors={authors}
+              posts={featureds}
+              count={featureds.length}
+            />
+            <Stories authors={authors} posts={stories} count={stories.length} />
+            <Destinations
+              authors={authors}
+              posts={destinations}
+              count={destinations.length}
+            />
+            <Tips authors={authors} posts={tips} count={tips.length} />
+          </main>
+          <Footer />
+        </Layout>
+      );
+    }
+    return (
+      <Layout>
+        <main className='home'>
+          <div className='loader'>Loading Articles ...</div>
+        </main>
+        <Footer />
+      </Layout>
+    );
+  }
+}
 
 export const indexQuery = graphql`
   {
-    allMarkdownRemark(
+    posts: allMarkdownRemark(
       sort: { order: DESC, fields: [frontmatter___date] }
       filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
     ) {
@@ -67,8 +108,40 @@ export const indexQuery = graphql`
             featuredpost
             featuredimage {
               childImageSharp {
-                fluid(maxWidth: 120, quality: 100) {
+                featured: fluid(maxWidth: 2000, quality: 100) {
                   ...GatsbyImageSharpFluid
+                }
+                grid: fluid(maxWidth: 700) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    authors: allMarkdownRemark(
+      sort: { order: DESC, fields: [frontmatter___date] }
+      filter: { frontmatter: { templateKey: { in: "author" } } }
+    ) {
+      edges {
+        node {
+          excerpt(pruneLength: 400)
+          id
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            category
+            author
+            templateKey
+            date(formatString: "MMMM DD, YYYY")
+            featuredpost
+            featuredimage {
+              childImageSharp {
+                fixed(width: 100, height: 100) {
+                  ...GatsbyImageSharpFixed
                 }
               }
             }

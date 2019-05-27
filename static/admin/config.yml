@@ -64,15 +64,6 @@ collections:
         valueField: 'title'
         displayFields: ['title']
 
-      - label: 'Guest Author'
-        name: 'guest-author'
-        widget: 'relation'
-        collection: 'guest-authors'
-        searchFields: ['name', 'instagram']
-        valueField: 'title'
-        required: false
-        displayFields: ['title']
-
   - name: 'category'
     label: 'Category'
     folder: 'src/pages/categories'
@@ -123,6 +114,12 @@ collections:
           widget: 'hidden',
           default: 'blog-author',
         }
+      - {
+          label: 'Role',
+          name: 'role',
+          widget: 'select',
+          options: ['author', 'guest-author'],
+        }
       - { label: 'Name', name: 'title', widget: 'string' }
       - { label: 'Bio (In Markdown)', name: 'bio', widget: 'markdown' }
       - { label: 'Photo', name: 'photo', widget: image }
@@ -137,35 +134,6 @@ collections:
       - {
           label: 'Pinterest',
           name: 'pinterest',
-          widget: 'string',
-          required: false,
-        }
-      - {
-          label: 'Facebook',
-          name: 'facebook',
-          widget: 'string',
-          required: false,
-        }
-
-  - name: 'guest-authors'
-    label: 'Guest Authors'
-    folder: 'src/pages/guest-authors'
-    create: true
-    slug: '{{slug}}'
-    fields:
-      - {
-          label: 'Template Key',
-          name: 'templateKey',
-          widget: 'hidden',
-          default: 'blog-guest-author',
-        }
-      - { label: 'Name', name: 'title', widget: 'string' }
-      - { label: 'Bio (In Markdown)', name: 'bio', widget: 'markdown' }
-      - { label: 'Photo', name: 'photo', widget: image, required: false }
-      - { label: 'Website', name: 'website', widget: 'string', required: false }
-      - {
-          label: 'Instagram',
-          name: 'instagram',
           widget: 'string',
           required: false,
         }

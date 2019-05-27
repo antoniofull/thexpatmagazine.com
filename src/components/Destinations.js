@@ -1,13 +1,14 @@
 import React from 'react';
 import { StaticQuery, graphql, Link } from 'gatsby';
+import Img from 'gatsby-image';
 
 import AuthorMeta from './AuthorMeta';
 import PreviewCompatibleImage from './PreviewCompatibleImage';
 import '../styles/tips.css';
 import '../styles/destinations.css';
 
-const Destinations = ({ data }) => {
-  const stories = data.allMarkdownRemark.edges.map(story => (
+const Destinations = ({ posts, count }) => {
+  const stories = posts.map(story => (
     <article
       className='destination article--home has-border article--full-image'
       key={story.node.id}
@@ -15,13 +16,8 @@ const Destinations = ({ data }) => {
       <div className='destination__content'>
         {story.node.frontmatter.featuredimage && (
           <Link to={story.node.fields.slug}>
-            <PreviewCompatibleImage
-              imageInfo={{
-                image: story.node.frontmatter.featuredimage,
-                alt: `${story.node.frontmatter.title} - ${
-                  story.node.frontmatter.description
-                }`
-              }}
+            <Img
+              fluid={story.node.frontmatter.featuredimage.childImageSharp.grid}
             />
           </Link>
         )}
@@ -46,65 +42,26 @@ const Destinations = ({ data }) => {
     </article>
   ));
 
-  return (
-    <section className='home-row home-row--blue'>
-      <div className='container container--home container-row'>
-        <h3
-          alt='Destinations. Chose your next travel destination'
-          className='home-row__header container padding-xl'
-        >
-          Destinations
-        </h3>
-        <div className='container-home--articles'>{stories}</div>
-        <div className='view-all-home view-all-home--accent'>
-          <Link to='/categories/destinations/' className=' view-all'>
-            View All Destinations
-          </Link>
+  if (posts) {
+    return (
+      <section className='home-row home-row--blue'>
+        <div className='container container--home container-row'>
+          <h3
+            alt='Destinations. Chose your next travel destination'
+            className='home-row__header container padding-xl'
+          >
+            Destinations
+          </h3>
+          <div className='container-home--articles'>{stories}</div>
+          <div className='view-all-home view-all-home--accent'>
+            <Link to='/categories/destinations/' className=' view-all'>
+              View All Destinations
+            </Link>
+          </div>
         </div>
-      </div>
-    </section>
-  );
+      </section>
+    );
+  }
+  return null;
 };
-
-export default props => (
-  <StaticQuery
-    query={graphql`
-      query Destinations {
-        allMarkdownRemark(
-          limit: 8
-          filter: {
-            frontmatter: {
-              templateKey: { eq: "blog-post" }
-              category: { in: "Destinations" }
-            }
-          }
-          sort: { order: DESC, fields: frontmatter___date }
-        ) {
-          edges {
-            node {
-              id
-              excerpt(pruneLength: 150)
-              fields {
-                slug
-              }
-              frontmatter {
-                title
-                date(formatString: "MMMM DD, YYYY")
-                author
-                category
-                featuredimage {
-                  childImageSharp {
-                    fluid(maxWidth: 700, maxHeight: 600, quality: 100) {
-                      ...GatsbyImageSharpFluid
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    `}
-    render={data => <Destinations data={data} {...props} />}
-  />
-);
+export default Destinations;

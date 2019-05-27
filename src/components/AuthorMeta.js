@@ -34,7 +34,7 @@ const AuthorMeta = props => {
     );
   }
 
-  return <div>NO result for this post</div>;
+  return <div>No result for this post</div>;
 };
 
 export default props => (

@@ -1,5 +1,6 @@
 ---
-templateKey: blog-guest-author
+templateKey: blog-author
+role: guest-author
 title: James McDonagh
 bio: "James McDonagh is the Director of EMEA at\_\\[Frank Recruitment Group], a global leader in staffing for IT professionals with multiple recruitment brands."
 photo: /img/james-mcdonagh.jpg
