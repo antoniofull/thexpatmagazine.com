@@ -1,14 +1,9 @@
 import React from 'react';
-import { kebabCase } from 'lodash';
 import Helmet from 'react-helmet';
-import { Link, graphql } from 'gatsby';
+import { graphql, Link } from 'gatsby';
 import Layout from '../../components/Layout';
 
-const GuestAuthorPage = ({
-  data: {
-    allMarkdownRemark: { group }
-  }
-}) => (
+const GuestAuthorPage = ({ data }) => (
   <Layout>
     <section className='section'>
       <Helmet title={`Tags`} />
@@ -18,7 +13,11 @@ const GuestAuthorPage = ({
             className='column is-10 is-offset-1'
             style={{ marginBottom: '6rem' }}
           >
-            <h1 className='title is-size-2 is-bold-light'>Tags</h1>
+            {data.allMarkdownRemark.edges.map(edge => (
+              <Link to={edge.node.fields.slug}>
+                {edge.node.frontmatter.title}
+              </Link>
+            ))}
           </div>
         </div>
       </div>

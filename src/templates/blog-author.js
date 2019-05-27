@@ -24,7 +24,7 @@ const AuthorRoute = ({ data }) => {
 
 export default AuthorRoute;
 
-export const CategoryQuery = graphql`
+export const AuthorQuery = graphql`
   query AuthorData($id: String!, $title: String) {
     author: markdownRemark(id: { eq: $id }) {
       id

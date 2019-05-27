@@ -3,61 +3,59 @@ import Helmet from 'react-helmet';
 import { Link, graphql } from 'gatsby';
 import Layout from '../components/Layout';
 
-class GuestAuthorRoute extends React.Component {
-  render() {
-    const posts = this.props.data.allMarkdownRemark.edges;
-    const postLinks = posts.map(post => (
-      <li key={post.node.fields.slug}>
-        <Link to={post.node.fields.slug}>
-          <h2 className=''>{post.node.frontmatter.title}</h2>
-        </Link>
-      </li>
-    ));
-    const author = this.props.pageContext.author;
-    const title = this.props.data.site.siteMetadata.title;
-    const totalCount = this.props.data.allMarkdownRemark.totalCount;
-    const tagHeader = `${totalCount} All posts in ${
-      totalCount === 1 ? '' : 's'
-    }  “${author}”`;
+const GuestAuthorRoute = ({ data }) => {
+  const { author, posts } = data;
 
-    return (
-      <Layout>
-        <section className='section'>
-          <Helmet title={`${author} | ${title}`} />
-          <div className=''>
-            <div className=''>
-              <div className=''>
-                <h3 className=''>{tagHeader}</h3>
-                <ul className=''>{postLinks}</ul>
-                <p>
-                  <Link to='/authors/'>All Authors</Link>
-                </p>
-              </div>
-            </div>
-          </div>
-        </section>
-      </Layout>
-    );
-  }
-}
+  return (
+    <Layout>
+      <section className='blog-author'>
+        <Helmet title={`title`} />
+        <p>{author.frontmatter.title}</p>
+        <p>{author.frontmatter.description}</p>
+        {posts.edges.map(post => (
+          <Link to={post.node.fields.slug} key={post.node.id}>
+            {post.node.frontmatter.title} - {post.node.frontmatter.author}{' '}
+            <br />
+          </Link>
+        ))}
+      </section>
+    </Layout>
+  );
+};
 
 export default GuestAuthorRoute;
 
 export const GuestAuthorQuery = graphql`
-  query GuestAuthorPage($author: String) {
-    allMarkdownRemark(
+  query GuestAuthorData($id: String!, $title: String) {
+    author: markdownRemark(id: { eq: $id }) {
+      id
+      html
+      frontmatter {
+        title
+        description
+      }
+    }
+    posts: allMarkdownRemark(
       limit: 1000
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: { frontmatter: { author: { in: [$author] } } }
+      filter: {
+        frontmatter: {
+          author: { eq: $title }
+          templateKey: { eq: "blog-post" }
+        }
+      }
     ) {
       totalCount
       edges {
         node {
+          id
+          html
           fields {
             slug
           }
           frontmatter {
             title
+            author
           }
         }
       }

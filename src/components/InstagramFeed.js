@@ -1,5 +1,5 @@
 import React from 'react';
-import { StaticQuery, graphql, Link } from 'gatsby';
+import { StaticQuery, graphql } from 'gatsby';
 import Img from 'gatsby-image';
 
 import InstagramIcons from '../img/social/instagram.svg';
@@ -16,6 +16,7 @@ const InstagramFeed = ({ data }) => (
           href={edge.node.original}
           className='instagram__link'
           target='_blank'
+          rel='noopener noreferrer'
         >
           <Img fluid={edge.node.localFile.childImageSharp.fluid} />
         </a>
