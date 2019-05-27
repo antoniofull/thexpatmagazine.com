@@ -13,24 +13,24 @@ class TagRoute extends React.Component {
         </Link>
       </li>
     ));
-    const category = this.props.pageContext.category;
+    const country = this.props.pageContext.countrycountry;
     const title = this.props.data.site.siteMetadata.title;
     const totalCount = this.props.data.allMarkdownRemark.totalCount;
     const tagHeader = `${totalCount} All posts in ${
       totalCount === 1 ? '' : 's'
-    }  “${category}”`;
+    }  “${country}”`;
 
     return (
       <Layout>
         <section className='section'>
-          <Helmet title={`${category} | ${title}`} />
+          <Helmet title={`${country} | ${title}`} />
           <div className=''>
             <div className=''>
               <div className=''>
                 <h3 className=''>{tagHeader}</h3>
                 <ul className=''>{postLinks}</ul>
                 <p>
-                  <Link to='/'>Go back to home Page</Link>
+                  <Link to='/countries/'>All countries</Link>
                 </p>
               </div>
             </div>
@@ -44,7 +44,7 @@ class TagRoute extends React.Component {
 export default TagRoute;
 
 export const tagPageQuery = graphql`
-  query TagPage($category: String) {
+  query TagPage($country: String) {
     site {
       siteMetadata {
         title
@@ -53,7 +53,7 @@ export const tagPageQuery = graphql`
     allMarkdownRemark(
       limit: 1000
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: { frontmatter: { category: { in: [$category] } } }
+      filter: { frontmatter: { category: { in: [$country] } } }
     ) {
       totalCount
       edges {

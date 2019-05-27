@@ -71,7 +71,6 @@ export default () => (
     query={graphql`
       query Category {
         allMarkdownRemark(
-          sort: { order: DESC, fields: [frontmatter___date] }
           filter: { frontmatter: { siteSettings: { eq: "blog-nav" } } }
         ) {
           edges {
