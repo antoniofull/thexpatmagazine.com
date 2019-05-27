@@ -1,32 +1,39 @@
 import React from 'react';
-import { kebabCase } from 'lodash';
 import Helmet from 'react-helmet';
 import { Link, graphql } from 'gatsby';
 import Layout from '../../components/Layout';
 
-const AuthorPage = ({
+const AuthorsPage = ({
   data: {
-    allMarkdownRemark: { group }
+    allMarkdownRemark: { edges: group }
   }
-}) => (
-  <Layout>
-    <section className='section'>
-      <Helmet title={`Tags `} />
-      <div className='container content'>
-        <div className='columns'>
-          <div
-            className='column is-10 is-offset-1'
-            style={{ marginBottom: '6rem' }}
-          >
-            <h1 className='title is-size-2 is-bold-light'>Tags</h1>
+}) => {
+  return (
+    <Layout>
+      <section className='section'>
+        <Helmet title={`Tags `} />
+        <div className=''>
+          <div className='' data-id={group}>
+            <div className=''>
+              <h1 className=''>Authors List</h1>
+            </div>
+            {group.map(edge => (
+              <Link
+                style={{ display: 'block' }}
+                key={edge.node.id}
+                to={edge.node.fields.slug}
+              >
+                {edge.node.frontmatter.title}
+              </Link>
+            ))}
           </div>
         </div>
-      </div>
-    </section>
-  </Layout>
-);
+      </section>
+    </Layout>
+  );
+};
 
-export default AuthorPage;
+export default AuthorsPage;
 
 export const AuthorsQuery = graphql`
   query AuthorsQuery {

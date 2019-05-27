@@ -82,52 +82,6 @@ exports.createPages = async ({ actions, graphql }) => {
       }
     });
   });
-
-  // Authors pages:
-  let authors = [];
-  authors.forEach(edge => {
-    if (_.get(edge, `node.frontmatter.author`)) {
-      authors = authors.concat(edge.node.frontmatter.category);
-    }
-  });
-  // Eliminate duplicate tags
-  authors = _.uniq(authors);
-
-  // Make tag pages
-  authors.forEach(author => {
-    const authPath = `/tags/${_.kebabCase(author)}/`;
-
-    createPage({
-      path: authPath,
-      component: path.resolve(`src/templates/author.js`),
-      context: {
-        author
-      }
-    });
-  });
-
-  // Authors pages:
-  let countries = [];
-  countries.forEach(edge => {
-    if (_.get(edge, `node.frontmatter.country`)) {
-      countries = countries.concat(edge.node.frontmatter.country);
-    }
-  });
-  // Eliminate duplicate country
-  countries = _.uniq(countries);
-
-  // Make country pages
-  countries.forEach(country => {
-    const authPath = `/tags/${_.kebabCase(country)}/`;
-
-    createPage({
-      path: authPath,
-      component: path.resolve(`src/templates/countries.js`),
-      context: {
-        country
-      }
-    });
-  });
 };
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
@@ -136,6 +90,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
 
   if (node.internal.type === `MarkdownRemark`) {
     const value = createFilePath({ node, getNode });
+    console.log(value);
     createNodeField({
       name: `slug`,
       node,

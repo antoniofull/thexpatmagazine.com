@@ -3,17 +3,16 @@ import Helmet from 'react-helmet';
 import { Link, graphql } from 'gatsby';
 import Layout from '../components/Layout';
 
-class CatRoute extends React.Component {
-  render() {
-    return (
-      <Layout>
-        <section className='section'>
-          <Helmet title={`title`} />
-        </section>
-      </Layout>
-    );
-  }
-}
+const CatRoute = ({ data }) => {
+  return (
+    <Layout>
+      <section className='section'>
+        <Helmet title={`title`} />
+        <p>{data.markdownRemark.frontmatter.title}</p>
+      </section>
+    </Layout>
+  );
+};
 
 export default CatRoute;
 

@@ -111,26 +111,11 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Description', name: 'description', widget: 'text' }
 
-  - name: 'tags'
-    label: 'Tag'
-    folder: 'src/pages/tags'
-    create: true
-    slug: '/tags/{{slug}}'
-    fields:
-      - {
-          label: 'Template Key',
-          name: 'templateKey',
-          widget: 'hidden',
-          default: 'blog-post',
-        }
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Description', name: 'description', widget: 'text' }
-
   - name: 'authors'
     label: 'Authors'
     folder: 'src/pages/authors'
     create: true
-    slug: 'author/{{slug}}'
+    slug: '{{slug}}'
     fields:
       - {
           label: 'Template Key',
@@ -166,7 +151,7 @@ collections:
     label: 'Guest Authors'
     folder: 'src/pages/guest-authors'
     create: true
-    slug: 'guest-author/{{slug}}'
+    slug: '{{slug}}'
     fields:
       - {
           label: 'Template Key',
