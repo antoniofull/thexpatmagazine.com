@@ -1,36 +1,24 @@
 import React from 'react';
-import { kebabCase } from 'lodash';
 import Helmet from 'react-helmet';
-import { Link, graphql } from 'gatsby';
+import { graphql, Link } from 'gatsby';
 import Layout from '../../components/Layout';
 
-const CountryPage = ({
-  data: {
-    allMarkdownRemark: { group },
-    site: {
-      siteMetadata: { title }
-    }
-  }
-}) => (
+const CountryPage = ({ data }) => (
   <Layout>
     <section className='section'>
-      <Helmet title={`Categories | ${title}`} />
+      <Helmet title={`Tags`} />
       <div className='container content'>
         <div className='columns'>
           <div
             className='column is-10 is-offset-1'
             style={{ marginBottom: '6rem' }}
           >
-            <h1 className='title is-size-2 is-bold-light'>Categories</h1>
-            <ul className='taglist'>
-              {group.map(cat => (
-                <li key={cat.fieldValue}>
-                  <Link to={`/authors/${kebabCase(cat.fieldValue)}/`}>
-                    {cat.fieldValue} ({cat.totalCount})
-                  </Link>
-                </li>
-              ))}
-            </ul>
+            {data.allMarkdownRemark.edges.map(edge => (
+              <Link key={edge.node.id} to={edge.node.fields.slug}>
+                {edge.node.frontmatter.title}
+                <br />
+              </Link>
+            ))}
           </div>
         </div>
       </div>
@@ -40,8 +28,8 @@ const CountryPage = ({
 
 export default CountryPage;
 
-export const DestinationsQuery = graphql`
-  query DestinationsQuery {
+export const CountryQuery = graphql`
+  query CountryQuery {
     allMarkdownRemark(
       limit: 1000
       filter: { frontmatter: { templateKey: { eq: "blog-country" } } }
@@ -55,6 +43,11 @@ export const DestinationsQuery = graphql`
           }
           frontmatter {
             title
+            bio
+            pinterest
+            facebook
+            twitter
+            instagram
             photo {
               childImageSharp {
                 fluid(maxWidth: 800, maxHeight: 560, quality: 100) {
