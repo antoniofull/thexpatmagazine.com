@@ -34,6 +34,7 @@ exports.createPages = async ({ actions, graphql }) => {
                 author
                 category
                 templateKey
+                title
               }
             }
           }
@@ -46,6 +47,7 @@ exports.createPages = async ({ actions, graphql }) => {
 
   posts.forEach(edge => {
     const id = edge.node.id;
+    const { author, title } = edge.node.frontmatter;
     createPage({
       path: edge.node.fields.slug,
       tags: edge.node.frontmatter.tags,
@@ -56,7 +58,9 @@ exports.createPages = async ({ actions, graphql }) => {
       ),
       // additional data can be passed via context
       context: {
-        id
+        id,
+        author,
+        title
       }
     });
   });

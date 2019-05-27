@@ -38,7 +38,7 @@ export default AuthorsPage;
 export const AuthorsQuery = graphql`
   query AuthorsQuery {
     allMarkdownRemark(
-      limit: 1000
+      limit: 100
       filter: { frontmatter: { templateKey: { eq: "blog-author" } } }
     ) {
       edges {
