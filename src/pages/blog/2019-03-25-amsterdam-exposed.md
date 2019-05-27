@@ -15,10 +15,9 @@ category:
   - stories
 author: Editorial Team
 ---
+**This is an excerpt from the book:** [Amsterdam Exposed](https://www.amsterdamexposed.com/home.html): **an American's journey into the red light district.** From [David Wienir](https://www.amsterdamexposed.com/author.html). 
 
-**This is an excerpt from the book:**<a href="https://www.amsterdamexposed.com/home.html" target="_blank" rel="noopener"><strong> Amsterdam Exposed</strong></a>, \_**an American&#8217;s journey into the red light district.** F_rom <a href="https://www.amsterdamexposed.com/author.html" target="_blank" rel="noopener">David Wienir. </a>
-
-**You can buy the book on [Amazon Europe] or <a href="https://www.amazon.com/Amsterdam-Exposed-Americans-Journey-District/dp/0999355902/ref=as_sl_pc_tf_til?tag=amsterdamexpo-20&linkCode=w00&linkId=69c7846882d95a76667aa9fc55528d28&creativeASIN=0999355902" target="_blank" rel="noopener">Amazon</a> US.**
+**You can buy the book on <a href="https://www.amazon.com/Amsterdam-Exposed-Americans-Journey-District/dp/0999355902/ref=as_sl_pc_tf_til?tag=amsterdamexpo-20&linkCode=w00&linkId=69c7846882d95a76667aa9fc55528d28&creativeASIN=0999355902" target="_blank" rel="noopener">Amazon</a> US.**
 
 The red haze from the lights was intoxicating but ominous. Best way to describe it, it felt like visiting Pleasure Island from _Pinocchio_ seconds before everyone turned into donkeys. There was a sense of immediacy, a feeling it might be the last night on Earth. From here the district derives much of its power. That, combined with fantasy, creates a potent cocktail, and a paradox. While there is a feeling of being transported to another time, there is also a feeling of being immersed in the now. Both happen at once. While terrifying, it was also exhilarating, and for many, highly addictive.<!--more-->
 
