@@ -6,8 +6,6 @@ type: post
 date: 2014-11-16T20:31:47.000Z
 url: /2014/europe/27-reasons-barcelona-best-city-world/
 featuredimage: /wp-content/uploads/2014/11/origin_2940529845-752x500.jpg
-reltwitter:
-  - 'https://localhost/thexpatmagazine-wp/2014/europe/27-reasons-barcelona-best-city-world/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
 country:
   - Europe
   - Spain

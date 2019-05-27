@@ -13,7 +13,8 @@ tags:
   - expats
   - relocating to Amsterdam
   - working abroad
-country: Netherlands
+country:
+  - Netherlands
 category:
   - Expat Tips
   - Destinations

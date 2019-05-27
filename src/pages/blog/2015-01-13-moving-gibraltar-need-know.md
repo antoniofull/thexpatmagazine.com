@@ -6,9 +6,7 @@ type: post
 date: 2015-01-13T12:56:33.000Z
 url: /2015/europe/moving-gibraltar-need-know/
 featuredimage: /wp-content/uploads/2015/01/Gibraltar-667x500.jpg
-reltwitter:
-  - 'https://localhost/thexpatmagazine-wp/2015/europe/moving-gibraltar-need-know/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-country: 
+country:
   - Europe
   - United Kingdom
 tags:

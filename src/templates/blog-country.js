@@ -1,22 +1,27 @@
 import React from 'react';
-import { graphql } from 'gatsby';
+import Helmet from 'react-helmet';
+import { Link, graphql } from 'gatsby';
+import Layout from '../components/Layout';
 
-const BlogCountry = ({ data }) => {
-  const { title, description } = data.markdownRemark.frontmatter;
-  return (
-    <div>
-      <h2>{title}</h2>
-      <p>{description}</p>
-    </div>
-  );
-};
+class CountryRoute extends React.Component {
+  render() {
+    return (
+      <Layout>
+        <section className='section'>
+          <Helmet title={`title`} />
+        </section>
+      </Layout>
+    );
+  }
+}
 
-export default BlogCountry;
+export default CountryRoute;
 
-export const authorQuery = graphql`
-  query Country($id: String!) {
+export const CountryQuery = graphql`
+  query Country($id: String) {
     markdownRemark(id: { eq: $id }) {
       id
+      html
       frontmatter {
         title
         description

@@ -6,10 +6,6 @@ type: post
 date: 2018-03-14T17:55:01.000Z
 url: /2018/europe/italy/the-10-most-liveable-cities-in-italy/
 featuredimage: /wp-content/uploads/2018/03/art-1982089_1920.jpg
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
 country:
   - Italy
   - Living abroad

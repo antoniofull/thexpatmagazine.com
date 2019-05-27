@@ -6,12 +6,6 @@ type: post
 date: 2016-11-30T00:00:00.000Z
 draft: true
 url: /?p=1016
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
-mashsb_twitter_handle:
-  - thexpatmagazine
 country:
   - Europe
   - France

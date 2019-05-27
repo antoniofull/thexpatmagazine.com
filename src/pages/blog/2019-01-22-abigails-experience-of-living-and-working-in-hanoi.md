@@ -6,10 +6,6 @@ type: post
 date: 2019-01-22T19:19:14.000Z
 url: /2019/living-abroad/abigails-experience-of-living-and-working-in-hanoi/
 featuredimage: /wp-content/uploads/2019/01/2-Air-Pollution-1.jpg
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
 country:
   - Interviews
   - Living abroad

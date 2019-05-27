@@ -6,9 +6,7 @@ type: post
 date: 2017-02-03T21:43:42.000Z
 url: /2017/travel/worlds-safest-airlines/
 featuredimage: /wp-content/uploads/2017/02/world-safest-airline-768x500.jpg
-reltwitter:
-  - 'https://localhost/thexpatmagazine-wp/2017/travel/worlds-safest-airlines/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-country: 
+country:
   - Travel
 tags:
   - flying

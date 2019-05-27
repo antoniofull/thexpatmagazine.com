@@ -6,10 +6,6 @@ type: post
 date: 2019-01-16T13:00:47.000Z
 url: /2019/europe/italy/scandinavian-in-sardinia/
 featuredimage: /wp-content/uploads/2019/01/fullsizeoutput_888.jpg
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
 country:
   - Italy
 tags:

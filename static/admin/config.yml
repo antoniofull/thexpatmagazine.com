@@ -85,8 +85,16 @@ collections:
           widget: 'hidden',
           default: 'blog-nav',
         }
+
+       - {
+          label: 'Template Key',
+          name: 'templateKey',
+          widget: 'hidden',
+          default: 'categories',
+        }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Description', name: 'description', widget: 'text' }
+      - { label: 'Featured Image', name: 'photo', widget: image }
 
   - name: 'country'
     label: 'Country'
@@ -137,7 +145,7 @@ collections:
       - {
           label: 'Instagram',
           name: 'instagram',
-          widget: 'string',
+          widget: 'string', 
           required: false,
         }
       - { label: 'Twitter', name: 'twitter', widget: 'string', required: false }
@@ -164,7 +172,7 @@ collections:
           label: 'Template Key',
           name: 'templateKey',
           widget: 'hidden',
-          default: 'blog-author',
+          default: 'blog-guest-author',
         }
       - { label: 'Name', name: 'title', widget: 'string' }
       - { label: 'Bio (In Markdown)', name: 'bio', widget: 'markdown' }

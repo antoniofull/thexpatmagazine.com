@@ -6,13 +6,7 @@ type: post
 date: 2018-03-09T08:04:13.000Z
 url: /2018/europe/netherlands/ended-living-utrecht/
 featuredimage: /wp-content/uploads/2018/03/199007_1850589581015_4785362_n.jpg
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
 country:
-  - Inspiration
-  - Living abroad
   - Netherlands
 tags:
   - expat life

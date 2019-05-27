@@ -1,53 +1,68 @@
 import React from 'react';
+import { kebabCase } from 'lodash';
 import Helmet from 'react-helmet';
 import { Link, graphql } from 'gatsby';
 import Layout from '../../components/Layout';
 
-const CategoriesPage = ({ data }) => {
-  if (data) {
-    return (
-      <Layout>
-        <Helmet title={`Categories Expat Blog`} />
-        <section className='section'>
-          <div className='container content'>
-            <div className='columns'>
-              <div
-                className='column is-10 is-offset-1'
-                style={{ marginBottom: '6rem' }}
-              >
-                <h1 className='title is-size-2 is-bold-light'>Tags</h1>
-                <ul className='taglist'>
-                  {data.allMarkdownRemark.nodes.map(cat => (
-                    <li key={cat.id}>
-                      <Link to={cat.fields.slug}>{cat.frontmatter.title}</Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            </div>
-          </div>
-        </section>
-      </Layout>
-    );
-  } else {
-    return <div>No </div>;
+const CatPage = ({
+  data: {
+    allMarkdownRemark: { group },
+    site: {
+      siteMetadata: { title }
+    }
   }
-};
+}) => (
+  <Layout>
+    <section className='section'>
+      <Helmet title={`Categories | ${title}`} />
+      <div className='container content'>
+        <div className='columns'>
+          <div
+            className='column is-10 is-offset-1'
+            style={{ marginBottom: '6rem' }}
+          >
+            <h1 className='title is-size-2 is-bold-light'>Categories</h1>
+            <ul className='taglist'>
+              {group.map(cat => (
+                <li key={cat.fieldValue}>
+                  <Link to={`/authors/${kebabCase(cat.fieldValue)}/`}>
+                    {cat.fieldValue} ({cat.totalCount})
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+  </Layout>
+);
 
-export default CategoriesPage;
+export default CatPage;
 
-export const categoryPageQuery = graphql`
-  query CategoryQuery {
+export const AuthorsQuery = graphql`
+  query CategoriesQuery {
     allMarkdownRemark(
-      filter: { frontmatter: { siteSettings: { eq: "blog-nav" } } }
+      limit: 1000
+      filter: { frontmatter: { templateKey: { eq: "categories" } } }
     ) {
-      nodes {
-        id
-        fields {
-          slug
-        }
-        frontmatter {
-          title
+      edges {
+        node {
+          id
+          html
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            photo {
+              childImageSharp {
+                fluid(maxWidth: 800, maxHeight: 560, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
         }
       }
     }

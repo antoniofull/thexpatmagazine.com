@@ -9,7 +9,8 @@ tags:
   - amsterdam
   - ebooks
   - red light district
-country: Netherlands
+country:
+  - Netherlands
 category:
   - Stories
 author: Editorial Team

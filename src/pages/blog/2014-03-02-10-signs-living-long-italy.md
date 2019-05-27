@@ -13,7 +13,8 @@ tags:
   - italy
   - usa
   - Tips
-country: Italy
+country:
+  - Italy
 category:
   - Expat Tips
 author: Editorial Team

@@ -11,7 +11,8 @@ featuredimage: /img/barcelona-cathedral.jpg
 tags:
   - barcelona
   - expat story
-country: Spain
+country:
+  - Spain
 category:
   - Stories
 author: Editorial Team

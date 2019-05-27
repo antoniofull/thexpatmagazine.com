@@ -16,7 +16,8 @@ tags:
   - expat
   - italy
   - life in italy
-country: Italy
+country:
+  - Italy
 author: Editorial Team
 category:
   - Stories

@@ -6,8 +6,6 @@ type: post
 date: 2014-11-25T18:22:25.000Z
 url: /2014/europe/5-reasons-utrecht-better-amsterdam/
 featuredimage: /wp-content/uploads/2014/11/2117901601_8f2ca3a4b1_o-667x500.jpg
-reltwitter:
-  - 'https://localhost/thexpatmagazine-wp/2014/europe/5-reasons-utrecht-better-amsterdam/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
 country:
   - Europe
   - Netherlands

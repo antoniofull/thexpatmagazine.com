@@ -4,21 +4,33 @@ import Helmet from 'react-helmet';
 import { Link, graphql } from 'gatsby';
 import Layout from '../../components/Layout';
 
-const AuthorPage = ({
+const CountryPage = ({
   data: {
-    allMarkdownRemark: { group }
+    allMarkdownRemark: { group },
+    site: {
+      siteMetadata: { title }
+    }
   }
 }) => (
   <Layout>
     <section className='section'>
-      <Helmet title={`Tags `} />
+      <Helmet title={`Categories | ${title}`} />
       <div className='container content'>
         <div className='columns'>
           <div
             className='column is-10 is-offset-1'
             style={{ marginBottom: '6rem' }}
           >
-            <h1 className='title is-size-2 is-bold-light'>Tags</h1>
+            <h1 className='title is-size-2 is-bold-light'>Categories</h1>
+            <ul className='taglist'>
+              {group.map(cat => (
+                <li key={cat.fieldValue}>
+                  <Link to={`/authors/${kebabCase(cat.fieldValue)}/`}>
+                    {cat.fieldValue} ({cat.totalCount})
+                  </Link>
+                </li>
+              ))}
+            </ul>
           </div>
         </div>
       </div>
@@ -26,13 +38,13 @@ const AuthorPage = ({
   </Layout>
 );
 
-export default AuthorPage;
+export default CountryPage;
 
-export const AuthorsQuery = graphql`
-  query AuthorsQuery {
+export const DestinationsQuery = graphql`
+  query DestinationsQuery {
     allMarkdownRemark(
       limit: 1000
-      filter: { frontmatter: { templateKey: { eq: "blog-author" } } }
+      filter: { frontmatter: { templateKey: { eq: "blog-country" } } }
     ) {
       edges {
         node {
@@ -43,11 +55,6 @@ export const AuthorsQuery = graphql`
           }
           frontmatter {
             title
-            bio
-            pinterest
-            facebook
-            twitter
-            instagram
             photo {
               childImageSharp {
                 fluid(maxWidth: 800, maxHeight: 560, quality: 100) {

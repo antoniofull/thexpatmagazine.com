@@ -6,10 +6,6 @@ type: post
 date: 2019-01-27T16:54:15.000Z
 url: /2019/america/north-america/usa-north-america/creating-a-stress-free-tax-solution-for-u-s-expats/
 featuredimage: /wp-content/uploads/2019/01/jeshoots-com-523925-unsplash.jpg
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
 country:
   - USA
 tags:

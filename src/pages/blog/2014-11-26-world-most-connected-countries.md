@@ -6,9 +6,7 @@ type: post
 date: 2014-11-26T07:35:49.000Z
 url: /2014/living-abroad/world-most-connected-countries/
 featuredimage: /wp-content/uploads/2014/03/Copenhagen-Nyhavn-753x500.jpg
-reltwitter:
-  - 'https://localhost/thexpatmagazine-wp/2014/living-abroad/world-most-connected-countries/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-country: 
+country:
   - Living abroad
 tags:
   - connected

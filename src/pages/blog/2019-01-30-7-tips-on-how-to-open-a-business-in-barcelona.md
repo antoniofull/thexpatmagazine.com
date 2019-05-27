@@ -8,7 +8,8 @@ tags:
   - business abroad
   - open a new business
   - top tips
-country: Spain
+country:
+  - Spain
 category:
   - Expat Tips
   - Destinations

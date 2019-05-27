@@ -3,7 +3,7 @@ import Helmet from 'react-helmet';
 import { Link, graphql } from 'gatsby';
 import Layout from '../components/Layout';
 
-class TagRoute extends React.Component {
+class GuestAuthorRoute extends React.Component {
   render() {
     const posts = this.props.data.allMarkdownRemark.edges;
     const postLinks = posts.map(post => (
@@ -13,24 +13,24 @@ class TagRoute extends React.Component {
         </Link>
       </li>
     ));
-    const country = this.props.pageContext.countrycountry;
+    const author = this.props.pageContext.author;
     const title = this.props.data.site.siteMetadata.title;
     const totalCount = this.props.data.allMarkdownRemark.totalCount;
     const tagHeader = `${totalCount} All posts in ${
       totalCount === 1 ? '' : 's'
-    }  “${country}”`;
+    }  “${author}”`;
 
     return (
       <Layout>
         <section className='section'>
-          <Helmet title={`${country} | ${title}`} />
+          <Helmet title={`${author} | ${title}`} />
           <div className=''>
             <div className=''>
               <div className=''>
                 <h3 className=''>{tagHeader}</h3>
                 <ul className=''>{postLinks}</ul>
                 <p>
-                  <Link to='/countries/'>All countries</Link>
+                  <Link to='/authors/'>All Authors</Link>
                 </p>
               </div>
             </div>
@@ -41,19 +41,14 @@ class TagRoute extends React.Component {
   }
 }
 
-export default TagRoute;
+export default GuestAuthorRoute;
 
-export const tagPageQuery = graphql`
-  query TagPage($country: String) {
-    site {
-      siteMetadata {
-        title
-      }
-    }
+export const GuestAuthorQuery = graphql`
+  query GuestAuthorPage($author: String) {
     allMarkdownRemark(
       limit: 1000
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: { frontmatter: { category: { in: [$country] } } }
+      filter: { frontmatter: { author: { in: [$author] } } }
     ) {
       totalCount
       edges {

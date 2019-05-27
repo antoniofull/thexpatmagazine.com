@@ -6,10 +6,6 @@ type: post
 date: 2019-04-12T09:18:52.000Z
 url: /2019/expat-life/how-to-negotiate-a-salary-increase-step-by-step-guide/
 featuredimage: /wp-content/uploads/2019/04/chris-liverani-552022-unsplash.jpg
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
 country:
   - Expat
 tags:

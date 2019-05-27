@@ -4,14 +4,14 @@ import Helmet from 'react-helmet';
 import { Link, graphql } from 'gatsby';
 import Layout from '../../components/Layout';
 
-const AuthorPage = ({
+const GuestAuthorPage = ({
   data: {
     allMarkdownRemark: { group }
   }
 }) => (
   <Layout>
     <section className='section'>
-      <Helmet title={`Tags `} />
+      <Helmet title={`Tags`} />
       <div className='container content'>
         <div className='columns'>
           <div
@@ -26,13 +26,13 @@ const AuthorPage = ({
   </Layout>
 );
 
-export default AuthorPage;
+export default GuestAuthorPage;
 
-export const AuthorsQuery = graphql`
-  query AuthorsQuery {
+export const GuestAuthorsQuery = graphql`
+  query GuestAuthorsQuery {
     allMarkdownRemark(
       limit: 1000
-      filter: { frontmatter: { templateKey: { eq: "blog-author" } } }
+      filter: { frontmatter: { templateKey: { eq: "blog-guest-author" } } }
     ) {
       edges {
         node {

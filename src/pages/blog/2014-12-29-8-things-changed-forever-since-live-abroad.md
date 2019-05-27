@@ -6,9 +6,7 @@ type: post
 date: 2014-12-29T17:04:15.000Z
 url: /2014/expat-life/8-things-changed-forever-since-live-abroad/
 featuredimage: /wp-content/uploads/2014/12/nostalgia-750x500.png
-reltwitter:
-  - 'https://localhost/thexpatmagazine-wp/2014/expat-life/8-things-changed-forever-since-live-abroad/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost'
-country: 
+country:
   - Expat
   - Living abroad
 tags:

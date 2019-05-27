@@ -69,7 +69,7 @@ const Navbar = class extends React.Component {
 export default () => (
   <StaticQuery
     query={graphql`
-      query Category {
+      query NavItems {
         allMarkdownRemark(
           filter: { frontmatter: { siteSettings: { eq: "blog-nav" } } }
         ) {

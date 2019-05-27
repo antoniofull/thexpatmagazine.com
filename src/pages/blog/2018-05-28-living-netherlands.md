@@ -6,12 +6,6 @@ type: post
 date: 2018-05-28T16:31:12.000Z
 url: /2018/europe/living-netherlands/
 featuredimage: /wp-content/uploads/2018/05/utrecht-1189220_1920.jpg
-laurel_meta_post_layout:
-  - customizer
-laurel_meta_fullimage_height:
-  - 660
-mashsb_twitter_handle:
-  - thexpatmagazine
 country:
   - Europe
   - Netherlands

@@ -18,7 +18,7 @@ exports.createPages = async ({ actions, graphql }) => {
   const categoryTemplate = require.resolve('./src/templates/categories.js');
   const authorTemplate = require.resolve('./src/templates/blog-author.js');
 
-  const result = await wrapper(
+  const allposts = await wrapper(
     graphql(`
       {
         allMarkdownRemark(limit: 1000) {
@@ -30,9 +30,9 @@ exports.createPages = async ({ actions, graphql }) => {
               }
               frontmatter {
                 tags
-                category
-                author
                 country
+                author
+                category
                 templateKey
               }
             }
@@ -41,26 +41,24 @@ exports.createPages = async ({ actions, graphql }) => {
       }
     `)
   );
-
   // Create Posts
-  const posts = result.data.edges;
+  const posts = allposts.data.allMarkdownRemark.edges;
 
   posts.forEach(edge => {
     const id = edge.node.id;
-    if (edge.node.frontmatter.templateKey) {
-      createPage({
-        path: edge.node.fields.slug,
-        tags: edge.node.frontmatter.tags,
-        categories: edge.node.frontmatter.catgory,
-        component: path.resolve(
-          `src/templates/${String(edge.node.frontmatter.templateKey)}.js`
-        ),
-        // additional data can be passed via context
-        context: {
-          id
-        }
-      });
-    }
+    createPage({
+      path: edge.node.fields.slug,
+      tags: edge.node.frontmatter.tags,
+      categories: edge.node.frontmatter.category,
+      countries: edge.node.frontmatter.country,
+      component: path.resolve(
+        `src/templates/${String(edge.node.frontmatter.templateKey)}.js`
+      ),
+      // additional data can be passed via context
+      context: {
+        id
+      }
+    });
   });
 
   // Tag pages:
@@ -87,7 +85,7 @@ exports.createPages = async ({ actions, graphql }) => {
 
   // Categories pages:
   let categories = [];
-  categories.forEach(edge => {
+  posts.forEach(edge => {
     if (_.get(edge, `node.frontmatter.category`)) {
       categories = categories.concat(edge.node.frontmatter.category);
     }
@@ -97,7 +95,7 @@ exports.createPages = async ({ actions, graphql }) => {
 
   // Make tag pages
   categories.forEach(category => {
-    const catPath = `/tags/${_.kebabCase(category)}/`;
+    const catPath = `${_.kebabCase(category)}`;
 
     createPage({
       path: catPath,
@@ -147,7 +145,7 @@ exports.createPages = async ({ actions, graphql }) => {
 
     createPage({
       path: authPath,
-      component: path.resolve(`src/templates/country.js`),
+      component: path.resolve(`src/templates/countries.js`),
       context: {
         country
       }
