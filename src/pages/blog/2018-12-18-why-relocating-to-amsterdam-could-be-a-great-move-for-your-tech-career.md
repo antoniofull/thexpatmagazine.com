@@ -16,8 +16,8 @@ tags:
 country:
   - Netherlands
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 guest-author: James McDonagh
 ---
 

@@ -1,7 +1,7 @@
 ---
 templateKey: categories
 siteSettings: blog-nav
-title: Guest Posts
+title: guest posts
 description: Guest Posts
 photo:
 ---

@@ -16,7 +16,7 @@ tags:
 country:
   - Italy
 category:
-  - Expat Tips
+  - expat tips
 author: Editorial Team
 ---
 

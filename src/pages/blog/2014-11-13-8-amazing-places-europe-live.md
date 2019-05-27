@@ -15,8 +15,8 @@ tags:
   - town
   - travelling
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 **Europe** is big, full of history and with many, many beautiful places. Some of them are really famous, who doesn&#8217;t know about Paris? But there are some magical, secret places that you probably have not heard so much. If you are considering moving to a place where the quality of life is higher and lifestyle is calm, then you should consider one of the place in this list.

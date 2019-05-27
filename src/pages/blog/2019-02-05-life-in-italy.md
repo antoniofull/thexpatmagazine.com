@@ -20,7 +20,7 @@ country:
   - Italy
 author: Editorial Team
 category:
-  - Stories
+  - stories
 ---
 
 <p>

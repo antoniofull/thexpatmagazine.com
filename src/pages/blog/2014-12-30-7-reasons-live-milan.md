@@ -13,8 +13,8 @@ tags:
   - italy
   - milan
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 As soon as I say Italy there are 3 main things that pop up in your mind: _**pizza, bolognese and pasta**_. Am I right? “_Il Bel Paese_” is well known for its food and the beauty of its cities. But would you live in one of them? What about Milan? The economic capital of Italy. Here  for you _**7 reasons why you should live in Milan.**_<!--more-->

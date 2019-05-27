@@ -1,7 +1,7 @@
 ---
 templateKey: categories
 siteSettings: blog-nav
-title: Stories
+title: stories
 description: 'Stories'
 photo:
 ---

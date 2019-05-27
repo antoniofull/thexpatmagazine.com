@@ -16,8 +16,8 @@ tags:
   - expat story
   - malaysia
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 Bruno left Brazil, turned his passion into a job and started a new life in Malaysia. He answers our questions to share his story and experience.

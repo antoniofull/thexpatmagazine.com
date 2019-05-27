@@ -12,8 +12,8 @@ country:
 tags:
   - tips
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 We always talk about expats, living abroad, travelling and more, and I can only imagine how many of you are temped right now…you only want to buy a one-way ticket to pursue your happiness. It’s nothing crazy or absurd, but the willing to explore, experiment, and expand is something you should be proud of.

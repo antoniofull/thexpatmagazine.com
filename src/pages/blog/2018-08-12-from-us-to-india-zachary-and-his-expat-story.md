@@ -9,8 +9,8 @@ featuredimage: /wp-content/uploads/2018/08/Ray_s-10.jpg
 country:
   - Europe
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 More and more people move abroad looking for new opportunities, they choose the place based on what they like the most, as well as where love or a job will bring them.  I&#8217;m always amazed by all the stories I hear and come across with. That&#8217;s why today I want to share with all of you Zachary&#8217;s expat life, who moved from US to India.  Here&#8217;s his story.

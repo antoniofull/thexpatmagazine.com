@@ -9,8 +9,8 @@ featuredimage: /wp-content/uploads/2018/03/hello-1502369_1280.png
 country:
   - America
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 When you decide to move to an other country, you have to consider various things and facts to settle down the way you wish. Most of the time next to the administrational checks, if you really want to feel home and live the new place at your best, you also need to **learn the local language**. I &#8216;m going to share with you **5 tips** to include in your daily routine on how to learn a new language easily and fast.

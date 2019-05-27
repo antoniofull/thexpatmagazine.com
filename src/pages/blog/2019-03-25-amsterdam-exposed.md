@@ -12,7 +12,7 @@ tags:
 country:
   - Netherlands
 category:
-  - Stories
+  - stories
 author: Editorial Team
 ---
 

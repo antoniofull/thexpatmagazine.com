@@ -13,8 +13,8 @@ tags:
   - canary islands
   - facts
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 Canary island is an archipelago situated to the northwest coast of mainland Africa, 100 kilometres (62 miles) west of the border between Morocco and the Western Sahara. Is a favorite place for tourist because of the sub-tropical weather and the beautiful beaches, is also quite cheap. <!--more-->

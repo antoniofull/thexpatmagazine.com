@@ -13,8 +13,8 @@ tags:
   - expat story
   - living abroad
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 Hello travellers,

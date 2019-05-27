@@ -13,8 +13,8 @@ tags:
   - visit Mexico
   - Yucatàn
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 I was thinking about how to start this article because of my personal story and It is actually not easy. I spent 3 or 4 months thinking just of those 2 words &#8220;Yucatàn travel&#8221; and organizing the journey with one of my friends and at the end, I couldn&#8217;t get there for an accident, So I have to stay at home for several weeks. It&#8217;s sad! It is&#8230;but there is something I can do to feel better: share with you the itinerary and, maybe, help someone who is looking for tips. Here following what you have to check when organising your trip

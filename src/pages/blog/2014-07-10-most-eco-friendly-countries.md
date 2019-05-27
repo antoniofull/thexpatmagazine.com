@@ -14,8 +14,8 @@ tags:
   - stockholm
   - vienna
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 The university of Yale has released his annual EPI, **Environmental Performance Index, **which is basically the ranking of the countries that do the most for the environment.

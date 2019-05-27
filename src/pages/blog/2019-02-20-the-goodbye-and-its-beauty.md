@@ -12,8 +12,8 @@ country:
 tags:
   - expat story
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 Why we need to be sad every time we pronounce or hear the word &#8220;goodbye&#8221;?! Can we learn anything from it?

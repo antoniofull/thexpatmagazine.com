@@ -13,8 +13,8 @@ tags:
   - cities to visit
   - travel
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 The New York Times has published the list of the top 52 places to visit in 2015. The city of Milan, Italy, tops the list mainly because of the Expo2015 which expects to bring more than 20.000.000  visitors.

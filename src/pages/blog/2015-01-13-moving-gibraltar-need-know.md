@@ -15,8 +15,8 @@ tags:
   - gibraltar
   - sun
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 _**Gibraltar**_ is a **British** overseas territory located in the southern part of the Iberica peninsula of Spain.  The little country shares its border, the northern part, with the Spanish province of **Cadiz**. Just about 20 minutes away there is the famous &#8220;_Costa del Sol_&#8221; in **Andalusia**, one of the most beautiful coast in Europe.<!--more-->

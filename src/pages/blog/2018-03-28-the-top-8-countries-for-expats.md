@@ -19,8 +19,8 @@ tags:
   - living abroad
   - malta
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 There are a lot of expats in every country around the world, luckily it is much easier to move somewhere nowadays. So let&#8217;s say you are ready to take your risks and chances to move to some new places, and start a new life, it is still a big change and a scary one. For this reason you want to do your homework and explore various countries to gather deeper information, and therefore here are the top 8 for you.

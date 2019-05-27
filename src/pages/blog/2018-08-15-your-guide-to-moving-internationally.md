@@ -13,8 +13,8 @@ tags:
   - international
   - moving
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 The world is becoming smaller. Thanks to advancements in communication technology, it’s become easier than ever to connect with people around the globe. This means international travel and commerce are much more common today. Thus, an unprecedented number of people are living somewhere other than their country of origin. According to a recent United Nations study, **more than 200 million people have relocated to another homeland**. If you’re about to become one of them, you have a lot of work ahead of you.

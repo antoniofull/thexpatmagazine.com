@@ -14,8 +14,8 @@ tags:
   - sea
   - top list
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 Are you a diver or wannabe? Looking for the most beautiful sights to dive? No more searching, we found it! Here the top 5 places in the world where every diver should go at least once in it&#8217;s life.

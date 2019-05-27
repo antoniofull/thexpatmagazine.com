@@ -13,8 +13,8 @@ tags:
   - expat
   - italy
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 Italy is a beautiful country, so many cities and with so many things to visit and explore, so the perfect place for holidays, but what about the quality of life if you decide to live there? There are different key elements that have been considered, just to mention some: services, environment, public transport and population. Here for you the top 10 most liveable cities in the &#8220;Bel Paese&#8221;.

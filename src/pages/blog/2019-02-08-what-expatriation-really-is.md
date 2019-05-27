@@ -15,8 +15,8 @@ tags:
   - life abroad
   - living abroad
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 Very often I get messages on Instagram asking me if it&#8217;s **_easy_** to find a job in Australia, if it&#8217;s **_easy_** to find an apartment, if it&#8217;s **_easy_** to make friends, and if it&#8217;s **_easy_** to earn money. I am still surprised by these questions, which in my opinion do not mean much. What do you mean by easy? My answer to this type of questions is always the same: in life, nothing is really easy, it depends on your attitude, your willpower, your determination and the efforts you are willing to make to achieve your goal(s). It is not realistic to hope to find a job easily and to earn good money if you do not speak English for example.

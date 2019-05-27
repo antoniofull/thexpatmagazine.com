@@ -13,8 +13,8 @@ tags:
   - qantas
   - safest airlines
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 #### World&#8217;s safest airlines for 2017.

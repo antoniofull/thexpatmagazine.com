@@ -13,8 +13,8 @@ tags:
   - Puerto Nuevo
   - puerto rico
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 This looks like a normal beach, but behind that huge stones there is the ocean and his huge waves. <span style="line-height: 1.5em;">Luckily the people are protected by this stone wall and can enjoy this small part of beach relaxed with no risk.<!--more--></span>

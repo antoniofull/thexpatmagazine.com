@@ -13,8 +13,8 @@ tags:
   - abroad
   - expat life
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 _**Living abroad**_ is an amazing experience, but it has some drawback with it. Things change, and so do you.

@@ -14,8 +14,8 @@ tags:
   - immigration
   - switzerland
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 **Switzerland** approved with a referendum a new law to limitate immigration in the country. After a very uncertain exit poll the yes won for **50.3%**.

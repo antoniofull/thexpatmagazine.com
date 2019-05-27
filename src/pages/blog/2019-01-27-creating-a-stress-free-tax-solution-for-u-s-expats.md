@@ -11,8 +11,8 @@ country:
 tags:
   - tax
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 ## The Story

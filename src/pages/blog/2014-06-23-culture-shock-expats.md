@@ -11,7 +11,7 @@ tags:
   - expat life
   - expats
 category:
-  - Expat Tips
+  - expat tips
 ---
 
 <span style="line-height: 1.5em;">Let&#8217;s be honest, the word <strong>culture shock</strong> is kinda of scary. I think almost any expat has heard of it and most of them get scared, the word <strong>shock</strong> itself is not encouraging.</span><!--more-->

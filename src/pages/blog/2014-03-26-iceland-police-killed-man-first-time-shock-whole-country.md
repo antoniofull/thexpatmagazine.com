@@ -13,8 +13,8 @@ tags:
   - police
   - shooting
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 **Iceland** is well known as the [most peaceful country in the world], but recently the police shot and kill a man, for the first time on his history , since it&#8217;s a republic , thus from 1944.

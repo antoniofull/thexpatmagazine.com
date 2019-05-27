@@ -14,7 +14,7 @@ tags:
 country:
   - Spain
 category:
-  - Stories
+  - stories
 author: Editorial Team
 ---
 

@@ -13,8 +13,8 @@ tags:
   - expat story
   - writer
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 Today&#8217;s amazing story is shared by Patrick Burns, the author of _Far Away and Further Back_, who has lived his entire life as an expatriate and decided to write a book which includes chapters of expat&#8217;s stories.

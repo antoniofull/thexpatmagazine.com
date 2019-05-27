@@ -1,7 +1,7 @@
 ---
 templateKey: categories
 siteSettings: blog-nav
-title: Travel Tips
+title: travel tips
 description: 'Travel Tips '
 photo:
 ---

@@ -1,7 +1,7 @@
 ---
 templateKey: categories
 siteSettings: blog-nav
-title: Destinations
+title: destinations
 description: Follow the destinations
 photo:
 ---

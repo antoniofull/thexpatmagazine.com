@@ -12,8 +12,8 @@ tags:
   - airports
   - most punctual airpots
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 The  <a href="https://www.oag.com" target="_blank"><strong>OAG</strong></a>, the the UK based aviation data monitor, released a press with a study that determines the **most punctual airport in the World**, and the most punctual airlines.

@@ -12,8 +12,8 @@ tags:
   - documents
   - papers
 category:
-  - Expat Tips
-  - Destinations  
+  - expat tips
+  - destinations  
 ---
 
 **Where To Store Your Most Important Documents?**

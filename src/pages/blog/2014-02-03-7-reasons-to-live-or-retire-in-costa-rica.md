@@ -15,8 +15,8 @@ tags:
 country:
   - Costa Rica
 category:
-  - Destinations
-  - Expat Tips
+  - destinations
+  - expat tips
 author: Rossella Daví
 ---
 

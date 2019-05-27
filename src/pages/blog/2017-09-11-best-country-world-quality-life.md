@@ -16,8 +16,8 @@ tags:
   - portugal
   - quality of life
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 Finding the right country to settle in is never easy. A lot of factors come in when considering a country and, without any doubt, one of the major factor in our choice is the **quality of life**. <a href="https://www.internations.org/expat-insider/" target="_blank" rel="noopener">Expat Insider</a> has released the results for the **2017 poll on the best country in the World for quality of life** and the results are quite surprising.<!--more-->

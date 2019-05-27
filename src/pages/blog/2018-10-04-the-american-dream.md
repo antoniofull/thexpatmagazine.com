@@ -14,8 +14,8 @@ tags:
   - expat life
   - expat story
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 Make a dream come true&#8230; Is it possible and how?! Mirko told us about his experience, what he did and why.

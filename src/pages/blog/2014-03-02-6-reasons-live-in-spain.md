@@ -14,8 +14,8 @@ tags:
   - madrid
   - spain
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 **Spain** is a mediterranean country in the south of **Europe** and is one of the country hit by the crisis. Now is slowly recovering, however being a cheap country with a nice weather almost all the year and fabulous people is easy for many expats fall in love for this country.  I&#8217;ve collected my list of the most important reasons to **live in Spain**.<!--more-->

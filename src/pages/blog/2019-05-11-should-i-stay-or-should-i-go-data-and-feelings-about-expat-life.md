@@ -8,7 +8,7 @@ featuredimage: /img/amsterdam-exposed-cover-small.jpg
 tags:
   - expat life
 category:
-  - Stories
+  - stories
 author: Rossella Daví
 ---
 

@@ -15,8 +15,8 @@ tags:
   - ecuador
   - expat life
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 Have you ever wondered which one is the _**best country in the World for expats**_? I think you asked this to yourself several times,  well &#8230; we  have the answer now: _** Ecuador**_!

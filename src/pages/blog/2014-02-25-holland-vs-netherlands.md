@@ -14,8 +14,8 @@ tags:
 country:
   - Netherlands
 category:
-  - Destinations
-  - Expat Tips
+  - destinations
+  - expat tips
 author: Editorial Team
 ---
 

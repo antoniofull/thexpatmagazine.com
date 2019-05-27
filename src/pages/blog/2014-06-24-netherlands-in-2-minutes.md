@@ -16,8 +16,8 @@ tags:
   - video
   - youtube
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 Have you ever been to **Netherlands**?

@@ -11,7 +11,7 @@ tags:
   - vienna
   - zurich
 category:
-  - Expat Tips
+  - expat tips
 ---
 
 The **Global peace index** is the ranking of the most peaceful countries in the world. The list is compiled by the IEP (**institute for economics and peace**) since 2007. Here his the latest list of the most peaceful countries in the world.<!--more-->

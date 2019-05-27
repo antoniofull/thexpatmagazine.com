@@ -17,8 +17,8 @@ tags:
   - expat life
   - london
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 <p style="text-align: left;">

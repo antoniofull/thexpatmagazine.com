@@ -14,8 +14,8 @@ tags:
   - immigration policies
   - moving abroad
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 Are you planning to relocate abroad but are not sure about the right destination for you? Well, moving abroad sounds quite interesting and exciting but choosing an ideal location may be a cumbersome task. So, here we have come up with the list of the Top 5 countries with an effortless immigration policy along with a welcoming reputation and booming economies.

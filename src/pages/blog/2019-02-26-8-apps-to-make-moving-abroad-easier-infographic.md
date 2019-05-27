@@ -14,8 +14,8 @@ country:
   - Expat
   - Living abroad
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 author: Editorial Team
 ---
 <p>

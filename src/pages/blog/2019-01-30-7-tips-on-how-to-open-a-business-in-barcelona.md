@@ -11,8 +11,8 @@ tags:
 country:
   - Spain
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 author: Editorial Team
 ---
 

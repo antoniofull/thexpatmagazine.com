@@ -12,8 +12,8 @@ tags:
   - study abroad
   - study uk
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 Moving abroad for a new way of life is the start of an exciting adventure for families. There is so much to plan and prepare for, but one of the hardest aspects is deciding on how and where your children will be educated. We’ve put together a few things for you to consider about your child’s education when moving abroad, some of which may also be useful for existing **Expat families.** <!--more-->

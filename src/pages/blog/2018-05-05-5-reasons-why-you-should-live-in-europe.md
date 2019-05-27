@@ -15,8 +15,8 @@ tags:
   - travel
   - wine
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 Most of you have already travelled or lived in Europe, while for others it&#8217;s still the dream of their life. Well, regardless of the times you have (or not) been on this continent, you will all agree with me: it is simply wonderful! Just to give you a few numbers, it covers an area of 10,180,000km², has over 480 million international visitors per year, and includes 7 of the 10 most visited countries.

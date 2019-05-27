@@ -15,8 +15,8 @@ tags:
   - toronto
   - vancouver
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 The **Canada&#8217;s Minister of Citizenship** and Immigration **Chris Alexander**  said

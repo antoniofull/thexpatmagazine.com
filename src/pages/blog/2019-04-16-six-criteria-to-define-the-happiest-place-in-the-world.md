@@ -12,8 +12,8 @@ country:
 tags:
   - happiest place
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 When someone decides to go and live abroad, people usually ask “why there?” and thinking if maybe they would choose the same city or country too. I believe that it is often a matter of opportunities or emotions that make the decision for us but there are some “real” reasons that can help understanding where to start a new life and be the happiest expat in the happiest place in the world!!

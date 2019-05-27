@@ -14,8 +14,8 @@ tags:
   - local culture
   - meudon
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 <p >

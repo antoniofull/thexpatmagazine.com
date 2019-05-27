@@ -12,8 +12,8 @@ tags:
   - european capitals
   - travelling
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 Are you a traveller or a tourist?

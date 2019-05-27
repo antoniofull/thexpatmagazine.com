@@ -13,8 +13,8 @@ tags:
   - immigration visa
   - living abroad
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 <div id="block-64c29220f0c69b7384b7" >

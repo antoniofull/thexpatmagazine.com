@@ -14,8 +14,8 @@ tags:
   - expat opportunities
   - teaching abroad
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 <span style="font-weight: 400;">Looking for expat opportunities abroad, you all have come across the possibility to teach your native language in some other countries. But what does that really mean? What are the benefits and challenges? Today Murray shares his own observations and an honest reflection of the teaching culture for expats in Hanoi by combining a variety of perspectives. </span>

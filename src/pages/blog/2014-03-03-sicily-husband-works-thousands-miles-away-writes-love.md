@@ -18,7 +18,7 @@ tags:
   - italy
   - sicily
 category:
-  - Stories
+  - stories
 ---
 
 **Sicily, South of Italy &#8211; 1973**.

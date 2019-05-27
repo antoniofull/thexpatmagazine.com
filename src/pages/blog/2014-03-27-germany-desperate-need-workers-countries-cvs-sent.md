@@ -13,8 +13,8 @@ tags:
   - germany
   - work
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 **Germany**, among the european countries, is indeed the one that had less problems with crisis and is one of the leader of **European** **Union**. But there is a small category of companies that is having serious troubles to survive in this country and the reason is not the crisi itself but rather the fact that cannot find people to hire. We are talking about the small companies, that are not attractive like the international corporation.<!--more-->

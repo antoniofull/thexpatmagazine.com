@@ -14,8 +14,8 @@ tags:
   - travelling
   - usa
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 Are you planning a trip to New York or you just moved there? Here Johnny T will give you some nice advices 🙂

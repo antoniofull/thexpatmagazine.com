@@ -13,8 +13,8 @@ tags:
   - things to know
   - vienna
 category:
-  - Expat Tips
-  - Destinations
+  - expat tips
+  - destinations
 ---
 
 **Vienna** is a beautiful city and every year ranks on top of all the competitions about the best city in the world or with the best quality of life. Here a list of things you should be aware if you move there for work or even just for travel, we collected the most important.<!--more-->

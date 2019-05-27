@@ -1,7 +1,7 @@
 ---
 templateKey: categories
 siteSettings: blog-nav
-title: Expat Tips
+title: expat tips
 description: Expat Tips
 photo:
 ---
