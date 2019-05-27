@@ -12,7 +12,7 @@ export const IndexPage = ({
     <h1>{title}</h1>
     <h2>{heading}</h2>
     <div>{subheading}</div>
-    <img src={image} />
+    <img alt='imag' src={image} />
     <p>{description}</p>
   </article>
 );

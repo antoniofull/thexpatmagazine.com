@@ -83,29 +83,6 @@ exports.createPages = async ({ actions, graphql }) => {
     });
   });
 
-  // Categories pages:
-  let categories = [];
-  posts.forEach(edge => {
-    if (_.get(edge, `node.frontmatter.category`)) {
-      categories = categories.concat(edge.node.frontmatter.category);
-    }
-  });
-  // Eliminate duplicate tags
-  categories = _.uniq(categories);
-
-  // Make tag pages
-  categories.forEach(category => {
-    const catPath = `${_.kebabCase(category)}`;
-
-    createPage({
-      path: catPath,
-      component: path.resolve(`src/templates/categories.js`),
-      context: {
-        category
-      }
-    });
-  });
-
   // Authors pages:
   let authors = [];
   authors.forEach(edge => {

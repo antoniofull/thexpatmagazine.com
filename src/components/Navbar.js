@@ -80,7 +80,6 @@ export default () => (
                 slug
               }
               frontmatter {
-                siteSettings
                 title
                 description
               }
