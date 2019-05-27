@@ -30,7 +30,12 @@
 .meta--align-left {
   justify-content: start;
 }
-
+.post-meta--author__image {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  overflow: hidden;
+}
 .divider--meta {
   height: 100%;
   width: 1px;
@@ -40,7 +45,7 @@
   margin-right: var(--margin-s);
   max-width: 1px;
 }
-.post-meta--author .gatsby-image-wrapper {
+.post-meta--author__link .gatsby-image-wrapper {
   max-width: 14px;
   width: 14px;
   height: 14px;

@@ -7,42 +7,49 @@ import AuthorMeta from './AuthorMeta';
 import Img from 'gatsby-image';
 import '../styles/tips.css';
 
-const Tips = ({ posts, count, authors }) => {
+const Tips = ({ posts, authors }) => {
   if (posts) {
-    const author = _.find(authors, posts[0].node.frontmatter.author);
-    const stories = posts.map(story => (
-      <article
-        className='tip article--home has-border article--full-image'
-        key={story.node.id}
-      >
-        <div className='article-home__header'>
-          {story.node.frontmatter.featuredimage && (
-            <Link to={story.node.fields.slug}>
-              <Img
-                fluid={
-                  story.node.frontmatter.featuredimage.childImageSharp.grid
-                }
-              />
-            </Link>
-          )}
-          <div className='article--home__content'>
-            <h2 className=''>{story.node.frontmatter.title}</h2>
-            <div className='meta meta--home-row meta--align-left '>
-              <span className='meta__date'>{story.node.frontmatter.date}</span>
-              <span className='divider--meta' />
-              <AuthorMeta author={author} />
+    const stories = posts.map(story => {
+      const author = _.find(authors, a => {
+        return a.node.frontmatter.title === story.node.frontmatter.author;
+      });
+      return (
+        <article
+          className='tip article--home has-border article--full-image'
+          key={story.node.id}
+        >
+          <div className='article-home__header'>
+            {story.node.frontmatter.featuredimage && (
+              <Link to={story.node.fields.slug}>
+                <Img
+                  fluid={
+                    story.node.frontmatter.featuredimage.childImageSharp.grid
+                  }
+                />
+              </Link>
+            )}
+            <div className='article--home__content'>
+              <h2 className=''>{story.node.frontmatter.title}</h2>
+              <div className='meta meta--home-row meta--align-left '>
+                <span className='meta__date'>
+                  {story.node.frontmatter.date}
+                </span>
+                <span className='divider--meta' />
+                <AuthorMeta author={author} />
+              </div>
+              <div className='excerpt'>{story.node.excerpt}</div>
+              <Link
+                to={story.node.fields.slug}
+                className='read-more read-more--full-image'
+              >
+                Read More <span className='arrow-action'>→</span>
+              </Link>
             </div>
-            <div className='excerpt'>{story.node.excerpt}</div>
-            <Link
-              to={story.node.fields.slug}
-              className='read-more read-more--full-image'
-            >
-              Read More <span className='arrow-action'>→</span>
-            </Link>
           </div>
-        </div>
-      </article>
-    ));
+        </article>
+      );
+    });
+
     return (
       <section className='home-row home-row--white'>
         <div className='container container--home container-row'>

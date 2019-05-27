@@ -5,16 +5,17 @@ import { Link } from 'gatsby';
 import Img from 'gatsby-image';
 
 import TextTruncate from 'react-text-truncate';
-import MediaQuery from 'react-responsive';
 
 import AuthorMeta from './AuthorMeta';
 
 import '../styles/featured.css';
 
-const FeaturedPosts = ({ posts, count, authors }) => {
+const FeaturedPosts = ({ posts, authors }) => {
   if (posts) {
     const post = posts[0].node;
-    const author = _.find(authors, posts[0].node.frontmatter.author);
+    const author = _.find(authors, a => {
+      return a.node.frontmatter.title === posts[0].node.frontmatter.author;
+    });
     return (
       <section className='featured is-color-white'>
         <div className='featured__container'>
@@ -36,24 +37,13 @@ const FeaturedPosts = ({ posts, count, authors }) => {
                   On: {post.frontmatter.date}
                 </span>
               </div>
-              <MediaQuery query='(max-width: 768px)'>
-                <TextTruncate
-                  textElement='p'
-                  className='excerpt'
-                  line={3}
-                  truncateText='…'
-                  text={post.excerpt}
-                />
-              </MediaQuery>
-              <MediaQuery query='(min-width: 768px)'>
-                <TextTruncate
-                  textElement='p'
-                  className='excerpt'
-                  line={4}
-                  truncateText='…'
-                  text={post.excerpt}
-                />
-              </MediaQuery>
+              <TextTruncate
+                textElement='p'
+                className='excerpt'
+                line={4}
+                truncateText='…'
+                text={post.excerpt}
+              />
 
               <Link
                 to={post.fields.slug}

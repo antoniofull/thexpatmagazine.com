@@ -12,9 +12,11 @@ const masonryOptions = {
   transitionDuration: 0
 };
 
-const Stories = ({ posts, authors, count }) => {
+const Stories = ({ posts, authors }) => {
   const stories = posts.map(story => {
-    const author = _.find(authors, story.node.frontmatter.author);
+    const author = _.find(authors, a => {
+      return a.node.frontmatter.title === story.node.frontmatter.author;
+    });
     return (
       <article
         className='story story--home container--story container story-masonry masonry__item'

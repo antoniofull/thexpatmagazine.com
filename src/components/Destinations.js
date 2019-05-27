@@ -7,11 +7,12 @@ import AuthorMeta from './AuthorMeta';
 import '../styles/tips.css';
 import '../styles/destinations.css';
 
-const Destinations = ({ posts, count, authors }) => {
+const Destinations = ({ posts, authors }) => {
   if (posts) {
     const stories = posts.map(story => {
-      const author = _.find(authors, story.node.frontmatter.author);
-      console.log(story.node.frontmatter.author, authors);
+      const author = _.find(authors, a => {
+        return a.node.frontmatter.title === story.node.frontmatter.author;
+      });
       return (
         <article
           className='destination article--home has-border article--full-image'
