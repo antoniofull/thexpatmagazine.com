@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Moving overseas: everything you need to know!'
-author: Rossella Davi
+author: Rossella Daví
 type: post
 date: 2019-02-25T17:09:49.000Z
 url: /2019/europe/moving-overseas-everything-you-need-to-know/

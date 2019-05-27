@@ -89,6 +89,7 @@ class IndexPage extends Component {
 export const indexQuery = graphql`
   {
     posts: allMarkdownRemark(
+      limit: 20
       sort: { order: DESC, fields: [frontmatter___date] }
       filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
     ) {
@@ -122,23 +123,23 @@ export const indexQuery = graphql`
     }
     authors: allMarkdownRemark(
       sort: { order: DESC, fields: [frontmatter___date] }
-      filter: { frontmatter: { templateKey: { in: "author" } } }
+      filter: { frontmatter: { templateKey: { eq: "blog-author" } } }
     ) {
       edges {
         node {
-          excerpt(pruneLength: 400)
           id
+          html
           fields {
             slug
           }
           frontmatter {
             title
-            category
-            author
-            templateKey
-            date(formatString: "MMMM DD, YYYY")
-            featuredpost
-            featuredimage {
+            description
+            role
+            instagram
+            pinterest
+            facebook
+            photo {
               childImageSharp {
                 fixed(width: 100, height: 100) {
                   ...GatsbyImageSharpFixed

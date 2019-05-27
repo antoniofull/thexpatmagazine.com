@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: The American Dream
-author: Rossella Davi
+author: Rossella Daví
 type: post
 date: 2018-10-04T13:00:02.000Z
 url: /2018/america/the-american-dream/

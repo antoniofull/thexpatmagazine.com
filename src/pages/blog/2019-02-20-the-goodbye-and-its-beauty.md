@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: The goodbye and its beauty
-author: Rossella Davi
+author: Rossella Daví
 type: post
 date: 2019-02-20T17:54:18.000Z
 url: /2019/america/the-goodbye-and-its-beauty/
