@@ -12,8 +12,8 @@ tags:
   - expats
   - italy
   - usa
-country:
-  - Italy
+  - Tips
+country: Italy
 category:
   - Expat Tips
 author: Editorial Team
