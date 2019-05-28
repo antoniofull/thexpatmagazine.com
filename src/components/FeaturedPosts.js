@@ -37,12 +37,21 @@ const FeaturedPosts = ({ posts, authors, count }) => {
           >
             {posts.map(post => (
               <React.Fragment key={post.node.id}>
-                <div className='featured-image'>
-                  <Img
+                <div
+                  className='featured-image'
+                  style={{
+                    backgroundImage: `url(${
+                      post.node.frontmatter.featuredimage.childImageSharp.fluid
+                        .src
+                    })`
+                  }}
+                >
+                  {/* <Img
                     sizes={
-                      post.node.frontmatter.featuredimage.childImageSharp.sizes
+                      post.node.frontmatter.featuredimage.childImageSharp
+                        .sizes
                     }
-                  />
+                  /> */}
                 </div>
                 <div className='featured-post__container has-shadow'>
                   <article className='featured-post'>
