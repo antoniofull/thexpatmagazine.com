@@ -4,7 +4,6 @@ import { graphql } from 'gatsby';
 import _ from 'lodash';
 
 import Layout from '../components/Layout';
-import Footer from '../components/Footer';
 import FeaturedPosts from '../components/FeaturedPosts';
 import Stories from '../components/Stories';
 import Tips from '../components/Tips';
@@ -71,7 +70,6 @@ class IndexPage extends Component {
             />
             <Tips authors={authors} posts={tips} count={tips.length} />
           </main>
-          <Footer />
         </Layout>
       );
     }
@@ -80,7 +78,6 @@ class IndexPage extends Component {
         <main className='home'>
           <div className='loader'>Loading Articles ...</div>
         </main>
-        <Footer />
       </Layout>
     );
   }

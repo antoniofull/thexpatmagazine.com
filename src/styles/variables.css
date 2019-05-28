@@ -42,7 +42,7 @@
   --font-xl: 3.375rem;
   --font-hero: 5.063rem;
 
-  --grid-column-width: 320px;
+  --grid-column-width: 250px;
 
   --transition: all 0.3s cubic-bezier(0.6, -0.28, 0.735, 0.045);
 }

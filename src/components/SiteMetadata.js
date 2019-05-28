@@ -8,6 +8,13 @@ const useSiteMetadata = () => {
           siteMetadata {
             title
             description
+            links {
+              website
+              instagram
+              facebook
+              pinterest
+              twitter
+            }
           }
         }
       }

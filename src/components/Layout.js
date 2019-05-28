@@ -1,6 +1,8 @@
 import React from 'react';
 import Helmet from 'react-helmet';
-// import Footer from '../components/Footer';
+import { graphql } from 'gatsby';
+
+import Footer from '../components/Footer';
 import Navbar from '../components/Navbar';
 import useSiteMetadata from './SiteMetadata';
 
@@ -9,16 +11,14 @@ import '../styles/reset.css';
 import '../styles/layout.css';
 import '../styles/buttons.css';
 
-// import '~/gutenberg-web-type/gutenberg.scss';
-
 const TemplateWrapper = ({ children }) => {
-  const { title, description } = useSiteMetadata();
+  const site = useSiteMetadata();
   return (
     <div>
       <Helmet>
         <html lang='en' />
-        <title>{title}</title>
-        <meta name='description' content={description} />
+        <title>{site.title}</title>
+        <meta name='description' content={site.description} />
 
         <link
           rel='apple-touch-icon'
@@ -46,7 +46,7 @@ const TemplateWrapper = ({ children }) => {
         <meta name='theme-color' content='#fff' />
 
         <meta property='og:type' content='business.business' />
-        <meta property='og:title' content={title} />
+        <meta property='og:title' content={site.title} />
         <meta property='og:url' content='/' />
         <meta property='og:image' content='/img/og-image.jpg' />
         <link
@@ -56,9 +56,27 @@ const TemplateWrapper = ({ children }) => {
       </Helmet>
       <Navbar />
       <div>{children}</div>
-      {/* <Footer /> */}
+      <Footer site={site} />
     </div>
   );
 };
+
+export const querySite = graphql`
+  {
+    site {
+      siteMetadata {
+        title
+        description
+        links {
+          website
+          instagram
+          facebook
+          pinterest
+          twitter
+        }
+      }
+    }
+  }
+`;
 
 export default TemplateWrapper;
