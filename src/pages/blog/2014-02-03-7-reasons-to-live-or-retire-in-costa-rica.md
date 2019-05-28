@@ -16,7 +16,6 @@ country:
   - Costa Rica
 category:
   - destinations
-  - expat tips
 author: Rossella Daví
 ---
 

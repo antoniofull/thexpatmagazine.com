@@ -14,7 +14,6 @@ tags:
   - madrid
   - spain
 category:
-  - expat tips
   - destinations
 ---
 

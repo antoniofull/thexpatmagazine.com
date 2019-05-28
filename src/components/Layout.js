@@ -1,6 +1,5 @@
 import React from 'react';
 import Helmet from 'react-helmet';
-import { graphql } from 'gatsby';
 
 import Footer from '../components/Footer';
 import Navbar from '../components/Navbar';
@@ -60,23 +59,5 @@ const TemplateWrapper = ({ children }) => {
     </div>
   );
 };
-
-export const querySite = graphql`
-  {
-    site {
-      siteMetadata {
-        title
-        description
-        links {
-          website
-          instagram
-          facebook
-          pinterest
-          twitter
-        }
-      }
-    }
-  }
-`;
 
 export default TemplateWrapper;

@@ -180,3 +180,34 @@
     padding-top: 15%;
   }
 }
+
+/* Slider */
+.slide {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.featured__container {
+  position: relative;
+  overflow: hidden;
+  padding-top: 0;
+  height: calc(100vh - var(--header-height));
+}
+
+.carousel__dot {
+  position: absolute;
+  bottom: 100px;
+  display: flex;
+  max-width: 300px;
+}
+
+.carousel__dot {
+  flex: 1;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: var(--color-primary);
+}

@@ -27,7 +27,7 @@ const Stories = ({ posts, authors }) => {
             <Link to={story.node.fields.slug}>
               <Img
                 fluid={
-                  story.node.frontmatter.featuredimage.childImageSharp.grid
+                  story.node.frontmatter.featuredimage.childImageSharp.fluid
                 }
               />
             </Link>

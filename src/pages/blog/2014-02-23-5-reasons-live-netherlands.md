@@ -15,7 +15,6 @@ country:
   - Netherlands
 category:
   - destinations
-  - expat tips
 author: Editorial Team
 ---
 

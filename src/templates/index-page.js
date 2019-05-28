@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { graphql } from 'gatsby';
-import _ from 'lodash';
 
 import Layout from '../components/Layout';
 import FeaturedPosts from '../components/FeaturedPosts';
@@ -14,22 +13,6 @@ import '../styles/reset.css';
 import '../styles/typography.css';
 import '../styles/home-page.css';
 
-function featured(post) {
-  return post.node.frontmatter.featuredpost;
-}
-
-function story(post) {
-  return _.includes(post.node.frontmatter.category, 'stories');
-}
-
-function country(post) {
-  return _.includes(post.node.frontmatter.category, 'destinations');
-}
-
-function tip(post) {
-  return _.some(post.node.frontmatter.category, _.method('match', /tips/i));
-}
-
 class IndexPage extends Component {
   constructor(props) {
     super(props);
@@ -37,30 +20,58 @@ class IndexPage extends Component {
   }
 
   componentDidMount() {
-    const posts = this.props.data.posts.edges;
     const authors = this.props.data.authors.edges;
-    this.setState({
-      ...this.state,
-      posts,
-      authors
+
+    // remove duplicates
+    const allposts = this.props.data.posts.edges;
+    const featured = this.props.data.featured.edges;
+
+    // Remove duplicates
+    const ids = new Set();
+    let [stories, destinations, tips] = [[], [], []];
+
+    allposts.forEach((post, i) => {
+      const cat = post.node.frontmatter.category;
+      const id = post.node.id;
+      if (cat.includes('destinations') && !ids.has(id) && i < 30) {
+        destinations.push(post);
+        ids.add(id);
+      }
+      if (
+        (cat.includes('travel tips') || cat.includes('expat tips')) &&
+        !ids.has(id)
+      ) {
+        tips.push(post);
+        ids.add(id);
+      }
+      if (cat.includes('stories') && !ids.has(id)) {
+        stories.push(post);
+        ids.add(id);
+      }
     });
+
+    if (destinations.length > 0) {
+      this.setState({
+        ...this.state,
+        authors,
+        featured,
+        tips,
+        destinations,
+        stories
+      });
+    }
   }
 
   render() {
-    const { posts } = this.state;
-    const { authors } = this.state;
-    if (posts && posts.length) {
-      const featureds = _.filter(posts, featured);
-      const stories = _.filter(posts, story);
-      const destinations = _.filter(posts, country);
-      const tips = _.filter(posts, tip);
+    const { authors, featured, stories, destinations, tips } = this.state;
+    if (featured && featured.length) {
       return (
         <Layout>
           <main className='home'>
             <FeaturedPosts
               authors={authors}
-              posts={featureds}
-              count={featureds.length}
+              posts={featured}
+              count={featured.length}
             />
             <Stories authors={authors} posts={stories} count={stories.length} />
             <Destinations
@@ -85,10 +96,15 @@ class IndexPage extends Component {
 
 export const indexQuery = graphql`
   {
-    posts: allMarkdownRemark(
-      limit: 20
+    featured: allMarkdownRemark(
+      limit: 100
       sort: { order: DESC, fields: [frontmatter___date] }
-      filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
+      filter: {
+        frontmatter: {
+          templateKey: { eq: "blog-post" }
+          featuredpost: { eq: true }
+        }
+      }
     ) {
       edges {
         node {
@@ -106,10 +122,43 @@ export const indexQuery = graphql`
             featuredpost
             featuredimage {
               childImageSharp {
-                featured: fluid(maxWidth: 2000, quality: 100) {
+                fluid(maxWidth: 2000, quality: 100) {
                   ...GatsbyImageSharpFluid
                 }
-                grid: fluid(maxWidth: 700) {
+              }
+            }
+          }
+        }
+      }
+    }
+    posts: allMarkdownRemark(
+      limit: 60
+      sort: { order: DESC, fields: [frontmatter___date] }
+      filter: {
+        frontmatter: {
+          templateKey: { eq: "blog-post" }
+          featuredpost: { ne: true }
+          category: { ne: null }
+        }
+      }
+    ) {
+      edges {
+        node {
+          excerpt(pruneLength: 400)
+          id
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            category
+            author
+            templateKey
+            date(formatString: "MMMM DD, YYYY")
+            featuredpost
+            featuredimage {
+              childImageSharp {
+                fluid(maxWidth: 2000, quality: 100) {
                   ...GatsbyImageSharpFluid
                 }
               }
