@@ -1,5 +1,5 @@
 .main-header {
-  height: 80px;
+  height: var(--header-height);
   position: relative;
   font-family: '-apple-system', 'HelveticaNeue-Light', 'Helvetica Neue Light',
     'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
@@ -32,6 +32,9 @@
 }
 .mobile-nav__text {
   margin-right: var(--margin-s);
+}
+.logo svg {
+  height: 100%;
 }
 @media screen and (min-width: 1025px) {
   .main-header {

@@ -1,10 +1,10 @@
 import React from 'react';
 import Helmet from 'react-helmet';
-import { Link, graphql } from 'gatsby';
+import { graphql } from 'gatsby';
 import Layout from '../components/Layout';
 
 const PageRoute = ({ data }) => {
-  const { id, html, title, photo } = data;
+  const { title } = data;
 
   return (
     <Layout>
@@ -19,7 +19,7 @@ const PageRoute = ({ data }) => {
 export default PageRoute;
 
 export const PageQuery = graphql`
-  query PageData($id: String!, $title: String) {
+  query PageData($id: String!) {
     markdownRemark(id: { eq: $id }) {
       id
       html
