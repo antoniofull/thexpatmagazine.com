@@ -146,7 +146,7 @@ collections:
 
   - name: 'pages'
     label: 'Pages'
-    folder: 'src/pages/blog-pages'
+    folder: 'src/pages/pages'
     create: true
     slug: '{{slug}}'
     fields:
