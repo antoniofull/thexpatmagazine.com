@@ -10,7 +10,17 @@
 .post__image {
   margin-bottom: var(--margin-l);
 }
-
+.post__title {
+  text-align: center;
+}
 .post__container {
-  padding: var(--padding);
+  width: calc(100% - var(--padding-xl));
+  overflow: hidden;
+  padding-top: var(--padding-xl);
+  margin: 0 auto var(--margin) auto;
+}
+.post__category {
+  margin-bottom: var(--margin);
+  font-size: var(--font-s);
+  text-transform: uppercase;
 }

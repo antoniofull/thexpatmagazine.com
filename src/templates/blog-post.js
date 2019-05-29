@@ -5,6 +5,7 @@ import Helmet from 'react-helmet';
 import { graphql, Link } from 'gatsby';
 import Img from 'gatsby-image';
 import Layout from '../components/Layout';
+import AuthorMeta from '../components/AuthorMeta';
 import Content, { HTMLContent } from '../components/Content';
 
 import '../styles/post.css';
@@ -25,17 +26,17 @@ export const BlogPostTemplate = ({
   return (
     <section className='section post'>
       {helmet || ''}
-      <Img sizes={image.sizes} className='post__image' />
-      <div className='container post__container'>
-        <h1 className='title is-size-2 has-text-weight-bold is-bold-light'>
-          {title}
-        </h1>
-        <div className='post__meta'>
-          <p className='meta__author'>
-            {author} in {category[0]}
-          </p>
+      <div className='container'>
+        <div className='post__container'>
+          <h3 className='post__category has-horizontal-dividers--on-white wf-os has-horizontal-dividers text-color--dark-light'>
+            {category[0]}
+          </h3>
+          <h1 className='post__title'>{title}</h1>
+          <AuthorMeta author={author} />
         </div>
-        <p className='post__summary'>{description}</p>
+        {image && <Img sizes={image.sizes} className='post__image' />}
+
+        <p className='post__summary'>Summary: {description}</p>
         <PostContent content={content} />
         {tags && tags.length ? (
           <div style={{ marginTop: `4rem` }}>
@@ -64,7 +65,6 @@ BlogPostTemplate.propTypes = {
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data;
-
   return (
     <Layout>
       <BlogPostTemplate
@@ -72,7 +72,10 @@ const BlogPost = ({ data }) => {
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
         author={post.frontmatter.author}
-        image={post.frontmatter.featuredimage.childImageSharp}
+        image={
+          post.frontmatter.featuredimage &&
+          post.frontmatter.featuredimage.childImageSharp
+        }
         helmet={
           <Helmet titleTemplate='%s | Blog'>
             <title>{`${post.frontmatter.title}`}</title>

@@ -7,7 +7,7 @@ import Carousel from 'nuka-carousel';
 import AuthorMeta from './AuthorMeta';
 import '../styles/featured.css';
 
-const Featured = ({ post, author }) => {
+const Featured = ({ post }) => {
   const img = post.node.frontmatter.featuredimage.childImageSharp.fluid.src;
   if (img) {
     return (
@@ -37,12 +37,12 @@ const Featured = ({ post, author }) => {
               </Link>
             </header>
             <div className='meta  meta--featured'>
-              <h3 className='meta--featured__title '>
-                <span>Written by</span>
+              <h3 className='meta--featured__written-by text-color--white has-horizontal-dividers'>
+                Written by
               </h3>
 
               <div className='meta--featured__data'>
-                <AuthorMeta author={author} />
+                <AuthorMeta author={post.node.frontmatter.author} />
                 <span className='divider--meta' />
                 <span className='meta__date is-text-centered'>
                   On: {post.node.frontmatter.date}
@@ -75,12 +75,13 @@ const FeaturedPosts = ({ posts, authors, count }) => {
       <section className='featured is-color-white'>
         <div className='featured__container'>
           <Carousel
-            transitionMode='fade'
+            transitionMode='scroll3d'
             heightMode='max'
             cellSpacing={0}
             cellAlign='center'
             swiping={true}
             speed={200}
+            autoplayInterval={4500}
             easing='easeCubic'
             dragging={true}
             initialSlideHeight={500}

@@ -60,6 +60,46 @@
   flex-direction: column;
   text-align: center;
 }
+
+.text-color--white {
+  color: var(--color-white);
+}
+.text-color--dark-light,
+.text-color--dark-light:visited,
+.text-color--dark-light a:visited {
+  color: var(--color-text-third);
+}
+
+.has-horizontal-dividers {
+  position: relative;
+  margin: 0;
+  background: inherit;
+  padding: 0 var(--padding-s);
+  margin: auto;
+  display: table;
+  white-space: nowrap;
+}
+
+.has-horizontal-dividers:before,
+.has-horizontal-dividers:after {
+  content: '';
+  display: block;
+  width: 1000px;
+  position: absolute;
+  top: 0.8em;
+  border-top: 1px solid var(--color-white);
+}
+.has-horizontal-dividers::before {
+  right: 100%;
+}
+
+.has-horizontal-dividers:after {
+  left: 100%;
+}
+.has-horizontal-dividers--on-white:before,
+.has-horizontal-dividers--on-white:after {
+  border-top: 1px solid var(--border-color-light);
+}
 .read-more {
   padding-top: var(--padding-s);
   color: var(--color-text-third);

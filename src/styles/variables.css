@@ -6,7 +6,7 @@
   --padding-l: 24px;
   --padding-xl: 32px;
   --padding-xxl: 48px;
-  --padding-hero: 96px;
+  --padding-hero: 80px;
 
   --margin: 16px;
   --margin-s: 8px;
@@ -35,12 +35,14 @@
   --border-color: rgba(214, 217, 222, 1);
   --border-color-light: #e8e8e8;
 
-  --font-s: 12px;
+  --font-s: 10px;
   --font-base: 14px;
-  --font-m: 1.5rem;
-  --font-l: 2.25rem;
-  --font-xl: 3.375rem;
-  --font-hero: 5.063rem;
+  --font-base-2: 20px;
+  --font-m: 24px;
+  --font-l: 30px;
+  --font-xl: 36px;
+  --font-xxl: 40px;
+  --font-hero: 48px;
 
   --grid-column-width: 250px;
 

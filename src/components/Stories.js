@@ -1,5 +1,4 @@
 import React from 'react';
-import _ from 'lodash';
 
 import Masonry from 'react-masonry-component';
 import { Link } from 'gatsby';
@@ -12,11 +11,8 @@ const masonryOptions = {
   transitionDuration: 0
 };
 
-const Stories = ({ posts, authors }) => {
+const Stories = ({ posts }) => {
   const stories = posts.map(story => {
-    const author = _.find(authors, a => {
-      return a.node.frontmatter.title === story.node.frontmatter.author;
-    });
     return (
       <article
         className='story story--home container--story container story-masonry masonry__item'
@@ -40,7 +36,7 @@ const Stories = ({ posts, authors }) => {
             <div className='meta meta--home-row meta--align-left'>
               <span className='meta__date'>{story.node.frontmatter.date}</span>
               <span className='divider--meta' />
-              <AuthorMeta author={author} />
+              <AuthorMeta author={story.node.frontmatter.author} />
             </div>
             <div className='excerpt'>{story.node.excerpt}</div>
             <Link

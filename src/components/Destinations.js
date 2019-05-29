@@ -1,5 +1,4 @@
 import React from 'react';
-import _ from 'lodash';
 import { Link } from 'gatsby';
 import Img from 'gatsby-image';
 
@@ -7,12 +6,9 @@ import AuthorMeta from './AuthorMeta';
 import '../styles/tips.css';
 import '../styles/destinations.css';
 
-const Destinations = ({ posts, authors }) => {
+const Destinations = ({ posts }) => {
   if (posts) {
     const stories = posts.map(story => {
-      const author = _.find(authors, a => {
-        return a.node.frontmatter.title === story.node.frontmatter.author;
-      });
       return (
         <article
           className='destination article--home has-border article--full-image'
@@ -37,7 +33,7 @@ const Destinations = ({ posts, authors }) => {
                   {story.node.frontmatter.date}
                 </span>
                 <span className='divider--meta' />
-                <AuthorMeta author={author} />
+                <AuthorMeta author={story.node.frontmatter.author} />
               </div>
               <div className='excerpt'>{story.node.excerpt}</div>
               <Link

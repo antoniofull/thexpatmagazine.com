@@ -64,16 +64,27 @@ h6 {
   text-transform: capitalize;
   margin-bottom: var(--margin);
   font-weight: 900;
+  letter-spacing: 1px;
+
+  font-variant: diagonal-fractions;
+  -moz-font-feature-settings: 'frac';
+  -webkit-font-feature-settings: 'frac';
+  font-feature-settings: 'frac';
+
+  font-variant-numeric: ordinal;
+  -moz-font-feature-settings: 'ordn';
+  -webkit-font-feature-settings: 'ordn';
+  font-feature-settings: 'ordn';
 }
 
 h1 {
-  font-size: 40px;
-  line-height: 1;
+  font-size: var(--font-xl);
+  line-height: 1.2;
 }
 
 h2 {
-  font-size: var(--font-m);
-  line-height: 1.3;
+  font-size: var(--font-l);
+  line-height: 1.1;
 }
 
 a {
@@ -92,8 +103,8 @@ a {
 }
 
 .wf-os {
-  font-family: '-apple-system', 'HelveticaNeue-Light', 'Helvetica Neue Light',
-    'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: 2px;
 }
 
 @media screen and (min-width: 768px) {
