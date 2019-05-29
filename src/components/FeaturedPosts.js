@@ -2,7 +2,7 @@ import React from 'react';
 import _ from 'lodash';
 
 import { Link } from 'gatsby';
-import Img from 'gatsby-image';
+// import Img from 'gatsby-image';
 import 'pure-react-carousel/dist/react-carousel.es.css';
 import Carousel from 'nuka-carousel';
 import TextTruncate from 'react-text-truncate';

@@ -49,6 +49,8 @@
 
 @media screen and (min-width: 1024px) {
   :root {
+    --header-height: 80px;
+
     --font-s: 0.667rem;
     --font-base: 16px;
     --font-m: 1.5rem;
