@@ -49,7 +49,7 @@ const TemplateWrapper = ({ children }) => {
         <meta property='og:url' content='/' />
         <meta property='og:image' content='/img/og-image.jpg' />
         <link
-          href='https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i|Playfair+Display:900|Source+Sans+Pro:200&display=swap'
+          href='https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i|Playfair+Display:900&display=swap'
           rel='stylesheet'
         />
       </Helmet>

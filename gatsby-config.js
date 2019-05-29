@@ -1,5 +1,7 @@
 var proxy = require('http-proxy-middleware');
-
+const EventEmitter = require('events');
+const emitter = new EventEmitter();
+emitter.setMaxListeners(50);
 module.exports = {
   siteMetadata: {
     title: 'Thexpatmagazine.com',
@@ -91,7 +93,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-purgecss', // purges all unused/unreferenced css rules
       options: {
-        develop: false // Activates purging in npm run develop
+        develop: true // Activates purging in npm run develop
       }
     }, // must be after other CSS plugins
     'gatsby-plugin-netlify' // make sure to keep it last in the array

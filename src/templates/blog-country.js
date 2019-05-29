@@ -35,11 +35,11 @@ export const CountryQuery = graphql`
       }
     }
     posts: allMarkdownRemark(
-      limit: 1000
+      limit: 200
       sort: { fields: [frontmatter___date], order: DESC }
       filter: {
         frontmatter: {
-          author: { eq: $title }
+          country: { eq: $title }
           templateKey: { eq: "blog-post" }
         }
       }

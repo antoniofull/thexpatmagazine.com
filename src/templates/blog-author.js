@@ -35,7 +35,7 @@ export const AuthorQuery = graphql`
       }
     }
     posts: allMarkdownRemark(
-      limit: 1000
+      limit: 100
       sort: { fields: [frontmatter___date], order: DESC }
       filter: {
         frontmatter: {

@@ -15,9 +15,6 @@ const wrapper = promise =>
 exports.createPages = async ({ actions, graphql }) => {
   const { createPage } = actions;
 
-  const categoryTemplate = require.resolve('./src/templates/categories.js');
-  const authorTemplate = require.resolve('./src/templates/blog-author.js');
-
   const allposts = await wrapper(
     graphql(`
       {
@@ -93,7 +90,10 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   fmImagesToRelative(node); // convert image paths for gatsby images
 
   if (node.internal.type === `MarkdownRemark`) {
-    const value = createFilePath({ node, getNode });
+    const value = createFilePath({
+      node,
+      getNode
+    });
     createNodeField({
       name: `slug`,
       node,

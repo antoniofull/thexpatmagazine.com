@@ -2,7 +2,6 @@ import React from 'react';
 import _ from 'lodash';
 import { Link } from 'gatsby';
 import Palette from 'react-palette';
-import 'pure-react-carousel/dist/react-carousel.es.css';
 import Carousel from 'nuka-carousel';
 
 import AuthorMeta from './AuthorMeta';
@@ -86,8 +85,7 @@ const FeaturedPosts = ({ posts, authors, count }) => {
             dragging={true}
             initialSlideHeight={500}
             enableKeyboardControls={true}
-            // pauseOnHover={true}
-            // autoplay={true}
+            autoplay={true}
             width='100%'
           >
             {posts.map(post => (
