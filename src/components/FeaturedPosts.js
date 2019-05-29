@@ -1,11 +1,9 @@
 import React from 'react';
 import _ from 'lodash';
 import { Link } from 'gatsby';
-// import Img from 'gatsby-image';
 import Palette from 'react-palette';
 import 'pure-react-carousel/dist/react-carousel.es.css';
 import Carousel from 'nuka-carousel';
-import TextTruncate from 'react-text-truncate';
 
 import AuthorMeta from './AuthorMeta';
 import '../styles/featured.css';
@@ -24,7 +22,7 @@ const Featured = ({ post, author }) => {
           <Palette image={img}>
             {palette => (
               <div
-                style={{ backgroundColor: palette.vibrant }}
+                style={{ backgroundColor: palette.vibrantLight }}
                 className='backdrop'
               />
             )}
@@ -33,7 +31,11 @@ const Featured = ({ post, author }) => {
         <div className='featured-post__container has-shadow'>
           <article className='featured-post'>
             <header className='featured-post__header'>
-              <h2 className='featured-title'>{post.node.frontmatter.title}</h2>
+              <Link to={post.node.fields.slug}>
+                <h2 className='featured-title'>
+                  {post.node.frontmatter.title}
+                </h2>
+              </Link>
             </header>
             <div className='meta  meta--featured'>
               <h3 className='meta--featured__title '>
@@ -48,13 +50,6 @@ const Featured = ({ post, author }) => {
                 </span>
               </div>
             </div>
-            <TextTruncate
-              textElement='p'
-              className='excerpt'
-              line={4}
-              truncateText='…'
-              text={post.node.excerpt}
-            />
 
             <Link
               to={post.node.fields.slug}

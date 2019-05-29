@@ -6,7 +6,9 @@
     opacity: 1;
   }
 }
-
+.mobile-nav__text {
+  font-size: 13px;
+}
 .main-nav {
   margin-top: var(--margin-xl);
 }
