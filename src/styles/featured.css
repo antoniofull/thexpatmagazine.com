@@ -1,3 +1,4 @@
+/* purgecss start ignore */
 .featured {
   position: relative;
   height: calc(100vh - calc(var(--header-height) * 2.5));
@@ -28,6 +29,7 @@
   width: 24px;
   height: 24px;
 }
+
 .slider-control-bottomcenter {
   bottom: 8% !important;
 }
@@ -244,3 +246,4 @@
     max-width: 100%;
   }
 }
+/* purgecss end ignore */
