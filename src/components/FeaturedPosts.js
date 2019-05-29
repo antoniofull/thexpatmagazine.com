@@ -37,7 +37,7 @@ const Featured = ({ post }) => {
               </Link>
             </header>
             <div className='meta  meta--featured'>
-              <h3 className='meta--featured__written-by text-color--white has-horizontal-dividers'>
+              <h3 className='meta--featured__written-by text-color--white wf-os has-horizontal-dividers'>
                 Written by
               </h3>
 
@@ -45,7 +45,7 @@ const Featured = ({ post }) => {
                 <AuthorMeta author={post.node.frontmatter.author} />
                 <span className='divider--meta' />
                 <span className='meta__date is-text-centered'>
-                  On: {post.node.frontmatter.date}
+                  {post.node.frontmatter.date}
                 </span>
               </div>
             </div>

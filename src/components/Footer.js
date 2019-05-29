@@ -48,7 +48,7 @@ const Footer = ({ site }) => {
               </a>
             </li>
           </ul>
-          <ul className='page-info'>
+          <ul className='page-info font-small wf-os'>
             <li>
               <Link to={'/pages/write-for-us/'}>Write for Us</Link>
             </li>
@@ -63,7 +63,7 @@ const Footer = ({ site }) => {
           </ul>
         </div>
       </section>
-      <section className='footer-copypright wf-os'>
+      <section className='footer-copypright wf-os font-small'>
         &copy; copyright 2019 - thexpatmagazine.com
       </section>
     </footer>

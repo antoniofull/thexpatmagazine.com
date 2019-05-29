@@ -17,8 +17,10 @@ export const BlogPostTemplate = ({
   tags,
   title,
   author,
+  date,
   image,
   category,
+  timeToRead,
   helmet
 }) => {
   const PostContent = contentComponent || Content;
@@ -28,11 +30,14 @@ export const BlogPostTemplate = ({
       {helmet || ''}
       <div className='container'>
         <div className='post__container'>
-          <h3 className='post__category has-horizontal-dividers--on-white wf-os has-horizontal-dividers text-color--dark-light'>
+          <h3 className='post__category has-horizontal-dividers has-horizontal-dividers--on-white wf-os has-horizontal-dividers text-color--dark-light'>
             {category[0]}
           </h3>
           <h1 className='post__title'>{title}</h1>
           <AuthorMeta author={author} />
+          <p className='wf-os font-small'>
+            Reading time: {timeToRead} / {date}
+          </p>
         </div>
         {image && <Img sizes={image.sizes} className='post__image' />}
 
@@ -86,8 +91,10 @@ const BlogPost = ({ data }) => {
           </Helmet>
         }
         tags={post.frontmatter.tags}
+        date={post.frontmatter.date}
         title={post.frontmatter.title}
         category={post.frontmatter.category}
+        timeToRead={post.timeToRead}
       />
     </Layout>
   );
@@ -106,6 +113,7 @@ export const pageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       id
       html
+      timeToRead
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title

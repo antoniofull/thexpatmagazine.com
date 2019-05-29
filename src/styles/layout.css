@@ -78,6 +78,7 @@
   margin: auto;
   display: table;
   white-space: nowrap;
+  font-family: ;
 }
 
 .has-horizontal-dividers:before,

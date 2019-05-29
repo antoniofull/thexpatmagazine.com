@@ -23,4 +23,5 @@
   margin-bottom: var(--margin);
   font-size: var(--font-s);
   text-transform: uppercase;
+  letter-spacing: 3px;
 }
