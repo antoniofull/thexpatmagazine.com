@@ -71,7 +71,8 @@
   margin: auto;
   display: flex;
   justify-content: space-between;
-  padding-top: var(--margin-l);
+  padding-top: var(--padding-l);
+  margin-bottom: var(--margin-l);
 }
 .footer-social li {
   width: 24px;
@@ -80,6 +81,23 @@
 .social-icon {
   color: var(--color-white);
   fill: var(--color-white);
+}
+.page-info {
+  padding-top: var(--padding-l);
+  display: flex;
+  justify-content: space-between;
+  max-width: 80%;
+  margin: auto;
+}
+.page-info a {
+  color: var(--color-white);
+  text-transform: uppercase;
+}
+.footer-copypright {
+  padding: var(--padding);
+  text-align: center;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  font-size: 14px;
 }
 @media screen and (min-width: 500px) {
   .instagram__link {

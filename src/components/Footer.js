@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'gatsby';
 
 import '../styles/footer.css';
 
@@ -47,7 +48,23 @@ const Footer = ({ site }) => {
               </a>
             </li>
           </ul>
+          <ul className='page-info'>
+            <li>
+              <Link to={'/pages/write-for-us/'}>Write for Us</Link>
+            </li>
+            <li>
+              <Link to={'/pages/advertising-on-the-expat-magazine/'}>
+                Advertising
+              </Link>
+            </li>
+            <li>
+              <Link to={'/pages/privacy-and-cookies-policy/'}>Privacy</Link>
+            </li>
+          </ul>
         </div>
+      </section>
+      <section className='footer-copypright wf-os'>
+        &copy; copyright 2019 - thexpatmagazine.com
       </section>
     </footer>
   );
