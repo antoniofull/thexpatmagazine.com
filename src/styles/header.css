@@ -30,9 +30,6 @@
   align-items: center;
   margin-left: auto;
 }
-.mobile-nav__text {
-  margin-right: var(--margin-s);
-}
 .logo svg {
   height: 100%;
 }

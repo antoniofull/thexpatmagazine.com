@@ -13,6 +13,20 @@
 .main-nav--desktop {
   font-size: 16px;
 }
+.mobile-toggle .hamburger {
+  flex: 1;
+  margin-left: var(--margin-s);
+  margin-top: 2px;
+}
+.hamburger:after {
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  content: '';
+  top: 50%;
+  right: 5px;
+  transform: translateY(-50%);
+}
 
 .nav--mobile {
   width: 100%;
