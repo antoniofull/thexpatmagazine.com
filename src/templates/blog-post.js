@@ -48,7 +48,6 @@ export const BlogPostTemplate = ({
         </div>
         {image && <Img sizes={image.sizes} className='post__image' />}
         <div className='post__content'>
-          <p className='post__summary'>Summary: {description}</p>
           <PostContent content={content} />
           {tags && tags.length ? (
             <div className='post__tags'>

@@ -6,6 +6,9 @@
 
 .post__summary {
   font-style: italic;
+  padding: var(--padding-l);
+  border-bottom: 1px solid var(--border-color-light);
+  margin-bottom: var(--margin);
 }
 .post__image {
   margin-bottom: var(--margin-l);
