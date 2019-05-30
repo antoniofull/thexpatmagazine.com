@@ -73,6 +73,7 @@
 }
 .main-nav__item {
   margin-bottom: var(--margin);
+  font-size: var(--font-fixed-mobile);
 }
 
 .main-nav__item a {
