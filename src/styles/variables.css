@@ -37,6 +37,7 @@
 
   --font-s: 10px;
   --font-base: 14px;
+  --font-fixed: 14px;
   --font-base-2: 20px;
   --font-m: 24px;
   --font-l: 30px;
@@ -53,8 +54,9 @@
   :root {
     --header-height: 80px;
 
+    --font-fixed: 16px;
     --font-s: 0.667rem;
-    --font-base: 16px;
+    --font-base: 18px;
     --font-m: 1.5rem;
     --font-l: 2.25rem;
     --font-xl: 3.375rem;

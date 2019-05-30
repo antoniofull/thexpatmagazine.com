@@ -21,7 +21,7 @@
   margin: 0 auto var(--margin) auto;
 }
 .post__category {
-  margin-bottom: var(--margin);
+  margin-bottom: var(--margin-l);
   font-size: var(--font-s);
   text-transform: uppercase;
   letter-spacing: 3px;
@@ -31,7 +31,7 @@
 }
 
 .post__date {
-  margin: var(--margin) auto;
+  margin: var(--margin-s) auto;
   display: block;
   text-align: center;
 }
@@ -58,4 +58,29 @@
 .post__content {
   padding-left: var(--padding);
   padding-right: var(--padding);
+  max-width: 700px;
+  margin: auto;
+  font-size: 18px;
+}
+.post__tags {
+  overflow-x: hidden;
+}
+.taglist {
+  margin-bottom: var(--margin);
+  margin-top: var(--margin-s);
+  display: flex;
+}
+.post__tag a {
+  color: var(--color-primary);
+}
+.post__tag a:visited,
+.post__tag a:active {
+  color: var(--color-accent);
+}
+.post__tag {
+  background-color: var(--color-secondary);
+  border-radius: var(--border-radius);
+  display: inline-block;
+  padding: var(--padding-s);
+  margin-right: var(--margin-s);
 }

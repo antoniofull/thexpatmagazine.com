@@ -163,7 +163,12 @@
   border-bottom: 2px solid var(--color-primary);
   display: inline-block;
 }
-
+.excerpt {
+  margin-bottom: var(--margin-l);
+  font-size: var(--font-fixed);
+  width: 95%;
+  max-width: 700px;
+}
 @media screen and (min-width: 667px) {
   .has-border {
     border: 1px solid var(--border-color-light);
@@ -199,6 +204,9 @@
       display: grid;
       grid-template-columns: repeat(3, minmax(var(--grid-column-width), 1fr));
     }
+  }
+  .excerpt {
+    font-size: var(--font-fixed);
   }
 }
 

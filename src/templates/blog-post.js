@@ -30,9 +30,12 @@ export const BlogPostTemplate = ({
       {helmet || ''}
       <div className='container'>
         <div className='post__container'>
-          <h3 className='post__category has-horizontal-dividers has-horizontal-dividers--on-white wf-os has-horizontal-dividers text-color--dark-light'>
-            {category[0]}
-          </h3>
+          {category && category.length && (
+            <h3 className='post__category has-horizontal-dividers has-horizontal-dividers--on-white wf-os has-horizontal-dividers text-color--dark-light'>
+              {category[0]}
+            </h3>
+          )}
+
           <span className='wf-os font-small post__date'>{date}</span>
           <h1 className='post__title'>{title}</h1>
           <AuthorMeta
@@ -45,19 +48,21 @@ export const BlogPostTemplate = ({
         <div className='post__content'>
           <p className='post__summary'>Summary: {description}</p>
           <PostContent content={content} />
+          {tags && tags.length ? (
+            <div className='post__tags'>
+              <h4 className='has-horizontal-dividers wf-os font-small has-horizontal-dividers--on-white'>
+                Tags
+              </h4>
+              <ul className='taglist'>
+                {tags.map(tag => (
+                  <li className='font-small wf-os post__tag' key={tag + `tag`}>
+                    <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ) : null}
         </div>
-        {tags && tags.length ? (
-          <div style={{ marginTop: `4rem` }}>
-            <h4>Tags</h4>
-            <ul className='taglist'>
-              {tags.map(tag => (
-                <li key={tag + `tag`}>
-                  <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                </li>
-              ))}
-            </ul>
-          </div>
-        ) : null}
       </div>
     </section>
   );

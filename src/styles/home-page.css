@@ -95,12 +95,7 @@ body {
 .article--home__content {
   padding: var(--padding-l);
 }
-.excerpt {
-  margin-bottom: var(--margin-l);
 
-  width: 95%;
-  max-width: 700px;
-}
 @media screen and (min-width: 667px) {
   .article--home {
     max-width: 49%;
@@ -122,9 +117,7 @@ body {
   .article--home {
     max-width: 31%;
   }
-  .excerpt {
-    font-size: 16px;
-  }
+
   @supports (display: grid) {
     .container-home--articles {
       display: grid;
