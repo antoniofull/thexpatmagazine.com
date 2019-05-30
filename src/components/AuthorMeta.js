@@ -13,7 +13,6 @@ const AuthorMeta = props => {
     return a.node.frontmatter.title === props.author;
   });
   if (author) {
-    console.log(author);
     return (
       <div
         className={`meta wf-os text-color--dark-light post-meta--author ${

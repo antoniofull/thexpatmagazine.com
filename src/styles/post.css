@@ -6,8 +6,6 @@
 
 .post__summary {
   font-style: italic;
-  max-width: 95%;
-  margin: var(--margin) auto;
 }
 .post__image {
   margin-bottom: var(--margin-l);
@@ -55,4 +53,9 @@
 
 .post__meta {
   float: right;
+}
+
+.post__content {
+  padding-left: var(--padding);
+  padding-right: var(--padding);
 }

@@ -42,9 +42,10 @@ export const BlogPostTemplate = ({
           />
         </div>
         {image && <Img sizes={image.sizes} className='post__image' />}
-
-        <p className='post__summary'>Summary: {description}</p>
-        <PostContent content={content} />
+        <div className='post__content'>
+          <p className='post__summary'>Summary: {description}</p>
+          <PostContent content={content} />
+        </div>
         {tags && tags.length ? (
           <div style={{ marginTop: `4rem` }}>
             <h4>Tags</h4>
