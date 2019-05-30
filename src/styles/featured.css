@@ -123,7 +123,7 @@
 .featured-title {
   color: var(--color-white);
   text-align: center;
-  font-size: var(--font-l);
+  font-size: var(--font-xl);
 }
 .read-more--featured {
   display: none;

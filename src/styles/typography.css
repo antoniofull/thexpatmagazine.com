@@ -131,9 +131,10 @@ a {
   .wf-large {
     font-size: var(--font-xl);
   }
-  h2 {
-    font-size: var(--font-m);
-    line-height: 1.3;
+
+  h1 {
+    font-size: var(--font-hero);
+    line-height: 1.2;
   }
 }
 

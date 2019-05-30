@@ -35,15 +35,16 @@
   --border-color: rgba(214, 217, 222, 1);
   --border-color-light: #e8e8e8;
 
-  --font-s: 10px;
+  --font-s: 0.72rem;
   --font-base: 14px;
   --font-fixed: 14px;
-  --font-base-2: 20px;
-  --font-m: 24px;
-  --font-l: 30px;
-  --font-xl: 36px;
-  --font-xxl: 40px;
-  --font-hero: 48px;
+  --font-base-2: 1.428571rem;
+  --font-m: 1.714285rem;
+  --font-l: 2.142857rem;
+  --font-xl: 2.571428rem;
+  --font-xxl: 2.85714rem;
+  --font-hero: 3.428571rem;
+  --font-fixed-mobile: 16px;
 
   --grid-column-width: 250px;
 
@@ -55,12 +56,6 @@
     --header-height: 80px;
 
     --font-fixed: 16px;
-    --font-s: 0.667rem;
     --font-base: 18px;
-    --font-m: 1.5rem;
-    --font-l: 2.25rem;
-    --font-xl: 3.375rem;
-    --font-xxl: 5.063rem;
-    --font-fixed-mobile: 16px;
   }
 }

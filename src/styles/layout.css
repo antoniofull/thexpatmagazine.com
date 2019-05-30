@@ -104,20 +104,21 @@
 .read-more {
   padding-top: var(--padding-s);
   color: var(--color-text-third);
-  display: block;
   text-decoration: none;
   text-transform: uppercase;
   text-align: right;
   transition: all 0.5s cubic-bezier(0.19, 1, 0.22, 1) !important;
   font-size: 14px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
 }
 .read-more:hover {
   color: var(--color-action);
 }
 .arrow-action {
   font-size: var(--font-m);
-  display: inline-block;
-  vertical-align: middle;
+  margin-left: var(--margin-s);
 }
 .read-more:hover .arrow-action {
   color: var(--color-text-third);

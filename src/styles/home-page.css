@@ -90,12 +90,11 @@ body {
 }
 
 .meta--home-row {
-  margin-bottom: var(--margin-xl);
+  margin-bottom: var(--margin-l);
 }
 .article--home__content {
   padding: var(--padding-l);
 }
-
 @media screen and (min-width: 667px) {
   .article--home {
     max-width: 49%;

@@ -13,6 +13,9 @@
 .post__title {
   text-align: center;
   margin-bottom: var(--margin);
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .post__container {
   width: calc(100% - var(--padding-xl));
