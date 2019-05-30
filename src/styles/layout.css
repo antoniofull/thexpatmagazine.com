@@ -101,6 +101,9 @@
 .has-horizontal-dividers--on-white:after {
   border-top: 1px solid var(--border-color-light);
 }
+.has-overflow-hidden {
+  overflow: hidden;
+}
 .read-more {
   padding-top: var(--padding-s);
   color: var(--color-text-third);

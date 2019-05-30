@@ -9,6 +9,7 @@
 }
 .post__image {
   margin-bottom: var(--margin-l);
+  max-height: 640px;
 }
 .post__title {
   text-align: center;
@@ -86,4 +87,8 @@
   display: inline-block;
   padding: var(--padding-s);
   margin-right: var(--margin-s);
+}
+.post__meta-container {
+  max-width: 400px;
+  margin: auto;
 }

@@ -31,9 +31,11 @@ export const BlogPostTemplate = ({
       <div className='container'>
         <div className='post__container'>
           {category && category.length && (
-            <h3 className='post__category has-horizontal-dividers has-horizontal-dividers--on-white wf-os has-horizontal-dividers text-color--dark-light'>
-              {category[0]}
-            </h3>
+            <div className='has-overflow-hidden post__meta-container'>
+              <h3 className='post__category has-horizontal-dividers has-horizontal-dividers--on-white wf-os has-horizontal-dividers text-color--dark-light'>
+                {category[0]}
+              </h3>
+            </div>
           )}
 
           <span className='wf-os font-small post__date'>{date}</span>
