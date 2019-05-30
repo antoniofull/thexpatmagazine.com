@@ -33,11 +33,13 @@ export const BlogPostTemplate = ({
           <h3 className='post__category has-horizontal-dividers has-horizontal-dividers--on-white wf-os has-horizontal-dividers text-color--dark-light'>
             {category[0]}
           </h3>
+          <span className='wf-os font-small post__date'>{date}</span>
           <h1 className='post__title'>{title}</h1>
-          <AuthorMeta author={author} />
-          <p className='wf-os font-small'>
-            Reading time: {timeToRead} / {date}
-          </p>
+          <AuthorMeta
+            readingTime={timeToRead}
+            className='post__author'
+            author={author}
+          />
         </div>
         {image && <Img sizes={image.sizes} className='post__image' />}
 

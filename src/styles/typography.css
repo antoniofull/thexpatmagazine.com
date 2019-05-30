@@ -51,6 +51,8 @@ body {
 
 p {
   margin-bottom: var(--margin);
+  word-break: break-all;
+  overflow-wrap: break-word;
 }
 
 h1,
@@ -64,7 +66,7 @@ h6 {
   text-transform: capitalize;
   margin-bottom: var(--margin);
   font-weight: 900;
-  letter-spacing: 1px;
+  letter-spacing: 0.04rem;
 
   font-variant: diagonal-fractions;
   -moz-font-feature-settings: 'frac';
