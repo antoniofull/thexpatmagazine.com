@@ -37,25 +37,25 @@
   margin: auto;
 }
 
-.post__date {
-  margin: var(--margin-s) auto;
-  display: block;
+.post__top-meta {
+  max-width: 280px;
   text-align: center;
+  margin: var(--margin-s) auto;
+  text-transform: uppercase;
 }
-
 .post__author .post-meta--author__image {
-  float: left;
-  width: 36px;
-  height: 36px;
-  margin-right: var(--margin);
+  width: 24px;
+  height: 24px;
+  margin-right: var(--margin-s);
 }
 .post__author .post-meta--author__link {
-  display: block;
+  display: flex;
   margin-bottom: var(--margin-s);
 }
 .post__author .post-meta--author__name {
   margin: auto;
   text-align: center;
+  text-transform: uppercase;
 }
 
 .post__meta {

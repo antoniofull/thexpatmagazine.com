@@ -187,7 +187,7 @@
     font-size: 100%;
   }
   .featured-title {
-    font-size: var(--font-xl);
+    font-size: var(--font-xxl);
   }
 }
 
@@ -204,7 +204,7 @@
     padding-bottom: var(--margin-hero);
   }
   .featured-title {
-    font-size: var(--font-xl);
+    font-size: var(--font-hero);
     max-width: 100%;
   }
   .featured-post__container {

@@ -30,18 +30,14 @@ export const BlogPostTemplate = ({
       {helmet || ''}
       <div className='container'>
         <div className='post__container'>
-          {category && category.length && (
-            <div className='has-overflow-hidden post__meta-container'>
-              <h3 className='post__category has-horizontal-dividers has-horizontal-dividers--on-white wf-os has-horizontal-dividers text-color--dark-light'>
-                {category[0]}
-              </h3>
-            </div>
-          )}
+          <p className='wf-os font-small post__top-meta'>
+            <span className='post__date'>{date}</span> /{' '}
+            {category && category.length && <span> {category[0]}</span>}
+          </p>
 
-          <span className='wf-os font-small post__date'>{date}</span>
           <h1 className='post__title'>{title}</h1>
           <AuthorMeta
-            readingTime={timeToRead}
+            // readingTime={timeToRead}
             className='post__author'
             author={author}
           />
