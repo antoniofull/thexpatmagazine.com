@@ -120,7 +120,12 @@ collections:
           widget: 'select',
           options: ['author', 'guest-author'],
         }
-      - { label: 'Name', name: 'title', widget: 'string' }
+      - { label: 'Name', name: 'name', widget: 'string' }
+      - {
+          label: 'Title (used for the url, do not use accent or other characters)',
+          name: 'title',
+          widget: 'string',
+        }
       - { label: 'Bio (In Markdown)', name: 'bio', widget: 'markdown' }
       - { label: 'Photo', name: 'photo', widget: image }
       - { label: 'Website', name: 'website', widget: 'string', required: false }

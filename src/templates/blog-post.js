@@ -21,6 +21,7 @@ export const BlogPostTemplate = ({
   image,
   category,
   timeToRead,
+  name,
   helmet
 }) => {
   const PostContent = contentComponent || Content;
@@ -35,7 +36,7 @@ export const BlogPostTemplate = ({
             {category && category.length && <span> {category[0]}</span>}
           </p>
 
-          <h1 className='post__title'>{title}</h1>
+          <h1 className='post__title'>{name}</h1>
           <AuthorMeta
             // readingTime={timeToRead}
             className='post__author'
@@ -100,6 +101,7 @@ const BlogPost = ({ data }) => {
         title={post.frontmatter.title}
         category={post.frontmatter.category}
         timeToRead={post.timeToRead}
+        name={post.frontmatter.name}
       />
     </Layout>
   );
@@ -126,6 +128,7 @@ export const pageQuery = graphql`
         tags
         category
         author
+        name
         featuredimage {
           childImageSharp {
             sizes(maxWidth: 1200) {
