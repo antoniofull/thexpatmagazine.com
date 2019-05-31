@@ -33,10 +33,17 @@ export const BlogPostTemplate = ({
         <div className='post__container'>
           <p className='wf-os font-small post__top-meta'>
             <span className='post__date'>{date}</span> /{' '}
-            {category && category.length && <span> {category[0]}</span>}
+            {category && category.length && (
+              <span>
+                {' '}
+                <Link to={`/categories/${kebabCase(category[0])}/`}>
+                  {category[0]}
+                </Link>
+              </span>
+            )}
           </p>
 
-          <h1 className='post__title'>{name}</h1>
+          <h1 className='post__title'>{title}</h1>
           <AuthorMeta
             // readingTime={timeToRead}
             className='post__author'
@@ -45,7 +52,7 @@ export const BlogPostTemplate = ({
         </div>
         {image && <Img sizes={image.sizes} className='post__image' />}
         <div className='post__content'>
-          <PostContent content={content} />
+          <PostContent content={content} className='post__article' />
           {tags && tags.length ? (
             <div className='post__tags'>
               <h4 className='has-horizontal-dividers wf-os font-small has-horizontal-dividers--on-white'>

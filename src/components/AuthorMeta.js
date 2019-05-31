@@ -7,10 +7,10 @@ import '../styles/meta.css';
 
 const AuthorMeta = props => {
   const authors = props.data.allMarkdownRemark.edges;
-  const { readingTime } = props;
+  // const { readingTime } = props;
 
   const author = _.find(authors, a => {
-    return a.node.frontmatter.title === props.author;
+    return a.node.frontmatter.name === props.author;
   });
   if (author) {
     return (
@@ -49,6 +49,7 @@ export default props => (
               frontmatter {
                 title
                 description
+                name
                 photo {
                   childImageSharp {
                     sizes(maxWidth: 60) {
