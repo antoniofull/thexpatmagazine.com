@@ -25,7 +25,6 @@ export const BlogPostTemplate = ({
   helmet
 }) => {
   const PostContent = contentComponent || Content;
-
   return (
     <section className='section post'>
       {helmet || ''}
@@ -81,8 +80,9 @@ BlogPostTemplate.propTypes = {
   helmet: PropTypes.object
 };
 
-const BlogPost = ({ data }) => {
-  const { markdownRemark: post } = data;
+const BlogPost = props => {
+  const { markdownRemark: post } = props.data;
+  const { relatedArticles } = props.pageContext;
   return (
     <Layout>
       <BlogPostTemplate

@@ -3,6 +3,33 @@ const path = require('path');
 const { createFilePath } = require('gatsby-source-filesystem');
 const { fmImagesToRelative } = require('gatsby-remark-relative-images');
 
+/**
+ *
+ * @param {Object} currentArticle
+ * @param {Array} articles
+ * @return {Array} a list of related articles
+ */
+
+const getRelatedArticles = (currentArticle, articles) => {
+  const CATEGORIES_IN_COMMON = 1;
+  const verifyCategories = ({ node }) => {
+    if (currentArticle.node.id === node.id) {
+      return false;
+    }
+    const categoriesInCommon = _.intersectionBy(
+      currentArticle.node.frontmatter.category,
+      node.frontmatter.category,
+      category => category
+    );
+    return categoriesInCommon.length >= CATEGORIES_IN_COMMON;
+  };
+  const related = articles.filter(verifyCategories);
+  if (related.length > 3) {
+    return related;
+  }
+  return null;
+};
+
 const wrapper = promise =>
   promise.then(result => {
     if (result.errors) {
@@ -57,7 +84,8 @@ exports.createPages = async ({ actions, graphql }) => {
       context: {
         id,
         author,
-        title
+        title,
+        relatedArticles: getRelatedArticles(edge, posts)
       }
     });
   });
