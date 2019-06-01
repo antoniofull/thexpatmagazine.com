@@ -2,6 +2,7 @@ const _ = require('lodash');
 const path = require('path');
 const { createFilePath } = require('gatsby-source-filesystem');
 const { fmImagesToRelative } = require('gatsby-remark-relative-images');
+const createPaginatedPages = require('gatsby-paginate');
 
 /**
  *
@@ -25,7 +26,7 @@ const getRelatedArticles = (currentArticle, articles) => {
   };
   const related = articles.filter(verifyCategories);
   if (related.length > 3) {
-    return related;
+    return related.slice(0, 4);
   }
   return null;
 };
