@@ -43,7 +43,7 @@ const Navbar = class extends React.Component {
     return (
       <Header>
         <Link className='logo' to='/'>
-          <Logo alt={'The Expat Magazine'} />
+          <Logo className='logo--svg' alt={'The Expat Magazine'} />
         </Link>
         <MediaQuery query='(max-width: 1024px)'>
           <div className='mobile-toggle' onClick={this.toggleHamburger}>

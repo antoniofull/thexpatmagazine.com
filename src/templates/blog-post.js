@@ -22,7 +22,8 @@ export const BlogPostTemplate = ({
   category,
   timeToRead,
   name,
-  helmet
+  helmet,
+  relatedArticles
 }) => {
   const PostContent = contentComponent || Content;
   return (
@@ -109,6 +110,7 @@ const BlogPost = props => {
         category={post.frontmatter.category}
         timeToRead={post.timeToRead}
         name={post.frontmatter.name}
+        relatedArticles={relatedArticles}
       />
     </Layout>
   );
