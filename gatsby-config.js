@@ -18,6 +18,7 @@ module.exports = {
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     `gatsby-plugin-transition-link`,
+
     {
       resolve: `gatsby-source-instagram`,
       options: {

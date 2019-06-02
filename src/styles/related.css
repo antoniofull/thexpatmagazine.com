@@ -25,7 +25,7 @@
   height: 100%;
 }
 .related-post__header {
-  font-size: var(--font-m);
+  font-size: var(--font-base);
   position: absolute;
   top: 50%;
   left: 50%;

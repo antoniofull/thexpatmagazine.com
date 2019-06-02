@@ -20,6 +20,7 @@ const RelatedArticles = props => {
                   className='related-post has-shadow'
                 >
                   <img
+                    alt={article.node.frontmatter.description}
                     className='related-post__image'
                     src={article.node.frontmatter.featuredimage.publicURL}
                   />

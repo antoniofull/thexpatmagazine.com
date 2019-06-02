@@ -4,6 +4,8 @@ import { kebabCase } from 'lodash';
 import Helmet from 'react-helmet';
 import { graphql, Link } from 'gatsby';
 import Img from 'gatsby-image';
+import { DiscussionEmbed } from 'disqus-react';
+
 import Layout from '../components/Layout';
 import AuthorMeta from '../components/AuthorMeta';
 import Content, { HTMLContent } from '../components/Content';
@@ -23,10 +25,16 @@ export const BlogPostTemplate = ({
   category,
   timeToRead,
   name,
+  id,
+  url,
   helmet,
   relatedArticles
 }) => {
   const PostContent = contentComponent || Content;
+  const disqusConfig = {
+    shortname: 'thexpatmagazine',
+    config: { id: url, title }
+  };
   return (
     <section className='section post'>
       {helmet || ''}
@@ -69,6 +77,7 @@ export const BlogPostTemplate = ({
             </div>
           ) : null}
           <RelatedArticles articles={relatedArticles} />
+          <DiscussionEmbed {...disqusConfig} />
         </div>
       </div>
     </section>
@@ -113,6 +122,8 @@ const BlogPost = props => {
         timeToRead={post.timeToRead}
         name={post.frontmatter.name}
         relatedArticles={relatedArticles}
+        id={post.id}
+        url={post.fields.slug}
       />
     </Layout>
   );
@@ -132,6 +143,9 @@ export const pageQuery = graphql`
       id
       html
       timeToRead
+      fields {
+        slug
+      }
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
