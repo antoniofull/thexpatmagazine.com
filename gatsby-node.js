@@ -60,6 +60,10 @@ exports.createPages = async ({ actions, graphql }) => {
                 category
                 templateKey
                 title
+                description
+                featuredimage {
+                  publicURL
+                }
               }
             }
           }

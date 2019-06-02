@@ -36,17 +36,17 @@
 .instagram__container {
   height: 250px;
   display: flex;
+  flex-wrap: nowrap;
   overflow-x: scroll;
   overflow-y: hidden;
   margin: auto;
-  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
 }
 .instagram__link {
   height: 100%;
   width: 50%;
   min-width: 90%;
-  scroll-snap-align: start;
-  scroll-snap-stop: always;
+  flex: 0 0 auto;
 }
 .main-footer__container {
   max-width: 650px;

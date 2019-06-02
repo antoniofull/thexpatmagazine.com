@@ -77,7 +77,7 @@
 .post__article > p:first-of-type::first-letter {
   font-size: 96px;
   line-height: 90px;
-  padding: 0 0.15em 0 0;
+  padding: 0 0.08em 0 0;
   float: left;
   initial-letter: 3;
 }
@@ -85,11 +85,12 @@
   overflow-x: hidden;
 }
 .taglist {
-  margin-bottom: var(--margin);
+  margin-bottom: var(--margin-xxl);
   margin-top: var(--margin-s);
   display: flex;
   align-items: flex-start;
   flex-wrap: wrap;
+  border-bottom: 1px solid var(--border-color-light);
 }
 .post__tag {
   background-color: var(--color-secondary);

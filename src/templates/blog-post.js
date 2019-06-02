@@ -7,6 +7,7 @@ import Img from 'gatsby-image';
 import Layout from '../components/Layout';
 import AuthorMeta from '../components/AuthorMeta';
 import Content, { HTMLContent } from '../components/Content';
+import RelatedArticles from '../components/RelatedArticles';
 
 import '../styles/post.css';
 
@@ -67,6 +68,7 @@ export const BlogPostTemplate = ({
               </ul>
             </div>
           ) : null}
+          <RelatedArticles articles={relatedArticles} />
         </div>
       </div>
     </section>

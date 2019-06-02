@@ -13,7 +13,7 @@ const InstagramFeed = ({ data }) => (
       {data.map(edge => (
         <a
           key={edge.node.id}
-          href={edge.node.original}
+          href='https://instagram.com/the_expatmagazine'
           className='instagram__link'
           target='_blank'
           rel='noopener noreferrer'
