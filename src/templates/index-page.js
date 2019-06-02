@@ -7,6 +7,7 @@ import FeaturedPosts from '../components/FeaturedPosts';
 import Stories from '../components/Stories';
 import Tips from '../components/Tips';
 import Destinations from '../components/Destinations';
+import Loader from '../components/Loader';
 
 import '../styles/variables.css';
 import '../styles/reset.css';
@@ -87,7 +88,7 @@ class IndexPage extends Component {
     return (
       <Layout>
         <main className='home'>
-          <div className='loader'>Loading Articles ...</div>
+          <Loader />
         </main>
       </Layout>
     );
