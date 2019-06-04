@@ -10,7 +10,7 @@ const AuthorRoute = ({ data }) => {
     <Layout>
       <section className='blog-author'>
         <Helmet title={`title`} />
-        <p>{author.frontmatter.title}</p>
+        <p>{author.frontmatter.name}</p>
         {posts.edges.map(post => (
           <Link to={post.node.fields.slug} key={post.node.id}>
             {post.node.frontmatter.title} - {post.node.frontmatter.author}{' '}
@@ -30,6 +30,7 @@ export const AuthorQuery = graphql`
       id
       html
       frontmatter {
+        name
         title
         description
       }

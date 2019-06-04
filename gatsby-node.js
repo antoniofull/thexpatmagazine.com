@@ -3,6 +3,7 @@ const path = require('path');
 const { createFilePath } = require('gatsby-source-filesystem');
 const { fmImagesToRelative } = require('gatsby-remark-relative-images');
 const createPaginatedPages = require('gatsby-paginate');
+const removeAccents = require('remove-accents');
 
 /**
  *
@@ -77,6 +78,9 @@ exports.createPages = async ({ actions, graphql }) => {
   posts.forEach(edge => {
     const id = edge.node.id;
     const { author, title } = edge.node.frontmatter;
+    if (author) {
+      console.log(removeAccents(author).toLowerCase());
+    }
     createPage({
       path: edge.node.fields.slug,
       tags: edge.node.frontmatter.tags,
@@ -88,8 +92,8 @@ exports.createPages = async ({ actions, graphql }) => {
       // additional data can be passed via context
       context: {
         id,
-        author,
-        title,
+        author: author ? removeAccents(author) : null,
+        title: title ? removeAccents(title) : null,
         relatedArticles: getRelatedArticles(edge, posts)
       }
     });
