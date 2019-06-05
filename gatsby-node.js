@@ -70,7 +70,7 @@ exports.createPages = async ({ actions, graphql }) => {
   const categories = categoriesPosts.data.allMarkdownRemark.group;
 
   categories.forEach(g => {
-    const catPath = `${_.kebabCase(g.fieldValue)}`;
+    const catPath = _.kebabCase(g.fieldValue);
     const count = g.totalCount;
     createPaginatedPages({
       edges: g.edges,
@@ -84,7 +84,58 @@ exports.createPages = async ({ actions, graphql }) => {
     createPage({
       path: catPath,
       component: path.resolve(`src/templates/categories.js`),
-      context: {}
+      context: {
+        title: g.fieldValue
+      }
+    });
+  });
+
+  // All countries posts
+
+  const countriesPosts = await wrapper(
+    graphql(`
+      {
+        allMarkdownRemark {
+          group(field: frontmatter___country) {
+            fieldValue
+            totalCount
+            edges {
+              node {
+                id
+                fields {
+                  slug
+                }
+                frontmatter {
+                  title
+                }
+              }
+            }
+          }
+        }
+      }
+    `)
+  );
+
+  const countries = countriesPosts.data.allMarkdownRemark.group;
+
+  countries.forEach(g => {
+    const countryPath = `${_.kebabCase(g.fieldValue)}`;
+    const count = g.totalCount;
+    createPaginatedPages({
+      edges: g.edges,
+      createPage: createPage,
+      pageTemplate: 'src/templates/blog-country.js',
+      pageLength: 15,
+      pathPrefix: countryPath,
+      buildPath: (index, pathPrefix) =>
+        index > 1 ? `${pathPrefix}/${index}` : `/${pathPrefix}` // This is optional and this is the default
+    });
+    createPage({
+      path: countryPath,
+      component: path.resolve(`src/templates/blog-country.js`),
+      context: {
+        name: g.fieldValue
+      }
     });
   });
 
@@ -123,7 +174,10 @@ exports.createPages = async ({ actions, graphql }) => {
   posts.forEach(edge => {
     const id = edge.node.id;
     const { author, title } = edge.node.frontmatter;
-    if (edge.node.frontmatter.templateKey !== 'categories') {
+    if (
+      edge.node.frontmatter.templateKey !== 'categories' ||
+      edge.node.frontmatter.templateKey !== 'blog-country'
+    ) {
       createPage({
         path: edge.node.fields.slug,
         tags: edge.node.frontmatter.tags,
