@@ -181,8 +181,6 @@ exports.createPages = async ({ actions, graphql }) => {
       createPage({
         path: edge.node.fields.slug,
         tags: edge.node.frontmatter.tags,
-        categories: edge.node.frontmatter.category,
-        countries: edge.node.frontmatter.country,
         component: path.resolve(
           `src/templates/${String(edge.node.frontmatter.templateKey)}.js`
         ),
