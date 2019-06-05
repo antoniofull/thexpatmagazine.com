@@ -3,7 +3,6 @@ const path = require('path');
 const { createFilePath } = require('gatsby-source-filesystem');
 const { fmImagesToRelative } = require('gatsby-remark-relative-images');
 const createPaginatedPages = require('gatsby-paginate');
-const removeAccents = require('remove-accents');
 
 /**
  *
@@ -44,6 +43,52 @@ const wrapper = promise =>
 exports.createPages = async ({ actions, graphql }) => {
   const { createPage } = actions;
 
+  const categoriesPosts = await wrapper(
+    graphql(`
+      {
+        allMarkdownRemark {
+          group(field: frontmatter___category) {
+            fieldValue
+            totalCount
+            edges {
+              node {
+                id
+                fields {
+                  slug
+                }
+                frontmatter {
+                  title
+                }
+              }
+            }
+          }
+        }
+      }
+    `)
+  );
+
+  const categories = categoriesPosts.data.allMarkdownRemark.group;
+
+  categories.forEach(g => {
+    const catPath = `${_.kebabCase(g.fieldValue)}`;
+    const count = g.totalCount;
+    createPaginatedPages({
+      edges: g.edges,
+      createPage: createPage,
+      pageTemplate: 'src/templates/categories.js',
+      pageLength: 15,
+      pathPrefix: catPath,
+      buildPath: (index, pathPrefix) =>
+        index > 1 ? `${pathPrefix}/${index}` : `/${pathPrefix}` // This is optional and this is the default
+    });
+    createPage({
+      path: catPath,
+      component: path.resolve(`src/templates/categories.js`),
+      context: {}
+    });
+  });
+
+  // All Blog Posts
   const allposts = await wrapper(
     graphql(`
       {
@@ -78,25 +123,24 @@ exports.createPages = async ({ actions, graphql }) => {
   posts.forEach(edge => {
     const id = edge.node.id;
     const { author, title } = edge.node.frontmatter;
-    if (author) {
-      console.log(removeAccents(author).toLowerCase());
+    if (edge.node.frontmatter.templateKey !== 'categories') {
+      createPage({
+        path: edge.node.fields.slug,
+        tags: edge.node.frontmatter.tags,
+        categories: edge.node.frontmatter.category,
+        countries: edge.node.frontmatter.country,
+        component: path.resolve(
+          `src/templates/${String(edge.node.frontmatter.templateKey)}.js`
+        ),
+        // additional data can be passed via context
+        context: {
+          id,
+          author,
+          title,
+          relatedArticles: getRelatedArticles(edge, posts)
+        }
+      });
     }
-    createPage({
-      path: edge.node.fields.slug,
-      tags: edge.node.frontmatter.tags,
-      categories: edge.node.frontmatter.category,
-      countries: edge.node.frontmatter.country,
-      component: path.resolve(
-        `src/templates/${String(edge.node.frontmatter.templateKey)}.js`
-      ),
-      // additional data can be passed via context
-      context: {
-        id,
-        author: author ? removeAccents(author) : null,
-        title: title ? removeAccents(title) : null,
-        relatedArticles: getRelatedArticles(edge, posts)
-      }
-    });
   });
 
   // Tag pages:
