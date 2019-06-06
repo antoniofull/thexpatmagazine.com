@@ -68,7 +68,7 @@ collections:
     label: 'Category'
     folder: 'src/pages/categories'
     create: true
-    slug: '{{title}}'
+    slug: '{{slug}}'
     fields:
       - {
           label: 'Site Setting',
