@@ -46,11 +46,8 @@ exports.createPages = async ({ actions, graphql }) => {
   const categoriesPosts = await wrapper(
     graphql(`
       {
-        allMarkdownRemark {
-          group(
-            field: frontmatter___category
-            sort: { fields: [frontmatter___date], order: DESC }
-          ) {
+        allMarkdownRemark(sort: { fields: frontmatter___date, order: ASC }) {
+          group(field: frontmatter___category) {
             fieldValue
             totalCount
             edges {
@@ -90,11 +87,8 @@ exports.createPages = async ({ actions, graphql }) => {
   const countriesPosts = await wrapper(
     graphql(`
       {
-        allMarkdownRemark {
-          group(
-            field: frontmatter___country
-            sort: { fields: [frontmatter___date], order: DESC }
-          ) {
+        allMarkdownRemark(sort: { fields: frontmatter___date, order: ASC }) {
+          group(field: frontmatter___country) {
             fieldValue
             totalCount
             edges {
@@ -129,14 +123,35 @@ exports.createPages = async ({ actions, graphql }) => {
     });
   });
 
+  // const authorsList = await wrapper(
+  //   graphql(`
+  //     {
+  //       allMarkdownRemark(sort: { fields: frontmatter___date, order: ASC }) {
+  //         group(field: frontmatter___category) {
+  //           fieldValue
+  //           totalCount
+  //           edges {
+  //             node {
+  //               id
+  //               fields {
+  //                 slug
+  //               }
+  //               frontmatter {
+  //                 title
+  //               }
+  //             }
+  //           }
+  //         }
+  //       }
+  //     }
+  //   `)
+  // );
+
   // All Blog Posts
   const allposts = await wrapper(
     graphql(`
       {
-        allMarkdownRemark(
-          sort: { fields: [frontmatter___date], order: DESC }
-          filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
-        ) {
+        allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
           edges {
             node {
               id
@@ -168,8 +183,9 @@ exports.createPages = async ({ actions, graphql }) => {
     const id = edge.node.id;
     const { author, title } = edge.node.frontmatter;
     if (
-      edge.node.frontmatter.templateKey !== 'categories' ||
-      edge.node.frontmatter.templateKey !== 'blog-country'
+      edge.node.frontmatter.templateKey !== 'categories' &&
+      edge.node.frontmatter.templateKey !== 'blog-country' &&
+      edge.node.frontmatter.templateKey !== 'blog-author'
     ) {
       createPage({
         path: edge.node.fields.slug,
