@@ -5,7 +5,6 @@ import Layout from '../components/Layout';
 
 const CatRoute = ({ pageContext }) => {
   const posts = pageContext.group;
-  console.log(pageContext);
   return (
     <Layout>
       <section className='section'>
