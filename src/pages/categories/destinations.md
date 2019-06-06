@@ -1,7 +1,7 @@
 ---
-templateKey: categories
 siteSettings: blog-nav
+templateKey: categories
 title: destinations
-description: Follow the destinations
-photo:
+description: 'Follow the destinations  '
 ---
+
