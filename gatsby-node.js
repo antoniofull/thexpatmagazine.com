@@ -123,29 +123,44 @@ exports.createPages = async ({ actions, graphql }) => {
     });
   });
 
-  // const authorsList = await wrapper(
-  //   graphql(`
-  //     {
-  //       allMarkdownRemark(sort: { fields: frontmatter___date, order: ASC }) {
-  //         group(field: frontmatter___category) {
-  //           fieldValue
-  //           totalCount
-  //           edges {
-  //             node {
-  //               id
-  //               fields {
-  //                 slug
-  //               }
-  //               frontmatter {
-  //                 title
-  //               }
-  //             }
-  //           }
-  //         }
-  //       }
-  //     }
-  //   `)
-  // );
+  const authorsList = await wrapper(
+    graphql(`
+      {
+        allMarkdownRemark(sort: { fields: frontmatter___date, order: ASC }) {
+          group(field: frontmatter___author) {
+            fieldValue
+            totalCount
+            edges {
+              node {
+                id
+                fields {
+                  slug
+                }
+                frontmatter {
+                  title
+                }
+              }
+            }
+          }
+        }
+      }
+    `)
+  );
+
+  const authors = authorsList.data.allMarkdownRemark.group;
+
+  authors.forEach(g => {
+    const authorPath = `author/${_.kebabCase(g.fieldValue)}`;
+    createPaginatedPages({
+      edges: g.edges,
+      createPage: createPage,
+      pageTemplate: 'src/templates/blog-author.js',
+      pageLength: 15,
+      pathPrefix: authorPath,
+      buildPath: (index, pathPrefix) =>
+        index > 1 ? `${pathPrefix}/${index}` : `/${pathPrefix}` // This is optional and this is the default
+    });
+  });
 
   // All Blog Posts
   const allposts = await wrapper(
