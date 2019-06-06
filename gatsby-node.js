@@ -47,7 +47,10 @@ exports.createPages = async ({ actions, graphql }) => {
     graphql(`
       {
         allMarkdownRemark {
-          group(field: frontmatter___category) {
+          group(
+            field: frontmatter___category
+            sort: { fields: [frontmatter___date], order: DESC }
+          ) {
             fieldValue
             totalCount
             edges {
@@ -71,7 +74,6 @@ exports.createPages = async ({ actions, graphql }) => {
 
   categories.forEach(g => {
     const catPath = _.kebabCase(g.fieldValue);
-    const count = g.totalCount;
     createPaginatedPages({
       edges: g.edges,
       createPage: createPage,
@@ -81,13 +83,6 @@ exports.createPages = async ({ actions, graphql }) => {
       buildPath: (index, pathPrefix) =>
         index > 1 ? `${pathPrefix}/${index}` : `/${pathPrefix}` // This is optional and this is the default
     });
-    createPage({
-      path: catPath,
-      component: path.resolve(`src/templates/categories.js`),
-      context: {
-        title: g.fieldValue
-      }
-    });
   });
 
   // All countries posts
@@ -96,7 +91,10 @@ exports.createPages = async ({ actions, graphql }) => {
     graphql(`
       {
         allMarkdownRemark {
-          group(field: frontmatter___country) {
+          group(
+            field: frontmatter___country
+            sort: { fields: [frontmatter___date], order: DESC }
+          ) {
             fieldValue
             totalCount
             edges {
@@ -120,7 +118,6 @@ exports.createPages = async ({ actions, graphql }) => {
 
   countries.forEach(g => {
     const countryPath = `${_.kebabCase(g.fieldValue)}`;
-    const count = g.totalCount;
     createPaginatedPages({
       edges: g.edges,
       createPage: createPage,
@@ -130,20 +127,16 @@ exports.createPages = async ({ actions, graphql }) => {
       buildPath: (index, pathPrefix) =>
         index > 1 ? `${pathPrefix}/${index}` : `/${pathPrefix}` // This is optional and this is the default
     });
-    createPage({
-      path: countryPath,
-      component: path.resolve(`src/templates/blog-country.js`),
-      context: {
-        name: g.fieldValue
-      }
-    });
   });
 
   // All Blog Posts
   const allposts = await wrapper(
     graphql(`
       {
-        allMarkdownRemark(limit: 1000) {
+        allMarkdownRemark(
+          sort: { fields: [frontmatter___date], order: DESC }
+          filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
+        ) {
           edges {
             node {
               id

@@ -45,9 +45,7 @@ export const BlogPostTemplate = ({
             {category && category.length && (
               <span>
                 {' '}
-                <Link to={`/categories/${kebabCase(category[0])}/`}>
-                  {category[0]}
-                </Link>
+                <Link to={`/${kebabCase(category[0])}/`}>{category[0]}</Link>
               </span>
             )}
           </p>
