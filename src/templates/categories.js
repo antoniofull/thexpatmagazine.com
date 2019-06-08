@@ -14,7 +14,10 @@ const Pagination = ({ count, title }) => {
   return (
     <div className='pagination'>
       {pages.map(page => (
-        <Link to={`${page == 1 ? `/${baseUrl}/` : `/${baseUrl}/${page}`}`}>
+        <Link
+          key={page}
+          to={`${page == 1 ? `/${baseUrl}/` : `/${baseUrl}/${page}`}`}
+        >
           {page}
         </Link>
       ))}
