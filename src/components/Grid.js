@@ -5,6 +5,7 @@ import { Link } from 'gatsby';
 import ProgressiveImage from 'react-progressive-bg-image';
 import styled from 'styled-components';
 import AuthorMeta from '../components/AuthorMeta';
+import '../styles/grid.css';
 
 const StyledProgressiveImage = styled(ProgressiveImage)`
   width: auto;
