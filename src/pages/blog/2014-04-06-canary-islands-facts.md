@@ -8,7 +8,8 @@ tags:
   - canarias
   - canary islands
   - facts
-country: Costa Rica
+country:
+  - Spain
 category:
   - expat tips
   - destinations
