@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'gatsby';
+import _ from 'lodash';
 
 import SearchForm from './SearchForm';
 import SearchIcon from '../img/icon-search.svg';
@@ -15,10 +16,8 @@ const DesktopNav = ({ active, items }) => {
       >
         <ul className='main-nav__list'>
           {items.map(item => (
-            <li className='main-nav__item' key={item.node.id}>
-              <Link key={item.node.id} to={item.node.fields.slug}>
-                {item.node.frontmatter.title}
-              </Link>
+            <li className='main-nav__item' key={item}>
+              <Link to={`/${_.kebabCase(item)}/`}>{item}</Link>
             </li>
           ))}
         </ul>

@@ -13,7 +13,14 @@ const Navbar = class extends React.Component {
     super(props);
     this.state = {
       active: false,
-      navBarActiveClass: ''
+      navBarActiveClass: '',
+      items: [
+        'stories',
+        'destinations',
+        'travel tips',
+        'expat tips',
+        'guest posts'
+      ]
     };
     this.toggleHamburger = this.toggleHamburger.bind(this);
   }
@@ -40,6 +47,7 @@ const Navbar = class extends React.Component {
 
   render() {
     const { edges } = this.props.data.allMarkdownRemark;
+    const { items } = this.state;
     return (
       <Header>
         <Link className='logo' to='/'>
@@ -53,13 +61,13 @@ const Navbar = class extends React.Component {
             </button>
           </div>
           <MobileNavigation
-            items={edges}
+            items={items}
             active={this.state.active}
             toggleState={this.toggleHamburger}
           />
         </MediaQuery>
         <MediaQuery query='(min-width: 1025px)'>
-          <DesktopNav items={edges} />
+          <DesktopNav items={items} />
         </MediaQuery>
       </Header>
     );

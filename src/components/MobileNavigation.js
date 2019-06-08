@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import { Link } from 'gatsby';
 import { Motion, spring } from 'react-motion';
 import Div100vh from 'react-div-100vh';
+import _ from 'lodash';
 
 import '../styles/nav.css';
 
@@ -33,10 +34,8 @@ const MobileNavigation = ({ items, active, toggleState }) => {
                 >
                   <ul className='main-nav__list'>
                     {items.map(item => (
-                      <li className='main-nav__item' key={item.node.id}>
-                        <Link key={item.node.id} to={item.node.fields.slug}>
-                          {item.node.frontmatter.title}
-                        </Link>
+                      <li className='main-nav__item' key={item}>
+                        <Link to={`/${_.kebabCase(item)}/`}>{item}</Link>
                       </li>
                     ))}
                   </ul>
