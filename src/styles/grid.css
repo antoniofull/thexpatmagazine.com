@@ -1,6 +1,6 @@
 .grid {
   background: var(--color-white);
-  margin-bottom: var(--margin-hero);
+  margin: var(--margin-xl) auto var(--margin-hero) auto;
 }
 .pagination {
   display: flex;
