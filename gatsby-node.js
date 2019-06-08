@@ -53,11 +53,20 @@ exports.createPages = async ({ actions, graphql }) => {
             edges {
               node {
                 id
+                html
                 fields {
                   slug
                 }
                 frontmatter {
                   title
+                  author
+                  description
+                  date
+                  tags
+                  country
+                  featuredimage {
+                    publicURL
+                  }
                 }
               }
             }
