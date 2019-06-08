@@ -9,11 +9,9 @@ import '../styles/grid.css';
 
 const StyledProgressiveImage = styled(ProgressiveImage)`
   width: auto;
+  height: 300px;
   background-color: aliceblue;
   background-size: cover;
-  background-attachment: fixed;
-  background-position-y: 60%;
-  background-position-x: center;
   overflow: hidden;
 `;
 const masonryOptions = {
@@ -31,10 +29,12 @@ const Article = ({ post }) => (
       {post.node.frontmatter.featuredimage && (
         <Link to={post.node.fields.slug}>
           {post.node.frontmatter.featuredimage && (
-            <StyledProgressiveImage
-              src={post.node.frontmatter.featuredimage.publicURL}
-              placeholder={post.node.frontmatter.featuredimage.publicURL}
-            />
+            <>
+              <StyledProgressiveImage
+                src={post.node.frontmatter.featuredimage.publicURL}
+                placeholder={post.node.frontmatter.featuredimage.publicURL}
+              />
+            </>
           )}
         </Link>
       )}
