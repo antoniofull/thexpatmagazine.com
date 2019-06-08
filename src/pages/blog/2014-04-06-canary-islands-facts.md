@@ -1,20 +1,18 @@
 ---
 templateKey: blog-post
 title: 10 facts to know about Canary islands
-author: Editorial Team
-type: post
 date: 2014-04-06T14:46:47.000Z
-url: /2014/europe/canary-islands-facts/
-featuredimage: /wp-content/uploads/2014/04/hierro-751x500.jpg
-country:
-  - Spain
+description: Canary Islands
+featuredimage: /img/hierro.jpg
 tags:
   - canarias
   - canary islands
   - facts
+country: Spain
 category:
   - expat tips
   - destinations
+author: Editorial Team
 ---
 
 Canary island is an archipelago situated to the northwest coast of mainland Africa, 100 kilometres (62 miles) west of the border between Morocco and the Western Sahara. Is a favorite place for tourist because of the sub-tropical weather and the beautiful beaches, is also quite cheap. <!--more-->
