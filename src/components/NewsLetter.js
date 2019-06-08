@@ -1,5 +1,6 @@
 import React from 'react';
 import MailchimpSubscribe from 'react-mailchimp-subscribe';
+import { Link } from 'gatsby';
 
 import '../styles/newsletter.css';
 
@@ -8,18 +9,19 @@ const url =
 
 const CustomForm = ({ status, message, onValidated }) => {
   let email, name;
-  const submit = () =>
+  const submit = e => {
+    e.preventDefault();
     email &&
-    name &&
-    email.value.indexOf('@') > -1 &&
-    onValidated({
-      EMAIL: email.value,
-      NAME: name.value
-    });
-
+      name &&
+      email.value.indexOf('@') > -1 &&
+      onValidated({
+        EMAIL: email.value,
+        NAME: name.value
+      });
+  };
   return (
-    <form className='form-newsletter'>
-      <div className='form-newsletter__container'>
+    <>
+      <div className='form-newsletter__msg'>
         {status === 'sending' && (
           <div style={{ color: 'blue' }}>sending...</div>
         )}
@@ -35,21 +37,31 @@ const CustomForm = ({ status, message, onValidated }) => {
             dangerouslySetInnerHTML={{ __html: message }}
           />
         )}
-        <input
-          ref={node => (name = node)}
-          type='text'
-          placeholder='Your name'
-        />
-        <input
-          ref={node => (email = node)}
-          type='email'
-          placeholder='Your email'
-        />
       </div>
-      <button className='btn btn--primary btn--rounded' onClick={submit}>
-        Get Free Travel Tips
-      </button>
-    </form>
+      <form className='form-newsletter'>
+        <div className='form-newsletter__container'>
+          <input
+            ref={node => (name = node)}
+            type='text'
+            placeholder='Your name'
+          />
+          <input
+            ref={node => (email = node)}
+            type='email'
+            placeholder='Your email'
+          />
+        </div>
+        <div className='form-newsletter__container'>
+          <span className='form-newsletter__privacy wf-os'>
+            Only one email per month. No spam. Read our{' '}
+            <Link to={`/privacy/`}>privacy policy</Link>
+          </span>
+          <button className='btn btn--primary btn--rounded' onClick={submit}>
+            Get Free Travel Tips
+          </button>
+        </div>
+      </form>
+    </>
   );
 };
 

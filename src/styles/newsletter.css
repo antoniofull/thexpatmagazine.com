@@ -25,7 +25,15 @@
   margin-top: var(--margin);
   margin-left: auto;
 }
-
+.form-newsletter__msg {
+  margin: var(--margin) auto;
+  max-width: 460px;
+}
+.form-newsletter__privacy {
+  padding: var(--padding);
+  font-size: var(--font-fixed-mobile);
+  max-width: 60%;
+}
 @media screen and (min-width: 667px) {
   .form-newsletter input {
     max-width: 48%;

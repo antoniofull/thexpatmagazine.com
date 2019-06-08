@@ -10,6 +10,7 @@
   cursor: pointer;
 
   max-width: 240px;
+  max-height: 48px;
 
   transition: all 2.3s cubic-bezier(0.165, 0.84, 0.44, 1);
   padding: var(--padding);

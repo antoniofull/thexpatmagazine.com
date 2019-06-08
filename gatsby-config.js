@@ -8,10 +8,10 @@ module.exports = {
     description: `The Expat Magazine is an online community made of expats and travellers who write and share tips, news and experiences to help you travel and live abroad.`,
     links: {
       website: 'https://thexpatmagazine.com',
-      facebook: 'https://thexpatmagazine.com',
-      twitter: 'https://thexpatmagazine.com',
-      instagram: 'https://thexpatmagazine.com',
-      pinterest: 'https://thexpatmagazine.com'
+      facebook: 'https://www.facebook.com/thexpatmagazine/',
+      twitter: 'https://twitter.com/ThexpatMagazine',
+      instagram: 'https://www.instagram.com/the_expatmagazine/',
+      pinterest: 'https://www.pinterest.com/08zwmxzliph7fpzk2p5heehhd5yb4y/'
     }
   },
   plugins: [
