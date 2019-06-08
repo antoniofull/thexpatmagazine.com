@@ -86,6 +86,9 @@ exports.createPages = async ({ actions, graphql }) => {
       pageTemplate: 'src/templates/categories.js',
       pageLength: 15,
       pathPrefix: catPath,
+      context: {
+        cat: g.fieldValue
+      },
       buildPath: (index, pathPrefix) =>
         index > 1 ? `${pathPrefix}/${index}` : `/${pathPrefix}` // This is optional and this is the default
     });
