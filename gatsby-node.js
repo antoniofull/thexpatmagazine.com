@@ -65,6 +65,15 @@ exports.createPages = async ({ actions, graphql }) => {
                   tags
                   country
                   featuredimage {
+                    childImageSharp {
+                      fluid(maxWidth: 700, quality: 100) {
+                        src
+                        srcSet
+                        aspectRatio
+                        sizes
+                        base64
+                      }
+                    }
                     publicURL
                   }
                 }

@@ -2,18 +2,10 @@ import React from 'react';
 
 import Masonry from 'react-masonry-component';
 import { Link } from 'gatsby';
-import ProgressiveImage from 'react-progressive-bg-image';
-import styled from 'styled-components';
+import Img from 'gatsby-image';
 import AuthorMeta from '../components/AuthorMeta';
 import '../styles/grid.css';
 
-const StyledProgressiveImage = styled(ProgressiveImage)`
-  width: auto;
-  height: 300px;
-  background-color: aliceblue;
-  background-size: cover;
-  overflow: hidden;
-`;
 const masonryOptions = {
   transitionDuration: 0
 };
@@ -28,14 +20,9 @@ const Article = ({ post }) => (
     <div className='masonry__container has-shadow'>
       {post.node.frontmatter.featuredimage && (
         <Link to={post.node.fields.slug}>
-          {post.node.frontmatter.featuredimage && (
-            <>
-              <StyledProgressiveImage
-                src={post.node.frontmatter.featuredimage.publicURL}
-                placeholder={post.node.frontmatter.featuredimage.publicURL}
-              />
-            </>
-          )}
+          <Img
+            fluid={post.node.frontmatter.featuredimage.childImageSharp.fluid}
+          />
         </Link>
       )}
 
