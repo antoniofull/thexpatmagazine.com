@@ -61,7 +61,7 @@ exports.createPages = async ({ actions, graphql }) => {
                   title
                   author
                   description
-                  date
+                  date(formatString: "MMMM DD, YYYY")
                   tags
                   country
                   featuredimage {
@@ -115,11 +115,25 @@ exports.createPages = async ({ actions, graphql }) => {
             edges {
               node {
                 id
+                html
                 fields {
                   slug
                 }
                 frontmatter {
                   title
+                  author
+                  description
+                  date(formatString: "MMMM DD, YYYY")
+                  tags
+                  childImageSharp {
+                    fluid(maxWidth: 700, quality: 100) {
+                      src
+                      srcSet
+                      aspectRatio
+                      sizes
+                      base64
+                    }
+                  }
                 }
               }
             }
@@ -154,11 +168,25 @@ exports.createPages = async ({ actions, graphql }) => {
             edges {
               node {
                 id
+                html
                 fields {
                   slug
                 }
                 frontmatter {
                   title
+                  author
+                  description
+                  date(formatString: "MMMM DD, YYYY")
+                  tags
+                  childImageSharp {
+                    fluid(maxWidth: 700, quality: 100) {
+                      src
+                      srcSet
+                      aspectRatio
+                      sizes
+                      base64
+                    }
+                  }
                 }
               }
             }
@@ -201,6 +229,7 @@ exports.createPages = async ({ actions, graphql }) => {
                 category
                 templateKey
                 title
+                date(formatString: "MMMM DD, YYYY")
                 description
                 featuredimage {
                   publicURL
