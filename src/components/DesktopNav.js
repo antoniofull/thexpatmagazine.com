@@ -17,7 +17,11 @@ const DesktopNav = ({ active, items }) => {
         <ul className='main-nav__list'>
           {items.map(item => (
             <li className='main-nav__item' key={item}>
-              <Link to={`/${_.kebabCase(item)}/`}>{item}</Link>
+              {item === 'guests' ? (
+                <Link to={`/pages/write-for-us/`}>Guest Posts</Link>
+              ) : (
+                <Link to={`/${_.kebabCase(item)}/`}>{item}</Link>
+              )}
             </li>
           ))}
         </ul>

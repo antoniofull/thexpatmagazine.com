@@ -14,13 +14,7 @@ const Navbar = class extends React.Component {
     this.state = {
       active: false,
       navBarActiveClass: '',
-      items: [
-        'stories',
-        'destinations',
-        'travel tips',
-        'expat tips',
-        'guest posts'
-      ]
+      items: ['stories', 'destinations', 'travel tips', 'expat tips', 'guests']
     };
     this.toggleHamburger = this.toggleHamburger.bind(this);
   }

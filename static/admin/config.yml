@@ -46,7 +46,7 @@ collections:
         valueField: 'title'
         required: false
         displayFields: ['title']
-         multiple: true
+        multiple: true
 
       - label: 'Category'
         name: 'category'
