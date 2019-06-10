@@ -125,14 +125,17 @@ exports.createPages = async ({ actions, graphql }) => {
                   description
                   date(formatString: "MMMM DD, YYYY")
                   tags
-                  childImageSharp {
-                    fluid(maxWidth: 700, quality: 100) {
-                      src
-                      srcSet
-                      aspectRatio
-                      sizes
-                      base64
+                  featuredimage {
+                    childImageSharp {
+                      fluid(maxWidth: 700, quality: 100) {
+                        src
+                        srcSet
+                        aspectRatio
+                        sizes
+                        base64
+                      }
                     }
+                    publicURL
                   }
                 }
               }
@@ -178,14 +181,17 @@ exports.createPages = async ({ actions, graphql }) => {
                   description
                   date(formatString: "MMMM DD, YYYY")
                   tags
-                  childImageSharp {
-                    fluid(maxWidth: 700, quality: 100) {
-                      src
-                      srcSet
-                      aspectRatio
-                      sizes
-                      base64
+                  featuredimage {
+                    childImageSharp {
+                      fluid(maxWidth: 700, quality: 100) {
+                        src
+                        srcSet
+                        aspectRatio
+                        sizes
+                        base64
+                      }
                     }
+                    publicURL
                   }
                 }
               }
@@ -232,6 +238,15 @@ exports.createPages = async ({ actions, graphql }) => {
                 date(formatString: "MMMM DD, YYYY")
                 description
                 featuredimage {
+                  childImageSharp {
+                    fluid(maxWidth: 700, quality: 100) {
+                      src
+                      srcSet
+                      aspectRatio
+                      sizes
+                      base64
+                    }
+                  }
                   publicURL
                 }
               }

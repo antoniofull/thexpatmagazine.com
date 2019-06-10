@@ -8,9 +8,9 @@ import '../styles/destinations.css';
 
 const Destinations = ({ posts }) => {
   if (posts) {
-    const stories = posts.map((story, i) => {
-      if (i < 12) {
-        return (
+    const stories = posts.map(
+      (story, i) =>
+        i < 12 && (
           <article
             className='destination article--home has-border article--full-image'
             key={story.node.id}
@@ -48,9 +48,8 @@ const Destinations = ({ posts }) => {
               </div>
             </div>
           </article>
-        );
-      }
-    });
+        )
+    );
     return (
       <section className='home-row home-row--blue'>
         <div className='container container--home container-row'>

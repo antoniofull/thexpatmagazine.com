@@ -1,5 +1,5 @@
 import React from 'react';
-import Helmet from 'react-helmet';
+// import Helmet from 'react-helmet';
 import { Link } from 'gatsby';
 import _ from 'lodash';
 import Layout from '../components/Layout';
@@ -16,7 +16,7 @@ const Pagination = ({ count, title }) => {
       {pages.map(page => (
         <Link
           key={page}
-          to={`${page == 1 ? `/${baseUrl}/` : `/${baseUrl}/${page}`}`}
+          to={`${page === 1 ? `/${baseUrl}/` : `/${baseUrl}/${page}`}`}
         >
           {page}
         </Link>

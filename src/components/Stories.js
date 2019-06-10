@@ -12,9 +12,9 @@ const masonryOptions = {
 };
 
 const Stories = ({ posts }) => {
-  const stories = posts.map((story, i) => {
-    if (i < 12) {
-      return (
+  const stories = posts.map(
+    (story, i) =>
+      i < 12 && (
         <article
           className='story story--home container--story container story-masonry masonry__item'
           key={story.node.id}
@@ -53,9 +53,8 @@ const Stories = ({ posts }) => {
             </div>
           </div>
         </article>
-      );
-    }
-  });
+      )
+  );
 
   const imagesLoadedOptions = { background: '.my-bg-image-el' };
 

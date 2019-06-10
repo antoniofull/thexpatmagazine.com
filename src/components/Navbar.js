@@ -46,7 +46,6 @@ const Navbar = class extends React.Component {
   };
 
   render() {
-    const { edges } = this.props.data.allMarkdownRemark;
     const { items } = this.state;
     return (
       <Header>
