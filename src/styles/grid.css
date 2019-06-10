@@ -3,17 +3,52 @@
   margin: var(--margin-xl) auto var(--margin-hero) auto;
 }
 .pagination {
-  display: flex;
+  display: block;
+  width: auto;
+  text-align: center;
+  margin: var(--margin) auto;
+}
+.pagination__container {
+  display: inline-flex;
   width: auto;
   max-width: 300px;
   margin: var(--margin) auto;
   justify-content: space-between;
 }
-
 .pagination a {
   width: 30px;
   background: white;
   display: block;
   text-align: center;
   border: 1px solid var(--border-color);
+  flex: 1 1 auto;
+  margin-right: var(--margin-s);
+  transition: background-color 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  border-radius: var(--border-radius);
+  font-size: var(--font-fixed);
+  font-weight: 700;
+}
+.pagination a:hover {
+  background-color: var(--color-primary);
+  color: #fff;
+}
+
+.grid__title {
+  margin: var(--margin) auto;
+  font-size: var(--font-xl);
+  padding: var(--padding-l) var(--padding-l) var(--padding-s) var(--padding-l);
+  position: relative;
+  max-width: 90%;
+  margin: 0 0 var(--margin-xl);
+  display: inline-block;
+}
+
+.grid__title:after {
+  position: absolute;
+  content: '';
+  bottom: 0;
+  left: var(--padding-l);
+  background-color: var(--color-accent);
+  height: 4px;
+  width: 100%;
 }

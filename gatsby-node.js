@@ -156,6 +156,7 @@ exports.createPages = async ({ actions, graphql }) => {
       pageTemplate: 'src/templates/blog-country.js',
       pageLength: 15,
       pathPrefix: countryPath,
+      context: g.fieldValue,
       buildPath: (index, pathPrefix) =>
         index > 1 ? `${pathPrefix}/${index}` : `/${pathPrefix}` // This is optional and this is the default
     });

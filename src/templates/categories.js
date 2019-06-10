@@ -13,14 +13,16 @@ const Pagination = ({ count, title }) => {
   const baseUrl = _.kebabCase(title);
   return (
     <div className='pagination'>
-      {pages.map(page => (
-        <Link
-          key={page}
-          to={`${page === 1 ? `/${baseUrl}/` : `/${baseUrl}/${page}`}`}
-        >
-          {page}
-        </Link>
-      ))}
+      <div className='pagination__container wf-os'>
+        {pages.map(page => (
+          <Link
+            key={page}
+            to={`${page === 1 ? `/${baseUrl}/` : `/${baseUrl}/${page}`}`}
+          >
+            {page}
+          </Link>
+        ))}
+      </div>
     </div>
   );
 };
@@ -30,7 +32,7 @@ const CatRoute = ({ pageContext }) => {
 
   return (
     <Layout>
-      <Grid posts={posts} />
+      <Grid posts={posts} title={pageContext.additionalContext.cat} />
       <Pagination
         count={pageContext.pageCount}
         title={pageContext.additionalContext.cat}

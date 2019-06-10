@@ -47,20 +47,24 @@ const Article = ({ post }) => (
   </article>
 );
 
-const Grid = ({ posts }) => {
+const Grid = ({ posts, title }) => {
   return (
-    <Masonry
-      className={'stories masonry grid stories--home'} // default ''
-      elementType={'section'} // default 'div'
-      options={masonryOptions} // default {}
-      disableImagesLoaded={false} // default false
-      updateOnEachImageLoad={false} // default false and works only if disableImagesLoaded is false
-      imagesLoadedOptions={imagesLoadedOptions} // default {}
-    >
-      {posts.map(post => (
-        <Article key={post.node.id} post={post} />
-      ))}
-    </Masonry>
+    <React.Fragment>
+      {title && <h1 className='grid__title'>All Articles in : {title}</h1>}
+
+      <Masonry
+        className={'stories masonry grid stories--home'} // default ''
+        elementType={'section'} // default 'div'
+        options={masonryOptions} // default {}
+        disableImagesLoaded={false} // default false
+        updateOnEachImageLoad={false} // default false and works only if disableImagesLoaded is false
+        imagesLoadedOptions={imagesLoadedOptions} // default {}
+      >
+        {posts.map(post => (
+          <Article key={post.node.id} post={post} />
+        ))}
+      </Masonry>
+    </React.Fragment>
   );
 };
 
