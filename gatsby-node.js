@@ -156,7 +156,9 @@ exports.createPages = async ({ actions, graphql }) => {
       pageTemplate: 'src/templates/blog-country.js',
       pageLength: 15,
       pathPrefix: countryPath,
-      context: g.fieldValue,
+      context: {
+        cat: g.fieldValue
+      },
       buildPath: (index, pathPrefix) =>
         index > 1 ? `${pathPrefix}/${index}` : `/${pathPrefix}` // This is optional and this is the default
     });
@@ -206,13 +208,16 @@ exports.createPages = async ({ actions, graphql }) => {
   const authors = authorsList.data.allMarkdownRemark.group;
 
   authors.forEach(g => {
-    const authorPath = `author/${_.kebabCase(g.fieldValue)}`;
+    const authorPath = `authors/${_.kebabCase(g.fieldValue)}`;
     createPaginatedPages({
       edges: g.edges,
       createPage: createPage,
       pageTemplate: 'src/templates/blog-author.js',
       pageLength: 15,
       pathPrefix: authorPath,
+      context: {
+        author: g.fieldValue
+      },
       buildPath: (index, pathPrefix) =>
         index > 1 ? `${pathPrefix}/${index}` : `/${pathPrefix}` // This is optional and this is the default
     });

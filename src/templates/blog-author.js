@@ -1,16 +1,16 @@
 import React from 'react';
 import Helmet from 'react-helmet';
-import { Link } from 'gatsby';
+import { Link, graphql } from 'gatsby';
 import Layout from '../components/Layout';
 
-const AuthorRoute = ({ pageContext }) => {
-  const posts = pageContext.group;
-
+const AuthorRoute = props => {
+  const posts = props.pageContext.group;
+  console.log(props);
   return (
     <Layout>
       <section className='blog-author'>
         <Helmet title={`title`} />
-        <p>{pageContext.name}</p>
+        <p>{props.pageContext.name}</p>
         {posts.map(post => (
           <Link to={post.node.fields.slug} key={post.node.id}>
             {post.node.frontmatter.title} - {post.node.frontmatter.author}{' '}
@@ -23,3 +23,28 @@ const AuthorRoute = ({ pageContext }) => {
 };
 
 export default AuthorRoute;
+
+export const AuthorQuery = graphql`
+  query Author($author: String!) {
+    markdownRemark(frontmatter: { title: { eq: $author } }) {
+      id
+      html
+      frontmatter {
+        title
+        bio
+        role
+        website
+        facebook
+        instagram
+        pinterest
+        photo {
+          childImageSharp {
+            sizes(maxWidth: 700) {
+              ...GatsbyImageSharpSizes
+            }
+          }
+        }
+      }
+    }
+  }
+`;

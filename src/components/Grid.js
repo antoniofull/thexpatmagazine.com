@@ -50,7 +50,7 @@ const Article = ({ post }) => (
 const Grid = ({ posts, title }) => {
   return (
     <React.Fragment>
-      {title && <h1 className='grid__title'>All Articles in : {title}</h1>}
+      {title && <h1 className='grid__title'>{title}</h1>}
 
       <Masonry
         className={'stories masonry grid stories--home'} // default ''
