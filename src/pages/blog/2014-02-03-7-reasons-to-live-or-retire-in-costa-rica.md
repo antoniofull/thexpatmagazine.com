@@ -16,7 +16,7 @@ country:
   - Costa Rica
 category:
   - destinations
-author: Rossella Daví
+author: Rossella Davi
 ---
 
 **Costa Rica** is a tropical-paradise in the **Central America**, surrounded by beautiful lands that will leave you breathless. <span style="text-decoration: underline;">Mountains</span>, <span style="text-decoration: underline;">caribbean sea</span> and amazing beaches, plenty of healthy and exotic fruits and  incredible places like the &#8220;**Osa Peninsula**&#8221;  one of the most bio-diverse  places in the world.
