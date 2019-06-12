@@ -5,12 +5,17 @@ import Layout from '../components/Layout';
 
 const AuthorRoute = props => {
   const posts = props.pageContext.group;
-  console.log(props);
+  const author = props.data.markdownRemark;
+  console.log(author);
   return (
     <Layout>
+      <Helmet
+        title={`${author.frontmatter.title} - ${author.frontmatter.bio}`}
+      />
       <section className='blog-author'>
-        <Helmet title={`title`} />
-        <p>{props.pageContext.name}</p>
+        <p>{author.frontmatter.title}</p>
+        <p>{author.frontmatter.bio}</p>
+        <h3>{`All Articles from ${author.frontmatter.title}`}</h3>
         {posts.map(post => (
           <Link to={post.node.fields.slug} key={post.node.id}>
             {post.node.frontmatter.title} - {post.node.frontmatter.author}{' '}
