@@ -3,7 +3,7 @@ const path = require('path');
 const { createFilePath } = require('gatsby-source-filesystem');
 const { fmImagesToRelative } = require('gatsby-remark-relative-images');
 const createPaginatedPages = require('gatsby-paginate');
-
+const { createPaginationPages } = require('gatsby-pagination');
 /**
  *
  * @param {Object} currentArticle
@@ -209,10 +209,11 @@ exports.createPages = async ({ actions, graphql }) => {
 
   authors.forEach(g => {
     const authorPath = `authors/${_.kebabCase(g.fieldValue)}`;
+
     createPaginatedPages({
       edges: g.edges,
       createPage: createPage,
-      pageTemplate: 'src/templates/blog-author.js',
+      pageTemplate: path.resolve(`src/templates/blog-author.js`),
       pageLength: 15,
       pathPrefix: authorPath,
       context: {
