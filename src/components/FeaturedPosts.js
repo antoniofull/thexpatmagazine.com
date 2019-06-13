@@ -1,6 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 import { Link } from 'gatsby';
+import Image from 'gatsby-image';
 import Palette from 'react-palette';
 import Carousel from 'nuka-carousel';
 
@@ -8,7 +9,9 @@ import AuthorMeta from './AuthorMeta';
 import '../styles/featured.css';
 
 const Featured = ({ post }) => {
-  const img = post.node.frontmatter.featuredimage.childImageSharp.fluid.src;
+  const img =
+    post.node.frontmatter.featuredimage &&
+    post.node.frontmatter.featuredimage.childImageSharp.fluid.src;
   if (img) {
     return (
       <React.Fragment key={post.node.id}>

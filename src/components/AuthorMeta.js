@@ -18,12 +18,15 @@ const AuthorMeta = props => {
         className={`meta wf-os text-color--dark-light post-meta--author ${props.className &&
           props.className}`}
       >
-        <Link to={author.node.fields.slug} className='post-meta--author__link'>
+        <Link
+          to={`/authors/${_.kebabCase(author.node.frontmatter.name)}`}
+          className='post-meta--author__link'
+        >
           <span className='post-meta--author__image'>
             <Img sizes={author.node.frontmatter.photo.childImageSharp.sizes} />
           </span>
           <h4 className='post-meta--author__name wf-os'>
-            {author.node.frontmatter.title}
+            {author.node.frontmatter.name}
           </h4>
         </Link>
       </div>

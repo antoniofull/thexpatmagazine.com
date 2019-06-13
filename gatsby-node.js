@@ -3,7 +3,6 @@ const path = require('path');
 const { createFilePath } = require('gatsby-source-filesystem');
 const { fmImagesToRelative } = require('gatsby-remark-relative-images');
 const createPaginatedPages = require('gatsby-paginate');
-const { createPaginationPages } = require('gatsby-pagination');
 /**
  *
  * @param {Object} currentArticle
@@ -46,7 +45,10 @@ exports.createPages = async ({ actions, graphql }) => {
   const categoriesPosts = await wrapper(
     graphql(`
       {
-        allMarkdownRemark(sort: { fields: frontmatter___date, order: ASC }) {
+        allMarkdownRemark(
+          sort: { fields: frontmatter___date, order: ASC }
+          filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
+        ) {
           group(field: frontmatter___category) {
             fieldValue
             totalCount
@@ -54,6 +56,7 @@ exports.createPages = async ({ actions, graphql }) => {
               node {
                 id
                 html
+                excerpt(pruneLength: 250)
                 fields {
                   slug
                 }
@@ -108,7 +111,10 @@ exports.createPages = async ({ actions, graphql }) => {
   const countriesPosts = await wrapper(
     graphql(`
       {
-        allMarkdownRemark(sort: { fields: frontmatter___date, order: ASC }) {
+        allMarkdownRemark(
+          sort: { fields: frontmatter___date, order: ASC }
+          filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
+        ) {
           group(field: frontmatter___country) {
             fieldValue
             totalCount
@@ -116,6 +122,7 @@ exports.createPages = async ({ actions, graphql }) => {
               node {
                 id
                 html
+                excerpt(pruneLength: 250)
                 fields {
                   slug
                 }
@@ -167,7 +174,10 @@ exports.createPages = async ({ actions, graphql }) => {
   const authorsList = await wrapper(
     graphql(`
       {
-        allMarkdownRemark(sort: { fields: frontmatter___date, order: ASC }) {
+        allMarkdownRemark(
+          sort: { fields: frontmatter___date, order: ASC }
+          filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
+        ) {
           group(field: frontmatter___author) {
             fieldValue
             totalCount
@@ -175,6 +185,7 @@ exports.createPages = async ({ actions, graphql }) => {
               node {
                 id
                 html
+                excerpt(pruneLength: 250)
                 fields {
                   slug
                 }
@@ -236,26 +247,9 @@ exports.createPages = async ({ actions, graphql }) => {
                 slug
               }
               frontmatter {
-                tags
-                country
-                author
-                category
                 templateKey
+                author
                 title
-                date(formatString: "MMMM DD, YYYY")
-                description
-                featuredimage {
-                  childImageSharp {
-                    fluid(maxWidth: 700, quality: 100) {
-                      src
-                      srcSet
-                      aspectRatio
-                      sizes
-                      base64
-                    }
-                  }
-                  publicURL
-                }
               }
             }
           }
@@ -289,6 +283,11 @@ exports.createPages = async ({ actions, graphql }) => {
         }
       });
     }
+  });
+  // Index Page
+  createPage({
+    path: '/',
+    component: path.resolve(`src/templates/index-page.js`)
   });
 
   // Tag pages:
