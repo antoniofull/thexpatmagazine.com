@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
 title: 15 jobs that will make you travel the world
-author: Lorena
+author: Editorial Team
 type: post
 date: 2018-02-19T09:15:40.000Z
 url: /2018/travel-inspiration/15-jobs-that-will-make-you-travel-the-world/
 featuredimage: /wp-content/uploads/2018/02/hiking-1246836_1920.jpg
-country: 
+country:
   - Inspiration
 tags:
   - live abroad
