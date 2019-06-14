@@ -10,24 +10,20 @@ import Layout from '../components/Layout';
 import AuthorMeta from '../components/AuthorMeta';
 import Content, { HTMLContent } from '../components/Content';
 import RelatedArticles from '../components/RelatedArticles';
+import SEO from '../components/Seo';
 
 import '../styles/post.css';
 
 export const BlogPostTemplate = ({
   content,
   contentComponent,
-  description,
   tags,
   title,
   author,
   date,
   image,
   category,
-  timeToRead,
-  name,
-  id,
   url,
-  helmet,
   relatedArticles
 }) => {
   const PostContent = contentComponent || Content;
@@ -37,7 +33,6 @@ export const BlogPostTemplate = ({
   };
   return (
     <section className='section post'>
-      {helmet || ''}
       <div className='container'>
         <div className='post__container'>
           <p className='wf-os font-small post__top-meta'>
@@ -93,8 +88,17 @@ BlogPostTemplate.propTypes = {
 const BlogPost = props => {
   const { markdownRemark: post } = props.data;
   const { relatedArticles } = props.pageContext;
+  console.log(post);
   return (
     <Layout>
+      <SEO
+        title={post.frontmatter.title}
+        description={post.frontmatter.description}
+        image={
+          post.frontmatter.featuredimage &&
+          post.frontmatter.featuredimage.childImageSharp.sizes
+        }
+      />
       <BlogPostTemplate
         content={post.html}
         contentComponent={HTMLContent}
@@ -103,15 +107,6 @@ const BlogPost = props => {
         image={
           post.frontmatter.featuredimage &&
           post.frontmatter.featuredimage.childImageSharp
-        }
-        helmet={
-          <Helmet titleTemplate='%s | Blog'>
-            <title>{`${post.frontmatter.title}`}</title>
-            <meta
-              name='description'
-              content={`${post.frontmatter.description}`}
-            />
-          </Helmet>
         }
         tags={post.frontmatter.tags}
         date={post.frontmatter.date}
@@ -141,6 +136,7 @@ export const pageQuery = graphql`
       id
       html
       timeToRead
+      excerpt(pruneLength: 250)
       fields {
         slug
       }
@@ -153,6 +149,7 @@ export const pageQuery = graphql`
         author
         name
         featuredimage {
+          publicURL
           childImageSharp {
             sizes(maxWidth: 1200) {
               ...GatsbyImageSharpSizes

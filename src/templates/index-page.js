@@ -8,6 +8,7 @@ import Stories from '../components/Stories';
 import Tips from '../components/Tips';
 import Destinations from '../components/Destinations';
 import Loader from '../components/Loader';
+import SEO from '../components/Seo';
 
 import '../styles/variables.css';
 import '../styles/reset.css';
@@ -68,6 +69,7 @@ class IndexPage extends Component {
     if (featured && featured.length) {
       return (
         <Layout>
+          <SEO title='The Expat Magazine Home Page' />
           <main className='home'>
             <FeaturedPosts
               authors={authors}
@@ -109,7 +111,6 @@ export const indexQuery = graphql`
     ) {
       edges {
         node {
-          excerpt(pruneLength: 250)
           id
           fields {
             slug

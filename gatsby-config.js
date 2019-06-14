@@ -4,12 +4,14 @@ const emitter = new EventEmitter();
 emitter.setMaxListeners(50);
 module.exports = {
   siteMetadata: {
-    title: 'Thexpatmagazine.com',
+    title: 'Thexpatmagazine.com - A Magazine for Expats',
     description: `The Expat Magazine is an online community made of expats and travellers who write and share tips, news and experiences to help you travel and live abroad.`,
+    siteURL: 'https://thexpatmagazine.com',
+    lang: 'en',
     links: {
       website: 'https://thexpatmagazine.com',
       facebook: 'https://www.facebook.com/thexpatmagazine/',
-      twitter: 'https://twitter.com/ThexpatMagazine',
+      twitter: 'ThexpatMagazine',
       instagram: 'https://www.instagram.com/the_expatmagazine/',
       pinterest: 'https://www.pinterest.com/08zwmxzliph7fpzk2p5heehhd5yb4y/'
     }
@@ -18,11 +20,107 @@ module.exports = {
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     `gatsby-plugin-transition-link`,
-
+    {
+      resolve: `gatsby-plugin-feed`,
+      options: {
+        // graphQL query to get siteMetadata
+        query: `
+          {
+            site {
+              siteMetadata {
+                title
+                description
+                siteUrl
+                site_url: siteUrl,
+                author
+              }
+            }
+          }
+        `,
+        feeds: [
+          // an array of feeds, I just have one below
+          {
+            serialize: ({ query: { site, allMarkdownRemark } }) => {
+              const {
+                siteMetadata: { siteUrl }
+              } = site;
+              return allMarkdownRemark.edges.map(edge => {
+                const {
+                  node: {
+                    frontmatter: {
+                      title,
+                      date,
+                      path,
+                      author: { name, email },
+                      featured: { publicURL },
+                      featuredAlt
+                    },
+                    excerpt,
+                    html
+                  }
+                } = edge;
+                return Object.assign({}, edge.node.frontmatter, {
+                  language: `en-us`,
+                  title,
+                  description: excerpt,
+                  date,
+                  url: siteUrl + path,
+                  guid: siteUrl + path,
+                  author: `${email} ( ${name} )`,
+                  image: {
+                    url: siteUrl + publicURL,
+                    title: featuredAlt,
+                    link: siteUrl + path
+                  },
+                  custom_elements: [{ 'content:encoded': html }]
+                });
+              });
+            },
+            // query to get blog post data
+            query: `
+            {
+              allMarkdownRemark(
+                sort: { order: DESC, fields: [frontmatter___date] },
+              ) {
+                edges {
+                  node {
+                    excerpt
+                    html
+                    frontmatter {
+                      date
+                      title
+                      featuredimage {
+                        publicURL
+                      }
+                      author
+                    }
+                  }
+                }
+              }
+            }
+            `,
+            output: '/rss.xml',
+            title: `My Awesome Site | RSS Feed`
+          }
+        ]
+      }
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: ``
+      }
+    },
     {
       resolve: `gatsby-source-instagram`,
       options: {
         username: `the_expatmagazine`
+      }
+    },
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        policy: [{ userAgent: '*', allow: '/' }]
       }
     },
     {
