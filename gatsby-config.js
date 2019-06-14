@@ -31,8 +31,6 @@ module.exports = {
                 title
                 description
                 siteURL
-                site_url: siteURL,
-                author
               }
             }
           }
