@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Top 5 Countries with Effortless Immigration Policies
-author: Abhyank Srinet
+author: Editorial Team
 type: post
 date: 2018-10-24T08:10:00.000Z
 url: /2018/expat-life/top-5-countries-with-effortless-immigration-policies/
