@@ -290,27 +290,97 @@ exports.createPages = async ({ actions, graphql }) => {
     component: path.resolve(`src/templates/index-page.js`)
   });
 
-  // Tag pages:
-  let tags = [];
-  posts.forEach(edge => {
-    if (_.get(edge, `node.frontmatter.tags`)) {
-      tags = tags.concat(edge.node.frontmatter.tags);
-    }
-  });
-  // Eliminate duplicate tags
-  tags = _.uniq(tags);
-
-  // Make tag pages
-  tags.forEach(tag => {
-    const tagPath = `/tags/${_.kebabCase(tag)}/`;
-    createPage({
-      path: tagPath,
-      component: path.resolve(`src/templates/tags.js`),
-      context: {
-        tag
+  // Tags
+  const tagsList = await wrapper(
+    graphql(`
+      {
+        allMarkdownRemark(
+          sort: { fields: frontmatter___date, order: ASC }
+          filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
+        ) {
+          group(field: frontmatter___tags) {
+            fieldValue
+            totalCount
+            edges {
+              node {
+                id
+                html
+                excerpt(pruneLength: 250)
+                fields {
+                  slug
+                }
+                frontmatter {
+                  title
+                  author
+                  description
+                  date(formatString: "MMMM DD, YYYY")
+                  tags
+                  featuredimage {
+                    childImageSharp {
+                      fluid(maxWidth: 700, quality: 100) {
+                        src
+                        srcSet
+                        aspectRatio
+                        sizes
+                        base64
+                      }
+                    }
+                    publicURL
+                  }
+                }
+              }
+            }
+          }
+        }
       }
+    `)
+  );
+
+  const tags = tagsList.data.allMarkdownRemark.group;
+
+  tags.forEach(g => {
+    const tagPath = `tags/${_.kebabCase(g.fieldValue)}`;
+
+    createPaginatedPages({
+      edges: g.edges,
+      createPage: createPage,
+      pageTemplate: path.resolve(`src/templates/tags.js`),
+      pageLength: 15,
+      pathPrefix: tagPath,
+      context: {
+        tag: g.fieldValue
+      },
+      buildPath: (index, pathPrefix) =>
+        index > 1 ? `${pathPrefix}/${index}` : `/${pathPrefix}` // This is optional and this is the default
     });
   });
+
+  // Tag pages:
+  // let tags = [];
+  // posts.forEach(edge => {
+  //   if (_.get(edge, `node.frontmatter.tags`)) {
+  //     tags = tags.concat(edge.node.frontmatter.tags);
+  //   }
+  // });
+  // // Eliminate duplicate tags
+  // tags = _.uniq(tags);
+
+  // // Make tag pages
+  // tags.forEach(tag => {
+  //   const tagPath = `/tags/${_.kebabCase(tag)}/`;
+  //   createPaginatedPages({
+  //     edges: g.edges,
+  //     createPage: createPage,
+  //     pageTemplate: path.resolve(`src/templates/blog-author.js`),
+  //     pageLength: 15,
+  //     pathPrefix: authorPath,
+  //     context: {
+  //       author: g.fieldValue
+  //     },
+  //     buildPath: (index, pathPrefix) =>
+  //       index > 1 ? `${pathPrefix}/${index}` : `/${pathPrefix}` // This is optional and this is the default
+  //   });
+  // });
 };
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
