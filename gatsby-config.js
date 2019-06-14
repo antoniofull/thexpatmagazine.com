@@ -30,8 +30,8 @@ module.exports = {
               siteMetadata {
                 title
                 description
-                siteUrl
-                site_url: siteUrl,
+                siteURL
+                site_url: siteURL,
                 author
               }
             }
@@ -42,7 +42,7 @@ module.exports = {
           {
             serialize: ({ query: { site, allMarkdownRemark } }) => {
               const {
-                siteMetadata: { siteUrl }
+                siteMetadata: { siteURL }
               } = site;
               return allMarkdownRemark.edges.map(edge => {
                 const {
@@ -64,13 +64,13 @@ module.exports = {
                   title,
                   description: excerpt,
                   date,
-                  url: siteUrl + path,
-                  guid: siteUrl + path,
+                  url: siteURL + path,
+                  guid: siteURL + path,
                   author: `${email} ( ${name} )`,
                   image: {
-                    url: siteUrl + publicURL,
+                    url: siteURL + publicURL,
                     title: featuredAlt,
-                    link: siteUrl + path
+                    link: siteURL + path
                   },
                   custom_elements: [{ 'content:encoded': html }]
                 });
