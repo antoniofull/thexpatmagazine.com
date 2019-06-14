@@ -1,7 +1,5 @@
 var proxy = require('http-proxy-middleware');
-const EventEmitter = require('events');
-const emitter = new EventEmitter();
-emitter.setMaxListeners(50);
+
 module.exports = {
   siteMetadata: {
     title: 'Thexpatmagazine.com - A Magazine for Expats',
@@ -36,69 +34,47 @@ module.exports = {
           }
         `,
         feeds: [
-          // an array of feeds, I just have one below
           {
             serialize: ({ query: { site, allMarkdownRemark } }) => {
-              const {
-                siteMetadata: { siteURL }
-              } = site;
               return allMarkdownRemark.edges.map(edge => {
-                const {
-                  node: {
-                    frontmatter: {
-                      title,
-                      date,
-                      path,
-                      author: { name, email },
-                      featured: { publicURL },
-                      featuredAlt
-                    },
-                    excerpt,
-                    html
-                  }
-                } = edge;
                 return Object.assign({}, edge.node.frontmatter, {
-                  language: `en-us`,
-                  title,
-                  description: excerpt,
-                  date,
-                  url: siteURL + path,
-                  guid: siteURL + path,
-                  author: `${email} ( ${name} )`,
-                  image: {
-                    url: siteURL + publicURL,
-                    title: featuredAlt,
-                    link: siteURL + path
-                  },
-                  custom_elements: [{ 'content:encoded': html }]
+                  description: edge.node.description,
+                  date: edge.node.frontmatter.date,
+                  url: site.siteMetadata.siteURL + edge.node.fields.slug,
+                  guid: site.siteMetadata.siteURL + edge.node.fields.slug,
+                  author: edge.node.frontmatter.author,
+                  custom_elements: [{ 'content:encoded': edge.node.html }]
                 });
               });
             },
-            // query to get blog post data
             query: `
-            {
-              allMarkdownRemark(
-                sort: { order: DESC, fields: [frontmatter___date] },
-              ) {
-                edges {
-                  node {
-                    excerpt
-                    html
-                    frontmatter {
-                      date
-                      title
-                      featuredimage {
-                        publicURL
+              {
+                allMarkdownRemark(
+                  sort: { order: DESC, fields: [frontmatter___date] },
+                ) {
+                  edges {
+                    node {
+                      excerpt
+                      html
+                      fields { slug }
+                      frontmatter {
+                        title
+                        date
+                        description
+                        author
                       }
-                      author
                     }
                   }
                 }
               }
-            }
             `,
             output: '/rss.xml',
-            title: `My Awesome Site | RSS Feed`
+            title: 'The Expat Magazine - RSS Feed',
+            // optional configuration to insert feed reference in pages:
+            // if `string` is used, it will be used to create RegExp and then test if pathname of
+            // current page satisfied this regular expression;
+            // if not provided or `undefined`, all pages will have feed reference inserted
+            match: '^/'
           }
         ]
       }
@@ -113,12 +89,6 @@ module.exports = {
       resolve: `gatsby-source-instagram`,
       options: {
         username: `the_expatmagazine`
-      }
-    },
-    {
-      resolve: 'gatsby-plugin-robots-txt',
-      options: {
-        policy: [{ userAgent: '*', allow: '/' }]
       }
     },
     {
