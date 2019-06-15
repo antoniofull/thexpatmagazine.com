@@ -177,6 +177,20 @@
   padding: var(--padding-l);
   text-align: center;
 }
+.countries-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: var(--margin-xl);
+}
+.country {
+  padding: var(--padding);
+  border: 1px solid var(--border-color-light);
+  margin-right: var(--margin-l);
+  margin-bottom: var(--margin-l);
+}
+.country a {
+  color: var(--font-color-primary);
+}
 @media screen and (min-width: 667px) {
   .has-border {
     border: 1px solid var(--border-color-light);

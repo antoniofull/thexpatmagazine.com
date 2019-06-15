@@ -354,33 +354,6 @@ exports.createPages = async ({ actions, graphql }) => {
         index > 1 ? `${pathPrefix}/${index}` : `/${pathPrefix}` // This is optional and this is the default
     });
   });
-
-  // Tag pages:
-  // let tags = [];
-  // posts.forEach(edge => {
-  //   if (_.get(edge, `node.frontmatter.tags`)) {
-  //     tags = tags.concat(edge.node.frontmatter.tags);
-  //   }
-  // });
-  // // Eliminate duplicate tags
-  // tags = _.uniq(tags);
-
-  // // Make tag pages
-  // tags.forEach(tag => {
-  //   const tagPath = `/tags/${_.kebabCase(tag)}/`;
-  //   createPaginatedPages({
-  //     edges: g.edges,
-  //     createPage: createPage,
-  //     pageTemplate: path.resolve(`src/templates/blog-author.js`),
-  //     pageLength: 15,
-  //     pathPrefix: authorPath,
-  //     context: {
-  //       author: g.fieldValue
-  //     },
-  //     buildPath: (index, pathPrefix) =>
-  //       index > 1 ? `${pathPrefix}/${index}` : `/${pathPrefix}` // This is optional and this is the default
-  //   });
-  // });
 };
 
 exports.onCreateNode = ({ node, actions, getNode }) => {

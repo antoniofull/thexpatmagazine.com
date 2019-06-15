@@ -1,23 +1,29 @@
 import React from 'react';
-import Helmet from 'react-helmet';
 import { graphql, Link } from 'gatsby';
 import Layout from '../../components/Layout';
+import { kebabCase } from 'lodash';
+
+const Country = ({ country }) => (
+  <article className='country'>
+    <h2 className='country__header'>
+      <Link alt={`all articles in ${country}`} to={`/${kebabCase(country)}`}>
+        {country}
+      </Link>
+    </h2>
+  </article>
+);
 
 const CountryPage = ({ data }) => (
   <Layout>
     <section className='section'>
-      <Helmet title={`Tags`} />
       <div className='container content'>
         <div className='columns'>
-          <div
-            className='column is-10 is-offset-1'
-            style={{ marginBottom: '6rem' }}
-          >
+          <div className='countries-list' style={{ marginBottom: '6rem' }}>
             {data.allMarkdownRemark.edges.map(edge => (
-              <Link key={edge.node.id} to={edge.node.fields.slug}>
-                {edge.node.frontmatter.title}
-                <br />
-              </Link>
+              <Country
+                key={edge.node.id}
+                country={edge.node.frontmatter.title}
+              />
             ))}
           </div>
         </div>
