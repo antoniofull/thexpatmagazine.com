@@ -32,7 +32,12 @@
 .form-newsletter__privacy {
   padding: var(--padding);
   font-size: var(--font-fixed-mobile);
-  max-width: 60%;
+  width: 100%;
+  flex: 1 1 100%;
+}
+.form-newsletter__privacy a {
+  color: var(--color-white);
+  text-decoration: underline;
 }
 @media screen and (min-width: 667px) {
   .form-newsletter input {
@@ -43,5 +48,10 @@
 @media screen and (min-width: 768px) {
   .form-newsletter {
     max-width: 650px;
+  }
+  .form-newsletter__privacy {
+    padding: var(--padding);
+    font-size: var(--font-fixed-mobile);
+    max-width: 60%;
   }
 }

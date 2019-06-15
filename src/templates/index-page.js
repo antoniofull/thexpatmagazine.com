@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { graphql } from 'gatsby';
+import Helmet from 'react-helmet';
 
 import Layout from '../components/Layout';
 import FeaturedPosts from '../components/FeaturedPosts';
@@ -69,6 +70,11 @@ class IndexPage extends Component {
     if (featured && featured.length) {
       return (
         <Layout>
+          <Helmet
+            bodyAttributes={{
+              class: 'body-home'
+            }}
+          />
           <SEO title='The Expat Magazine Home Page' />
           <main className='home'>
             <FeaturedPosts

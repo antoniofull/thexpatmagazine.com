@@ -67,6 +67,7 @@
 .footer-logo {
   margin: auto;
   display: block;
+  max-width: 150px;
 }
 .footer-social {
   max-width: 200px;

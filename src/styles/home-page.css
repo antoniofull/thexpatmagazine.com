@@ -1,4 +1,4 @@
-body {
+body.body-home {
   background-color: var(--color-body-light);
 }
 .home-row {

@@ -2,8 +2,13 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import { Link, graphql } from 'gatsby';
 import Image from 'gatsby-image';
+
 import Layout from '../components/Layout';
 import AuthorMeta from '../components/AuthorMeta';
+import FacebookIcon from '../img/social/facebook.svg';
+import InstagramIcon from '../img/social/instagram.svg';
+import PinterestIcon from '../img/social/pinterest.svg';
+import TwitterIcon from '../img/social/twitter.svg';
 import '../styles/author.css';
 import '../styles/home-page.css';
 
@@ -46,26 +51,47 @@ const AuthorRoute = props => {
       />
       <section className='blog-author'>
         <div className='author'>
-          <Image
-            className='author__image'
-            sizes={author.frontmatter.photo.childImageSharp.sizes}
-          />
+          <h2 className='author__title'>{author.frontmatter.name}</h2>
           <div className='author__info'>
-            <h2>{author.frontmatter.name}</h2>
+            <Image
+              className='author__image'
+              sizes={author.frontmatter.photo.childImageSharp.sizes}
+            />
             <p>{author.frontmatter.bio}</p>
           </div>
-          <div className='author__social'>
-            <a href={author.frontmatter.facebook}>Facebook</a>
-            <a href={author.frontmatter.instagram}>Instagram</a>
-            <a href={author.frontmatter.pinterest}>Pinterest</a>
-            <a href={author.frontmatter.twitter}>Twitter</a>
-            <a href={author.frontmatter.website}>Website</a>
-          </div>
+          <ul className='author__social'>
+            {author.frontmatter.instagram && (
+              <li>
+                <a target='_blank' href={author.frontmatter.instagram}>
+                  <InstagramIcon />
+                </a>
+              </li>
+            )}
+            {author.frontmatter.facebook && (
+              <li>
+                <a target='_blank' href={author.frontmatter.facebook}>
+                  <FacebookIcon />
+                </a>
+              </li>
+            )}
+            {author.frontmatter.pinterest && (
+              <li>
+                <a target='_blank' href={author.frontmatter.pinterest}>
+                  <PinterestIcon />
+                </a>
+              </li>
+            )}
+            {author.frontmatter.twitter && (
+              <li>
+                <a target='_blank' href={author.frontmatter.twitter}>
+                  <TwitterIcon />
+                </a>
+              </li>
+            )}
+          </ul>
         </div>
 
-        <h2 className='author__all'>{`All Articles from ${
-          author.frontmatter.title
-        }`}</h2>
+        <h2 className='author__all'>{`All Articles from ${author.frontmatter.title}`}</h2>
         <div className='container-home--articles'>
           {posts.map(post => (
             <Post post={post} key={post.node.id} />
