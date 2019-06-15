@@ -175,7 +175,7 @@ exports.createPages = async ({ actions, graphql }) => {
     graphql(`
       {
         allMarkdownRemark(
-          sort: { fields: frontmatter___date, order: ASC }
+          sort: { fields: frontmatter___date, order: DESC }
           filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
         ) {
           group(field: frontmatter___author) {
