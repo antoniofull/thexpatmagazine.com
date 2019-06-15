@@ -2,6 +2,7 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import { Link, graphql } from 'gatsby';
 import Image from 'gatsby-image';
+import _ from 'lodash';
 
 import Layout from '../components/Layout';
 import AuthorMeta from '../components/AuthorMeta';
@@ -11,6 +12,29 @@ import PinterestIcon from '../img/social/pinterest.svg';
 import TwitterIcon from '../img/social/twitter.svg';
 import '../styles/author.css';
 import '../styles/home-page.css';
+
+const Pagination = ({ count, author }) => {
+  const pages = [];
+  for (let i = 1; i <= count; i++) {
+    pages.push(i);
+  }
+  const baseUrl = `authors/${_.kebabCase(author)}`;
+  console.log(author);
+  return (
+    <div className='pagination'>
+      <div className='pagination__container wf-os'>
+        {pages.map(page => (
+          <Link
+            key={page}
+            to={`${page === 1 ? `/${baseUrl}/` : `/${baseUrl}/${page}`}`}
+          >
+            {page}
+          </Link>
+        ))}
+      </div>
+    </div>
+  );
+};
 
 const Post = ({ post }) => (
   <article className='author__post'>
@@ -44,6 +68,7 @@ const Post = ({ post }) => (
 const AuthorRoute = props => {
   const posts = props.pageContext.group;
   const author = props.data.markdownRemark;
+  console.log(props.pageContext);
   return (
     <Layout>
       <Helmet
@@ -96,6 +121,10 @@ const AuthorRoute = props => {
           {posts.map(post => (
             <Post post={post} key={post.node.id} />
           ))}
+          <Pagination
+            count={props.pageContext.pageCount}
+            author={props.pageContext.author}
+          />
         </div>
       </section>
     </Layout>
