@@ -111,7 +111,33 @@
   max-width: 600px;
   margin: auto;
 }
-
+.post-author__image {
+  display: block;
+  border-radius: 50%;
+  max-width: 100px;
+  padding: var(--padding);
+  margin: var(--margin);
+  border: 1px solid var(--border-color);
+  flex: 1 1 100px;
+}
+.post-author {
+  border-bottom: 1px solid var(--border-color-light);
+  overflow: auto;
+  margin-bottom: var(--margin-xl);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+.post-author__bio {
+  flex: 1;
+}
+.post-author__title {
+  min-width: 100%;
+}
+.post-author__link {
+  color: var(--color-font-primary);
+}
 @media screen and (min-width: 667px) {
   .post__content {
     max-width: 80%;

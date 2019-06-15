@@ -6,6 +6,7 @@ import { graphql, Link } from 'gatsby';
 import Img from 'gatsby-image';
 import { DiscussionEmbed } from 'disqus-react';
 
+import AuthorPost from '../components/AuthorPosts';
 import Layout from '../components/Layout';
 import AuthorMeta from '../components/AuthorMeta';
 import Content, { HTMLContent } from '../components/Content';
@@ -69,6 +70,7 @@ export const BlogPostTemplate = ({
               </ul>
             </div>
           ) : null}
+          <AuthorPost author={author} />
           <RelatedArticles articles={relatedArticles} />
           <DiscussionEmbed {...disqusConfig} />
         </div>
