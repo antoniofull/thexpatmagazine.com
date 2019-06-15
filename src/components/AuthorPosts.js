@@ -25,6 +25,7 @@ const AuthorPost = props => {
       </Link>
     );
   }
+  return null;
 };
 
 export default props => (
