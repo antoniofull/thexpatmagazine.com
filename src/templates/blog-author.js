@@ -135,11 +135,11 @@ const AuthorRoute = props => {
           {posts.map(post => (
             <Post post={post} key={post.node.id} />
           ))}
-          <Pagination
-            count={props.pageContext.pageCount}
-            author={props.pageContext.author}
-          />
         </div>
+        <Pagination
+          count={props.pageContext.pageCount}
+          author={props.pageContext.author}
+        />
       </section>
     </Layout>
   );
