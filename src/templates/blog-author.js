@@ -19,7 +19,6 @@ const Pagination = ({ count, author }) => {
     pages.push(i);
   }
   const baseUrl = `authors/${_.kebabCase(author)}`;
-  console.log(author);
   return (
     <div className='pagination'>
       <div className='pagination__container wf-os'>
@@ -68,7 +67,6 @@ const Post = ({ post }) => (
 const AuthorRoute = props => {
   const posts = props.pageContext.group;
   const author = props.data.markdownRemark;
-  console.log(props.pageContext);
   return (
     <Layout>
       <Helmet
@@ -87,28 +85,44 @@ const AuthorRoute = props => {
           <ul className='author__social'>
             {author.frontmatter.instagram && (
               <li>
-                <a target='_blank' href={author.frontmatter.instagram}>
+                <a
+                  rel='noopener noreferrer'
+                  target='_blank'
+                  href={author.frontmatter.instagram}
+                >
                   <InstagramIcon />
                 </a>
               </li>
             )}
             {author.frontmatter.facebook && (
               <li>
-                <a target='_blank' href={author.frontmatter.facebook}>
+                <a
+                  rel='noopener noreferrer'
+                  target='_blank'
+                  href={author.frontmatter.facebook}
+                >
                   <FacebookIcon />
                 </a>
               </li>
             )}
             {author.frontmatter.pinterest && (
               <li>
-                <a target='_blank' href={author.frontmatter.pinterest}>
+                <a
+                  rel='noopener noreferrer'
+                  target='_blank'
+                  href={author.frontmatter.pinterest}
+                >
                   <PinterestIcon />
                 </a>
               </li>
             )}
             {author.frontmatter.twitter && (
               <li>
-                <a target='_blank' href={author.frontmatter.twitter}>
+                <a
+                  rel='noopener noreferrer'
+                  target='_blank'
+                  href={author.frontmatter.twitter}
+                >
                   <TwitterIcon />
                 </a>
               </li>

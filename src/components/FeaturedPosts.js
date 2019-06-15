@@ -1,7 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
 import { Link } from 'gatsby';
-import Image from 'gatsby-image';
 import Palette from 'react-palette';
 import Carousel from 'nuka-carousel';
 
