@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="375px" height="399px" viewBox="0 0 375 399" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
-    <title>Background</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Mobile-Navigation" fill-rule="nonzero">
-            <g id="NAVIGATION" transform="translate(0.000000, -1.000000)">
-                <g id="Background">
-                    <path d="M5.68434189e-14,398.703239 C250,367.453897 375,299.982039 375,196.287664 C375,92.5932899 375,27.3900572 375,0.677966102 L5.68434189e-14,0.677966102 L5.68434189e-14,398.703239 Z" id="Path-2-Copy" fill="#DBA5F5"></path>
-                    <path d="M-1.98951966e-13,399.726273 C250,336.589787 375,253.174358 375,149.479983 C375,45.7856087 375,-3.81506366 375,0.677966102 L-1.98951966e-13,0.677966102 L-1.98951966e-13,399.726273 Z" id="Path-2" fill="#BE52F2"></path>
-                </g>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg height="399" viewBox="0 0 375 399" width="375" xmlns="http://www.w3.org/2000/svg"><g fill="none" transform="translate(0 -1)"><path d="m0 398.703239c250-31.249342 375-98.7212 375-202.415575 0-103.6943741 0-168.8976068 0-195.6096979h-375z" fill="#dba5f5"/><path d="m0 399.726273c250-63.136486 375-146.551915 375-250.24629 0-103.6943743 0-153.29504666 0-148.8020169h-375z" fill="#be52f2"/></g></svg>

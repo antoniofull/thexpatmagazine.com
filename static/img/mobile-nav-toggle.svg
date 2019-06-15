@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="21px" height="12px" viewBox="0 0 21 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
-    <title>Menu</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Menu" fill="#000000" fill-rule="nonzero">
-            <rect id="Rectangle" x="0" y="0" width="20.8240223" height="1.5" rx="0.75"></rect>
-            <rect id="Rectangle-Copy-2" x="0" y="5.17647059" width="16.1964618" height="1.5" rx="0.75"></rect>
-            <rect id="Rectangle-Copy-3" x="0" y="10.3529412" width="20.8240223" height="1.5" rx="0.75"></rect>
-        </g>
-    </g>
-</svg>
+<svg height="12" viewBox="0 0 21 12" width="21" xmlns="http://www.w3.org/2000/svg"><g><rect height="1.5" rx=".75" width="20.824022"/><rect height="1.5" rx=".75" width="16.196462" y="5.176471"/><rect height="1.5" rx=".75" width="20.824022" y="10.352941"/></g></svg>
