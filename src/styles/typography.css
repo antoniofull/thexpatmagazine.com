@@ -112,7 +112,10 @@ a {
 .font-small {
   font-size: var(--font-s);
 }
-
+.tag-title {
+  padding: var(--padding-l);
+  text-align: center;
+}
 @media screen and (min-width: 768px) {
   html {
     font-size: 100%;

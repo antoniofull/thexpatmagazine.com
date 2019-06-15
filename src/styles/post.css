@@ -67,10 +67,9 @@
   padding-right: var(--padding);
   max-width: 700px;
   margin: auto;
-  font-size: 18px;
 }
 .post__article > p:first-of-type {
-  font-size: 20px;
+  font-size: 18px;
   line-height: 1.5;
   margin-bottom: var(--margin-xl);
 }
@@ -122,5 +121,9 @@
 @media screen and (min-width: 1024px) {
   .post__content {
     max-width: 700px;
+    font-size: 18px;
+  }
+  .post__article > p:first-of-type {
+    font-size: 20px;
   }
 }

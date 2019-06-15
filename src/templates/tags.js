@@ -31,7 +31,9 @@ const TagRoute = ({ pageContext }) => {
   const posts = pageContext.group;
   return (
     <Layout>
-      {pageContext.tag && <h2>{`All Posts Tagged in : ${pageContext.tag}`}</h2>}
+      {pageContext.tag && (
+        <h2 className='tag-title'>{`Tag : ${pageContext.tag}`}</h2>
+      )}
       <Grid posts={posts} title={pageContext.additionalContext.cat} />
       <Pagination
         count={pageContext.pageCount}

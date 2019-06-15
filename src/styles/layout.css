@@ -173,6 +173,10 @@
   width: 95%;
   max-width: 700px;
 }
+.tag-title {
+  padding: var(--padding-l);
+  text-align: center;
+}
 @media screen and (min-width: 667px) {
   .has-border {
     border: 1px solid var(--border-color-light);
