@@ -2,7 +2,7 @@
 templateKey: blog-author
 role: guest-author
 name: Lauren Smith
-title: Lauren smith
+title: lauren smith
 bio: >-
   An American wife, mother of three, expat and blogger from New Jersey and now
   living in Barcelona! Her blog, The Expat Chronicle, shares all the aspects of
