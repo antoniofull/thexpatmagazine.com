@@ -56,7 +56,7 @@ export const CountryQuery = graphql`
             instagram
             photo {
               childImageSharp {
-                fluid(maxWidth: 800, maxHeight: 560, quality: 100) {
+                fluid(maxWidth: 800, maxHeight: 560) {
                   ...GatsbyImageSharpFluid
                 }
               }

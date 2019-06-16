@@ -48,7 +48,7 @@ export const AuthorsQuery = graphql`
             instagram
             photo {
               childImageSharp {
-                fluid(maxWidth: 800, maxHeight: 560, quality: 100) {
+                fluid(maxWidth: 800, maxHeight: 560) {
                   ...GatsbyImageSharpFluid
                 }
               }
@@ -75,7 +75,7 @@ export const AuthorsQuery = graphql`
             website
             photo {
               childImageSharp {
-                fluid(maxWidth: 800, maxHeight: 560, quality: 100) {
+                fluid(maxWidth: 800, maxHeight: 560) {
                   ...GatsbyImageSharpFluid
                 }
               }
