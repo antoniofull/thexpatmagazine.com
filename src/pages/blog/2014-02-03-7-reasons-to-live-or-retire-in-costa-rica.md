@@ -7,7 +7,11 @@ description: >-
   lands that will leave you breathless.
 featuredpost: true
 featuredimage: /img/atanas-malamov.jpg
-imagealt:
+imagealt: >-
+  Photo by [Atanas
+  Malamov](https://unsplash.com/@atanasmalamov?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  on
+  [Unsplash](https://unsplash.com/search/photos/costa-rica?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 tags:
   - cheap
   - costa rica
