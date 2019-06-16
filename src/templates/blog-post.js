@@ -4,6 +4,7 @@ import { kebabCase } from 'lodash';
 import { graphql, Link } from 'gatsby';
 import Img from 'gatsby-image';
 import { DiscussionEmbed } from 'disqus-react';
+import ReactMarkdown from 'react-markdown';
 
 import AuthorPost from '../components/AuthorPosts';
 import Layout from '../components/Layout';
@@ -16,10 +17,18 @@ import '../styles/post.css';
 
 const Separator = () => (
   <div className='dots'>
-    <span className='dot1'></span>
-    <span className='dot2'></span>
-    <span className='dot3'></span>
+    <span className='dot'></span>
+    <span className='dot'></span>
+    <span className='dot'></span>
   </div>
+);
+
+const Figcaption = ({ figcaption }) => (
+  <figure>
+    <figcaption className='featured-image__caption'>
+      <ReactMarkdown source={figcaption} />
+    </figcaption>
+  </figure>
 );
 
 export const BlogPostTemplate = ({
@@ -28,8 +37,10 @@ export const BlogPostTemplate = ({
   tags,
   title,
   author,
+  description,
   date,
   image,
+  figcaption,
   category,
   url,
   relatedArticles
@@ -62,7 +73,14 @@ export const BlogPostTemplate = ({
         </div>
         {image && (
           <React.Fragment>
-            <Img sizes={image.sizes} className='post__image' />
+            <Img
+              Tag='figure'
+              title={title}
+              alt={description}
+              sizes={image.sizes}
+              className='post__image'
+            />
+            <Figcaption figcaption={figcaption} />
             <Separator />
           </React.Fragment>
         )}
@@ -117,10 +135,12 @@ const BlogPost = props => {
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
         author={post.frontmatter.author}
+        figcaption={post.frontmatter.imagealt}
         image={
           post.frontmatter.featuredimage &&
           post.frontmatter.featuredimage.childImageSharp
         }
+        altimage={post.frontmatter.altimage}
         tags={post.frontmatter.tags}
         date={post.frontmatter.date}
         title={post.frontmatter.title}
@@ -161,6 +181,7 @@ export const pageQuery = graphql`
         category
         author
         name
+        imagealt
         featuredimage {
           publicURL
           childImageSharp {
@@ -169,7 +190,6 @@ export const pageQuery = graphql`
             }
           }
         }
-        imagealt
       }
     }
   }

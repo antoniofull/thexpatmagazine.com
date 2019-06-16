@@ -115,6 +115,7 @@
 
   .main-nav__item {
     margin-bottom: 0;
+    flex: 1 1 auto;
   }
 
   .main-nav__item a {

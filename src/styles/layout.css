@@ -191,6 +191,19 @@
 .country a {
   color: var(--font-color-primary);
 }
+.dots {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  width: 60px;
+  margin: var(--margin-l) auto;
+}
+.dot {
+  width: 8px;
+  height: 8px;
+  background: var(--border-color-light);
+  border-radius: 50%;
+}
 @media screen and (min-width: 667px) {
   .has-border {
     border: 1px solid var(--border-color-light);

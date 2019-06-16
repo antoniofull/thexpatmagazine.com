@@ -71,15 +71,15 @@ h6 {
   font-weight: 900;
   letter-spacing: 0.04rem;
 
-  font-variant: diagonal-fractions;
-  -moz-font-feature-settings: 'frac';
-  -webkit-font-feature-settings: 'frac';
-  font-feature-settings: 'frac';
+  font-variant: lining-nums;
+  -moz-font-feature-settings: 'lnum';
+  -webkit-font-feature-settings: 'lnum';
+  font-feature-settings: 'lnum';
 
-  font-variant-numeric: ordinal;
-  -moz-font-feature-settings: 'ordn';
-  -webkit-font-feature-settings: 'ordn';
-  font-feature-settings: 'ordn';
+  font-variant-numeric: common-ligatures;
+  -moz-font-feature-settings: 'liga';
+  -webkit-font-feature-settings: 'liga';
+  font-feature-settings: 'liga';
 }
 
 h1 {

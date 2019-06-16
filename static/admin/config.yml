@@ -33,7 +33,7 @@ collections:
       - {
           label: 'Featured Image Description (add credits from unsplash or other websites in the figcaption)',
           name: 'imagealt',
-          widget: text,
+          widget: markdown,
         }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - {
