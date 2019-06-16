@@ -26,7 +26,9 @@ const Featured = ({ post }) => {
               <BackgroundImage
                 Tag='section'
                 className='backdrop'
-                fluid={imageData}
+                fluid={
+                  post.node.frontmatter.featuredimage.childImageSharp.fluid
+                }
                 backgroundColor={`#040e18`}
                 style={{ backgroundColor: palette.vibrantLight }}
               />

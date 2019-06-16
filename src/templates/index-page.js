@@ -130,7 +130,7 @@ export const indexQuery = graphql`
             featuredpost
             featuredimage {
               childImageSharp {
-                fluid(maxWidth: 2440) {
+                fluid(maxWidth: 1600) {
                   ...GatsbyImageSharpFluid
                 }
               }
