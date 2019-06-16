@@ -15,12 +15,7 @@ const Featured = ({ post }) => {
   if (img) {
     return (
       <React.Fragment key={post.node.id}>
-        <div
-          className='featured-image'
-          style={{
-            backgroundImage: `url(${img})`
-          }}
-        >
+        <div className='featured-image'>
           <Palette image={img}>
             {palette => (
               <BackgroundImage
