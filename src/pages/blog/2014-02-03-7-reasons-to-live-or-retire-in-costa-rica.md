@@ -6,7 +6,7 @@ description: >-
   Costa Rica is a tropical paradise in Central America, surrounded by beautiful
   lands that will leave you breathless.
 featuredpost: true
-featuredimage: /img/costa_rica_volcanoparrot_0.jpg
+featuredimage: /img/atanas-malamov.jpg
 tags:
   - cheap
   - costa rica
