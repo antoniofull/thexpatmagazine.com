@@ -2,7 +2,7 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import { Link, graphql } from 'gatsby';
 import Image from 'gatsby-image';
-import _ from 'lodash';
+import { kebabCase } from 'lodash';
 
 import Layout from '../components/Layout';
 import AuthorMeta from '../components/AuthorMeta';
@@ -18,7 +18,7 @@ const Pagination = ({ count, author }) => {
   for (let i = 1; i <= count; i++) {
     pages.push(i);
   }
-  const baseUrl = `authors/${_.kebabCase(author)}`;
+  const baseUrl = `authors/${kebabCase(author)}`;
   return (
     <div className='pagination'>
       <div className='pagination__container wf-os'>

@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
 import { Link } from 'gatsby';
-import _ from 'lodash';
+import { kebabCase } from 'lodash';
 
 import SearchForm from './SearchForm';
 import SearchIcon from '../img/icon-search.svg';
 
-const DesktopNav = ({ active, items }) => {
+const DesktopNav = ({ items }) => {
   const [isSearchOpen, setSearchState] = useState(false);
   return (
     <React.Fragment>
@@ -20,7 +20,7 @@ const DesktopNav = ({ active, items }) => {
               {item === 'guests' ? (
                 <Link to={`/pages/write-for-us/`}>Guest Posts</Link>
               ) : (
-                <Link to={`/${_.kebabCase(item)}/`}>{item}</Link>
+                <Link to={`/${kebabCase(item)}/`}>{item}</Link>
               )}
             </li>
           ))}

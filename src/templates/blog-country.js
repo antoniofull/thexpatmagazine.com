@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'gatsby';
-import _ from 'lodash';
+import { kebabCase } from 'lodash';
 
 import Layout from '../components/Layout';
 import Grid from '../components/Grid';
@@ -10,7 +10,7 @@ const Pagination = ({ count, title }) => {
   for (let i = 1; i <= count; i++) {
     pages.push(i);
   }
-  const baseUrl = _.kebabCase(title);
+  const baseUrl = kebabCase(title);
   return (
     <div className='pagination'>
       <div className='pagination__container wf-os'>

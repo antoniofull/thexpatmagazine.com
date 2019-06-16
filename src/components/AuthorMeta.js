@@ -1,5 +1,5 @@
 import React from 'react';
-import _ from 'lodash';
+import { find, kebabCase } from 'lodash';
 import { Link, graphql, StaticQuery } from 'gatsby';
 import Img from 'gatsby-image';
 
@@ -9,7 +9,7 @@ const AuthorMeta = props => {
   const authors = props.data.allMarkdownRemark.edges;
   // const { readingTime } = props;
 
-  const author = _.find(authors, a => {
+  const author = find(authors, a => {
     return a.node.frontmatter.name === props.author;
   });
   if (author) {
@@ -19,7 +19,7 @@ const AuthorMeta = props => {
           props.className}`}
       >
         <Link
-          to={`/authors/${_.kebabCase(author.node.frontmatter.name)}`}
+          to={`/authors/${kebabCase(author.node.frontmatter.name)}`}
           className='post-meta--author__link'
         >
           <span className='post-meta--author__image'>

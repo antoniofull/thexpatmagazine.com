@@ -1,5 +1,5 @@
 import React from 'react';
-import _ from 'lodash';
+import { find } from 'lodash';
 import { Link } from 'gatsby';
 import Palette from 'react-palette';
 import Carousel from 'nuka-carousel';
@@ -70,7 +70,7 @@ const Featured = ({ post }) => {
 const FeaturedPosts = ({ posts, authors, count }) => {
   if (posts && posts.length > 0) {
     // const post = posts[0].node;
-    const author = _.find(authors, a => {
+    const author = find(authors, a => {
       return a.node.frontmatter.title === posts[0].node.frontmatter.author;
     });
     return (
