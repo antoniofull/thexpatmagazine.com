@@ -29,7 +29,12 @@ collections:
           widget: 'boolean',
           required: false,
         }
-      - { label: 'Featured Image', name: 'featuredimage', widget: image }
+      - { label: 'Featured Image', name: 'featuredimage', widget: text }
+      - {
+          label: 'Featured Image Description (add credits from unsplash or other websites in the figcaption)',
+          name: 'imagealt',
+          widget: string,
+        }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - {
           label: 'Tags',

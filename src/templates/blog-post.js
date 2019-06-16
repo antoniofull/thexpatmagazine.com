@@ -14,6 +14,14 @@ import SEO from '../components/Seo';
 
 import '../styles/post.css';
 
+const Separator = () => (
+  <div className='dots'>
+    <span className='dot1'></span>
+    <span className='dot2'></span>
+    <span className='dot3'></span>
+  </div>
+);
+
 export const BlogPostTemplate = ({
   content,
   contentComponent,
@@ -52,7 +60,12 @@ export const BlogPostTemplate = ({
             author={author}
           />
         </div>
-        {image && <Img sizes={image.sizes} className='post__image' />}
+        {image && (
+          <React.Fragment>
+            <Img sizes={image.sizes} className='post__image' />
+            <Separator />
+          </React.Fragment>
+        )}
         <div className='post__content'>
           <PostContent content={content} className='post__article' />
           {tags && tags.length ? (
@@ -156,6 +169,7 @@ export const pageQuery = graphql`
             }
           }
         }
+        imagealt
       }
     }
   }

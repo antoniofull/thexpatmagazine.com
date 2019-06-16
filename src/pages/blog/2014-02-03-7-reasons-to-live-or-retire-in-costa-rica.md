@@ -7,6 +7,7 @@ description: >-
   lands that will leave you breathless.
 featuredpost: true
 featuredimage: /img/atanas-malamov.jpg
+imagealt:
 tags:
   - cheap
   - costa rica
@@ -18,6 +19,7 @@ category:
   - destinations
 author: Editorial Team
 ---
+
 **Costa Rica** is a tropical-paradise in the **Central America**, surrounded by beautiful lands that will leave you breathless. <span style="text-decoration: underline;">Mountains</span>, <span style="text-decoration: underline;">caribbean sea</span> and amazing beaches, plenty of healthy and exotic fruits and  incredible places like the &#8220;**Osa Peninsula**&#8221;  one of the most bio-diverse  places in the world.
 
 **Life is cheap** and people are among the **happiest in the** world. Is one of the most democratic country in Latin America and has no army since 1948.

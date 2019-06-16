@@ -3,6 +3,7 @@ import { find } from 'lodash';
 import { Link } from 'gatsby';
 import Palette from 'react-palette';
 import Carousel from 'nuka-carousel';
+import BackgroundImage from 'gatsby-background-image';
 
 import AuthorMeta from './AuthorMeta';
 import '../styles/featured.css';
@@ -22,9 +23,12 @@ const Featured = ({ post }) => {
         >
           <Palette image={img}>
             {palette => (
-              <div
-                style={{ backgroundColor: palette.vibrantLight }}
+              <BackgroundImage
+                Tag='section'
                 className='backdrop'
+                fluid={imageData}
+                backgroundColor={`#040e18`}
+                style={{ backgroundColor: palette.vibrantLight }}
               />
             )}
           </Palette>
