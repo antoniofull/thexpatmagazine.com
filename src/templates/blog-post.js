@@ -100,7 +100,9 @@ export const BlogPostTemplate = ({
               </ul>
             </div>
           ) : null}
+
           <AuthorPost author={author} />
+
           <RelatedArticles articles={relatedArticles} />
           <DiscussionEmbed {...disqusConfig} />
         </div>

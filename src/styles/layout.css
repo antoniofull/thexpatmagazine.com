@@ -204,6 +204,17 @@
   background: var(--border-color-light);
   border-radius: 50%;
 }
+.share-post {
+  display: flex;
+  margin: var(--margin-l);
+  border-top: 1px solid var(--border-color-light);
+  border-bottom: 1px solid var(--border-color-light);
+}
+.share-post > div {
+  margin-right: var(--margin-l);
+  padding: var(--padding);
+  cursor: pointer;
+}
 @media screen and (min-width: 667px) {
   .has-border {
     border: 1px solid var(--border-color-light);
