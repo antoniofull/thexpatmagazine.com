@@ -1,7 +1,6 @@
 import React from 'react';
-import { find } from 'lodash';
+import { find } from 'lodash-es';
 import { Link } from 'gatsby';
-import Palette from 'react-palette';
 import Carousel from 'nuka-carousel';
 import BackgroundImage from 'gatsby-background-image';
 
@@ -16,18 +15,11 @@ const Featured = ({ post }) => {
     return (
       <React.Fragment key={post.node.id}>
         <div className='featured-image'>
-          <Palette image={img}>
-            {palette => (
-              <BackgroundImage
-                Tag='section'
-                className='backdrop'
-                fluid={
-                  post.node.frontmatter.featuredimage.childImageSharp.fluid
-                }
-                style={{ backgroundColor: palette.vibrantLight }}
-              />
-            )}
-          </Palette>
+          <BackgroundImage
+            Tag='section'
+            className='backdrop'
+            fluid={post.node.frontmatter.featuredimage.childImageSharp.fluid}
+          />
         </div>
         <div className='featured-post__container has-shadow'>
           <article className='featured-post'>

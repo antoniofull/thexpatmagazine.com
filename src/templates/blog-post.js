@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { kebabCase } from 'lodash';
+import { kebabCase } from 'lodash-es';
 import { graphql, Link } from 'gatsby';
 import Img from 'gatsby-image';
 import { DiscussionEmbed } from 'disqus-react';

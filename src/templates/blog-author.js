@@ -2,7 +2,7 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import { Link, graphql } from 'gatsby';
 import Image from 'gatsby-image';
-import { kebabCase } from 'lodash';
+import { kebabCase } from 'lodash-es';
 
 import Layout from '../components/Layout';
 import AuthorMeta from '../components/AuthorMeta';

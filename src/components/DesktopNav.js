@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'gatsby';
-import { kebabCase } from 'lodash';
+import { kebabCase } from 'lodash-es';
 
 import SearchForm from './SearchForm';
 import SearchIcon from '../img/icon-search.svg';

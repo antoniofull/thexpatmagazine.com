@@ -1,5 +1,5 @@
 import React from 'react';
-import { find, kebabCase } from 'lodash';
+import { find, kebabCase } from 'lodash-es';
 import { Link, graphql, StaticQuery } from 'gatsby';
 import Img from 'gatsby-image';
 

@@ -124,7 +124,13 @@ module.exports = {
     },
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
-    'gatsby-plugin-webpack-bundle-analyzer',
+    {
+      resolve: 'gatsby-plugin-webpack-bundle-analyzer',
+      options: {
+        analyzerPort: 3000,
+        production: true
+      }
+    },
     {
       resolve: 'gatsby-transformer-remark',
       options: {
