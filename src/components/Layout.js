@@ -12,6 +12,8 @@ import '../styles/buttons.css';
 
 const TemplateWrapper = ({ children }) => {
   const site = useSiteMetadata();
+  var WebFont = require('webfontloader');
+
   return (
     <div>
       <Helmet>

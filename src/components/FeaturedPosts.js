@@ -24,7 +24,6 @@ const Featured = ({ post }) => {
                 fluid={
                   post.node.frontmatter.featuredimage.childImageSharp.fluid
                 }
-                backgroundColor={`#040e18`}
                 style={{ backgroundColor: palette.vibrantLight }}
               />
             )}

@@ -44,7 +44,6 @@ const Navbar = class extends React.Component {
     return (
       <Header>
         <Link className='logo' to='/' aria-label='Home Page The Expat magazine'>
-          >
           <Logo className='logo--svg' alt={'The Expat Magazine'} />
         </Link>
         <MediaQuery query='(max-width: 1024px)'>
