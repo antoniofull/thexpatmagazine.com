@@ -43,13 +43,18 @@ const Navbar = class extends React.Component {
     const { items } = this.state;
     return (
       <Header>
-        <Link className='logo' to='/'>
+        <Link className='logo' to='/' aria-label='Home Page The Expat magazine'>
+          >
           <Logo className='logo--svg' alt={'The Expat Magazine'} />
         </Link>
         <MediaQuery query='(max-width: 1024px)'>
           <div className='mobile-toggle' onClick={this.toggleHamburger}>
             <span className='mobile-nav__text'>MENU</span>
-            <button type='button' className='hamburger btn-link'>
+            <button
+              aria-label='Open Naigation'
+              type='button'
+              className='hamburger btn-link'
+            >
               <MobileNavToggler />
             </button>
           </div>

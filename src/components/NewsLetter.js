@@ -40,14 +40,22 @@ const CustomForm = ({ status, message, onValidated }) => {
       </div>
       <form className='form-newsletter'>
         <div className='form-newsletter__container'>
+          <label htmlFor='name'>Name</label>
           <input
             ref={node => (name = node)}
             type='text'
+            id='name'
+            name='name'
             placeholder='Your name'
+            aria-label='name'
           />
+          <label htmlFor='email'>Email</label>
           <input
             ref={node => (email = node)}
             type='email'
+            id='email'
+            name='email'
+            aria-label='email'
             placeholder='Your email'
           />
         </div>

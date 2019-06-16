@@ -25,12 +25,17 @@ const Footer = ({ site }) => {
               <a
                 href={site.links.instagram}
                 className='footer-social__instagram'
+                aria-label='Visit our instagram page'
               >
                 <InstagramIcon className='social-icon' />
               </a>
             </li>
             <li>
-              <a href={site.links.facebook} className='footer-social__facebook'>
+              <a
+                aria-label='Visit our facebook page'
+                href={site.links.facebook}
+                className='footer-social__facebook'
+              >
                 <FacebookIcon className='social-icon' />
               </a>
             </li>
@@ -38,12 +43,17 @@ const Footer = ({ site }) => {
               <a
                 href={site.links.pinterest}
                 className='footer-social__pinterest'
+                aria-label='Visit our pinterest page'
               >
                 <PinterestIcon className='social-icon' />
               </a>
             </li>
             <li>
-              <a href={site.links.twitter} className='footer-social__twitter'>
+              <a
+                aria-label='Visit our twitter page'
+                href={site.links.twitter}
+                className='footer-social__twitter'
+              >
                 <TwitterIcon className='social-icon' />
               </a>
             </li>

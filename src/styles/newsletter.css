@@ -10,6 +10,9 @@
   display: flex;
   flex-wrap: wrap;
 }
+.form-newsletter__container label {
+  display: none;
+}
 .newsletter__header {
   font-size: var(--font-l);
   padding: var(--padding);
