@@ -17,6 +17,7 @@ const Tips = ({ posts }) => {
             {story.node.frontmatter.featuredimage && (
               <Link to={story.node.fields.slug}>
                 <Img
+                  alt={story.node.frontmatter.title}
                   fluid={
                     story.node.frontmatter.featuredimage.childImageSharp.fluid
                   }

@@ -23,7 +23,10 @@ const AuthorMeta = props => {
           className='post-meta--author__link'
         >
           <span className='post-meta--author__image'>
-            <Img sizes={author.node.frontmatter.photo.childImageSharp.sizes} />
+            <Img
+              alt={author.node.frontmatter.name}
+              sizes={author.node.frontmatter.photo.childImageSharp.sizes}
+            />
           </span>
           <h4 className='post-meta--author__name wf-os'>
             {author.node.frontmatter.name}
