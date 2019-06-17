@@ -3,7 +3,17 @@
 .post {
   background: var(--color-white);
 }
-
+.post .floatLeft {
+  float: left;
+  padding: var(--padding);
+}
+.post .floatRight {
+  float: right;
+  padding: var(--padding);
+}
+.post .clear {
+  overflow: auto;
+}
 .post img {
   height: auto;
   max-width: 100%;
