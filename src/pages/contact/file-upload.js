@@ -88,8 +88,8 @@ export default class Contact extends React.Component {
                         onChange={this.handleAttachment}
                       />
                       <span className="file-cta">
-                        <span className="file-label">Choose a file…</span>
-                      </span>
+                        <span className="file-label">Choose a file…
+                      
                     </label>
                   </div>
                 </div>

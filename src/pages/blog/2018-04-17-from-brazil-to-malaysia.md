@@ -34,7 +34,7 @@ A friend of my from France heard from his friend that there was a MMA Gym openin
 
 #### Tell us a bit more about the place where you grew up?
 
-<span style="font-style: inherit;">I grew up in Petrópolis a city known as Brazil’s Imperial City, located in the Rio de Janeiro State.</span>
+<span style="font-style: inherit;">I grew up in Petrópolis a city known as Brazil’s Imperial City, located in the Rio de Janeiro State.
 
 #### What are the main differences between your culture and the one you discovered there?
 

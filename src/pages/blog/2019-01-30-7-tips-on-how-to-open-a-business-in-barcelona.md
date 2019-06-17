@@ -86,6 +86,6 @@ You are about to spend and risk a lot of money pursuing a new venture.  Make su
 
 For enquiries about starting a business in Barcelona, **GOBAI Group** can offer a free consultation and initial proposal.
 
-Contact: info@gobaigroup.com. Tel. 930 25 86 04   <span lang="ES"><span lang="EN-GB"><a href="https://www.gobaigroup.com/" target="_blank" rel="noopener">www.gobaigroup.com</a> </span></span>
+Contact: info@gobaigroup.com. Tel. 930 25 86 04   <span lang="ES"><span lang="EN-GB"><a href="https://www.gobaigroup.com/" target="_blank" rel="noopener">www.gobaigroup.com</a> 
 
 : https://localhost/thexpatmagazine-wp/2014/europe/27-reasons-barcelona-best-city-world/

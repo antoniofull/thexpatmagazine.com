@@ -33,7 +33,7 @@ Every year they release a report which list the **World&#8217;s safest airlines*
 
 Based on this list of criteria airline ratings compiles the list of the **World&#8217;s safest airlines** and, for the fourth year in a row, there is a company who is leading this list for 2017, the Australian airline **Qantas**.
 
-This company holds the first place again this year, but also holds the record of <span style="text-decoration: underline;">no casualties during its flights</span>, which is very impressive. Anyway there are also other **19 companies** together with them, and we have listed them all  in alphabetical order.
+This company holds the first place again this year, but also holds the record of <span style="text-decoration: underline;">no casualties during its flights, which is very impressive. Anyway there are also other **19 companies** together with them, and we have listed them all  in alphabetical order.
 
 ### World&#8217;s safest airlines.
 

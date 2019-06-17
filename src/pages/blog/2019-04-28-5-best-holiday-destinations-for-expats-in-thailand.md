@@ -17,17 +17,17 @@ category:
   - destinations
 ---
 
-<span style="font-weight: 400;">Thailand is one of the most popular places for good living abroad. This part of the world has a year-round tropical climate, delicious food, affordable & high-quality healthcare, and a low cost of living among other things. Apart from the welcoming locals, you&#8217;ll most certainly meet a sizeable community of expats in Thailand from various parts of the world. The region exhibits a sophisticated culture and has lots of holiday destinations. Here are some of the most popular, as well as off-the-grid Thailand holiday destinations for </span><a  href="https://thexpatmagazine.com/thexpatmagazine-wp/2014/expat-life/8-things-changed-forever-since-live-abroad/" target="_blank" rel="noopener"><span style="font-weight: 400;">expats looking to unwind and have fun</span></a><span style="font-weight: 400;">:</span>
+Thailand is one of the most popular places for good living abroad. This part of the world has a year-round tropical climate, delicious food, affordable & high-quality healthcare, and a low cost of living among other things. Apart from the welcoming locals, you'll most certainly meet a sizeable community of expats in Thailand from various parts of the world. The region exhibits a sophisticated culture and has lots of holiday destinations. Here are some of the most popular, as well as off-the-grid Thailand holiday destinations for <a  href="https://thexpatmagazine.com/thexpatmagazine-wp/2014/expat-life/8-things-changed-forever-since-live-abroad/" target="_blank" rel="noopener">expats looking to unwind and have fun</a>
 
 ## **Krabi**
 
 <img  src="/img/uploads/2019/04/andrzej-suwara-1155153-unsplash-1024x539.jpg" alt="" width="1024" height="539" srcset="/img/uploads/2019/04/andrzej-suwara-1155153-unsplash-1024x539.jpg 1024w, /img/uploads/2019/04/andrzej-suwara-1155153-unsplash-300x158.jpg 300w, /img/uploads/2019/04/andrzej-suwara-1155153-unsplash-768x404.jpg 768w, /img/uploads/2019/04/andrzej-suwara-1155153-unsplash-1150x605.jpg 1150w, /img/uploads/2019/04/andrzej-suwara-1155153-unsplash.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
-###### _<span style="font-weight: 400;">Railay Beach</span>_ **&#8211; Photo ©** [**Andrzej Suwara on Unsplash**]
+###### \_wara on Unsplash\*\*
 
-<span style="font-weight: 400;">Located near the southern border, this region offers everything for every kind of traveller. From towering limestone cliffs to the Emerald lagoon, the gorgeous turquoise sea, surreal beaches, hot water springs, the extensive jungle and hidden caves, and the countless islands off the coast. </span>
+, this region offers everything for every kind of traveller. From towering limestone cliffs to the Emerald lagoon, the gorgeous turquoise sea, surreal beaches, hot water springs, the extensive jungle and hidden caves, and the countless islands off the coast. 
 
-<span style="font-weight: 400;">Most hotel accommodation, night entertainment, and tourist shopping happen in Ao Nang Township. One of the best places to stay is </span><a href="https://www.krabi.holidayinnresorts.com/en/home" target="_blank" rel="noopener"><span style="font-weight: 400;">the Holiday Inn Resort Krabi Ao Nang Beach</span></a> <span style="font-weight: 400;">which provides the best service for families and other passionate travellers. Be sure to go scuba diving, snorkelling, fishing, sea tours, rock climbing, and kayaking. Or, simply lay back and soak in the sun.</span>
+Most hotel accommodation, night entertainment, and tourist shopping happen in Ao Nang Township. One of the best places to stay is <a href="https://www.krabi.holidayinnresorts.com/en/home" target="_blank" rel="noopener">the Holiday Inn Resort Krabi Ao Nang Beach</a> which provides the best service for families and other passionate travellers. Be sure to go scuba diving, snorkelling, fishing, sea tours, rock climbing, and kayaking. Or, simply lay back and soak in the sun.
 
 ## **Ayutthaya**
 
@@ -35,9 +35,9 @@ category:
 
 ###### **Photo ©** [**Bond Supanat on Pixabay**]
 
-<span style="font-weight: 400;">Ayutthaya</span> <span style="font-weight: 400;">was once considered the most beautiful city in the world by European diplomats who visited it. Today, it&#8217;s one of the places to visit in Thailand for fans of history and those who appreciate culture and tradition. </span>
+Ayutthaya was once considered the most beautiful city in the world by European diplomats who visited it. Today, it&#8217;s one of the places to visit in Thailand for fans of history and those who appreciate culture and tradition. 
 
-<span style="font-weight: 400;">It has beautiful monasteries, towering statues, dilapidated temples, and many more archaeological sites. Some of the most alluring attractions include Wat Phra Sri Sanphet, Wat Yai Chai Mong khon, and Wat Mahathat, especially the famous Buddha head entwined within the roots of a tree.</span>
+It has beautiful monasteries, towering statues, dilapidated temples, and many more archaeological sites. Some of the most alluring attractions include Wat Phra Sri Sanphet, Wat Yai Chai Mong khon, and Wat Mahathat, especially the famous Buddha head entwined within the roots of a tree.
 
 ## **Koh Samui**
 
@@ -45,17 +45,17 @@ category:
 
 ###### **Photo ©** [**Rebecca Cairns on Unsplash**]
 
-<span style="font-weight: 400;">Expats looking for the ideal beach holiday abroad should look no further than Koh Samui. This wonderful island boasts lots of fun and relaxing activities for everyone. It&#8217;s surrounded by beautiful beaches, including Mae Nam, Chaweng, and Lamai. Luxury-seeking travellers can enjoy the many excellent golf courses, top-class resorts, and high-class spas. Things to do include windsurfing, scuba diving, golfing, land tours, etc.</span>
+Expats looking for the ideal beach holiday abroad should look no further than Koh Samui. This wonderful island boasts lots of fun and relaxing activities for everyone. It&#8217;s surrounded by beautiful beaches, including Mae Nam, Chaweng, and Lamai. Luxury-seeking travellers can enjoy the many excellent golf courses, top-class resorts, and high-class spas. Things to do include windsurfing, scuba diving, golfing, land tours, etc.
 
 ## **Chiang Rai**
 
 ###### <img  src="/img/uploads/2019/04/rob-king-1443281-unsplash-1024x769.jpg" alt="" width="1024" height="769" srcset="/img/uploads/2019/04/rob-king-1443281-unsplash-1024x769.jpg 1024w, /img/uploads/2019/04/rob-king-1443281-unsplash-300x225.jpg 300w, /img/uploads/2019/04/rob-king-1443281-unsplash-768x577.jpg 768w, /img/uploads/2019/04/rob-king-1443281-unsplash-1150x863.jpg 1150w, /img/uploads/2019/04/rob-king-1443281-unsplash.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
-###### _<span style="font-weight: 400;">deity statue photography</span>_ **&#8211; Photo ©** [**Rob King on Unsplash**]
+###### _deity statue photography_ **&#8211; Photo ©** [**Rob King on Unsplash**]
 
-<span style="font-weight: 400;">This city is surrounded by mountains, offering a more quaint and laid-back feel. You&#8217;ll not find adult distractions like nightclubs here, making it the ideal destination for those looking to get some peace and solitude. </span>
+This city is surrounded by mountains, offering a more quaint and laid-back feel. You&#8217;ll not find adult distractions like nightclubs here, making it the ideal destination for those looking to get some peace and solitude. 
 
-<span style="font-weight: 400;">Popular sites include the statue of Guan Yin, Mae Fah Luang Garden, Baandam Museum (the black house), Wat Rong Khun (the white temple), Night Bazaar eating and shopping, etc. Chiang Rai offers you a place to stroll, think, observe, and enjoy.</span>
+Popular sites include the statue of Guan Yin, Mae Fah Luang Garden, Baandam Museum (the black house), Wat Rong Khun (the white temple), Night Bazaar eating and shopping, etc. Chiang Rai offers you a place to stroll, think, observe, and enjoy.
 
 ## **Kanchanaburi**
 
@@ -63,15 +63,15 @@ category:
 
 ###### **Photo ©** [**Pixabay**]
 
-<span style="font-weight: 400;">Located Northwest of Bangkok, the city of Kanchanaburi is ideal for nature enthusiasts. It&#8217;s where expats go to enjoy the best of Thai&#8217;s flora and fauna. It&#8217;s known for its historical attractions, breathtaking natural beauty, and spectacular outdoor activities, including star-gazing, bird-watching, fishing, golfing, canoeing, and trekking. </span>
+Located Northwest of Bangkok, the city of Kanchanaburi is ideal for nature enthusiasts. It&#8217;s where expats go to enjoy the best of Thai&#8217;s flora and fauna. It&#8217;s known for its historical attractions, breathtaking natural beauty, and spectacular outdoor activities, including star-gazing, bird-watching, fishing, golfing, canoeing, and trekking. 
 
-<span style="font-weight: 400;">Some of its major tourist spots include the Riverkwai Bridge, </span><a href="https://www.tourismthailand.org/Attraction/Erawan-National-Park--286" target="_blank" rel="noopener"><span style="font-weight: 400;">Erawan National Park</span></a><span style="font-weight: 400;">, Sai Yok National Park, and Huai Mae Khamin Waterfall. Dining options are pretty fantastic with the riverside resorts and restaurants making it a destination for luxury-seeking travellers.</span>
+Some of its major tourist spots include the Riverkwai Bridge, <a href="https://www.tourismthailand.org/Attraction/Erawan-National-Park--286" target="_blank" rel="noopener">Erawan National Park</a>, Sai Yok National Park, and Huai Mae Khamin Waterfall. Dining options are pretty fantastic with the riverside resorts and restaurants making it a destination for luxury-seeking travellers.
 
 ### **About the Author:**
 
 <img  src="/img/uploads/2019/04/maryn-mcdonnell-image-150x150.jpg" alt="" width="150" height="150" srcset="/img/uploads/2019/04/maryn-mcdonnell-image-150x150.jpg 150w, /img/uploads/2019/04/maryn-mcdonnell-image-300x300.jpg 300w, /img/uploads/2019/04/maryn-mcdonnell-image-768x768.jpg 768w, /img/uploads/2019/04/maryn-mcdonnell-image.jpg 960w" sizes="(max-width: 150px) 100vw, 150px" />
 
-_<span style="font-weight: 400;">As a life of a digital nomad and years of writing experience, Maryn Mcdonnell is a travel writer who loves exploring the world and shares her travel experiences with other passionate travellers out there. Find Maryn on Twitter </span>_[_<span style="font-weight: 400;">@MarynMcdonnell</span>_]
+_As a life of a digital nomad and years of writing experience, Maryn Mcdonnell is a travel writer who loves exploring the world and shares her travel experiences with other passionate travellers out there. Find Maryn on Twitter _[_@MarynMcdonnell_]
 
 : https://unsplash.com/photos/XMdhnFTaZ8c
 : https://pixabay.com/photos/ayutthaya-ancient-measure-art-2033589/

@@ -41,7 +41,7 @@ The weather and the classic friendly **Spanish** attitude from the **South** mak
 
 ## 4 &#8211; Crossing the border might be problematic.
 
-Many expats, as we said, live in <span style="text-decoration: underline;"><strong>Spain and commute everyday</strong></span>. Unfortunately sometimes there are problems and big delays. Some expats blames the Spanish police at the border, that delays the operation in purpose. What is true and we see is that, when it happens, the delay and the line might take up to 3 -4 hours.
+Many expats, as we said, live in <span style="text-decoration: underline;"><strong>Spain and commute everyday</strong>. Unfortunately sometimes there are problems and big delays. Some expats blames the Spanish police at the border, that delays the operation in purpose. What is true and we see is that, when it happens, the delay and the line might take up to 3 -4 hours.
 
 The solution? Leave the car or bike at the border, in _**La linea**_ and then cross the border walking. Is easier and rarely there are problems.
 

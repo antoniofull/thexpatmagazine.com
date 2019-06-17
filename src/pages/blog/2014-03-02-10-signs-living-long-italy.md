@@ -58,9 +58,9 @@ Dressing is important. Saturday night, wedding or any other special event has a 
 
 9 &#8211; **You learned Italian fast, because they don&#8217;t speak English.**
 
-You&#8217;ve quickly realized that not everyone in Italy speaks English. Well, you are &#8220;forced&#8221; to learn Italian, it took me some months but after one year I was able to master the language, well not completely of course, I still have my funny-foreigner accent. And Italian is such a beautiful language that you will fall in love for. Everything on TV is in Italian, while English movies are <span style="text-decoration: underline;">dubbed</span> even when it&#8217;s about interviews or documentaries, but eventually it is a good way to learn Italian.
+You&#8217;ve quickly realized that not everyone in Italy speaks English. Well, you are &#8220;forced&#8221; to learn Italian, it took me some months but after one year I was able to master the language, well not completely of course, I still have my funny-foreigner accent. And Italian is such a beautiful language that you will fall in love for. Everything on TV is in Italian, while English movies are <span style="text-decoration: underline;">dubbed even when it&#8217;s about interviews or documentaries, but eventually it is a good way to learn Italian.
 
-10 &#8211;\*\* \*\*<span > <strong>When you know by heart this</strong></span>
+10 &#8211;\*\* \*\*<span > <strong>When you know by heart this</strong>
 
 [<img alt="italian gestures" src="/img/uploads/2014/02/italiangestures-300x300.jpg" width="300" height="300" />
 

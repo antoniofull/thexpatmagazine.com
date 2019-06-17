@@ -21,7 +21,7 @@ We had finally the opportunity to test the new app <a href="https://www.outbound
 
 The app is for free and is downloadable from the _**app store**_ or _**Play Store**_ directly, just head to the main site and click on your favorite store to download it. I tried the iphone app.
 
-At the beginning the _registration takes a_ while, including loading the database for the first time. But this is a good sign as there are almost <span style="text-decoration: underline;"><strong><em>1 million of travellers</em></strong></span> registered.
+At the beginning the _registration takes a_ while, including loading the database for the first time. But this is a good sign as there are almost <span style="text-decoration: underline;"><strong><em>1 million of travellers</em></strong> registered.
 
 <img  src="/img/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11-1024x318.png" alt="outbound" width="785" height="244" srcset="/img/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11-1024x318.png 1024w, /img/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11-300x93.png 300w, /img/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11-768x239.png 768w, /img/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11.png 1223w" sizes="(max-width: 785px) 100vw, 785px" />
 

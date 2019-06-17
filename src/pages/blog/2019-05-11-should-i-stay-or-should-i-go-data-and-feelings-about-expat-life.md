@@ -51,9 +51,4 @@ I hope migration reasons will be only for ambition, business, love, curiosity an
 
 We constantly share stories and experiences of people who decided to move to another country and, hopefully, these can also help you to answer some of your questions. How can you [feel at home Abroadland]? Is there [anything that changes forever when you live abroad]?
 
-Looking forward to &#8220;hearing your voice&#8221; and find out your experiences about non-expat and expat life.
-
-&nbsp;
-
-: https://localhost/thexpatmagazine-wp/2019/expat-life/feeling-at-home-in-abroadland/
-: https://localhost/thexpatmagazine-wp/2014/expat-life/8-things-changed-forever-since-live-abroad/
+Looking forward to hearing your voice and find out your experiences about non-expat and expat life.

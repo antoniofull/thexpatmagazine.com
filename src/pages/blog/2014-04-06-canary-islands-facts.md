@@ -52,7 +52,7 @@ The **spanish corrida** has been abolished since 1991, so you will not see bulls
 
 **8 &#8211; Tenerife airport is known for the biggest tragedy in the aviation history.**
 
-In 1977 at the **Tenerife airport** a collision between a klm boing and a Pam an, killed 583 people making this the <span style="text-decoration: underline;">biggest tragedy in the history of aviation</span>. The reasons are several, one of this was a terroristic attack at the main Gran Canaria aiport that caused the air traffic to be moved to Tenerife.
+In 1977 at the **Tenerife airport** a collision between a klm boing and a Pam an, killed 583 people making this the <span style="text-decoration: underline;">biggest tragedy in the history of aviation. The reasons are several, one of this was a terroristic attack at the main Gran Canaria aiport that caused the air traffic to be moved to Tenerife.
 
 **9 &#8211; The world&#8217;s smallest hotel is on the Hierro island.**
 
@@ -68,11 +68,11 @@ The goal is to power the entire region only using sustainable energy.
 
 &nbsp;
 
-<span > </span>
+<span > 
 
 &nbsp;
 
-<span style="color: #4189dd; font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-weight: bold; line-height: normal;"> </span>
+<span style="color: #4189dd; font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-weight: bold; line-height: normal;"> 
 
 : /img/uploads/2014/04/hierro.jpg
 : /img/uploads/2014/04/hierro-hotel.jpg

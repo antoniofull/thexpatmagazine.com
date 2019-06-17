@@ -18,7 +18,7 @@ The **Global peace index** is the ranking of the most peaceful countries in the 
 
 ### 1 &#8211; Iceland.
 
-This small country is the most **<span style="text-decoration: underline;">peaceful country in the world</span>** according with the **GPI**. Criminality practically does not exist and their army which is basically a Coast Guard and is the only NATO member to have  a &#8220;standing army&#8221;.
+This small country is the most **<span style="text-decoration: underline;">peaceful country in the world** according with the **GPI**. Criminality practically does not exist and their army which is basically a Coast Guard and is the only NATO member to have  a &#8220;standing army&#8221;.
 
 <a   href="https://scappoallestero.com/wp-content/uploads/2014/03/islanda.jpg"><img src="https://scappoallestero.com/wp-content/uploads/2014/03/islanda.jpg" alt="islanda" width="800" height="450" /></a>
 

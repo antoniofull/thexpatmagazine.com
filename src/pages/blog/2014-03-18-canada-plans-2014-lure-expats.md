@@ -22,7 +22,7 @@ The **Canada&#8217;s Minister of Citizenship** and Immigration **Chris Alexand
 
 > &#8220;Securing economic growth is and will remain our government’s top priority. Canada is in a global competition for the best and brightest immigrants, and this plan is crafted with attracting the people we need for Canada to succeed&#8221;.<!--more-->
 
-<span > </span>
+<span > 
 
 <iframe src="//embed.gettyimages.com/embed/200569702-001?et=c1h-ueY46ES_z4TSaWGZ3A&sig=OGI8kkx6uz9OiAz6B1ZFwMEDFfZdavFPLB1ZEwtGb0A=" height="428" width="478" frameborder="0" scrolling="no"></iframe>
 
