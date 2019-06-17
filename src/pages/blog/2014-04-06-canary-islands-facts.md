@@ -68,7 +68,7 @@ The goal is to power the entire region only using sustainable energy.
 
 &nbsp;
 
-<span style="line-height: 1.5em;"> </span>
+<span > </span>
 
 &nbsp;
 

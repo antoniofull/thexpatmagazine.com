@@ -14,7 +14,7 @@ category:
   - expat tips
 ---
 
-<span style="line-height: 1.5em;">Let&#8217;s be honest, the word <strong>culture shock</strong> is kinda of scary. I think almost any expat has heard of it and most of them get scared, the word <strong>shock</strong> itself is not encouraging.</span><!--more-->
+<span >Let&#8217;s be honest, the word <strong>culture shock</strong> is kinda of scary. I think almost any expat has heard of it and most of them get scared, the word <strong>shock</strong> itself is not encouraging.</span><!--more-->
 
 <div id="attachment_163" style="width: 795px">
   <a href="/img/uploads/2014/06/culture.jpg"><img alt="culture shock" src="/img/uploads/2014/06/culture-1024x768.jpg" width="785" height="588" srcset="/img/uploads/2014/06/culture-1024x768.jpg 1024w, /img/uploads/2014/06/culture-300x225.jpg 300w, /img/uploads/2014/06/culture-768x576.jpg 768w, /img/uploads/2014/06/culture-667x500.jpg 667w, /img/uploads/2014/06/culture-800x600.jpg 800w, /img/uploads/2014/06/culture.jpg 1200w" sizes="(max-width: 785px) 100vw, 785px" /></a>
@@ -52,7 +52,7 @@ Stop doing that, this is not how it works. You don&#8217;t need to thing how nic
 
 ## Negotiation Phase.
 
-<span style="line-height: 1.5em;">Well .. the bad part .. this is where most of the expat they reach their limit of . It happens usually after 3-4 months and the culturale difference became so evident that the expat starts feeling frustrated, like not able to integrate itself in the society. A good example is when listening people talking in the language you don&#8217;t understand, and you have the feeling that they are talking to you. Or just the name of a medicine that is different, or explaining a </span>symptom<span style="line-height: 1.5em;"> to a doctor. All of this situation bring frustration, this is the part in which I see also many people give up. Is the negotiation phase so hard? Well it is, but it&#8217;s normal and there is a lot you can do to deal with it, let&#8217;s see.</span>
+<span >Well .. the bad part .. this is where most of the expat they reach their limit of . It happens usually after 3-4 months and the culturale difference became so evident that the expat starts feeling frustrated, like not able to integrate itself in the society. A good example is when listening people talking in the language you don&#8217;t understand, and you have the feeling that they are talking to you. Or just the name of a medicine that is different, or explaining a </span>symptom<span > to a doctor. All of this situation bring frustration, this is the part in which I see also many people give up. Is the negotiation phase so hard? Well it is, but it&#8217;s normal and there is a lot you can do to deal with it, let&#8217;s see.</span>
 
 **1 &#8211; Learn the language.** Seriously do it. There are courses, free meetups, just start learning it even if you do not need at work and we know everyone can speak english nowadays but learning the language let you enter in the new experience from the frontal door.
 
@@ -64,11 +64,11 @@ Stop doing that, this is not how it works. You don&#8217;t need to thing how nic
 
 ## Adjustment phase.
 
-<span style="line-height: 1.5em;">Well .. chillout, it&#8217;s almost one year! Here you are, &#8220;<strong>counscious</strong>&#8221; of your role in the society, you know what to expect any time. Like some unexpected problems to the commute at work, or doing a document or just going to the grocery. Is a phase where you are starting to really understand what expat life is, you do not panic now for problems and don&#8217;t yell at people because don&#8217;t understand what they say. There is nothing much to do in this phase because it won&#8217;t cause you trouble, but I know many expats started to <strong>travel</strong> more after living this kind of period. I also saw many of us, including myself, changing mind and life style after this period.</span>
+<span >Well .. chillout, it&#8217;s almost one year! Here you are, &#8220;<strong>counscious</strong>&#8221; of your role in the society, you know what to expect any time. Like some unexpected problems to the commute at work, or doing a document or just going to the grocery. Is a phase where you are starting to really understand what expat life is, you do not panic now for problems and don&#8217;t yell at people because don&#8217;t understand what they say. There is nothing much to do in this phase because it won&#8217;t cause you trouble, but I know many expats started to <strong>travel</strong> more after living this kind of period. I also saw many of us, including myself, changing mind and life style after this period.</span>
 
 ## Mastery Phase.
 
-<span style="line-height: 1.5em;">Congrats you made it till the end! You reached the mastery phase where young expats come begging advices from you, because you are the master! 🙂</span>
+<span >Congrats you made it till the end! You reached the mastery phase where young expats come begging advices from you, because you are the master! 🙂</span>
 
 Or more simply, you are an now an expat, and if you are at this point, congrats to yourself, you made an important step in your life!
 

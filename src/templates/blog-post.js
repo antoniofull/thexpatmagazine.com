@@ -50,6 +50,7 @@ export const BlogPostTemplate = ({
     shortname: 'thexpatmagazine',
     config: { id: url, title }
   };
+
   return (
     <section className='section post'>
       <div className='container'>

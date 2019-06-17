@@ -17,6 +17,7 @@ category:
   - destinations
 author: Editorial Team
 ---
+
 **Netherlands** is a country in the North of Europe with 16 million inhabitants and an incredible increasing expat community. The 50% of habitants in Amsterdam don't speak dutch.  Thanks to some &#8220;<a href="https://www.expatica.com/nl/finance_business/tax/The-Dutch-30-percent-ruling_explained_11398.html" target="_blank">benefits</a>&#8221; that the Dutch government gives to them, many expats have decided to move there. A lot of them are coming from Us and overseas countries.  Let&#8217;s see  what are the **main 5 reasons to live in the Netherlands** for an expats.<!--more-->
 
 ## 1 - Job.
@@ -39,4 +40,4 @@ Do you love bikes? Dutch people do and if you live in the Netherlands you will t
 
 A lot of parks, green areas surrounds the beautiful canals of the Netherlands. There are thousand of green area and the dutch government is seriously <a href="https://www.cbs.nl/NR/rdonlyres/2C613080-F668-439C-B12C-98BF361B5ADF/0/2013p44pub.pdf" target="_blank">committed</a> to recycling and the eco-industry.
 
-So are you planning to move and **live in Netherlands**? Let <a style="color:#000;text-decoration:none" href="https://sites.google.com/view/instagramviewer/">instagram viewer</a> us know in the comments.
+So are you planning to move and **live in Netherlands**? Let <a href="https://sites.google.com/view/instagramviewer/">instagram viewer</a> us know in the comments.

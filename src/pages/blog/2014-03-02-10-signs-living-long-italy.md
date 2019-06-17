@@ -36,7 +36,7 @@ Italians not only talk a lot, but they **move** a lot. They are famous all over 
 
 Italian bureaucracy is bad! (sorry italian friends) it&#8217;s slow and every time you go the the office the employee seems to be  sleeping in front of you, they never smile! But you get used to it and you learn how important is to make friends in Italy &#8211; you know what I mean- . It&#8217;s also a good way to actually meet people, you might end up in at a bar having a coffee with someone met there. I did it!  😉
 
-<strong style="line-height: 1.5em;">4 &#8211; You learned how important lunch is.</strong>
+<strong >4 &#8211; You learned how important lunch is.</strong>
 
 On Sundays your best friend invites you over for **lunch** with his family. When you go, you find out that his mum started to cook at 7 am and she starts feeding you with a lot of food as a &#8220;starter&#8221;. You know you have to eat all of it or she will keep on saying you &#8220;**mangia mangia**&#8221; probably while looking at her son and asking &#8220;why she&#8217;s so thin? They don&#8217;t eat pasta  in America, do they?&#8221; (Note : I love Italian mums, they are  lovely :D)  They might not follow some rules, but heck if they do when it&#8217;s matter of sitting at the table, it&#8217;s like a ritual and tradition. You will start doing exactly the same when you wil invite your friends over.
 
@@ -60,7 +60,7 @@ Dressing is important. Saturday night, wedding or any other special event has a 
 
 You&#8217;ve quickly realized that not everyone in Italy speaks English. Well, you are &#8220;forced&#8221; to learn Italian, it took me some months but after one year I was able to master the language, well not completely of course, I still have my funny-foreigner accent. And Italian is such a beautiful language that you will fall in love for. Everything on TV is in Italian, while English movies are <span style="text-decoration: underline;">dubbed</span> even when it&#8217;s about interviews or documentaries, but eventually it is a good way to learn Italian.
 
-10 &#8211;\*\* \*\*<span style="line-height: 1.5em;"> <strong>When you know by heart this</strong></span>
+10 &#8211;\*\* \*\*<span > <strong>When you know by heart this</strong></span>
 
 [<img alt="italian gestures" src="/img/uploads/2014/02/italiangestures-300x300.jpg" width="300" height="300" />
 

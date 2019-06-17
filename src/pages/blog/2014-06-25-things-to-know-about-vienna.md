@@ -33,7 +33,7 @@ Foto <a href="https://www.flickr.com/photos/pamilne/5253539063/in/photolist-4iRg
 
 ### **3 &#8211; Vienna was divided after the world war in 4 parts, each one lead by Russia, United States, France and Britain and each of them imposed different rules for the zones,  leaving only the first district international and free. In October 1955 Austria was finally re-established as a sovereign state.**
 
-<a style="line-height: 1.5em;" href="/img/uploads/2014/06/child-austria-shoes.jpg"><img src="/img/uploads/2014/06/child-austria-shoes.jpg" alt="child austria shoes" width="605" height="841" srcset="/img/uploads/2014/06/child-austria-shoes.jpg 605w, /img/uploads/2014/06/child-austria-shoes-216x300.jpg 216w, /img/uploads/2014/06/child-austria-shoes-360x500.jpg 360w" sizes="(max-width: 605px) 100vw, 605px" /></a>
+<a  href="/img/uploads/2014/06/child-austria-shoes.jpg"><img src="/img/uploads/2014/06/child-austria-shoes.jpg" alt="child austria shoes" width="605" height="841" srcset="/img/uploads/2014/06/child-austria-shoes.jpg 605w, /img/uploads/2014/06/child-austria-shoes-216x300.jpg 216w, /img/uploads/2014/06/child-austria-shoes-360x500.jpg 360w" sizes="(max-width: 605px) 100vw, 605px" /></a>
 
 Austrian boy receives new shoes during WWII via <a href="https://www.boredpanda.com/must-see-historic-moments/" target="_blank">boredpanda</a>.
 

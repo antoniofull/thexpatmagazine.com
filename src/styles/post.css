@@ -4,6 +4,11 @@
   background: var(--color-white);
 }
 
+.post img {
+  height: auto;
+  max-width: 100%;
+}
+
 .post__summary {
   font-style: italic;
   padding: var(--padding-l);
