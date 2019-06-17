@@ -23,20 +23,17 @@ category:
   - destinations
 author: Editorial Team
 ---
-
-**Costa Rica** is a tropical-paradise in the **Central America**, surrounded by beautiful lands that will leave you breathless. <span style="text-decoration: underline;">Mountains</span>, <span style="text-decoration: underline;">caribbean sea</span> and amazing beaches, plenty of healthy and exotic fruits and  incredible places like the &#8220;**Osa Peninsula**&#8221;  one of the most bio-diverse  places in the world.
+**Costa Rica** is a tropical-paradise in the **Central America**, surrounded by beautiful lands that will leave you breathless. Mountains, caribbean sea and amazing beaches, plenty of healthy and exotic fruits and  incredible places like the **Osa Peninsula**;  one of the most bio-diverse  places in the world.
 
 **Life is cheap** and people are among the **happiest in the** world. Is one of the most democratic country in Latin America and has no army since 1948.
 
-But let&#8217;s in details why you should think about moving to Costa Rica.<!--more-->
-
-&nbsp;
+But let's in details why you should think about moving to Costa Rica.
 
 ## 1- Peaceful and democratic.
 
 **Costa Rica** is the most peaceful country in Latin American and one of the most peaceful in the world. After the <a href="https://en.wikipedia.org/wiki/Costa_Rican_Civil_War" target="_blank">civil war</a> in 1948 they abolished their <a title="costa rica army" href="https://en.wikipedia.org/wiki/Military_of_Costa_Rica" target="_blank">army</a> and since then Costa Rica has always been lead by 13 Presidents.
 
-<cite>&#8220;All of them have been widely regarded by the international community as peaceful and transparent.&#8221;</cite> (from wikipedia)
+All of them have been widely regarded by the international community as peaceful and transparent (from wikipedia)
 
 ## 2 Beautiful, Amazing Stunning.
 
@@ -50,11 +47,11 @@ The health System is also pretty advanced in technologies and a lot of Americans
 
 ## 4 Happiness!
 
-Yes, Costa Rica is the <a title="costa rica happiest country" href="https://www.happyplanetindex.org/countries/costa-rica/" target="_blank">happiest country in the world</a> and so are their people. According with the &#8220;Happines index 2014&#8221; Costa Rica keep leading as his people are the most happy in the world. The health life-style and cheap cost of life are among the most ranked factor for their happiness.
+Yes, Costa Rica is the <a title="costa rica happiest country" href="https://www.happyplanetindex.org/countries/costa-rica/" target="_blank">happiest country in the world</a> and so are their people. According with the Happines index, Costa Rica keep leading as his people are the most happy in the world. The health life-style and cheap cost of life are among the most ranked factor for their happiness.
 
 ## 5 Cheap cost of life
 
-The **cost of living in Costa Rica** has assuredly become one of the principal considerations when contemplating living in Costa Rica. It is relatively cheap for expats coming from countries like **Europe** or **Australia** and also cheap compared with **US**, maybe different from other countries. Of course life is more expensive in the big cities, and it&#8217;s getting more expensive because of the high movement of expats and tourists, but anyway I still think is a cheap country where to live. You can check this <a title="cost of life costa rica" href="https://www.numbeo.com/cost-of-living/country_result.jsp?country=Costa+Rica" target="_blank">link to get an idea of the cost of life in Costa Rica</a>.
+The **cost of living in Costa Rica** has assuredly become one of the principal considerations when contemplating living in Costa Rica. It is relatively cheap for expats coming from countries like **Europe** or **Australia** and also cheap compared with **US**, maybe different from other countries. Of course life is more expensive in the big cities, and it's getting more expensive because of the high movement of expats and tourists, but anyway I still think is a cheap country where to live. You can check this <a title="cost of life costa rica" href="https://www.numbeo.com/cost-of-living/country_result.jsp?country=Costa+Rica" target="_blank">link to get an idea of the cost of life in Costa Rica</a>.
 
 ## 6 Open minded local and expat community
 
