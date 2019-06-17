@@ -18,9 +18,9 @@ category:
   - destinations
 ---
 
-&#8220;I give up everything and go live in Bora Bora!&#8221;, how many times have you had this thought? Well the destination may be different, but the dream of having a **job that will make you travel the world** has touched your mind for sure. Of course, you can&#8217;t just leave and do it for free, you need a plan and a job that makes you still be independent. So the best solution would be to have a job that makes you (for real) travel the world.
+&#8220;I give up everything and go live in Bora Bora!&#8221;, how many times have you had this thought? Well the destination may be different, but the dream of having a **job that will make you travel the world** has touched your mind for sure. Of course, you can't just leave and do it for free, you need a plan and a job that makes you still be independent. So the best solution would be to have a job that makes you (for real) travel the world.
 
-Guess what? It is possible, and here&#8217;s a list of 15 opportunities you might want to look for.
+Guess what? It is possible, and here's a list of 15 opportunities you might want to look for.
 
 <img  src="/img/uploads/2018/02/hiking-1246836_1920.jpg" alt="" width="1920" height="1081" srcset="/img/uploads/2018/02/hiking-1246836_1920.jpg 1200w, /img/uploads/2018/02/hiking-1246836_1920-300x169.jpg 300w, /img/uploads/2018/02/hiking-1246836_1920-768x432.jpg 768w, /img/uploads/2018/02/hiking-1246836_1920-1024x577.jpg 1024w, /img/uploads/2018/02/hiking-1246836_1920-1080x608.jpg 1080w" sizes="(max-width: 1920px) 100vw, 1920px" />
 
@@ -42,7 +42,7 @@ A great opportunity to experience the local life is the farming volunteering. Wo
 
 #### **Volunteering.**
 
-There are a lot of organisations taking care of different topics and would love to have your support, one is GrassrootsVolunteering.org This usually won&#8217;t give you a pay, but it will save you money as room and board are usually offered. You just have to google your cause and location.
+There are a lot of organisations taking care of different topics and would love to have your support, one is GrassrootsVolunteering.org This usually won't give you a pay, but it will save you money as room and board are usually offered. You just have to google your cause and location.
 
 #### **Aupair.**
 
@@ -58,7 +58,7 @@ Every year and for different seasons, resorts and tour operators all over the wo
 
 #### **Teach your language.**
 
-There are so many people around the world who want to learn a new language, and if you like teaching why should&#8217;t you just catch this opportunity? English isn&#8217;t the only language they want to learn, do you speak Spanish, Italian, Mandarin, French or anything else? Look for jobs or setup your own classes by advertising at universities, school or online.
+There are so many people around the world who want to learn a new language, and if you like teaching why should't you just catch this opportunity? English isn't the only language they want to learn, do you speak Spanish, Italian, Mandarin, French or anything else? Look for jobs or setup your own classes by advertising at universities, school or online.
 
 #### **Tour Guide.**
 
@@ -66,7 +66,7 @@ If you have excellent communication skills and know a lot about the place you ha
 
 #### **Work on a Yatch.**
 
-If the cruise is too big for you, you might want to choose to travel with a yatch. Sometimes they pay and sometimes they don&#8217;t, but it is worth to have a look and see what they can offer you back while travelling for few months.
+If the cruise is too big for you, you might want to choose to travel with a yatch. Sometimes they pay and sometimes they don't, but it is worth to have a look and see what they can offer you back while travelling for few months.
 
 #### **Blogger.**
 
@@ -82,9 +82,9 @@ Depending on your background and experience, there are plenty of freelancer jobs
 
 #### **Work remotely.**
 
-It&#8217;s exploding and expanding all over the world the idea of working from any place you want as long as you have access to internet. Many opportunities are offered in IT companies, and here it really depends on your area of expertise and your need, if you want to work part or full time.
+It's exploding and expanding all over the world the idea of working from any place you want as long as you have access to internet. Many opportunities are offered in IT companies, and here it really depends on your area of expertise and your need, if you want to work part or full time.
 
-There&#8217;s only one thing to bear in mind, to pursuit this path you need motivation and flexibility as it won&#8217;t be a super high level profession and the salary might be less than a 9-17 job, at least at the beginning.
+There's only one thing to bear in mind, to pursuit this path you need motivation and flexibility as it won't be a super high level profession and the salary might be less than a 9-17 job, at least at the beginning.
 
 **_Which job are you going to pick? Let us know in the comments. _**
 

@@ -26,7 +26,7 @@ The first airport from London to top the rank is Luton, among the first 10 but f
 
 **Atlanta** is the most busiest airline in the World, but ranks only 12th while **Dubai** is 14th. If we look at the largest Hub then germans confirms their leadership in punctuality, with Munich Airport the most punctual at 89% of flights arrived in time. **Tokyo** and **Seattle** follow the German Hub.
 
-Surprises also in the airlines companies, with **Latvia&#8217;s airBaltic** outperforming all others at 94.9%.  Second  **_Hawaiian Airlines_** at 92.3% and third _**Austrian Airlines**_ at 90%.
+Surprises also in the airlines companies, with **Latvia's airBaltic** outperforming all others at 94.9%.  Second  **_Hawaiian Airlines_** at 92.3% and third _**Austrian Airlines**_ at 90%.
 
 These are the others airlines companies in the rank :
 

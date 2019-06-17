@@ -19,7 +19,7 @@ category:
   - destinations
 ---
 
-**Europe** is big, full of history and with many, many beautiful places. Some of them are really famous, who doesn&#8217;t know about Paris? But there are some magical, secret places that you probably have not heard so much. If you are considering moving to a place where the quality of life is higher and lifestyle is calm, then you should consider one of the place in this list.
+**Europe** is big, full of history and with many, many beautiful places. Some of them are really famous, who doesn't know about Paris? But there are some magical, secret places that you probably have not heard so much. If you are considering moving to a place where the quality of life is higher and lifestyle is calm, then you should consider one of the place in this list.
 
 ## 1 &#8211; Sotogrande.
 
@@ -105,7 +105,7 @@ Ever thought to live in a place where the only transport are those small boat yo
 
 Foto : <a href="https://www.flickr.com/photos/reinante/3556646432" target="_blank">Flickr</a>
 
-**Albarracin** is a very small town, 1075 inhabitants, in the &#8220;Region Autonoma de Aragon&#8221;, in Spain. **Albarracin** si completely unspoilt by modernization and it feels like is still living in the middle age. For many is considered the most beautiful village in Spain, and we couldn&#8217;t agree more.
+**Albarracin** is a very small town, 1075 inhabitants, in the &#8220;Region Autonoma de Aragon&#8221;, in Spain. **Albarracin** si completely unspoilt by modernization and it feels like is still living in the middle age. For many is considered the most beautiful village in Spain, and we couldn't agree more.
 
 Other town to add? Let us Know in the _**comments! 😀**_
 

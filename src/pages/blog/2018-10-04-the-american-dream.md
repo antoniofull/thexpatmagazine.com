@@ -34,7 +34,7 @@ Job opportunities overall and the desire to be part of a new and different reali
 
 #### How did you arrange the relocation? Tell us more!
 
-I was in America for the first time in 2012, a long trip coast-to-coast, from New York to San Francisco, to Los Angeles and the Silicon Valley. It was hard! I mean, the energy here totally overwhelm you, a lot more than in Italy. Once I was back home I already knew about my hidden desire…but at that time I didn&#8217;t mind that much about it. For two years I lived my life as normal, work was great, but I decided that it was time to do it…to get out from my comfort zone.
+I was in America for the first time in 2012, a long trip coast-to-coast, from New York to San Francisco, to Los Angeles and the Silicon Valley. It was hard! I mean, the energy here totally overwhelm you, a lot more than in Italy. Once I was back home I already knew about my hidden desire…but at that time I didn't mind that much about it. For two years I lived my life as normal, work was great, but I decided that it was time to do it…to get out from my comfort zone.
 
 They say “no great conquer comes without any loss”. So I decide to leave Italy, to put aside everything I had and just go… I made the decision (and booked the flight ticket) in one night, in a Hotel in South Tirol during a business trip.
 

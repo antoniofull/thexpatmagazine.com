@@ -25,7 +25,7 @@ According with <a href="https://www.internations.org/expat-insider/2014/the-best
 
 <a href="https://www.internations.org/expat-insider/2014/the-best-and-worst-places-for-expats" target="_blank"><img src="/img/uploads/2014/11/top-expat-destinations-1024x723.jpg" alt="top expat destinations" width="785" height="554" /></a>
 
-They also considered and included several factors, let&#8217;s see some of them :
+They also considered and included several factors, let's see some of them :
 
 - General Quality of Life Index
 - Ease of Settling In Index
@@ -33,7 +33,7 @@ They also considered and included several factors, let&#8217;s see some of them 
 - Family Life Index  (when applicable)
 - The answer to this question: &#8220;how satisfied are you with life abroad in general?&#8221;
 
-Some results are quite popular, like Luxembourg winning as\* **financial favorite place for expats,\*** but Ecuador surprises a bit. There are several good reasons that make this little country the best in the world for the Expats,  let&#8217;s see why **Ecuador** is considered _**the best country in the World for expats.**_
+Some results are quite popular, like Luxembourg winning as\* **financial favorite place for expats,\*** but Ecuador surprises a bit. There are several good reasons that make this little country the best in the world for the Expats,  let's see why **Ecuador** is considered _**the best country in the World for expats.**_
 
 <img src="/img/uploads/2014/11/2723872891_4b07d842a8_b.jpg" alt="ecuador" width="1024" height="683" srcset="/img/uploads/2014/11/2723872891_4b07d842a8_b.jpg 1024w, /img/uploads/2014/11/2723872891_4b07d842a8_b-300x200.jpg 300w, /img/uploads/2014/11/2723872891_4b07d842a8_b-768x512.jpg 768w, /img/uploads/2014/11/2723872891_4b07d842a8_b-750x500.jpg 750w" sizes="(max-width: 1024px) 100vw, 1024px" />
 

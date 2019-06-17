@@ -17,7 +17,7 @@ category:
   - destinations
 ---
 
-We had finally the opportunity to test the new app <a href="https://www.outboundapp.org" target="_blank">Outbound</a>, released just few days ago. I can say I was quite excited to give it a try as finally we can have a sort of social network dedicated only to travellers. (I&#8217;m personally not a big fan of Facebook)
+We had finally the opportunity to test the new app <a href="https://www.outboundapp.org" target="_blank">Outbound</a>, released just few days ago. I can say I was quite excited to give it a try as finally we can have a sort of social network dedicated only to travellers. (I'm personally not a big fan of Facebook)
 
 The app is for free and is downloadable from the _**app store**_ or _**Play Store**_ directly, just head to the main site and click on your favorite store to download it. I tried the iphone app.
 
@@ -25,7 +25,7 @@ At the beginning the _registration takes a_ while, including loading the databas
 
 <img  src="/img/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11-1024x318.png" alt="outbound" width="785" height="244" srcset="/img/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11-1024x318.png 1024w, /img/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11-300x93.png 300w, /img/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11-768x239.png 768w, /img/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11.png 1223w" sizes="(max-width: 785px) 100vw, 785px" />
 
-After registering a new profile, I used the email option, but it&#8217;s possible to register with Facebook which should be faster, the app loads your profile page.
+After registering a new profile, I used the email option, but it's possible to register with Facebook which should be faster, the app loads your profile page.
 
 The first 2 things I liked from the app :
 
@@ -43,7 +43,7 @@ The bottom menu, apart of events and profile page, presents also other features 
 
 ### Explore.
 
-Explore trips around you or in a country of your choice. You can see who&#8217;s planning where.
+Explore trips around you or in a country of your choice. You can see who's planning where.
 
 ### Search.
 

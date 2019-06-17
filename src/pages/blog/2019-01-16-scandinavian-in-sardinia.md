@@ -16,9 +16,9 @@ tags:
 
 Bee is from Norway originally and has lived for 11 years in Scotland. She loved it there and would happily move back at some point. So, why and how did she end up in Sardinia?
 
-_&#8220;What brought me to Sardinia was a red kayak on Instagram. I was following some people from Sardinia on Instagram and one of them has the exact same red kayak as mine. We started talking and I ended up going for a kayak and MTB (mountain bike) visit to Sardinia. I loved it so much that decided to stay. Right now I travel between Norway and Sardinia as I&#8217;m studying coaching in Norway.&#8221;_
+_&#8220;What brought me to Sardinia was a red kayak on Instagram. I was following some people from Sardinia on Instagram and one of them has the exact same red kayak as mine. We started talking and I ended up going for a kayak and MTB (mountain bike) visit to Sardinia. I loved it so much that decided to stay. Right now I travel between Norway and Sardinia as I'm studying coaching in Norway.&#8221;_
 
-Here&#8217;s her experience&#8230;
+Here's her experience&#8230;
 
 <p>
   <span lang="EN-US">Adventures and new places are wonderful, but when many things are new and unfamiliar it is <span lang="EN-US">good and important <span lang="EN-US">to have some of your old comforts to bring back some familiarity. Like a good cup of tea, just the way you like it. But when this ‘last familiar thing’ also fails it can get a bit too overwhelming.
@@ -45,7 +45,7 @@ Here&#8217;s her experience&#8230;
 </p>
 
 <p>
-  <span lang="EN-US">Then summer came and the tea started to be served tepid. Ok, the first time I thought it was a mistake. Thinking that maybe the girl behind the bar was busy and had forgotten my tea for a while. And since I&#8217;m not a person who wants to complain (and indeed not being able to complain in a language I still don’t speak) – I ignored it and drank my tepid tea. Then the second time, I started to feel a tad annoyed. The third time, being served a teabag to steep in lukewarm water – so tepid that the teabag did not even give off its golden dark liquid. So one day I had a migraine! That was it, the drop that made the cup of tea issues flow over and a meltdown ensued!
+  <span lang="EN-US">Then summer came and the tea started to be served tepid. Ok, the first time I thought it was a mistake. Thinking that maybe the girl behind the bar was busy and had forgotten my tea for a while. And since I'm not a person who wants to complain (and indeed not being able to complain in a language I still don’t speak) – I ignored it and drank my tepid tea. Then the second time, I started to feel a tad annoyed. The third time, being served a teabag to steep in lukewarm water – so tepid that the teabag did not even give off its golden dark liquid. So one day I had a migraine! That was it, the drop that made the cup of tea issues flow over and a meltdown ensued!
 </p>
 
 <p>
@@ -53,7 +53,7 @@ Here&#8217;s her experience&#8230;
 </p>
 
 <p>
-  <span lang="EN-US">The Sardinian man said ‘but, w<span lang="EN-US">hy all this fuss? why are you so upset? it’<span lang="EN-US">s not the end of the world!’. <span lang="EN-US">But YES, <span lang="EN-US">to me it kind of felt like it there. (I&#8217;m sure H<span lang="EN-US">e would have protested too if his cappuccino did not live up to the expectations – <span lang="EN-US">although probably with less fuss)<b><i> </i></b>
+  <span lang="EN-US">The Sardinian man said ‘but, w<span lang="EN-US">hy all this fuss? why are you so upset? it’<span lang="EN-US">s not the end of the world!’. <span lang="EN-US">But YES, <span lang="EN-US">to me it kind of felt like it there. (I'm sure H<span lang="EN-US">e would have protested too if his cappuccino did not live up to the expectations – <span lang="EN-US">although probably with less fuss)<b><i> </i></b>
 </p>
 
 <p>
@@ -88,6 +88,6 @@ Here&#8217;s her experience&#8230;
 
 <img  src="/img/uploads/2019/01/tea.jpg" alt="" width="1400" height="854" srcset="/img/uploads/2019/01/tea.jpg 1400w, /img/uploads/2019/01/tea-300x183.jpg 300w, /img/uploads/2019/01/tea-768x468.jpg 768w, /img/uploads/2019/01/tea-1024x625.jpg 1024w, /img/uploads/2019/01/tea-1150x702.jpg 1150w" sizes="(max-width: 1400px) 100vw, 1400px" />
 
-If you want to know more about her, here&#8217;s her [blog]. Enjoy it!
+If you want to know more about her, here's her [blog]. Enjoy it!
 
 : https://the-compass-adventures.com

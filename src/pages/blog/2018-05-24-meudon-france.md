@@ -43,7 +43,7 @@ category:
 ### 2. Molière.
 
 <p >
-  <span lang="EN-US">The widow of <span lang="EN-US"><a href="https://en.wikipedia.org/wiki/Moli%C3%A8re">Molière</a><span lang="EN-US">, the French Shakespeare, bought a house in Meudon (she lived there 1676-1700) that is now the home of the same A<span lang="EN-US">rt and History Museum (Musée d&#8217;Art et d&#8217;Histoire)<span lang="EN-US">.
+  <span lang="EN-US">The widow of <span lang="EN-US"><a href="https://en.wikipedia.org/wiki/Moli%C3%A8re">Molière</a><span lang="EN-US">, the French Shakespeare, bought a house in Meudon (she lived there 1676-1700) that is now the home of the same A<span lang="EN-US">rt and History Museum (Musée d'Art et d'Histoire)<span lang="EN-US">.
 </p>
 
 ### 3. Auguste Rodin.
@@ -65,5 +65,5 @@ category:
 &nbsp;
 
 <p >
-  <span lang="EN-US">Nowadays we are surrounded by all kind of news related conflicts, cultural and politic situations and it&#8217;s not always easy to remain positive, but as <strong>Ira says &#8220;Life is much more than what the government controls. Meudon is a wonderful place to live and raise a family due to the history, people, and culture here&#8221;</strong>. 
+  <span lang="EN-US">Nowadays we are surrounded by all kind of news related conflicts, cultural and politic situations and it's not always easy to remain positive, but as <strong>Ira says &#8220;Life is much more than what the government controls. Meudon is a wonderful place to live and raise a family due to the history, people, and culture here&#8221;</strong>. 
 </p>

@@ -32,7 +32,7 @@ category:
 </p>
 
 <p>
-  <span>I had made numerous friends on my previous visits to Italy and had arranged to stay at my friend&#8217;s house for around 100 euro ($140) a month. I was situated in a small coastal village by the name of Saludecio, which can be found in the province of Rimini on the north-eastern side of the boot. 
+  <span>I had made numerous friends on my previous visits to Italy and had arranged to stay at my friend's house for around 100 euro ($140) a month. I was situated in a small coastal village by the name of Saludecio, which can be found in the province of Rimini on the north-eastern side of the boot. 
 </p>
 
 <p>
@@ -44,11 +44,11 @@ category:
 </p>
 
 <p>
-  <span>Now with the job situation sorted I could enjoy the lifestyle that I had fallen in love with. It is no secret that Italy is renowned for its food and wine which I thoroughly enjoyed most afternoons at the local bar during <i>aperitivo </i>(happy hour). I bought a scooter to roam around on, learned to cook from some of my friend&#8217;s mothers and even managed to fall in love with a lovely Italian girl from the local village. Life in Italy was treating me well. But good things can last forever, at least not legally. 
+  <span>Now with the job situation sorted I could enjoy the lifestyle that I had fallen in love with. It is no secret that Italy is renowned for its food and wine which I thoroughly enjoyed most afternoons at the local bar during <i>aperitivo </i>(happy hour). I bought a scooter to roam around on, learned to cook from some of my friend's mothers and even managed to fall in love with a lovely Italian girl from the local village. Life in Italy was treating me well. But good things can last forever, at least not legally. 
 </p>
 
 <p>
-  <span>As my year in Italy was coming to a close, I found myself wanting to stay longer. Now, just to clarify my visa situation, we Australians are granted a one-year working holiday visa with the possibility to work for up to six months. But I was still curious as to whether I could somehow extend my stay, I couldn&#8217;t see why not, I had a regular paying job and my employee was more than willing to extend my contract. So I headed down to the local police station, took my ticket and waited in line until I was summoned after hours of waiting. I asked the question whether it was possible to extend my stay and to my amazement the officer casually said (Si, no problem, sign here and send this to this address here and we will take care of it. Ciao.) I couldn’t believe my luck, but deep down I knew it couldn’t be that easy but I ignored those thoughts and kept on living <i>La dolce vita</i>. 
+  <span>As my year in Italy was coming to a close, I found myself wanting to stay longer. Now, just to clarify my visa situation, we Australians are granted a one-year working holiday visa with the possibility to work for up to six months. But I was still curious as to whether I could somehow extend my stay, I couldn't see why not, I had a regular paying job and my employee was more than willing to extend my contract. So I headed down to the local police station, took my ticket and waited in line until I was summoned after hours of waiting. I asked the question whether it was possible to extend my stay and to my amazement the officer casually said (Si, no problem, sign here and send this to this address here and we will take care of it. Ciao.) I couldn’t believe my luck, but deep down I knew it couldn’t be that easy but I ignored those thoughts and kept on living <i>La dolce vita</i>. 
 </p>
 
 <p>

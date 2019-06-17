@@ -39,6 +39,6 @@ _A lot of olive trees this year. I paid 25.000 lire for the man and the two guys
 
 \_Goodbye my love, I’m only yours and faithful, holding together like our two wedding-rings
 
-This really makes me think how language barriers can be shut down when your love and will are so strong, It doesn&#8217;t matter what language you speak,  you will always find a way to express your feelings and emotions. And you, what do you think?
+This really makes me think how language barriers can be shut down when your love and will are so strong, It doesn't matter what language you speak,  you will always find a way to express your feelings and emotions. And you, what do you think?
 
 : /img/uploads/2014/03/love_letter.jpg

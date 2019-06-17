@@ -25,7 +25,7 @@ Thailand is one of the most popular places for good living abroad. This part of 
 
 ###### \_wara on Unsplash\*\*
 
-, this region offers everything for every kind of traveller. From towering limestone cliffs to the Emerald lagoon, the gorgeous turquoise sea, surreal beaches, hot water springs, the extensive jungle and hidden caves, and the countless islands off the coast. 
+, this region offers everything for every kind of traveller. From towering limestone cliffs to the Emerald lagoon, the gorgeous turquoise sea, surreal beaches, hot water springs, the extensive jungle and hidden caves, and the countless islands off the coast.
 
 Most hotel accommodation, night entertainment, and tourist shopping happen in Ao Nang Township. One of the best places to stay is <a href="https://www.krabi.holidayinnresorts.com/en/home" target="_blank" rel="noopener">the Holiday Inn Resort Krabi Ao Nang Beach</a> which provides the best service for families and other passionate travellers. Be sure to go scuba diving, snorkelling, fishing, sea tours, rock climbing, and kayaking. Or, simply lay back and soak in the sun.
 
@@ -35,7 +35,7 @@ Most hotel accommodation, night entertainment, and tourist shopping happen in Ao
 
 ###### **Photo ©** [**Bond Supanat on Pixabay**]
 
-Ayutthaya was once considered the most beautiful city in the world by European diplomats who visited it. Today, it&#8217;s one of the places to visit in Thailand for fans of history and those who appreciate culture and tradition. 
+Ayutthaya was once considered the most beautiful city in the world by European diplomats who visited it. Today, it's one of the places to visit in Thailand for fans of history and those who appreciate culture and tradition.
 
 It has beautiful monasteries, towering statues, dilapidated temples, and many more archaeological sites. Some of the most alluring attractions include Wat Phra Sri Sanphet, Wat Yai Chai Mong khon, and Wat Mahathat, especially the famous Buddha head entwined within the roots of a tree.
 
@@ -45,25 +45,25 @@ It has beautiful monasteries, towering statues, dilapidated temples, and many mo
 
 ###### **Photo ©** [**Rebecca Cairns on Unsplash**]
 
-Expats looking for the ideal beach holiday abroad should look no further than Koh Samui. This wonderful island boasts lots of fun and relaxing activities for everyone. It&#8217;s surrounded by beautiful beaches, including Mae Nam, Chaweng, and Lamai. Luxury-seeking travellers can enjoy the many excellent golf courses, top-class resorts, and high-class spas. Things to do include windsurfing, scuba diving, golfing, land tours, etc.
+Expats looking for the ideal beach holiday abroad should look no further than Koh Samui. This wonderful island boasts lots of fun and relaxing activities for everyone. It's surrounded by beautiful beaches, including Mae Nam, Chaweng, and Lamai. Luxury-seeking travellers can enjoy the many excellent golf courses, top-class resorts, and high-class spas. Things to do include windsurfing, scuba diving, golfing, land tours, etc.
 
 ## **Chiang Rai**
 
 ###### <img  src="/img/uploads/2019/04/rob-king-1443281-unsplash-1024x769.jpg" alt="" width="1024" height="769" srcset="/img/uploads/2019/04/rob-king-1443281-unsplash-1024x769.jpg 1024w, /img/uploads/2019/04/rob-king-1443281-unsplash-300x225.jpg 300w, /img/uploads/2019/04/rob-king-1443281-unsplash-768x577.jpg 768w, /img/uploads/2019/04/rob-king-1443281-unsplash-1150x863.jpg 1150w, /img/uploads/2019/04/rob-king-1443281-unsplash.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
-###### _deity statue photography_ **&#8211; Photo ©** [**Rob King on Unsplash**]
+###### _deity statue photography_ **Photo ©** **Rob King on Unsplash**
 
-This city is surrounded by mountains, offering a more quaint and laid-back feel. You&#8217;ll not find adult distractions like nightclubs here, making it the ideal destination for those looking to get some peace and solitude. 
+This city is surrounded by mountains, offering a more quaint and laid-back feel. You'll not find adult distractions like nightclubs here, making it the ideal destination for those looking to get some peace and solitude.
 
 Popular sites include the statue of Guan Yin, Mae Fah Luang Garden, Baandam Museum (the black house), Wat Rong Khun (the white temple), Night Bazaar eating and shopping, etc. Chiang Rai offers you a place to stroll, think, observe, and enjoy.
 
 ## **Kanchanaburi**
 
-<img  src="/img/uploads/2019/04/waterfall-3182326_1920-1024x702.jpg" alt="" width="1024" height="702" srcset="/img/uploads/2019/04/waterfall-3182326_1920-1024x702.jpg 1024w, /img/uploads/2019/04/waterfall-3182326_1920-300x206.jpg 300w, /img/uploads/2019/04/waterfall-3182326_1920-768x527.jpg 768w, /img/uploads/2019/04/waterfall-3182326_1920-1150x789.jpg 1150w, /img/uploads/2019/04/waterfall-3182326_1920.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img src="/img/uploads/2019/04/waterfall-3182326_1920-1024x702.jpg" alt="" width="1024" height="702" srcset="/img/uploads/2019/04/waterfall-3182326_1920-1024x702.jpg 1024w, /img/uploads/2019/04/waterfall-3182326_1920-300x206.jpg 300w, /img/uploads/2019/04/waterfall-3182326_1920-768x527.jpg 768w, /img/uploads/2019/04/waterfall-3182326_1920-1150x789.jpg 1150w, /img/uploads/2019/04/waterfall-3182326_1920.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 ###### **Photo ©** [**Pixabay**]
 
-Located Northwest of Bangkok, the city of Kanchanaburi is ideal for nature enthusiasts. It&#8217;s where expats go to enjoy the best of Thai&#8217;s flora and fauna. It&#8217;s known for its historical attractions, breathtaking natural beauty, and spectacular outdoor activities, including star-gazing, bird-watching, fishing, golfing, canoeing, and trekking. 
+Located Northwest of Bangkok, the city of Kanchanaburi is ideal for nature enthusiasts. It's where expats go to enjoy the best of Thai's flora and fauna. It's known for its historical attractions, breathtaking natural beauty, and spectacular outdoor activities, including star-gazing, bird-watching, fishing, golfing, canoeing, and trekking.
 
 Some of its major tourist spots include the Riverkwai Bridge, <a href="https://www.tourismthailand.org/Attraction/Erawan-National-Park--286" target="_blank" rel="noopener">Erawan National Park</a>, Sai Yok National Park, and Huai Mae Khamin Waterfall. Dining options are pretty fantastic with the riverside resorts and restaurants making it a destination for luxury-seeking travellers.
 
@@ -71,11 +71,4 @@ Some of its major tourist spots include the Riverkwai Bridge, <a href="https://w
 
 <img  src="/img/uploads/2019/04/maryn-mcdonnell-image-150x150.jpg" alt="" width="150" height="150" srcset="/img/uploads/2019/04/maryn-mcdonnell-image-150x150.jpg 150w, /img/uploads/2019/04/maryn-mcdonnell-image-300x300.jpg 300w, /img/uploads/2019/04/maryn-mcdonnell-image-768x768.jpg 768w, /img/uploads/2019/04/maryn-mcdonnell-image.jpg 960w" sizes="(max-width: 150px) 100vw, 150px" />
 
-_As a life of a digital nomad and years of writing experience, Maryn Mcdonnell is a travel writer who loves exploring the world and shares her travel experiences with other passionate travellers out there. Find Maryn on Twitter _[_@MarynMcdonnell_]
-
-: https://unsplash.com/photos/XMdhnFTaZ8c
-: https://pixabay.com/photos/ayutthaya-ancient-measure-art-2033589/
-: https://unsplash.com/photos/wvpL1K6IhnI
-: https://unsplash.com/photos/_Woo4d3qrFk
-: https://pixabay.com/photos/waterfall-3182326/
-: https://twitter.com/MarynMcdonnell?lang=en
+_As a life of a digital nomad and years of writing experience, Maryn Mcdonnell is a travel writer who loves exploring the world and shares her travel experiences with other passionate travellers out there. Find Maryn on Twitter \_\_@MarynMcdonnell_

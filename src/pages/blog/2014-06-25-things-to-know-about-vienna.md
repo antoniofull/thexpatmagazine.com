@@ -25,7 +25,7 @@ category:
 
 Foto <a href="https://www.flickr.com/photos/zlakfoto/13667469923/in/photolist-GYRTM-8P9D6K-nttvZB-8bdQM4-2CiWx5-9DVzJ8-9bfT7m-9bcJPx-9bcJJT-kuyqgp-9m8zEt-pwutV-5mGKCD-9hTJEG-9hQDtp-kfcF9P-A1ea-kfdFpK-aDHkFV-4nNQZi-8WwKyH-MYe33-4qMqob-9dyRPq-hnMYkh-aDM9Ju-4LNey3-aA1rzs-mPKmDa-7irGqA-4LPNc4-8cSAQw-3BFRR2-62bwd8-aDMcyG-BWXnq-rv62m-aDMawu-6g8MKt-bxrHfh-8WwNDe-4qHkLH-8UQrK2-9wyHV1-9wvJNZ-6paEzt-4LT8tR-cgM3n-5dhcpC-4LXhK5" target="_blank">Flickr</a>.
 
-### 2 &#8211;**The Beautiful Schönbrunn Palace**, the summer palace of the Habsburgs, has no less than 1440 rooms. Yep, it&#8217;s huge. Take your time to visit it 😀
+### 2 &#8211;**The Beautiful Schönbrunn Palace**, the summer palace of the Habsburgs, has no less than 1440 rooms. Yep, it's huge. Take your time to visit it 😀
 
 <img src="/img/uploads/2014/06/5253539063_b04ceda69a_o-1024x584.jpg" alt="Schönbrunn Palace, Vienna" width="785" height="447" />
 
@@ -37,7 +37,7 @@ Foto <a href="https://www.flickr.com/photos/pamilne/5253539063/in/photolist-4iRg
 
 Austrian boy receives new shoes during WWII via <a href="https://www.boredpanda.com/must-see-historic-moments/" target="_blank">boredpanda</a>.
 
-### **4 &#8211; Smoking is permitted. Yes most of the local permit to smoke so don&#8217;t be surprised if you enter in a bar to have a drink and someone is smoking right next to you, and you cannot even complain! You can check this <a href="https://da.stinkts.net/rauchfreie-lokale-in-wien.html" target="_blank">list</a> for the no-smoking places in Vienna, you can thank us later.**
+### **4 &#8211; Smoking is permitted. Yes most of the local permit to smoke so don't be surprised if you enter in a bar to have a drink and someone is smoking right next to you, and you cannot even complain! You can check this <a href="https://da.stinkts.net/rauchfreie-lokale-in-wien.html" target="_blank">list</a> for the no-smoking places in Vienna, you can thank us later.**
 
 <img  src="/img/uploads/2014/06/smoking-vienna.jpg" alt="Smoking in Vienna" width="538" height="404" srcset="/img/uploads/2014/06/smoking-vienna.jpg 538w, /img/uploads/2014/06/smoking-vienna-300x225.jpg 300w" sizes="(max-width: 538px) 100vw, 538px" />
 

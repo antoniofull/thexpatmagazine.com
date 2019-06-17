@@ -17,7 +17,7 @@ category:
   - destinations
 ---
 
-**Iceland** is well known as the [most peaceful country in the world], but recently the police shot and kill a man, for the first time on his history , since it&#8217;s a republic , thus from 1944.
+**Iceland** is well known as the [most peaceful country in the world], but recently the police shot and kill a man, for the first time on his history , since it's a republic , thus from 1944.
 
 &#8220;**The nation is in shock**&#8221; reported a person working at the **Icelandic National Broadcasting Service**. The victim had a gun and was trying to<!--more--> shot the police when they responded to the fire and killed him.  While an episode like this might happen more often in other countries and rarely shocks the people, in
 

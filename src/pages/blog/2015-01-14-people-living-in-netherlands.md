@@ -23,7 +23,7 @@ category:
 
 ## 1 &#8211; Bring your costume &#8230; to &#8230; the .. canal
 
-Yes, sun is an option here, you won&#8217;t see it often. So when it happens people run to the canals or, the luckiest, next to the beach to enjoy every single second of it. If you decided to live in a city like Amsterdam, it might be common to go to the canals with some food and drinks, and friends of course, but where it gets really cool is when you rent a boat and go trough the canal with a couple of heineken box with you.
+Yes, sun is an option here, you won't see it often. So when it happens people run to the canals or, the luckiest, next to the beach to enjoy every single second of it. If you decided to live in a city like Amsterdam, it might be common to go to the canals with some food and drinks, and friends of course, but where it gets really cool is when you rent a boat and go trough the canal with a couple of heineken box with you.
 
 &nbsp;
 
@@ -45,7 +45,7 @@ Dutch use agenda, really a lot. They plan everything and so you will have to do 
 
 ## 3 &#8211; Birthdays are cheap!
 
-Don&#8217;t expect to spend a lot of money for your colleague&#8217;s birthday, 1 or 2 euros are enough, but most of the times you won&#8217;t even buy a present, so don&#8217;t expect one when it&#8217;s your turn! 🙂
+Don't expect to spend a lot of money for your colleague's birthday, 1 or 2 euros are enough, but most of the times you won't even buy a present, so don't expect one when it's your turn! 🙂
 
 Anyway there is something that cannot be miss at the birthday and is ..
 
@@ -55,7 +55,7 @@ Yes, dutch love cakes and me too! Birthday or new contract at work? Cake! At hom
 
 ## 5 &#8211; You get used to a glass just rinsed in the water in a crowded bar.
 
-What? Yes, that&#8217;s it. Go in a bar, if you are lucky enough the waitress cross soon your eyes you can order a beer. She will take a dirty glass of beer from a previous client, rinse it and then give it to you. That&#8217;s Netherlands. 🙂
+What? Yes, that's it. Go in a bar, if you are lucky enough the waitress cross soon your eyes you can order a beer. She will take a dirty glass of beer from a previous client, rinse it and then give it to you. That's Netherlands. 🙂
 
 ### When at the bar they serve you a beer in a glass that has only been rinsed.
 
@@ -73,15 +73,15 @@ when you don’t have to pay the 50cent to use the toilet at the club
 
 Via <a href="https://whenyouliveinamsterdam.tumblr.com/post/45288865390/when-you-dont-have-to-pay-the-50cent-to-use-the" target="_blank">When You Live in Amsterdam</a>
 
-## 7 &#8211; You don&#8217;t learn Dutch, but your english has improved.
+## 7 &#8211; You don't learn Dutch, but your english has improved.
 
 No one speaks dutch in the Netherlands, seriously. Amsterdam has even english has official language. But
 
 if you are not an english speaker sure your english will improve it 😀
 
-## 8 &#8211; Queen&#8217;s day (Now King&#8217;s day) is crazy.
+## 8 &#8211; Queen's day (Now King's day) is crazy.
 
-Planning to meet your friends during the huge celebration of the King&#8217;s day? Well, plan it well because you won&#8217;t find them easily. This is the big day where every dutch dress orange and goes out, in this day you will realise how overcrowded this country is. Ah .. forget about public transports of course.
+Planning to meet your friends during the huge celebration of the King's day? Well, plan it well because you won't find them easily. This is the big day where every dutch dress orange and goes out, in this day you will realise how overcrowded this country is. Ah .. forget about public transports of course.
 
 &nbsp;
 

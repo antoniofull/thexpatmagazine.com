@@ -23,11 +23,11 @@ category:
   - destinations
 ---
 
-There are a lot of expats in every country around the world, luckily it is much easier to move somewhere nowadays. So let&#8217;s say you are ready to take your risks and chances to move to some new places, and start a new life, it is still a big change and a scary one. For this reason you want to do your homework and explore various countries to gather deeper information, and therefore here are the top 8 for you.
+There are a lot of expats in every country around the world, luckily it is much easier to move somewhere nowadays. So let's say you are ready to take your risks and chances to move to some new places, and start a new life, it is still a big change and a scary one. For this reason you want to do your homework and explore various countries to gather deeper information, and therefore here are the top 8 for you.
 
 ### 1. Norway
 
-This country offers a high quality life, as well as beautiful landscapes and natural places so you won&#8217;t be bored during your free time. As you might know already, it is quite cold in winter but it can give you an unique experience of seeing the Aurora Borealis too.
+This country offers a high quality life, as well as beautiful landscapes and natural places so you won't be bored during your free time. As you might know already, it is quite cold in winter but it can give you an unique experience of seeing the Aurora Borealis too.
 
 <img  src="/img/uploads/2018/03/norway-2708286_1920.jpg" alt="" width="1920" height="1275" srcset="/img/uploads/2018/03/norway-2708286_1920.jpg 1200w, /img/uploads/2018/03/norway-2708286_1920-300x199.jpg 300w, /img/uploads/2018/03/norway-2708286_1920-768x510.jpg 768w, /img/uploads/2018/03/norway-2708286_1920-1024x680.jpg 1024w, /img/uploads/2018/03/norway-2708286_1920-1150x764.jpg 1150w" sizes="(max-width: 1920px) 100vw, 1920px" />
 
@@ -43,7 +43,7 @@ Here there are a lot of job opportunities and good conditions, indeed the **71%*
 
 ### 3. Switzerland
 
-Expats have an average salary of \$188,275, which is double compared to the global average. It&#8217;s also true that it is expensive to live here, but hey&#8230;you can&#8217;t have it all. 🙂
+Expats have an average salary of \$188,275, which is double compared to the global average. It's also true that it is expensive to live here, but hey&#8230;you can't have it all. 🙂
 
 <img  src="/img/uploads/2018/03/mountains-1645078_1920.jpg" alt="" width="1920" height="1104" srcset="/img/uploads/2018/03/mountains-1645078_1920.jpg 1200w, /img/uploads/2018/03/mountains-1645078_1920-300x173.jpg 300w, /img/uploads/2018/03/mountains-1645078_1920-768x442.jpg 768w, /img/uploads/2018/03/mountains-1645078_1920-1024x589.jpg 1024w, /img/uploads/2018/03/mountains-1645078_1920-1150x661.jpg 1150w" sizes="(max-width: 1920px) 100vw, 1920px" />
 
@@ -51,7 +51,7 @@ Expats have an average salary of \$188,275, which is double compared to the glob
 
 ### 4. Irland
 
-Many of the expats who live here have left years ago thinking &#8220;it&#8217;s going to be only for few months or years, just the time to improve my English skills&#8221;&#8230;and well, they are still living there. Surrounded by the ocean, Irland will surprise you with its pictoresque villages and beautiful natural sites.
+Many of the expats who live here have left years ago thinking &#8220;it's going to be only for few months or years, just the time to improve my English skills&#8221;&#8230;and well, they are still living there. Surrounded by the ocean, Irland will surprise you with its pictoresque villages and beautiful natural sites.
 
 <img  src="/img/uploads/2018/03/home-3175921_1920.jpg" alt="" width="1920" height="1274" srcset="/img/uploads/2018/03/home-3175921_1920.jpg 1200w, /img/uploads/2018/03/home-3175921_1920-300x199.jpg 300w, /img/uploads/2018/03/home-3175921_1920-768x510.jpg 768w, /img/uploads/2018/03/home-3175921_1920-1024x679.jpg 1024w, /img/uploads/2018/03/home-3175921_1920-1150x763.jpg 1150w" sizes="(max-width: 1920px) 100vw, 1920px" />
 
@@ -59,7 +59,7 @@ Many of the expats who live here have left years ago thinking &#8220;it&#8217;s 
 
 ### 5. Malta
 
-If you&#8217;re looking for a warmer place and nice beaches, then this is the place for you. Moreover, the taxes are lower compared to other countries, it has a good health system and it&#8217;s cheaper.
+If you're looking for a warmer place and nice beaches, then this is the place for you. Moreover, the taxes are lower compared to other countries, it has a good health system and it's cheaper.
 
 <img  src="/img/uploads/2018/03/village-843220_1920.jpg" alt="" width="1920" height="1531" srcset="/img/uploads/2018/03/village-843220_1920.jpg 1200w, /img/uploads/2018/03/village-843220_1920-300x239.jpg 300w, /img/uploads/2018/03/village-843220_1920-768x612.jpg 768w, /img/uploads/2018/03/village-843220_1920-1024x817.jpg 1024w, /img/uploads/2018/03/village-843220_1920-1150x917.jpg 1150w" sizes="(max-width: 1920px) 100vw, 1920px" />
 
@@ -83,6 +83,6 @@ It is a safe country and has beautiful lakes, cities and landscapes, people are 
 
 ### 8. Netherlands
 
-Maybe it&#8217;s for the canals, its typical houses or the colourful tulips in spring, but for sure Netherlands has a lot to offer to expats, such as International communities and good working conditioning. Also, Dutch people speak perfectly English, so it would be easier to settle down even if you don&#8217;t speak the local language yet.
+Maybe it's for the canals, its typical houses or the colourful tulips in spring, but for sure Netherlands has a lot to offer to expats, such as International communities and good working conditioning. Also, Dutch people speak perfectly English, so it would be easier to settle down even if you don't speak the local language yet.
 
 <img  src="/img/uploads/2018/03/architecture-3125679_1920.jpg" alt="" width="1920" height="1280" srcset="/img/uploads/2018/03/architecture-3125679_1920.jpg 1200w, /img/uploads/2018/03/architecture-3125679_1920-300x200.jpg 300w, /img/uploads/2018/03/architecture-3125679_1920-768x512.jpg 768w, /img/uploads/2018/03/architecture-3125679_1920-1024x683.jpg 1024w, /img/uploads/2018/03/architecture-3125679_1920-1150x767.jpg 1150w" sizes="(max-width: 1920px) 100vw, 1920px" />

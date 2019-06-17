@@ -18,7 +18,7 @@ category:
   - destinations
 ---
 
-The **ITU**, **_International Telecommunication Union_**, released yesterday a report for the _**world&#8217;s most connected countries**_ according with their index called **IDI** (_**global ICT Development Index).**_<!--more-->
+The **ITU**, **_International Telecommunication Union_**, released yesterday a report for the _**world's most connected countries**_ according with their index called **IDI** (_**global ICT Development Index).**_<!--more-->
 
 <img  src="/img/uploads/2014/03/Copenhagen-Nyhavn-1024x680.jpg" alt="Expat denmark" width="785" height="521" srcset="/img/uploads/2014/03/Copenhagen-Nyhavn-1024x680.jpg 1024w, /img/uploads/2014/03/Copenhagen-Nyhavn-300x199.jpg 300w, /img/uploads/2014/03/Copenhagen-Nyhavn-768x510.jpg 768w, /img/uploads/2014/03/Copenhagen-Nyhavn-753x500.jpg 753w, /img/uploads/2014/03/Copenhagen-Nyhavn.jpg 1200w" sizes="(max-width: 785px) 100vw, 785px" />
 

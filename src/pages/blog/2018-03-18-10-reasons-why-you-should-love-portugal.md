@@ -17,7 +17,7 @@ category:
   - destinations
 ---
 
-How much do you know about Portugal? Sun, good food, nice people and lovely places to visit; but this isn&#8217;t all. There&#8217;s much more to know about its history before moving there, or simply to find out why you should love this country. Here for you 10 reasons:
+How much do you know about Portugal? Sun, good food, nice people and lovely places to visit; but this isn't all. There's much more to know about its history before moving there, or simply to find out why you should love this country. Here for you 10 reasons:
 
 **1. It is the oldest nation in Europe &#8211;** it became the kingdom of Portugal in 1139, and the country remained as such for the next 800 years until 1910, when it became the República Portuguesa (the Portuguese Republic).
 
@@ -33,7 +33,7 @@ How much do you know about Portugal? Sun, good food, nice people and lovely plac
 
 **7. The largest cork production &#8211;** it is made in Portugal and delivered everywhere else in the world, and its oak cork is protected by law.
 
-**8. Lisbon is oldest than Rome &#8211;** it is also one of the oldest cities in Europe, according to archaeological findings, it dates back to to 1200BC revealing populations in and around Portugal&#8217;s capital city.
+**8. Lisbon is oldest than Rome &#8211;** it is also one of the oldest cities in Europe, according to archaeological findings, it dates back to to 1200BC revealing populations in and around Portugal's capital city.
 
 **9. Pioneer of adopting the euro &#8211;** Portugal was one of the first countries to give up on its currency (Portuguese escudo) in 1999, while the euro was introduced for all the other countries in 2002. It is still possible to exchange escudo currency at the *Banco de Portugal* (Central Bank of Portugal) until 28 February 2022.
 

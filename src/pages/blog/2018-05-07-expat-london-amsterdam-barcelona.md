@@ -22,11 +22,11 @@ category:
 ---
 
 <p style="text-align: left;">
-  I am Alessio, 29 years old and I come from a small village of 850 inhabitants in the north of Sardinia called Ardara. It was 2008 when my expat life started, when I decided to try a new experience and think of my personal growth, enrich my culture and my habits in another country. I remember to be very scared and I can still clearly remember what my mother said back then &#8220;but where are you going? I&#8217;m sure that in two weeks you will be back home&#8221;&#8230; and well yes, this is what she said 11 years ago and I am still living abroad 🙂
+  I am Alessio, 29 years old and I come from a small village of 850 inhabitants in the north of Sardinia called Ardara. It was 2008 when my expat life started, when I decided to try a new experience and think of my personal growth, enrich my culture and my habits in another country. I remember to be very scared and I can still clearly remember what my mother said back then &#8220;but where are you going? I'm sure that in two weeks you will be back home&#8221;&#8230; and well yes, this is what she said 11 years ago and I am still living abroad 🙂
 </p>
 
 <p style="text-align: left;">
-  <strong>I bought a one-way ticket to London</strong>&#8230; a suitcase of 20 kg, a pair of underwear&#8217;s, socks, two t-shirts (not that much actually), and a couple of photos, while my heart was beating so fast&#8230;full of fears and, at the same time, a lot of curiosity and desire to discover, develop and be myself to create something new.
+  <strong>I bought a one-way ticket to London</strong>&#8230; a suitcase of 20 kg, a pair of underwear's, socks, two t-shirts (not that much actually), and a couple of photos, while my heart was beating so fast&#8230;full of fears and, at the same time, a lot of curiosity and desire to discover, develop and be myself to create something new.
 </p>
 
 <div id="attachment_906" style="width: 970px" >
@@ -38,7 +38,7 @@ category:
 </div>
 
 <p style="text-align: left;">
-  The first difficulty when I arrived in London was the language, I did not speak a word of English&#8230; or actually only one and it was &#8220;Hello&#8221;. As for the rest, I couldn’t understand anything and it was then when  the first panic situation started. I remember all those moments when I tried to calm me down, thinking <em>&#8220;It&#8217;s going to be all fine!&#8221;.</em>
+  The first difficulty when I arrived in London was the language, I did not speak a word of English&#8230; or actually only one and it was &#8220;Hello&#8221;. As for the rest, I couldn’t understand anything and it was then when  the first panic situation started. I remember all those moments when I tried to calm me down, thinking <em>&#8220;It's going to be all fine!&#8221;.</em>
 </p>
 
 <p style="text-align: left;">
@@ -50,7 +50,7 @@ category:
 </p>
 
 <p style="text-align: left;">
-  After 4 days my arrival, I found my very first accommodation with two of my dearest friends from Sardinia, in an apartment in Stanford area (zone 5) and it costed almost 1500 pounds, not counting all the bills and expenses on top of that. It wasn&#8217;t all that easy, or better it wasn&#8217;t at all&#8230; but <strong>having my own income and a roof gave me a lot of satisfaction and motivation to go on and achieve even more.</strong>
+  After 4 days my arrival, I found my very first accommodation with two of my dearest friends from Sardinia, in an apartment in Stanford area (zone 5) and it costed almost 1500 pounds, not counting all the bills and expenses on top of that. It wasn't all that easy, or better it wasn't at all&#8230; but <strong>having my own income and a roof gave me a lot of satisfaction and motivation to go on and achieve even more.</strong>
 </p>
 
 <p style="text-align: left;">
@@ -58,7 +58,7 @@ category:
 </p>
 
 <p style="text-align: left;">
-  I updated my CV in English and started to apply for jobs by using <a href="https://www.gumtree.com">Gumtree</a> &#8211; a very well known website in UK, where you can look for apartments, jobs, machines etc. Obviously the motivation was down because I was sure that with my level of English I was not going anywhere.<br /> Eager to succeed, I continued for days with the job hunting until the moment I received a call from the <em>Buddha bar</em> &#8211; a very famous and luxurious place in London.  When I walked in for my interview, I had the WOW effect, there was a statue of Buddha almost 5 meters high and the whole place was amazing&#8230;. I kept on thinking &#8220;I won&#8217;t never get this job&#8221;. But guess what? After 40 minutes of a mixed English and Italian interview I was offered the job.
+  I updated my CV in English and started to apply for jobs by using <a href="https://www.gumtree.com">Gumtree</a> &#8211; a very well known website in UK, where you can look for apartments, jobs, machines etc. Obviously the motivation was down because I was sure that with my level of English I was not going anywhere.<br /> Eager to succeed, I continued for days with the job hunting until the moment I received a call from the <em>Buddha bar</em> &#8211; a very famous and luxurious place in London.  When I walked in for my interview, I had the WOW effect, there was a statue of Buddha almost 5 meters high and the whole place was amazing&#8230;. I kept on thinking &#8220;I won't never get this job&#8221;. But guess what? After 40 minutes of a mixed English and Italian interview I was offered the job.
 </p>
 
 <p style="text-align: left;">
@@ -82,11 +82,11 @@ After spending these 5 years in UK, I released I wanted to discover more, so for
 The first impression of the city was fantastic, a beautiful memory of feeling at home. The people and the city itself made me feel good, and this pushed me to want to leave the chaotic and busy London to start a new life in Holland. So I had an interview with a fine dining company that owns several places in Amsterdam and worldwide, and I actually got the job. **I went back to London and packed everything I had, within two days I moved to Amsterdam.**
 
 <p style="text-align: left;">
-  The local language is Dutch, but everyone speaks very good English, finding a job can be difficult but it&#8217;s not impossible, and if you want to rent a house it can also be expensive depending on the area you want to live in.<br /> Dutch people have a strong personality and it seems difficult to get through them at the beginning, but once you become friends everything change. I like the way they are, their lifestyle and I think it can be an inspiring example for the rest of the world.
+  The local language is Dutch, but everyone speaks very good English, finding a job can be difficult but it's not impossible, and if you want to rent a house it can also be expensive depending on the area you want to live in.<br /> Dutch people have a strong personality and it seems difficult to get through them at the beginning, but once you become friends everything change. I like the way they are, their lifestyle and I think it can be an inspiring example for the rest of the world.
 </p>
 
 <p style="text-align: left;">
-  As for living in the Netherlands, there are so many positive points like bureaucracy, it is well organized and procedures are fast. One suggestion is the BSN number for your registration in the country and it gives you access to all kind of services, such as the heath insurance system, which is private. What are the differences between this country and Italy? Too many!!! I just gave you an example about how bureaucracy works well here, while it doesn&#8217;t happen the same in Italy.
+  As for living in the Netherlands, there are so many positive points like bureaucracy, it is well organized and procedures are fast. One suggestion is the BSN number for your registration in the country and it gives you access to all kind of services, such as the heath insurance system, which is private. What are the differences between this country and Italy? Too many!!! I just gave you an example about how bureaucracy works well here, while it doesn't happen the same in Italy.
 </p>
 
 <p style="text-align: left;">
@@ -106,7 +106,7 @@ The first impression of the city was fantastic, a beautiful memory of feeling at
 </p>
 
 <p style="text-align: left;">
-  Another plus is that it&#8217;s much easier to go home and visit my family, I can go by boat or plane. But on the other side, if I think of the bureaucracy and the frustration that comes with it. So many things work with a continuous <em>mañana mañana</em> (tomorrow tomorrow), with the problem that mañana never comes&#8230; if you don&#8217;t follow it constantly and are not &#8220;pushy&#8221;, you will never have what you need. This happens also with the NIE for example &#8211; the security number you need for the registration in the country-, which you can get only with a document of your employer saying that you are here to work, and not just to enjoy the good weather. In general, you can spend from 2 up to 3 hours in a line in any office you have to go for papers or any other document (all very similar to Italy).
+  Another plus is that it's much easier to go home and visit my family, I can go by boat or plane. But on the other side, if I think of the bureaucracy and the frustration that comes with it. So many things work with a continuous <em>mañana mañana</em> (tomorrow tomorrow), with the problem that mañana never comes&#8230; if you don't follow it constantly and are not &#8220;pushy&#8221;, you will never have what you need. This happens also with the NIE for example &#8211; the security number you need for the registration in the country-, which you can get only with a document of your employer saying that you are here to work, and not just to enjoy the good weather. In general, you can spend from 2 up to 3 hours in a line in any office you have to go for papers or any other document (all very similar to Italy).
 </p>
 
 <p style="text-align: left;">

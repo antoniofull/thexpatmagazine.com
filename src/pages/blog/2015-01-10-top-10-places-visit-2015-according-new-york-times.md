@@ -21,7 +21,7 @@ The New York Times has published the list of the top 52 places to visit in 2015.
 
 We already suggested some\* **[good reasons for living in Milan]\***, you should [check it out]!
 
-So let&#8217;s see the _**top 10 cities to visit in 2015.**_<!--more-->
+So let's see the _**top 10 cities to visit in 2015.**_<!--more-->
 
 ## 1 &#8211; Milan.
 
@@ -67,7 +67,7 @@ Foto Credit: <a href="https://upload.wikimedia.org/wikipedia/commons/7/73/Pisco_
 
 ## 6 &#8211; Singapore.
 
-Singapore will turn 50 this year. Expect a lot of Celebration over the year, starting from the big fireworks that happened for new years eve at Marina bay to the Chingay parade expected in february finishing up with the National Day parade at the site where Singapore&#8217;s independence was declared in 1965.
+Singapore will turn 50 this year. Expect a lot of Celebration over the year, starting from the big fireworks that happened for new years eve at Marina bay to the Chingay parade expected in february finishing up with the National Day parade at the site where Singapore's independence was declared in 1965.
 
 <img  src="/img/uploads/2015/01/singapore-river-255116_1280-1024x575.jpg" alt="Singapore" width="785" height="441" srcset="/img/uploads/2015/01/singapore-river-255116_1280-1024x575.jpg 1024w, /img/uploads/2015/01/singapore-river-255116_1280-300x169.jpg 300w, /img/uploads/2015/01/singapore-river-255116_1280-768x431.jpg 768w, /img/uploads/2015/01/singapore-river-255116_1280-890x500.jpg 890w, /img/uploads/2015/01/singapore-river-255116_1280.jpg 1280w" sizes="(max-width: 785px) 100vw, 785px" />
 
@@ -79,7 +79,7 @@ South Africa is having a very good moment and tourism is growing. Durban is a be
 
 ## 8 &#8211; Bolivia.
 
-Bolivia&#8217;s days of relentless transportation strikes and roadblocks are over. The Government has made an excellent job and the country is now ready to host million of tourist. From adventures trips to try some of the best coffee in the World, this country has a lot to offer.
+Bolivia's days of relentless transportation strikes and roadblocks are over. The Government has made an excellent job and the country is now ready to host million of tourist. From adventures trips to try some of the best coffee in the World, this country has a lot to offer.
 
 <img  src="/img/uploads/2015/01/indian-women-232500_1280-1024x768.jpg" alt="bolivia" width="785" height="589" srcset="/img/uploads/2015/01/indian-women-232500_1280-1024x768.jpg 1024w, /img/uploads/2015/01/indian-women-232500_1280-300x225.jpg 300w, /img/uploads/2015/01/indian-women-232500_1280-768x576.jpg 768w, /img/uploads/2015/01/indian-women-232500_1280-667x500.jpg 667w, /img/uploads/2015/01/indian-women-232500_1280-800x600.jpg 800w, /img/uploads/2015/01/indian-women-232500_1280.jpg 1280w" sizes="(max-width: 785px) 100vw, 785px" />
 

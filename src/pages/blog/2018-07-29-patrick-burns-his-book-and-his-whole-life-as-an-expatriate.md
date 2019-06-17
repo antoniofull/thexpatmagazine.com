@@ -17,7 +17,7 @@ category:
   - destinations
 ---
 
-Today&#8217;s amazing story is shared by Patrick Burns, the author of _Far Away and Further Back_, who has lived his entire life as an expatriate and decided to write a book which includes chapters of expat&#8217;s stories.
+Today's amazing story is shared by Patrick Burns, the author of _Far Away and Further Back_, who has lived his entire life as an expatriate and decided to write a book which includes chapters of expat's stories.
 
 ### Hi Patrick, could you please tell us a bit more about yourself?
 
@@ -49,11 +49,11 @@ I cast around for other ideas and gradually the concept of a kind of travel memo
 
 I started by having a go at writing a sample story &#8211; about a curious event that occurred when I worked in the oil industry and found myself helping with a pipeline pressure-testing job deep in the Algerian desert. My colleague and I were standing in the shade of a water tank in the blistering heat, waiting for the test to complete. We gradually became aware of a large black bird repeatedly flapping up from behind a nearby sand dune and then dropping down again out of view. Our curiosity got the better of us so we went to see what was happening and this led to a remarkable discovery and a very frightening experience&#8230;
 
-I won&#8217;t give any more away but the point was that I really enjoyed the experience of putting this down on paper and without too much difficulty realized I had a number of other tales that arose from where my work took me. I found the voice I&#8217;d been searching for and a formula for writing that was fulfilling &#8211; one that allowed me to shake off the dissatisfaction I still felt from dropping out of corporate life so suddenly and terminally&#8230;
+I won't give any more away but the point was that I really enjoyed the experience of putting this down on paper and without too much difficulty realized I had a number of other tales that arose from where my work took me. I found the voice I'd been searching for and a formula for writing that was fulfilling &#8211; one that allowed me to shake off the dissatisfaction I still felt from dropping out of corporate life so suddenly and terminally&#8230;
 
 ### Can you explain and tell us more about the book?
 
-The book&#8217;s title “Far Away And Further Back” is very easy to explain. Each story is datelined from a location somewhere in the world. Many are on the fringes of where people tend to travel: Hanoi, Vietnam; Yangon Burma; the Libyan desert etc so they constitute “Far Away” Some of the stories delve into the past. One starts on my grandparent&#8217;s wedding day – June 13th 1912 and hops through various June 13ths up to 2012 – 100 years later. Another begins in August 1961 with the start of the division of Berlin into two cities and the creation of the Wall. This all has to do with going “Further Back”.
+The book's title “Far Away And Further Back” is very easy to explain. Each story is datelined from a location somewhere in the world. Many are on the fringes of where people tend to travel: Hanoi, Vietnam; Yangon Burma; the Libyan desert etc so they constitute “Far Away” Some of the stories delve into the past. One starts on my grandparent's wedding day – June 13th 1912 and hops through various June 13ths up to 2012 – 100 years later. Another begins in August 1961 with the start of the division of Berlin into two cities and the creation of the Wall. This all has to do with going “Further Back”.
 
 Thematically the book underlines the view that history always informs experience and that family history shapes the person we become.  My expatriate life and how I see the world from an expatriate’s viewpoint comes to a large extent from the intersecting of various lines of family history and events.
 

@@ -47,7 +47,7 @@ Barcelona is one of the most gay friendly city in the conservative Europe. Unlik
 
 photo credit: [Bradley Wells]
 
-**Barcelona, Nova Icaria, Bogatell, Mar Bella, Sitges** .. Just chose the one you want and you won&#8217;t regret.
+**Barcelona, Nova Icaria, Bogatell, Mar Bella, Sitges** .. Just chose the one you want and you won't regret.
 
 ##  5 &#8211; The Food.
 
@@ -71,7 +71,7 @@ People in Barcelona are always happy, no matter what. A part of pick pocketing i
 
 Photo Credit : <a href="https://www.flickr.com/photos/scatteredsunshine/1464760465/in/photolist-5S3K9o-jiPrDP-dAETX2-822Ucx-3erhaB-3erfSi-3evCEw-3ergaZ-3evDof-3evDdA-3evDis-3erfNc-3erfBK-3evCZG-3evDvA-3erfiR-3evFiW-3evDTN-3ergYi-3evGad-3evDzJ-3evE6L-3eriTR-3evFHY-3erhfM-3evF59-3erhsK-3erhk4-3ergnH-3erikR-3erj2r-3evGrs-3erigx-3eriwi-3erjpZ-3ergRV-3evDNq-3evDGW-3eriEP-3erh6p-3evEnu-3evFrG-3erjkF-3eribZ-3erhEe-3erjhx-3evEHA-3eri3z-3ergVg-3evEUA" target="_blank">Flckr</a>
 
-**Parties**? Sure, **Festivals**? All the best run here! From **<a href="https://sonar.es/en/2015/" target="_blank">Sonar</a>** to **<a href="https://www.circuitfestival.net" target="_blank">Circuit Festival</a>** , the biggest international gay and lesbian event **Barcelona** is the best spot for events and festival, just check the calendar. Ah and don&#8217;t forget that Barcelona has been elected city of &#8220;_<a href="https://www.mydestination.com/barcelona/travel-articles/72420/barcelona-voted-worlds-best-summer-city" target="_blank">World Best Summer City</a>_&#8220;.
+**Parties**? Sure, **Festivals**? All the best run here! From **<a href="https://sonar.es/en/2015/" target="_blank">Sonar</a>** to **<a href="https://www.circuitfestival.net" target="_blank">Circuit Festival</a>** , the biggest international gay and lesbian event **Barcelona** is the best spot for events and festival, just check the calendar. Ah and don't forget that Barcelona has been elected city of &#8220;_<a href="https://www.mydestination.com/barcelona/travel-articles/72420/barcelona-voted-worlds-best-summer-city" target="_blank">World Best Summer City</a>_&#8220;.
 
 ##  8 &#8211; City of Culture.
 
@@ -109,7 +109,7 @@ Barcelona, compared with many other European big cities like Amsterdam, is chea
 
 Photo Credit: <a href="https://www.locabarcelona.com/blog/wp-content/uploads/2012/05/bicing_barcelona.jpg" target="_blank">localBarcelona</a>
 
-Bicing in Barcelona is easy, as long as you don&#8217;t get drunk! 😀
+Bicing in Barcelona is easy, as long as you don't get drunk! 😀
 
 ## 13 &#8211; The football team.
 
@@ -169,7 +169,7 @@ _**Weather in Barcelona**_ is perfect, winter are not cold or at least nothing c
 
 Photo Credit: <a href="https://www.flickr.com/photos/juanedc/9843266044/in/photolist-dQeJkN-m7vVGt-A1Q6c-dGmWKa-koqMsL-3oP36x-fYjKUn-EFLKa-acfqxM-3hUMjA-fZPj4w-3uRZFs-jnbUKq-dW5WDF-6pDZ8M-zte1x-6Dkp1R-8oM6SF-4QhK76-6jAjXM-oG69TR-cMg5gs-nzuyAY-4aWxSb-b2i9m8-49Bx2n-bFc9d4-dznBtj-4dGUpE-nRp6aB-4WZ54b-4WUMFM-4WZ4M5-abs3UN-b348QX-aC2Qop-cfemb7-fSqVCY-4WZ553-2YAqCQ-4WZ4Zf-cfenJu-cfejLL-4bJhXR-4jwcdR-5rcwrj-51jGtE-77Dm4i-fAe1Nv-XNFSt" target="_blank">Flickr</a>
 
-Where the 1992 Olympic game where played. Montjuïc is up on a mountain and so less crowded than the centre. The view is amazing, is it possible to visit the old Stadium of Espanyol, the second team of Barcelona. Montjuïc hosts also a lot of concert. I a bit tricky to get there but it&#8217;s worth all the efforts.
+Where the 1992 Olympic game where played. Montjuïc is up on a mountain and so less crowded than the centre. The view is amazing, is it possible to visit the old Stadium of Espanyol, the second team of Barcelona. Montjuïc hosts also a lot of concert. I a bit tricky to get there but it's worth all the efforts.
 
 Pro tip : go when the _**Magic Fountain**_ is about to start, go on top and enjoy 😀
 
@@ -189,7 +189,7 @@ Photo Credit: <a href="https://www.flickr.com/photos/f_antolin/2257660666/in/pho
 
 My favorite place! _**Place Reial**_ is a small, incredible vibrant square just off Las Ramblas. In a very small place there are plenty of bars and locals, live music and so much more!
 
-_**Pro Tip**_ : Don&#8217;t drink beer at the bars as they are very expensive, buy one in the street for 1 euro and sit down near the fountain. Then enjoy the atmosphere.
+_**Pro Tip**_ : Don't drink beer at the bars as they are very expensive, buy one in the street for 1 euro and sit down near the fountain. Then enjoy the atmosphere.
 
 ## 22 &#8211; The **Gothic Quarter**
 
@@ -203,7 +203,7 @@ Photo Credit: <a href="https://www.flickr.com/photos/bcnbits/2190516154/in/photo
 
 <img  src="/img/uploads/2014/11/bocadillo.jpg" alt="bocadillo" width="1024" height="572" srcset="/img/uploads/2014/11/bocadillo.jpg 1024w, /img/uploads/2014/11/bocadillo-300x168.jpg 300w, /img/uploads/2014/11/bocadillo-768x429.jpg 768w, /img/uploads/2014/11/bocadillo-895x500.jpg 895w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
-When it&#8217;s late morning and you are coming back after a great night of party, there is nothing better than a bocadillo i lomo i queso! You can find bars that sell bocadillos everywhere in Barcelona, as usual just look for local bars and avoid touristic places.
+When it's late morning and you are coming back after a great night of party, there is nothing better than a bocadillo i lomo i queso! You can find bars that sell bocadillos everywhere in Barcelona, as usual just look for local bars and avoid touristic places.
 
 ## 24 &#8211; Costa Brava
 

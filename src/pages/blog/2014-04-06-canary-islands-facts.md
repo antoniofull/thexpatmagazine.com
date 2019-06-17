@@ -18,7 +18,7 @@ author: Editorial Team
 
 Canary island is an archipelago situated to the northwest coast of mainland Africa, 100 kilometres (62 miles) west of the border between Morocco and the Western Sahara. Is a favorite place for tourist because of the sub-tropical weather and the beautiful beaches, is also quite cheap. <!--more-->
 
-But also many expats decided to live there,  Canary island is a little bit like the Costa Rica for european 🙂 Here then things you should know about Canary island but you probably didn&#8217;t.
+But also many expats decided to live there,  Canary island is a little bit like the Costa Rica for european 🙂 Here then things you should know about Canary island but you probably didn't.
 
 **1 &#8211; The name Canary has nothing to do with birds, but instead comes from dogs.**
 
@@ -26,7 +26,7 @@ The name of canary is not inspired by birds, canaries, as the name could seems. 
 
 **2 &#8211; The canary island pine is a tree capable of resist to fire.**
 
-it&#8217;s property to refrigerate and regenerate made it resistant to fire. After a fire, even if the plant is destroyed, it can grow up again  from the lower trunk. Is one of the most resistant conifers in the world. (<a href="https://en.wikipedia.org/wiki/Pinus_canariensis" target="_blank">wikipedia</a>)
+it's property to refrigerate and regenerate made it resistant to fire. After a fire, even if the plant is destroyed, it can grow up again  from the lower trunk. Is one of the most resistant conifers in the world. (<a href="https://en.wikipedia.org/wiki/Pinus_canariensis" target="_blank">wikipedia</a>)
 
 **3 &#8211; Hierro island once was the prime meridian before greenwich**
 
@@ -54,7 +54,7 @@ The **spanish corrida** has been abolished since 1991, so you will not see bulls
 
 In 1977 at the **Tenerife airport** a collision between a klm boing and a Pam an, killed 583 people making this the <span style="text-decoration: underline;">biggest tragedy in the history of aviation. The reasons are several, one of this was a terroristic attack at the main Gran Canaria aiport that caused the air traffic to be moved to Tenerife.
 
-**9 &#8211; The world&#8217;s smallest hotel is on the Hierro island.**
+**9 &#8211; The world's smallest hotel is on the Hierro island.**
 
 With only 4 rooms but a beautiful view, this small hotel has the record to be the smallest in the world.
 

@@ -36,7 +36,7 @@ Germans like sparkling water, if you ask just for water in a restaurant you will
 
 **3 &#8211; Kitchen is tenant property**
 
-Yes, if you **rent** an **apartment in Germany**, you are likely to don&#8217;t find the kitchen. The reason? The former owner/tenant brought it with him. This is pretty common and they do the same for fridge and oven.
+Yes, if you **rent** an **apartment in Germany**, you are likely to don't find the kitchen. The reason? The former owner/tenant brought it with him. This is pretty common and they do the same for fridge and oven.
 
 **4 &#8211; Windows closed.**
 
@@ -52,23 +52,23 @@ Sunday is the perfect day to clean your house or do some domestic work, well .. 
 
 **6 &#8211; Free body culture.**
 
-<a href="https://en.wikipedia.org/wiki/FKK" target="_blank">FKK</a> is a movement born in Germany about free body culture, so don&#8217;t feel shame if you go to the sauna and find nude people 😀
+<a href="https://en.wikipedia.org/wiki/FKK" target="_blank">FKK</a> is a movement born in Germany about free body culture, so don't feel shame if you go to the sauna and find nude people 😀
 
 **7 &#8211; Movies in english? Nein danke!**
 
-Yes, you are just arrived and think &#8220;Oh well I don&#8217;t understand what they say but I can always watch some movies&#8221;, bad news! All the movies are dubbed in german. But look at the positive side, this will help you to learn fast german!
+Yes, you are just arrived and think &#8220;Oh well I don't understand what they say but I can always watch some movies&#8221;, bad news! All the movies are dubbed in german. But look at the positive side, this will help you to learn fast german!
 
 **8 &#8211; Please means yes and thanks means no.**
 
-Yes I know, this looks confusing. Let&#8217;s look in this way : if someone offer you a beer and you say please, then you will get a beer otherwise if you just say thanks then you have refused that beer. This is important to learn 😀
+Yes I know, this looks confusing. Let's look in this way : if someone offer you a beer and you say please, then you will get a beer otherwise if you just say thanks then you have refused that beer. This is important to learn 😀
 
 **9 &#8211; Supermarket .. keep on waiting**
 
-Lines at the supermarket are incredible long, boring but when it&#8217;s your turn, then it come the fun! The cashier will start pushing your stuff so fast that you will not have time to fill the bag, in the while don&#8217;t panic or the other clients will not look at you in a friendly way.
+Lines at the supermarket are incredible long, boring but when it's your turn, then it come the fun! The cashier will start pushing your stuff so fast that you will not have time to fill the bag, in the while don't panic or the other clients will not look at you in a friendly way.
 
-**10 &#8211; Don&#8217;t celebrate birthday .. not at least before.**
+**10 &#8211; Don't celebrate birthday .. not at least before.**
 
-If you want to wish happy birthday to a friend or colleague, just do it on that day and never before. They don&#8217;t like it and seems it does not bring good luck. So remember this when it&#8217;s 23:59 and you want to start singing happy birthday. 🙂
+If you want to wish happy birthday to a friend or colleague, just do it on that day and never before. They don't like it and seems it does not bring good luck. So remember this when it's 23:59 and you want to start singing happy birthday. 🙂
 
 Something to add? Let us know in the comments!
 

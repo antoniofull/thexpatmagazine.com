@@ -24,7 +24,7 @@ As is stated in their <a href="https://epi.yale.edu" target="_blank">website</a>
 
 > &#8220;The Environmental Performance Index (EPI) ranks how well countries perform on high-priority environmental issues in two broad policy areas: protection of human health from environmental harm and protection of ecosystems.&#8221;
 
-So, let&#8217;s see who rank the **first 10**.
+So, let's see who rank the **first 10**.
 
 ### **1 &#8211; Iceland.**
 

@@ -31,7 +31,7 @@ The weather and the classic friendly **Spanish** attitude from the **South** mak
 
 **Gibraltar** is english speaking, but many people prefer to speak Spanish. Then there is** Llanito**, which is an electric mix of British and **Andalusian** **Spanish**. In general learning Spanish is a very good thing.
 
-## 2 &#8211; Most of the expats don&#8217;t live in Gibraltar.
+## 2 &#8211; Most of the expats don't live in Gibraltar.
 
 **Gibraltar** is small, expensive and overcrowded. Most of the expats prefer to rent or buy houses in &#8220;La _**Linea de la Conception**_&#8221; or along la costa del Sol, then cross the border every day for go to work. The difference among the 2 places is quite big, for a 2 bedrooms in **Gibraltar** expected to spend around **1100/1200** while in Spain it will cost around **500/600**. Groceries are also cheaper in Spain than in Gib.
 

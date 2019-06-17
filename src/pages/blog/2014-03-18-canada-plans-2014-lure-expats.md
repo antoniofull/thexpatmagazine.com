@@ -18,7 +18,7 @@ category:
   - expat tips
 ---
 
-The **Canada&#8217;s Minister of Citizenship** and Immigration **Chris Alexander**  said
+The **Canada's Minister of Citizenship** and Immigration **Chris Alexander**  said
 
 > &#8220;Securing economic growth is and will remain our government’s top priority. Canada is in a global competition for the best and brightest immigrants, and this plan is crafted with attracting the people we need for Canada to succeed&#8221;.<!--more-->
 

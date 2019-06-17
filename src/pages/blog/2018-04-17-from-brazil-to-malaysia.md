@@ -50,7 +50,7 @@ Food is the right answer hahahah! 🙂 We’re not used to spicy food, most of m
 
 #### What is like to be an expat in in this country?
 
-You have to learn and understand that we&#8217;re not in our country , it’s not your culture and the local people won’t change their culture because of you. You have to learn how to respect and get used to it, learn that people are different and respect that.
+You have to learn and understand that we're not in our country , it’s not your culture and the local people won’t change their culture because of you. You have to learn how to respect and get used to it, learn that people are different and respect that.
 
 #### What advice would you give to someone who wants to move there?
 

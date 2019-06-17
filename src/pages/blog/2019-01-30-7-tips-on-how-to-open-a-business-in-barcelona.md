@@ -18,7 +18,7 @@ author: Editorial Team
 
 Setting up a business in sunny [Barcelona] is many people’s dream come true.  But, as anyone who has bought or leased commercial property in Barcelona will tell you, there can be many processes and administrative hoops to jump through before you can realise your dream of opening in one of the one world’s most vibrant cities.
 
-\_The Expat Magazine _talks to Jordi Perez, Managing Director of GOBAI Group, a company which specialises in helping international clients open commercial businesses, to give his tips on how to navigate the process. So let&#8217;s explore more&#8230;
+\_The Expat Magazine _talks to Jordi Perez, Managing Director of GOBAI Group, a company which specialises in helping international clients open commercial businesses, to give his tips on how to navigate the process. So let's explore more&#8230;
 
 1.  **Know your “barrios” (neighbourhoods)**
 
@@ -30,7 +30,7 @@ Barcelona not a particularly large city, but it does have very distinctive zones
   </li>
 </ol>
 
-Ask yourself will this be a business which fits neatly into a category like a clothes shop?  Or will it sell various types of products? This is important, as the simpler the concept the fewer issues you are likely to face.  Licence-wise &#8211; with bars, cafés and restaurants you essentially have two options.  You can purchase an existing licence – meaning you would buy the licence from the outgoing business of the premises you have found.  The cost of the licence will depend on how valuable the outgoing business was.  Some businesses will be ready to just sell and leave their equipment, which could be beneficial to anyone opening a restaurant for example.  It is equipment you don&#8217;t have to worry about buying.  The cost will also depend on the location and the condition of the premises.  If they were relatively new and well-kept, the licence owner can ask more.
+Ask yourself will this be a business which fits neatly into a category like a clothes shop?  Or will it sell various types of products? This is important, as the simpler the concept the fewer issues you are likely to face.  Licence-wise &#8211; with bars, cafés and restaurants you essentially have two options.  You can purchase an existing licence – meaning you would buy the licence from the outgoing business of the premises you have found.  The cost of the licence will depend on how valuable the outgoing business was.  Some businesses will be ready to just sell and leave their equipment, which could be beneficial to anyone opening a restaurant for example.  It is equipment you don't have to worry about buying.  The cost will also depend on the location and the condition of the premises.  If they were relatively new and well-kept, the licence owner can ask more.
 
 The second option would be to apply to the town hall for a new licence.  Again, the cost will depend on what kind of licence you want and what kind of project permission you need to do a re-fit, for example.
 
@@ -48,7 +48,7 @@ It can be expensive no matter which option you choose.  A licence for a decent 
   </li>
 </ol>
 
-To open whatever type of shop; veg shop, clothes shop, jewellers etc, you won&#8217;t have to go through nearly as much administration as you do for a bar or restaurant.  You likely won&#8217;t need to think so much about things such as sound-proofing and strict fire-coding.  Additionally, the city council is unlikely to demand a project licence for activities.  It could be as simple as providing the right data, completing the documents and having the plans for your shop prepared.
+To open whatever type of shop; veg shop, clothes shop, jewellers etc, you won't have to go through nearly as much administration as you do for a bar or restaurant.  You likely won't need to think so much about things such as sound-proofing and strict fire-coding.  Additionally, the city council is unlikely to demand a project licence for activities.  It could be as simple as providing the right data, completing the documents and having the plans for your shop prepared.
 
 <img  src="/img/uploads/2019/01/richard-balog-647377-unsplash-1024x682.jpg" alt="" width="1024" height="682" srcset="/img/uploads/2019/01/richard-balog-647377-unsplash-1024x682.jpg 1024w, /img/uploads/2019/01/richard-balog-647377-unsplash-300x200.jpg 300w, /img/uploads/2019/01/richard-balog-647377-unsplash-768x512.jpg 768w, /img/uploads/2019/01/richard-balog-647377-unsplash-1150x766.jpg 1150w, /img/uploads/2019/01/richard-balog-647377-unsplash.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
@@ -74,7 +74,7 @@ It is important to find the premises you are interested in and then take an engi
   </li>
 </ol>
 
-You are about to spend and risk a lot of money pursuing a new venture.  Make sure you are working with a local company you can trust. There are many local expats groups who can offer impartial advice, but the best way is to meet with local companies and see who you feel best understands what you are looking to do.  The service we offer, for example, can be end-to-end and we can often drive down prices to deliver and manage the whole project rather than divide it into parts.  It also means you have one point of contact and accountability and you don&#8217;t have to deal with several suppliers.  We would recommend a project management service, in general, to make the process easier.
+You are about to spend and risk a lot of money pursuing a new venture.  Make sure you are working with a local company you can trust. There are many local expats groups who can offer impartial advice, but the best way is to meet with local companies and see who you feel best understands what you are looking to do.  The service we offer, for example, can be end-to-end and we can often drive down prices to deliver and manage the whole project rather than divide it into parts.  It also means you have one point of contact and accountability and you don't have to deal with several suppliers.  We would recommend a project management service, in general, to make the process easier.
 
 <img  src="/img/uploads/2019/01/gobai-300x81.jpeg" alt="" width="300" height="81" srcset="/img/uploads/2019/01/gobai-300x81.jpeg 300w, /img/uploads/2019/01/gobai.jpeg 607w" sizes="(max-width: 300px) 100vw, 300px" />
 

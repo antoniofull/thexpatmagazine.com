@@ -16,7 +16,7 @@ category:
   - destinations
 ---
 
-**Switzerland** is a small country at the heart of Europe and it&#8217;s famous for being a neutral country  for it&#8217;s banks, chocolate and clocks.
+**Switzerland** is a small country at the heart of Europe and it's famous for being a neutral country  for it's banks, chocolate and clocks.
 
 Often people see **Switzerland** like a kind of boring small country, with not much to offer apart of _chocolates and clocks_. Well, here some facts from Switzerland which I am sure you would not expect, not at all 😀<!--more-->
 
@@ -26,7 +26,7 @@ During winter it may snow very hard, and of course the night is the worst. But y
 
 ### 2 &#8211; Voting is mandatory.
 
-If you don&#8217;t you will get a fine, there is no excuse. Not even if you live abroad.
+If you don't you will get a fine, there is no excuse. Not even if you live abroad.
 
 ### 3 &#8211; They are always ready to contrast an invasor.
 
@@ -48,7 +48,7 @@ Finally all the direction signs can be dropped in one touch from a central switc
 
 The **Nuclear bunker in Switzerland** are capable of host all the population in the country (Yes all, including expats like you).
 
-### 5 &#8211; Drive slow, all the traffic lights are green. It&#8217;s called the green wave.
+### 5 &#8211; Drive slow, all the traffic lights are green. It's called the green wave.
 
 In some cities, like Zurich if you drive at the admitted limit, e.g. 40km/H all the traffic lights will be green. this is called the <a href="https://en.wikipedia.org/wiki/Green_wave" target="_blank">green wave</a>.
 

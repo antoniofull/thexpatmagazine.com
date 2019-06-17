@@ -17,17 +17,17 @@ category:
   - destinations
 ---
 
-**Spain** is a mediterranean country in the south of **Europe** and is one of the country hit by the crisis. Now is slowly recovering, however being a cheap country with a nice weather almost all the year and fabulous people is easy for many expats fall in love for this country.  I&#8217;ve collected my list of the most important reasons to **live in Spain**.<!--more-->
+**Spain** is a mediterranean country in the south of **Europe** and is one of the country hit by the crisis. Now is slowly recovering, however being a cheap country with a nice weather almost all the year and fabulous people is easy for many expats fall in love for this country.  I've collected my list of the most important reasons to **live in Spain**.<!--more-->
 
 <img alt="live spain" src="/img/uploads/2014/03/corrida_san_fermin-300x191.jpg" />
 
 1 **The people.**
 
-Really, spanish people are awesome. Always smiling and ready for &#8220;fiesta&#8221; they are often in a good mood. It&#8217;s easy to enter in a bar and start talking with someone and even more easy in the big cities like Madrid or Barcelona. I notice this his also influence on many expats and making friendship in Spain is easy 🙂
+Really, spanish people are awesome. Always smiling and ready for &#8220;fiesta&#8221; they are often in a good mood. It's easy to enter in a bar and start talking with someone and even more easy in the big cities like Madrid or Barcelona. I notice this his also influence on many expats and making friendship in Spain is easy 🙂
 
 2 **The Weather**
 
-I have a friend in Chicago, few weeks ago was -50C. Scary, right now in Sevilla is 17C. 🙂 Weather is one of the &#8220;perks&#8217; of Spain, hot during summer and not so cold during winter. If you live in the South you can forget about heavy coats and scarf and gloves, yeah! Madrid as in the internal has a more &#8220;international&#8221; weather so you might want to consider Barcelona as is also near by the sea.
+I have a friend in Chicago, few weeks ago was -50C. Scary, right now in Sevilla is 17C. 🙂 Weather is one of the &#8220;perks' of Spain, hot during summer and not so cold during winter. If you live in the South you can forget about heavy coats and scarf and gloves, yeah! Madrid as in the internal has a more &#8220;international&#8221; weather so you might want to consider Barcelona as is also near by the sea.
 
 3 **Is cheap.**
 

@@ -18,7 +18,7 @@ category:
   - destinations
 ---
 
-Are you a diver or wannabe? Looking for the most beautiful sights to dive? No more searching, we found it! Here the top 5 places in the world where every diver should go at least once in it&#8217;s life.
+Are you a diver or wannabe? Looking for the most beautiful sights to dive? No more searching, we found it! Here the top 5 places in the world where every diver should go at least once in it's life.
 
 ## 1 &#8211; Barracuda Point (Malaysia)
 

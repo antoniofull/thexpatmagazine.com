@@ -51,7 +51,7 @@ You’re always trying to yield the best results for the respective company and 
 
 One of the biggest bizarre dispositions of a person when trying how to negotiate a salary increase is that he or she makes his/her previously earned salaries as ground bases for increments. You need to wake up from that long-forgotten wakeup calls since no one will be willing to see what you made way before in the past.
 
-This is indeed one of the biggest critical mistakes of those new-to-the-jobs amateur salary negotiators. They tend to review and request for their old salary credits plus a little extra percentage on that. Also, they might settle for what they&#8217;re already used to make from their previous job. Never ask for search except you’re designation has reached a high-status among your work-bound coworkers for the same company. This is absolutely counterproductive and won’t affect in the least bit if you’re anticipating that “affirmative” signal from the authority.
+This is indeed one of the biggest critical mistakes of those new-to-the-jobs amateur salary negotiators. They tend to review and request for their old salary credits plus a little extra percentage on that. Also, they might settle for what they're already used to make from their previous job. Never ask for search except you’re designation has reached a high-status among your work-bound coworkers for the same company. This is absolutely counterproductive and won’t affect in the least bit if you’re anticipating that “affirmative” signal from the authority.
 
 Pro Tip: Never ever mention your previous ‘salary in an interview.
 
