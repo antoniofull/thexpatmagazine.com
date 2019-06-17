@@ -23,7 +23,7 @@ Europe is full of history. Netherlands is one of these countries with a long his
 
 This funny video will guide you trough the Dutch history and explain  the difference between Netherlands and Holland, stay focused!
 
-\[youtube youtubeurl=&#8221;eE_IUPInEuc&#8221; \]\[/youtube\]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eE_IUPInEuc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Do you live in the Netherlands? What do you think of the country? Let us know in the comments 😀
 
