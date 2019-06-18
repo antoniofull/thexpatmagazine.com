@@ -60,7 +60,7 @@ Dressing is important. Saturday night, wedding or any other special event has a 
 
 You've quickly realized that not everyone in Italy speaks English. Well, you are "forced" to learn Italian, it took me some months but after one year I was able to master the language, well not completely of course, I still have my funny-foreigner accent. And Italian is such a beautiful language that you will fall in love for. Everything on TV is in Italian, while English movies are <span style="text-decoration: underline;">dubbed even when it's about interviews or documentaries, but eventually it is a good way to learn Italian.
 
-10  \*\* \*\*<span > <strong>When you know by heart this</strong>
+10 **When you know by heart this**
 
 [<img alt="italian gestures" src="/img/uploads/2014/02/italiangestures-300x300.jpg" width="300" height="300" />
 

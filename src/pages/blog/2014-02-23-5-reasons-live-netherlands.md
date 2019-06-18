@@ -6,7 +6,7 @@ description: >-
   Netherlands is a country in the North of Europe with 16 million inhabitants
   and an incredible increasing expat community.
 featuredpost: true
-featuredimage: /img/netherlands-751x500.jpg
+featuredimage: /img/netherlands.jpg
 tags:
   - expats
   - holland
