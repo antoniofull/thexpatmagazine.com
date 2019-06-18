@@ -18,15 +18,15 @@ category:
   - destinations
 ---
 
-Make a dream come true   Is it possible and how?! Mirko told us about his experience, what he did and why.
+Make a dream come true Is it possible and how?! Mirko told us about his experience, what he did and why.
 
-Here the interview  
+Here the interview
 
 #### Hi Mirko, let’s start with a little introduction about you, where are you from, and where do you live?
 
 Hi guys, so yes, I am Mirko and my origins are from Sicily. I come from a little village near Catania called Biancavilla. I am a digital designer for 10 years and I live on the East Coast of US, between the Yankees and the Big Apple.
 
-<img  src="/img/uploads/2018/10/28699327_10215712440514821_2576157098015267835_o.jpg" alt="" width="1080" height="809" srcset="/img/uploads/2018/10/28699327_10215712440514821_2576157098015267835_o.jpg 1080w, /img/uploads/2018/10/28699327_10215712440514821_2576157098015267835_o-300x225.jpg 300w, /img/uploads/2018/10/28699327_10215712440514821_2576157098015267835_o-768x575.jpg 768w, /img/uploads/2018/10/28699327_10215712440514821_2576157098015267835_o-1024x767.jpg 1024w" sizes="(max-width: 1080px) 100vw, 1080px" />
+![The American Dream](/img/uploads/2018/10/28699327_10215712440514821_2576157098015267835_o.jpg)
 
 #### What made you decide to leave your country?
 
@@ -48,7 +48,7 @@ America is a different and multicultural country, it is easy to go from the chao
 
 Who does want to come back?! :-p
 
-<img  src="/img/uploads/2018/10/36986415_10216806206298282_6804319960370774016_n.jpg" alt="" width="792" height="792" srcset="/img/uploads/2018/10/36986415_10216806206298282_6804319960370774016_n.jpg 792w, /img/uploads/2018/10/36986415_10216806206298282_6804319960370774016_n-150x150.jpg 150w, /img/uploads/2018/10/36986415_10216806206298282_6804319960370774016_n-300x300.jpg 300w, /img/uploads/2018/10/36986415_10216806206298282_6804319960370774016_n-768x768.jpg 768w" sizes="(max-width: 792px) 100vw, 792px" />
+![The American Dream](/img/uploads/2018/10/36986415_10216806206298282_6804319960370774016_n.jpg)
 
 #### Any tips for the ones who want to move to the US as you did?
 
@@ -58,8 +58,7 @@ Go on USCIS website in order to understand which kind of VISA is the best for yo
 
 #### As an Expat is there anything you will never give up?
 
+![The American Expat](/img/uploads/2018/10/41688099_10217383083759858_4657164769994735616_o.jpg)
 The number of opportunities that a country as America can offer, in particular for the ones who work in design or technology. America is black or white, that’s why if you are interested in moving here you should first come and test before spending time, energy and money to realize the American Dream
-
-<img  src="/img/uploads/2018/10/41688099_10217383083759858_4657164769994735616_o.jpg" alt="" width="1080" height="763" srcset="/img/uploads/2018/10/41688099_10217383083759858_4657164769994735616_o.jpg 1080w, /img/uploads/2018/10/41688099_10217383083759858_4657164769994735616_o-300x212.jpg 300w, /img/uploads/2018/10/41688099_10217383083759858_4657164769994735616_o-768x543.jpg 768w, /img/uploads/2018/10/41688099_10217383083759858_4657164769994735616_o-1024x723.jpg 1024w" sizes="(max-width: 1080px) 100vw, 1080px" />
 
 Thank you, Mirko for sharing your story with us!

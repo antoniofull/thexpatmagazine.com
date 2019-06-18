@@ -25,23 +25,21 @@ So let's see the _**top 10 cities to visit in 2015.**_<!--more-->
 
 ## 1 Milan.
 
-<img  src="/img/uploads/2014/12/2491755597_24be8e0494_b-686x1024.jpg" alt="Spritz Milan" width="686" height="1024" srcset="/img/uploads/2014/12/2491755597_24be8e0494_b.jpg 686w, /img/uploads/2014/12/2491755597_24be8e0494_b-201x300.jpg 201w, /img/uploads/2014/12/2491755597_24be8e0494_b-335x500.jpg 335w" sizes="(max-width: 686px) 100vw, 686px" />
+![Milan](/img/uploads/2014/12/2491755597_24be8e0494_b.jpg)
 
 ## 2 Cuba.
 
+![Cuba](/img/uploads/2015/01/13256306843_724afd6932_z.jpg)
+
 The Caribbean country now has in fact reduced all the tension with United States and his expecting an increase in tourism for this year. Indeed it deserves a visit.
 
-<img  src="/img/uploads/2015/01/13256306843_724afd6932_z.jpg" alt="Cuba" width="640" height="480" srcset="/img/uploads/2015/01/13256306843_724afd6932_z.jpg 640w, /img/uploads/2015/01/13256306843_724afd6932_z-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />
-
-Foto credit: <a href="https://www.flickr.com/photos/zedzap/13256306843/in/photolist-mcq3bx-mcqL1f-mca8UD-mc1re6-mbTTqY-mbGU8m-mbGMEm-mbzPCd-mavx72-max91C-marYFq-madCYA-jDX37A-i8d6fa-i3VY3a-eebW5w-eayB9M-bJVEZz-bJVtDX-bDJ81t-bzTTMH-awe9q6-9Q3CMK-8FPugr-8zcPhB-8oth8R-89Xtri-7K7Xaq-7dtWnA-79HYao-78sg2z-6QCpbf-6CKwUF-6quZEq-6gC9RV-5xR6s4-awgR8A-3nqbH6-Bqkyh-qtCmt-n5dSo2-mjUTFD-mc6KYt-kCSubr-9UeF1N-9TmLzu-7FDx8e-6pKLdB-mmCZRz-mhMoft"  target="_blank" rel="noopener noreferrer">Flickr</a>.
-
 ## 3 Philadelphia.
+
+![Philadelphia](/img/uploads/2015/01/13256306843_724afd6932_z.jpg)
 
 A series of projects has transformed Philadelphia into a hive of outdoor urban activity.
 
 The _**Dilworth Park**_ and  the **_Delaware River waterfront_** are some of these projects. The city has also launched his own **Bike sharing program**. And you know .. Is always sunny in Philadelphia 😀
-
-<img  src="/img/uploads/2015/01/philadelphia.png" alt="philadelphia" width="1000" height="565" srcset="/img/uploads/2015/01/philadelphia.png 1000w, /img/uploads/2015/01/philadelphia-300x170.png 300w, /img/uploads/2015/01/philadelphia-768x434.png 768w, /img/uploads/2015/01/philadelphia-885x500.png 885w" sizes="(max-width: 1000px) 100vw, 1000px" />Foto credit: <a href="https://upload.wikimedia.org/wikipedia/commons/a/a9/Philadelphia_skyline_from_south_street_bridge.jpg"  target="_blank" rel="noopener noreferrer">Wikipedia</a>.
 
 ## 4 Yellowstone National Park.
 
@@ -49,9 +47,7 @@ The Yellowstone national Park is getting a major lodging update with an investme
 
 For the first time since 2003 park managers will allow self-guided snowmobile tours, by permit only.
 
-<img  src="/img/uploads/2015/01/yellowstone-national-park.png" alt="yellowstone national park" width="1000" height="675" srcset="/img/uploads/2015/01/yellowstone-national-park.png 1000w, /img/uploads/2015/01/yellowstone-national-park-300x203.png 300w, /img/uploads/2015/01/yellowstone-national-park-768x518.png 768w, /img/uploads/2015/01/yellowstone-national-park-741x500.png 741w" sizes="(max-width: 1000px) 100vw, 1000px" />
-
-Foto Crediti: <a href="https://upload.wikimedia.org/wikipedia/commons/a/af/Bison_near_a_hot_spring_in_Yellowstone.JPG"  target="_blank" rel="noopener noreferrer">Wikipedia</a>
+![Yellowstone National Park.](/img/uploads/2015/01/yellowstone-national-park.png)
 
 ## 5 Elqui Valley, Chile.
 
@@ -59,47 +55,34 @@ The paradise for astronomer and passionates. Elqui Valley is the heart of the as
 
 Here is possible to use one of the dozens of small observatories as well as rent _glass-ceilinged suites._
 
-<img  src="/img/uploads/2015/01/elqui-valley.png" alt="elqui valley" width="1000" height="500" srcset="/img/uploads/2015/01/elqui-valley.png 1000w, /img/uploads/2015/01/elqui-valley-300x150.png 300w, /img/uploads/2015/01/elqui-valley-768x384.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" />
-
-Foto Credit: <a href="https://upload.wikimedia.org/wikipedia/commons/7/73/Pisco_Elqui_-_Flickr_-_Casper_Abrilot_(1).jpg"  target="_blank" rel="noopener noreferrer">Wikipedia</a>
+![Elqui Valley, Chile](/img/uploads/2015/01/elqui-valley.png)
 
 ## 6 Singapore.
 
 Singapore will turn 50 this year. Expect a lot of Celebration over the year, starting from the big fireworks that happened for new years eve at Marina bay to the Chingay parade expected in february finishing up with the National Day parade at the site where Singapore's independence was declared in 1965.
 
-<img  src="/img/uploads/2015/01/singapore-river-255116_1280-1024x575.jpg" alt="Singapore" width="785" height="441" srcset="/img/uploads/2015/01/singapore-river-255116_1280-1024x575.jpg 1024w, /img/uploads/2015/01/singapore-river-255116_1280-300x169.jpg 300w, /img/uploads/2015/01/singapore-river-255116_1280-768x431.jpg 768w, /img/uploads/2015/01/singapore-river-255116_1280-890x500.jpg 890w, /img/uploads/2015/01/singapore-river-255116_1280.jpg 1280w" sizes="(max-width: 785px) 100vw, 785px" />
+![Singapore](/img/uploads/2015/01/singapore-river-255116_1280.jpg)
 
 ## 7 Durban, South Africa.
 
 South Africa is having a very good moment and tourism is growing. Durban is a beautiful city with plenty of activities to do. the Rivertown is, obviously, the must visit.
 
-<img  src="/img/uploads/2015/01/durban-190906_1280-2-1024x768.jpg" alt="durban" width="785" height="589" srcset="/img/uploads/2015/01/durban-190906_1280-2-1024x768.jpg 1024w, /img/uploads/2015/01/durban-190906_1280-2-300x225.jpg 300w, /img/uploads/2015/01/durban-190906_1280-2-768x576.jpg 768w, /img/uploads/2015/01/durban-190906_1280-2-667x500.jpg 667w, /img/uploads/2015/01/durban-190906_1280-2-800x600.jpg 800w, /img/uploads/2015/01/durban-190906_1280-2.jpg 1280w" sizes="(max-width: 785px) 100vw, 785px" />
+![Durban, South Africa.](/img/uploads/2015/01/durban-190906_1280-2.jpg)
 
 ## 8 Bolivia.
 
 Bolivia's days of relentless transportation strikes and roadblocks are over. The Government has made an excellent job and the country is now ready to host million of tourist. From adventures trips to try some of the best coffee in the World, this country has a lot to offer.
 
-<img  src="/img/uploads/2015/01/indian-women-232500_1280-1024x768.jpg" alt="bolivia" width="785" height="589" srcset="/img/uploads/2015/01/indian-women-232500_1280-1024x768.jpg 1024w, /img/uploads/2015/01/indian-women-232500_1280-300x225.jpg 300w, /img/uploads/2015/01/indian-women-232500_1280-768x576.jpg 768w, /img/uploads/2015/01/indian-women-232500_1280-667x500.jpg 667w, /img/uploads/2015/01/indian-women-232500_1280-800x600.jpg 800w, /img/uploads/2015/01/indian-women-232500_1280.jpg 1280w" sizes="(max-width: 785px) 100vw, 785px" />
+![Bolivia](/img/uploads/2015/01/indian-women-232500_1280.jpg)
 
 ## 9 Faroes Island.
 
-I was also surprised to see this small, remote island in the list, but after reading the reasons it seems pretty clear why. This arcipelago in the **North Atlantic** is since 5 years the home to the most secluted avant-garde food.  Leading the way is _**Koks**_, a signatory of the <a href="https://www.clausmeyer.dk/en/the_new_nordic_cuisine_/manifesto_.html"  target="_blank" rel="noopener noreferrer"> <strong>Nordic Kitchen Manifesto</strong> </a>, which stresses modern cuisine made from local, seasonal ingredients , and _**Aarstova**_, a French restaurant using Faroese ingredients.
+I was also surprised to see this small, remote island in the list, but after reading the reasons it seems pretty clear why. This arcipelago in the **North Atlantic** is since 5 years the home to the most secluted avant-garde food.  Leading the way is _**Koks**_, a signatory of the <a href="https://www.clausmeyer.dk/en/the_new_nordic_cuisine_/manifesto_.html"  target="_blank" rel="noopener noreferrer"> Nordic Kitchen Manifesto </a>, which stresses modern cuisine made from local, seasonal ingredients , and _**Aarstova**_, a French restaurant using Faroese ingredients.
 
 ## 10 Macedonia.
 
+![Macedonia](/img/uploads/2015/01/skopje-545567_1280.jpg)
+
 The next **Balcan destination**, according with the New York Times. First comes **Croatia**, then **Montenegro** and **Albania** and then, _**Macedonia**_. Beside being known for it _moody monasteries_ and sparkling _Lake Ohrid_, Macedonia is also making a name in the tourist industry as a **food destination**.
 
-<img  src="/img/uploads/2015/01/skopje-545567_1280-1024x768.jpg" alt="skopje" width="785" height="589" srcset="/img/uploads/2015/01/skopje-545567_1280-1024x768.jpg 1024w, /img/uploads/2015/01/skopje-545567_1280-300x225.jpg 300w, /img/uploads/2015/01/skopje-545567_1280-768x576.jpg 768w, /img/uploads/2015/01/skopje-545567_1280-667x500.jpg 667w, /img/uploads/2015/01/skopje-545567_1280-800x600.jpg 800w, /img/uploads/2015/01/skopje-545567_1280.jpg 1280w" sizes="(max-width: 785px) 100vw, 785px" />
-
 You can read the complete list and interactive view of _**52 places to visit in 2015**_ <a href="https://www.nytimes.com/interactive/2015/01/11/travel/52-places-to-go-in-2015.html?_r=0"  target="_blank" rel="noopener noreferrer">here</a>.
-
-: https://localhost/thexpatmagazine-wp/2014/europe/7-reasons-live-milan/ '7 reasons why you should live in Milan'
-: /img/uploads/2014/12/2491755597_24be8e0494_b.jpg
-: /img/uploads/2015/01/13256306843_724afd6932_z.jpg
-: /img/uploads/2015/01/philadelphia.png
-: /img/uploads/2015/01/yellowstone-national-park.png
-: /img/uploads/2015/01/elqui-valley.png
-: /img/uploads/2015/01/singapore-river-255116_1280.jpg
-: /img/uploads/2015/01/durban-190906_1280-2.jpg
-: /img/uploads/2015/01/indian-women-232500_1280.jpg
-: /img/uploads/2015/01/skopje-545567_1280.jpg

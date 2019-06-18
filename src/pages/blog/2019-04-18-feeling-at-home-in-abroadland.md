@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Feeling at home in Abroadland
 date: 2019-04-18T20:41:07.000Z
 description: >-
-  How to find a home abroad? Not the physical property but quite the opposite:
+  How to find a home abroad? Not the physical property but quite the opposite,
   what is left when specific walls are taken away, what is in the core of home?
   And what things can add the feeling of home to you?
 featuredimage: /img/feeling-expat.jpg
@@ -22,7 +22,7 @@ author: Editorial Team
 
 We who live abroad have multiple definitions for home, and many of us are trying to figure out where we could be the happiest versions of ourselves. Some places you settle almost immediately, whereas in other places it may be a longer journey. When asked, “What is home to you?” expats often mention their loved ones and a place where they can be themselves. How could we keep and cultivate the feeling of home, no matter where we live, to carry it with us like snails carry their shells?
 
-<img  src="/img/uploads/2019/04/ab_image01-1024x731.jpg" alt="" width="1024" height="731" srcset="/img/uploads/2019/04/ab_image01.jpg 1024w, /img/uploads/2019/04/ab_image01-300x214.jpg 300w, /img/uploads/2019/04/ab_image01-768x548.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />
+![Feeling at home when living abroad](/img/uploads/2019/05/ab_image01.jpg)
 
 ## **Here are some tips I’ve found on how to feel at home abroad:**
 
@@ -34,17 +34,15 @@ Home can give you a sense of control and comfort, and especially when you’ve m
 
 Not having too many items goes well with the life on the move but some objects can help us to feel more grounded and remember who we are. Many of us hold on to certain items, maybe because we are afraid of losing the memories attached to them or for our desire to feel in control. I’ve made memory boxes (or they are actually old suitcases) where I store some of my kids’ precious items so that there is something concrete from their childhood lived in various places. Another concrete thing I can recommend is to have a jar or similar to store notes of the good things around you: to write down positive things like heartwarming encounters, funny things heard or things to be grateful for, and to put those notes to the “piggy bank of good”. When you write and later read these notes, you realise and recall all the great experiences you are having and you also learn to see more positive things around you. As we know, there are studies that have shown that gratitude can boost our happiness.
 
-<p style="text-align: center;">
-    “Fill your life with experiences, not things. Have stories to tell, not stuff to show.”
+> “Fill your life with experiences, not things. Have stories to tell, not stuff to show.”
 
-<p style="text-align: center;">
     -unknown
 
 **Extend your home outside of the walls.**
 
 A spot in the forest, your favourite beach, a friendly coffee place, your local library, a co-working space… By finding places where you feel good, your home zone gets wider and your new environment more familiar. Home space includes the digital places too, like the platforms you use and the groups you belong, so you should choose wisely how and with who you are spending your time online too.
 
-<img  src="/img/uploads/2019/04/ab_image02-1024x731.jpg" alt="" width="1024" height="731" srcset="/img/uploads/2019/04/ab_image02.jpg 1024w, /img/uploads/2019/04/ab_image02-300x214.jpg 300w, /img/uploads/2019/04/ab_image02-768x548.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />
+![Feeling at home when living abroad](/img/uploads/2019/05/ab_image02.jpg)
 
 **Keep doing your things.**
 
@@ -54,11 +52,9 @@ The hobbies and habits can also be seen as part of the home. Activities like a r
 
 Your family and friends, the people who you share your life with, are like anchors overseas. In some countries, it can be easier to make friends than in others, a lot depends on the culture and one’s lifestyle and situation. It’s still crucial for each expat’s wellbeing to have friends, even one person with whom to share the ups and downs of life in a foreign place. Also, our thoughts and attitudes, things we carry in our mind and heart, define much of our life quality and they will follow us even to the other side of the planet. Knowing your values and living in alignment with them helps you to find your place anywhere. For example, if one of your personal principles is being nature-friendly, finding ways to contribute to the environment will most likely make you feel good no matter where you live. Your set of values work like a compass leading you towards ‘home’ abroad.
 
-<p style="text-align: center;">
-    “Every day is a journey, and the journey itself is home.”
+> “Every day is a journey, and the journey itself is home.”
 
-<p style="text-align: center;">
-  Matsuo Bashō
+    Matsuo Bashō
 
 All of the aspects above can support us with finding the suitable and unique dosage of cosiness. A home zone from which it’s easier to go and explore the world, to throw ourselves into all the adventures waiting for us out there.
 
@@ -66,6 +62,4 @@ All of the aspects above can support us with finding the suitable and unique dos
 
 ##### About the author:
 
-Helena Jalanka,the author and illustrator of the book <a href="https://abroadland.com/"  target="_blank" rel="noopener noreferrer" rel="noopener"><strong> Greetings from Abroadland – Experiences of Family Life Abroad </strong></a>. Besides the home, the book’s topics are about moving, adapting, language, culture, environment, early education and visiting friends and family in the native country. The chapters are a mix of personal experiences and intercultural experts’ viewpoints. The compact and colourful guide book comes with 35 real-life cartoons and 75 ‘survive and thrive’ tips.
-
-<img  src="/img/uploads/2019/04/ab_image05-150x150.jpg" alt="" width="150" height="150" />
+Helena Jalanka,the author and illustrator of the book <a href="https://abroadland.com/"  target="_blank" rel="noopener noreferrer" rel="noopener"> Greetings from Abroadland – Experiences of Family Life Abroad </a>. Besides the home, the book’s topics are about moving, adapting, language, culture, environment, early education and visiting friends and family in the native country. The chapters are a mix of personal experiences and intercultural experts’ viewpoints. The compact and colourful guide book comes with 35 real-life cartoons and 75 ‘survive and thrive’ tips.

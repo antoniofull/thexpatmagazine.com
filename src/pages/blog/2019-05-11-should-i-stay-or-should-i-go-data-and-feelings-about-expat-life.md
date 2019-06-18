@@ -2,7 +2,8 @@
 templateKey: blog-post
 title: Should I stay or should I go? Data and feelings about expat life
 date: 2019-05-11T16:15:33.000Z
-description: ' Before analyzing data and interesting numbers about expats (and not) in the world, I'd like to share some stories and thoughts from some followers of the'
+description: >-
+  Before analyzing data and interesting numbers about expats (and not) in the world, I'd like to share some stories and thoughts from some followers of the
 featuredpost: true
 featuredimage: /img/amsterdam-architecture-building-208733.jpg
 imagealt: Should I stay or should I go? Data and feelings about expat life
@@ -23,7 +24,7 @@ Ana, instead, thinks that living abroad is her freedom. She said: "I can live my
 
 There are so many feelings, reasons, pros & cons that can lead to a decision to live an expat life or stay in your homeland.  How many times have we asked ourselves what to do?
 
-<img  src="/img/uploads/2019/05/dubbio-130x300.jpg" alt="" width="130" height="300" srcset="/img/uploads/2019/05/dubbio-130x300.jpg 130w, /img/uploads/2019/05/dubbio.jpg 156w" sizes="(max-width: 130px) 100vw, 130px" />
+![Expat Stories](/img/uploads/2019/05/dubbio.jpg)
 
 ## Some numbers
 
@@ -35,7 +36,7 @@ The major number of expats is coming from the United Arab Emirates and the U.S.,
 
 The countries producing more expats in the world are China and Uk.
 
-<img  src="/img/uploads/2019/05/statistiche.jpg" alt="" width="300" height="300" srcset="/img/uploads/2019/05/statistiche.jpg 300w, /img/uploads/2019/05/statistiche-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />
+![Expat Stories](/img/uploads/2019/05/statistiche.jpg)
 
 I believe the numbers are changing already while you are reading this post.
 

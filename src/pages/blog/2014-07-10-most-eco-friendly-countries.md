@@ -84,7 +84,7 @@ Foto : Corsica  <a href="https://www.flickr.com/photos/terence_s_jones/80115178
 
 Another little country, Austria. The government is directly supporting the citizens in growing plants and garden.
 
-<a title="7 things to know about Vienna (plus bonus)"  href="https://thexpatmagazine.com/thexpatmagazine-wp/2014/europe/things-to-know-about-vienna/"  target="_blank" rel="noopener noreferrer"><strong>Vienna</strong></a> is the only city in the world with noteworthy winegrowing operations within thecity boundaries.
+<a title="7 things to know about Vienna (plus bonus)"  href="https://thexpatmagazine.com/thexpatmagazine-wp/2014/europe/things-to-know-about-vienna/"  target="_blank" rel="noopener noreferrer">Vienna</a> is the only city in the world with noteworthy winegrowing operations within thecity boundaries.
 
   
 

@@ -28,7 +28,7 @@ I’ m ashamed to say it, but I had an egoistic meltdown  over tea. N ot my fin
 
 Come along inside We'll see if tea and buns can make the world a better place The Wind in the Willows
 
-<img  src="/img/uploads/2019/01/IMG_7364.jpg" alt="" width="1050" height="1400" srcset="/img/uploads/2019/01/IMG_7364.jpg 1050w, /img/uploads/2019/01/IMG_7364-225x300.jpg 225w, /img/uploads/2019/01/IMG_7364-768x1024.jpg 768w" sizes="(max-width: 1050px) 100vw, 1050px" />
+![Expat Stories](/img/uploads/2019/01/IMG_7364.jpg)
 
 ## _My tea is cold_\*\*
 
@@ -58,6 +58,6 @@ The Sardinian man, bless him, must have had a quiet word with the staff as every
 
 Fortunately, I can buy really, good and strong tea in the supermarket and make a proper ‘ cuppa ’ at home – so zen and calm can be found at least every morning. And I choose to enjoy my steamed English Breakfast tea with lemon when I go to a caf é.
 
-<img  src="/img/uploads/2019/01/tea.jpg" alt="" width="1400" height="854" srcset="/img/uploads/2019/01/tea.jpg 1400w, /img/uploads/2019/01/tea-300x183.jpg 300w, /img/uploads/2019/01/tea-768x468.jpg 768w, /img/uploads/2019/01/tea-1024x625.jpg 1024w, /img/uploads/2019/01/tea-1150x702.jpg 1150w" sizes="(max-width: 1400px) 100vw, 1400px" />
+![Expat Stories](/img/uploads/2019/01/tea.jpg)
 
 If you want to know more about her, here's her [blog](https://the-compass-adventures.com). Enjoy it!

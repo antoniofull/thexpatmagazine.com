@@ -37,13 +37,15 @@ const Pagination = ({ count, author }) => {
 
 const Post = ({ post }) => (
   <article className='author__post'>
-    {post.node.frontmatter.featuredimage && (
-      <Link to={post.node.fields.slug}>
-        <Image
-          fluid={post.node.frontmatter.featuredimage.childImageSharp.fluid}
-        />
-      </Link>
-    )}
+    {post.node.frontmatter.featuredimage &&
+      (post.node.frontmatter.featuredimage &&
+        post.node.frontmatter.featuredimage.childImageSharp && (
+          <Link to={post.node.fields.slug}>
+            <Image
+              fluid={post.node.frontmatter.featuredimage.childImageSharp.fluid}
+            />
+          </Link>
+        ))}
     <div className='article--home__content is-color-white'>
       <h2 className='article-home__header'>
         <Link to={post.node.fields.slug}>{post.node.frontmatter.title}</Link>

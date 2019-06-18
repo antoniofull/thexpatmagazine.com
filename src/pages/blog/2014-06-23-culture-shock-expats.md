@@ -14,7 +14,7 @@ category:
   - expat tips
 ---
 
-<span >Let's be honest, the word <strong>culture shock</strong> is kinda of scary. I think almost any expat has heard of it and most of them get scared, the word <strong>shock</strong> itself is not encouraging.<!--more-->
+<span >Let's be honest, the word culture shock is kinda of scary. I think almost any expat has heard of it and most of them get scared, the word shock itself is not encouraging.<!--more-->
 
 <a href="/img/uploads/2014/06/culture.jpg"><img alt="culture shock" src="/img/uploads/2014/06/culture-1024x768.jpg" width="785" height="588" srcset="/img/uploads/2014/06/culture-1024x768.jpg 1024w, /img/uploads/2014/06/culture-300x225.jpg 300w, /img/uploads/2014/06/culture-768x576.jpg 768w, /img/uploads/2014/06/culture-667x500.jpg 667w, /img/uploads/2014/06/culture-800x600.jpg 800w, /img/uploads/2014/06/culture.jpg 1200w" sizes="(max-width: 785px) 100vw, 785px" /></a>
 culture shock

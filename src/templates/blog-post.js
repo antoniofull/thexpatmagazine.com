@@ -122,7 +122,6 @@ BlogPostTemplate.propTypes = {
 const BlogPost = props => {
   const { markdownRemark: post } = props.data;
   const { relatedArticles } = props.pageContext;
-  console.log(post);
   return (
     <Layout>
       <SEO

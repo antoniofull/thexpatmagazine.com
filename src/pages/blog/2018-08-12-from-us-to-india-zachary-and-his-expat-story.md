@@ -17,9 +17,9 @@ More and more people move abroad looking for new opportunities, they choose the 
 
 "_As I approach 7 years of living in India, I’ve been reflecting on my journey and what it’s entailed. Starting in Mumbai and ending in Kolkata, it’s been a **rollercoaster of extraordinary experiences**, discovery, frustration, transformation, self-discovery, great sorrow, great joy and a deep love for the country my family calls home._
 
-  <img src="/img/uploads/2018/08/Ray-300x200.jpg" alt="" width="300" height="200" srcset="/img/uploads/2018/08/Ray-300x200.jpg 300w, /img/uploads/2018/08/Ray-768x512.jpg 768w, /img/uploads/2018/08/Ray.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" />
-  
-  Karen Kristian
+![From US to India, Zachary and his expat story](/img/uploads/2018/08/Ray.jpg)
+
+Karen Kristian
 
 _India holds a dear place to me and my wife Amanda; after all we met in India, dated in India, got engaged in front of the Taj Mahal, hosted a wedding reception for our family and friends in India, buried our daughter Chloe West Ray after a stillbirth at 27 weeks, and had our son, Kaden, in India._
 
@@ -29,9 +29,8 @@ _As a company and as an artist, that is what we wish to accomplish –- bringing
 
 _We started Chaitown Creatives two years ago with the goal to provide a platform for musicians and artists (like painters, photographers and designers, etc.), to express themselves and help them further their careers. We host “Artist Collective” sessions every month, where one or two artists present their work in front of an audience and interact with them. You don’t have to be a musician or an artist to be part. You just need to be able to appreciate the different forms of art that exist. We’re convinced that India, especially Kolkata, has a lot to offer to the world in terms of art, music and creativity._
 
-  <img src="/img/uploads/2018/08/travel--300x271.jpg" alt="" width="300" height="271" srcset="/img/uploads/2018/08/travel--300x271.jpg 300w, /img/uploads/2018/08/travel--768x694.jpg 768w, /img/uploads/2018/08/travel-.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" />
-  
-  Karen Kristian
+![From US to India, Zachary and his expat story](/img/uploads/2018/08/travel.jpg)
+Karen Kristian
 
 _India is a great place to call home. For anyone considering a move here, our advice is usually pretty simple: connect with people, be flexible, and be positive. The deep-rooted bonds that Indians share have been our biggest gift from the country. The friends we have made here have helped us out in difficult, as well as good times. They are our family. If we ever move back to the United States, I know that the friends we have made here are for life._
 

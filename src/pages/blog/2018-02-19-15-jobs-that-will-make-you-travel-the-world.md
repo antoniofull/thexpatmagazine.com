@@ -22,7 +22,7 @@ category:
 
 Guess what? It is possible, and here's a list of 15 opportunities you might want to look for.
 
-<img  src="/img/uploads/2018/02/hiking-1246836_1920.jpg" alt="" width="1920" height="1081" srcset="/img/uploads/2018/02/hiking-1246836_1920.jpg 1200w, /img/uploads/2018/02/hiking-1246836_1920-300x169.jpg 300w, /img/uploads/2018/02/hiking-1246836_1920-768x432.jpg 768w, /img/uploads/2018/02/hiking-1246836_1920-1024x577.jpg 1024w, /img/uploads/2018/02/hiking-1246836_1920-1080x608.jpg 1080w" sizes="(max-width: 1920px) 100vw, 1920px" />
+![15 jobs that will make you travel the world](/img/uploads/2018/02/hiking-1246836_1920.jpg)
 
 #### **Bartending.**
 
@@ -86,10 +86,4 @@ It's exploding and expanding all over the world the idea of working from any pla
 
 There's only one thing to bear in mind, to pursuit this path you need motivation and flexibility as it won't be a super high level profession and the salary might be less than a 9-17 job, at least at the beginning.
 
-**_Which job are you going to pick? Let us know in the comments. _**
-
-  
-
-  
-
-  
+**Which job are you going to pick? Let us know in the comments**

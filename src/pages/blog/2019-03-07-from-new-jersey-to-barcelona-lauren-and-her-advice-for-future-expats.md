@@ -40,7 +40,7 @@ Once you arrive, you are busy with settling down and arranging everything for yo
 
 <img  src="/img/uploads/2019/03/Barcelona-Sunset-300x225.jpg" alt="" width="300" height="225" srcset="/img/uploads/2019/03/Barcelona-Sunset-300x225.jpg 300w, /img/uploads/2019/03/Barcelona-Sunset.jpg 480w" sizes="(max-width: 300px) 100vw, 300px" />
 
-##3. Don't assume the home you fall in love with is where you should be living.
+## 3 Don't assume the home you fall in love with is where you should be living.
 
 Here you should really be careful! When we started our search on websites like Idealista and Engel & Voelkers, we were so enthusiast to have a long list of options within our budget and in the most beautiful part of the city, like the Gothic Quarter. It all seems easy, right?
 
@@ -48,19 +48,19 @@ Nope! Gothic is amazing and romantic, but mainly for a date night! But it's defi
 
 So, my tip is to learn about the neighborhoods in each city before looking for a new home, and even before moving there. As far as Barcelona is concerned, barrios (neighborhoods) such as Sarria, Sant Gervasi/Bonanova, Eixample, Poble Nou and Tres Torres are all lovely for families. Wish we had known this from the get-go!
 
-##4. Choose to blend in instead of standing out.
+## 4 Choose to blend in instead of standing out.
 
 It might sound strange and against the most expats' mentality, but if you want to be treated like a local you have to mix among them then you mustn't look like a Yankee (in our case!); which meant that we started wearing baseball caps only on rainy days, American flag shirts were reserved for bedtime and flip flops reserved for the beach.
 
 I'm not saying you have to change yourself, but simply fully embrace the attitude and style of your new home. I also admit that the locals can still spot a "guiri" (foreigner) a mile away. At least now I get asked more often, "Italiano?" instead of "Americana?" Which makes me giggle and of course, I wouldn't dare argue otherwise ha!
 
-##5. Never stop taking photos
+## 5 Never stop taking photos
 
 I'm not that kind of persons who live with constant snaps and clicks, but I do believe there is an exception for expats! If you're wondering why, here's the answer! The word itself "expat" means something temporary, something with an end. It's a beautiful chapter of our lives, full of excitement and adventures which will be part of the past at a certain point. This scares me.
 
 This is why I find photos important, to avoid memories fading away. Of course, I take pictures of monuments, beaches and more, but these are easily found with a quick Google search. What I'm really focused on is the photos of our everyday life here. For example the view of mountain and sea out the front balcony of our apartment. The beautiful pattern of stamped sidewalk pavement throughout the city.
 
-<img src="/img/uploads/2019/02/Barcelona-225x300.png" alt="" width="225" height="300" srcset="/img/uploads/2019/02/Barcelona-225x300.png 225w, /img/uploads/2019/02/Barcelona.png 480w" sizes="(max-width: 225px) 100vw, 225px" />
+![Expat Barcelona](/img/uploads/2019/02/Barcelona.png)
 
 Our teenie tiny euro kitchen (of which I have both a love and hate relationship with!). The even tinier building elevator that we've successfully managed to fit all five of us plus a stroller inside of! Our sweet doorman whose familiar face day after day has become like family.
 
@@ -73,6 +73,3 @@ This time is ours. Your time will be yours.
 It's our job, our responsibility, to capture as much of it as we possibly can in the short time that it lasts.
 
 Thank you Lauren for sharing your experience and giving us top tips to embrace this experience as much as possible. For all of you thinking of even starting a business in Barcelona, we have more suggestions for you. Read on the [7 tips to open a business in Barcelona]. And if you are curious to learn about expatriates, here's [what expatriation really is].
-
-: https://localhost/thexpatmagazine-wp/2019/europe/spain/7-tips-on-how-to-open-a-business-in-barcelona/
-: https://localhost/thexpatmagazine-wp/2019/living-abroad/what-expatriation-really-is/

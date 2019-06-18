@@ -31,7 +31,7 @@ If you’re on those employees having the right to get the right payroll augment
 
 Be careful with your words based on the right calculations. Always be ready to present some of your genuine work and tasks that have really resulted in the company’s thriving towards fiscal attainment. You’ll be having every matter in the bag that shows what you’ve been doing for the firm so far. Never compensate when it comes to giving your best at work so that you’ll be confident and have no worries for configuring of how to negotiate a salary increase. For instance, the Avengers have definitely gone through critical analysis and planning before going to war against Thanos wearing the exclusive **Quantum Realm jacket**. So you should be doing the same as well. If you’re doing your work above par with optimal performance, then you’re going to be rewarded by the company for sure.
 
-<img  src="/img/uploads/2019/04/andrew-neel-308138-unsplash-1024x682.jpg" alt="" width="1024" height="682" srcset="/img/uploads/2019/04/andrew-neel-308138-unsplash-1024x682.jpg 1024w, /img/uploads/2019/04/andrew-neel-308138-unsplash-300x200.jpg 300w, /img/uploads/2019/04/andrew-neel-308138-unsplash-768x512.jpg 768w, /img/uploads/2019/04/andrew-neel-308138-unsplash-1150x766.jpg 1150w, /img/uploads/2019/04/andrew-neel-308138-unsplash.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
+![How get a salary increase](andrew-neel-308138-unsplash.jpg)
 
 ## **What is Your Value in the Company?**
 
@@ -55,8 +55,5 @@ This is indeed one of the biggest critical mistakes of those new-to-the-jobs ama
 
 Pro Tip: Never ever mention your previous ‘salary in an interview.
 
-  
-
 **Author Bio:**
-
 I am Kathleen Swafford passionate of internet stuff such as blogging, affiliate marketing and most important, I like to trade domain and website. If you are inside digital marketing, let’s connect us for future opportunities.

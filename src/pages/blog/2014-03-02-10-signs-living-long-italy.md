@@ -22,7 +22,7 @@ author: Editorial Team
 
 **Italy** is a beautiful country with a lot of traditions and a lot, a lot of good food :). The friendly attitude of Italians is contagious and if you live with them for a long time, you cannot avoid to start acting like them.
 
-Here there are 10 signs proving that you are living too long in Italy and that the Italian culture has definitely "**mastered**" your mind.<!--more-->
+Here there are 10 signs proving that you are living too long in Italy and that the Italian culture has definitely "**mastered**" your mind.
 
 **1 You  talk a lot .. with every one**
 
@@ -36,7 +36,7 @@ Italians not only talk a lot, but they **move** a lot. They are famous all over 
 
 Italian bureaucracy is bad! (sorry italian friends) it's slow and every time you go the the office the employee seems to be  sleeping in front of you, they never smile! But you get used to it and you learn how important is to make friends in Italy you know what I mean- . It's also a good way to actually meet people, you might end up in at a bar having a coffee with someone met there. I did it!  😉
 
-<strong >4 You learned how important lunch is.</strong>
+<strong >4 You learned how important lunch is.
 
 On Sundays your best friend invites you over for **lunch** with his family. When you go, you find out that his mum started to cook at 7 am and she starts feeding you with a lot of food as a "starter". You know you have to eat all of it or she will keep on saying you "**mangia mangia**" probably while looking at her son and asking "why she's so thin? They don't eat pasta  in America, do they?" (Note : I love Italian mums, they are  lovely :D)  They might not follow some rules, but heck if they do when it's matter of sitting at the table, it's like a ritual and tradition. You will start doing exactly the same when you wil invite your friends over.
 

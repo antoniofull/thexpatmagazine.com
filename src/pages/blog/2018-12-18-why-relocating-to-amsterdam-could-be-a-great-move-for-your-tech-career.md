@@ -35,7 +35,7 @@ Amsterdam’s venture capital spending has tripled since 2014, and the Dutch gov
 
 But it’s not just the up-and-comers making a home by the Amstel—the city is also home to the European headquarters of global tech giants like Uber, Netflix, and Tesla.
 
-<img  src="/img/uploads/2018/12/amsterdam-architecture-bicycles-1414467.jpg" alt="" width="1400" height="933" srcset="/img/uploads/2018/12/amsterdam-architecture-bicycles-1414467.jpg 1400w, /img/uploads/2018/12/amsterdam-architecture-bicycles-1414467-300x200.jpg 300w, /img/uploads/2018/12/amsterdam-architecture-bicycles-1414467-768x512.jpg 768w, /img/uploads/2018/12/amsterdam-architecture-bicycles-1414467-1024x682.jpg 1024w, /img/uploads/2018/12/amsterdam-architecture-bicycles-1414467-1150x766.jpg 1150w" sizes="(max-width: 1400px) 100vw, 1400px" />
+![Relocating to Amsterdam](img/uploads/2018/12/amsterdam-architecture-bicycles-1414467.jpg)
 
 **Dangling the carrot for international talent**
 

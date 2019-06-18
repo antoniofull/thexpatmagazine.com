@@ -27,6 +27,6 @@ For further information, **the accompanying guide contains numerous tips** to he
 
 Author bio: Kay Lester is the founder and President of Trans-Global Auto Logistics, a licensed NVOCC and freight forwarder in Arlington, TX. Lester, who has more than 35 years of experience in logistics, enjoys finding solutions for what appear to be difficult projects — and working with customers from around the world.
 
- <iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/4UvChlDI659DcE" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+ <iframe  src="//www.slideshare.net/slideshow/embed_code/key/4UvChlDI659DcE" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
 
-<strong> Your Guide To Moving Internationally </strong> from <strong><a href="https://tgal.us/boat-yacht-shipping/"  target="_blank" rel="noopener noreferrer" rel="noopener">Trans Global Auto Logistics</a></strong>
+Your Guide To Moving Internationally from <a href="https://tgal.us/boat-yacht-shipping/"  target="_blank" rel="noopener noreferrer" rel="noopener">Trans Global Auto Logistics</a>

@@ -26,7 +26,7 @@ You begin to think .. oh my – this did initially seem like a good idea!
 
 **Visas, Permits and Legalisation**
 
-<img src="/img/uploads/2015/02/document-428334_1280-1024x681.jpg" alt="document-428334_1280" width="785" height="522" srcset="/img/uploads/2015/02/document-428334_1280-1024x681.jpg 1024w, /img/uploads/2015/02/document-428334_1280-300x199.jpg 300w, /img/uploads/2015/02/document-428334_1280-768x511.jpg 768w, /img/uploads/2015/02/document-428334_1280-752x500.jpg 752w, /img/uploads/2015/02/document-428334_1280.jpg 1280w" sizes="(max-width: 785px) 100vw, 785px" />
+![Visas, Permits and Legalisation](/img/uploads/2015/02/document-428334_1280.jpg)
 
 Getting the legalities sorted is one of the first things you need to do because until you have visas and work permits and have your UK documents and certificates legalised your hands will be tied to do anything else.
 
@@ -51,8 +51,4 @@ Many people find that storing these documents away from the home but still in th
 - • Police monitored, alarmed fire proof vault keeps them very safe
 - • If you need them forwarding back to yourselves or to your advisors then just inform us and we shall do it.
 
-The Vital Documents [document storage service] is new and unique and it is designed to help UK citizens who are living abroad to keep their important documents in one safe yet accessible place.
-
-: /img/uploads/2015/02/document-428334_1280.jpg
-: https://www.vitallegalisation.co.uk
-: https://www.vitaldocuments.co.uk
+The Vital Documents [document storage service](https://www.vitaldocuments.co.uk) is new and unique and it is designed to help UK citizens who are living abroad to keep their important documents in one safe yet accessible place.

@@ -46,4 +46,4 @@ The innovative 20th century writer Louis-Ferdinand Céline settled in Meudon a
 
 The German composer Wagner spent a few months living in Meudon in 1841, while writing The Flying Dutchman. The plaque in front of his house quotes him: “ Sa misère est extrême et il connaît, à Meudon, les mois les plus cruels de son existence .” (which means: His misery was the most extreme he had known at Meudon, the months were the cruelest in his existence).
 
-Nowadays we are surrounded by all kind of news related conflicts, cultural and politic situations and it's not always easy to remain positive, but as <strong>Ira says "Life is much more than what the government controls. Meudon is a wonderful place to live and raise a family due to the history, people, and culture here"</strong>.
+Nowadays we are surrounded by all kind of news related conflicts, cultural and politic situations and it's not always easy to remain positive, but as Ira says "Life is much more than what the government controls. Meudon is a wonderful place to live and raise a family due to the history, people, and culture here".

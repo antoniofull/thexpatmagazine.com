@@ -52,7 +52,7 @@ Her sentiments were shared by Charisma Pieterse, who managed a large centre for 
 
 “It often takes these ‘teachers’ months to figure out how proper classroom structure and discipline works and in the meantime, paying customers to suffer their incompetence.”
 
-<img  src="/img/uploads/2018/11/Teaching-in-Hanoi-4.png" alt="" width="720" height="401" srcset="/img/uploads/2018/11/Teaching-in-Hanoi-4.png 720w, /img/uploads/2018/11/Teaching-in-Hanoi-4-300x167.png 300w" sizes="(max-width: 720px) 100vw, 720px" />
+![Teaching in Hanoi](/img/uploads/2018/11/Teaching-in-Hanoi-4.png)
 
 ## ‘White props’
 
@@ -94,10 +94,6 @@ But as another foreign teacher, Ben Prizeman, summarised, such problems are the 
 
 “It will rectify itself, the government aren’t going to let it go on forever.”
 
-<img  src="/img/uploads/2018/11/photo.jpeg" alt="" width="1548" height="871" srcset="/img/uploads/2018/11/photo.jpeg 1548w, /img/uploads/2018/11/photo-300x169.jpeg 300w, /img/uploads/2018/11/photo-768x432.jpeg 768w, /img/uploads/2018/11/photo-1024x576.jpeg 1024w, /img/uploads/2018/11/photo-1150x647.jpeg 1150w" sizes="(max-width: 1548px) 100vw, 1548px" />
+![Teaching abroad](/img/uploads/2018/11/photo.jpeg)
 
 **Thank you** Murray**!**
-
-: https://tradingeconomics.com/vietnam/gdp-growth
-: https://www.theguardian.com/education/2011/nov/08/vietnam-unrealistic-english-teaching-goals
-: https://www.oxfam.org/sites/www.oxfam.org/files/file_attachments/bp-vietnam-inequality-120117-en.pdf

@@ -17,7 +17,7 @@ category:
   - destinations
 ---
 
-**Lorenzo<** from Italy here wants to share his experience as <strong>Italian in Denmark</strong>.
+**Lorenzo<** from Italy here wants to share his experience as Italian in Denmark.
 
 If you would like to share your experience too, send an email to info [at] thexpatmagazine.com.
 

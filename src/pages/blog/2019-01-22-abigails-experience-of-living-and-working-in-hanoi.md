@@ -18,7 +18,7 @@ category:
   - destinations
 ---
 
-With one of the fastest growing economies in Asia, <a  href="https://thexpatmagazine.com/thexpatmagazine-wp/2018/expat-life/teaching-abroad-and-living-a-bourgeois-existence-in-hanoi/"><strong>Vietnam</strong></a> is seeing a rise in expats who are choosing the country as their first choice for living and working. In 2017 Abigail Burrow found herself making the same decision and moved to <strong>Hanoi</strong>, the country’s capital.
+With one of the fastest growing economies in Asia, <a  href="https://thexpatmagazine.com/thexpatmagazine-wp/2018/expat-life/teaching-abroad-and-living-a-bourgeois-existence-in-hanoi/">Vietnam</a> is seeing a rise in expats who are choosing the country as their first choice for living and working. In 2017 Abigail Burrow found herself making the same decision and moved to Hanoi, the country’s capital.
 
 ## Why did you move to Vietnam, Abigail?
 
@@ -46,7 +46,7 @@ Once you’ve got your head around the traffic, Hanoi isn’t too difficult to n
 
 All of the important things (food, shopping, cinemas, bars…) are in a 30-minute radius of each other and it is only if you find work outside if the city centre that you would need to travel further. There are small convenience stores in every neighbourhood and you’re never too far from a local Vietnamese bar (Bia Hoi). How you choose to travel to these places is another topic entirely, which leads on to the less positive aspects below.
 
-<img  src="/img/uploads/2019/01/1-Scenery-1024x768.jpg" alt="" width="1024" height="768" srcset="/img/uploads/2019/01/1-Scenery-1024x768.jpg 1024w, /img/uploads/2019/01/1-Scenery-300x225.jpg 300w, /img/uploads/2019/01/1-Scenery-768x576.jpg 768w, /img/uploads/2019/01/1-Scenery-1150x863.jpg 1150w, /img/uploads/2019/01/1-Scenery.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
+![Relatively Small, Accessible City](/img/uploads/2019/01/1-Scenery.jpg)
 
 **Con: Modes of Transport**
 
@@ -68,7 +68,7 @@ Often falling into the ‘unhealthy’ zone on the AQI (Air Quality Index), Hano
 
 The impact this has on health varies from person to person. It can be uncomfortable to sit in heavy traffic on a motorbike as you breathe in the fumes around you and you may notice small changes in yourself such as your skin feel unhealthier, or an existing condition becoming exacerbated due to the low air quality.
 
-<img  src="/img/uploads/2019/01/2-Air-Pollution-1024x719.jpg" alt="" width="1024" height="719" srcset="/img/uploads/2019/01/2-Air-Pollution-1024x719.jpg 1024w, /img/uploads/2019/01/2-Air-Pollution-300x211.jpg 300w, /img/uploads/2019/01/2-Air-Pollution-768x539.jpg 768w, /img/uploads/2019/01/2-Air-Pollution-1150x807.jpg 1150w, /img/uploads/2019/01/2-Air-Pollution.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" />
+![Air Pollution](/img/uploads/2019/01/2-Air-Pollution.jpg)
 
 **My Personal Experience**
 

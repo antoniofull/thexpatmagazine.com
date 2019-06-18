@@ -18,13 +18,14 @@ const Article = ({ post }) => (
     key={post.node.id}
   >
     <div className='masonry__container has-shadow'>
-      {post.node.frontmatter.featuredimage && (
-        <Link to={post.node.fields.slug}>
-          <Img
-            fluid={post.node.frontmatter.featuredimage.childImageSharp.fluid}
-          />
-        </Link>
-      )}
+      {post.node.frontmatter.featuredimage &&
+        post.node.frontmatter.featuredimage.childImageSharp && (
+          <Link to={post.node.fields.slug}>
+            <Img
+              fluid={post.node.frontmatter.featuredimage.childImageSharp.fluid}
+            />
+          </Link>
+        )}
 
       <div className='masonry__content'>
         <h2 className='article-home__header'>

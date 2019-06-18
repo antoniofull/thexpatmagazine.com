@@ -27,7 +27,7 @@ You are surrounded by so many historical buildings and it's almost like going ba
 
 La Dolce Vita is the first thing you though about as soon as you read Rome, isn't that right? No wonder how the Eternal city caught the heart of millions of people around the world. Its beauty and its history leave you breathless, so I strongly suggest to add this city to your "top cities to visit before you die". On the other side, if you're thinking of actually moving there, you may want to consider a couple of things more. The local transport and the traffic jam are the city's pain points, it takes really long to travel from one side to the other, regardless of the way you choose to move around.
 
-<img  src="/img/uploads/2018/03/rome-1945033_1920-300x169.jpg" alt="" width="300" height="169" srcset="/img/uploads/2018/03/rome-1945033_1920-300x169.jpg 300w, /img/uploads/2018/03/rome-1945033_1920-768x432.jpg 768w, /img/uploads/2018/03/rome-1945033_1920-1024x575.jpg 1024w, /img/uploads/2018/03/rome-1945033_1920-1150x646.jpg 1150w, /img/uploads/2018/03/rome-1945033_1920.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />
+![The 10 most liveable cities in Italy](/img/uploads/2018/03/rome-1945033_1920-300x169.jpg)
 
 ### 8. Reggio Emilia, Emilia Romagna
 
@@ -51,13 +51,9 @@ The fourth place goes to Mantova, Italian Capital of Culture in 2016, an event t
 
 ### 3. Turin, Piedmont
 
-<img  src="/img/uploads/2018/03/piazza-vittorio-438449_1920-300x200.jpg" alt="" width="300" height="200" srcset="/img/uploads/2018/03/piazza-vittorio-438449_1920-300x200.jpg 300w, /img/uploads/2018/03/piazza-vittorio-438449_1920-768x512.jpg 768w, /img/uploads/2018/03/piazza-vittorio-438449_1920-1024x683.jpg 1024w, /img/uploads/2018/03/piazza-vittorio-438449_1920-1150x767.jpg 1150w, /img/uploads/2018/03/piazza-vittorio-438449_1920.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />
-
-  
+![Turin](/img/uploads/2018/03/piazza-vittorio-438449_1920-300x200.jpg)
 
 This dynamic, cultural and mysterious city, definitely efficient in services, is hometown to the renowned University. There are various historical places and monuments, as well as chocolate shops where you can enjoy pleasant moments of sweetness with partners and friends. Quality of life in Turin is quite high.
-
-  
 
 ### 2. Milan, Lombardy
 

@@ -31,22 +31,18 @@ _“This is a question too difficult for a mathematician. It should be asked of 
 
 These miserable events with the big U.S. tax firm inspired Nathalie to do something about her situation: realizing her love for numbers and a passion to help American expats (like herself), Nathalie did something new. She went to took the IRS exams to become an enrolled agent and partnered with two engineering masterminds, Markus Finster and Joachim Niederreiter. The three of them worked together to create something pretty cool: [MyExpatTaxes] the world’s first expat tax solution software where customers can do their U.S. taxes stress-free and in under 30 minutes online.
 
-<img  src="/img/uploads/2019/01/websitegraphic-200x300.png" alt="" width="200" height="300" srcset="/img/uploads/2019/01/websitegraphic-200x300.png 200w, /img/uploads/2019/01/websitegraphic.png 600w" sizes="(max-width: 200px) 100vw, 200px" />
+![Expat Stories](/img/uploads/2019/01/websitegraphic.png)
 
-_‘’I never thought filing taxes could be this simple! I was so stressed out trying to figure out everything on my own for the first time, but with My Expat Taxes, I didn't have to worry at all. Nathalie was beyond helpful, and I'd readily recommend doing your taxes with My Expat Taxes to anyone for easy and hassle-free filing! Thanks again!’’ -Amber C, Vienna, Austria_
+_I never thought filing taxes could be this simple! I was so stressed out trying to figure out everything on my own for the first time, but with My Expat Taxes, I didn't have to worry at all. Nathalie was beyond helpful, and I'd readily recommend doing your taxes with My Expat Taxes to anyone for easy and hassle-free filing! Thanks again!’’ -Amber C, Vienna, Austria_
 
 The MyExpatTaxes software guides the user to walk through a set of simple questions to determine their tax profile. Once all the information is in the software prints out all your numbers and info onto the correct forms that you need to submit to the IRS. And that’s it! For simple tax profiles, this process takes 30 minutes or less, and MyExpatTaxes even got reports on people getting their U.S. taxes done in less than half that time!
 
-As of 2019, MyExpatTaxes has officially launched a full-scale version of their tax software, powerful enough to support 70% of U.S. expat tax profiles!  Be sure to stay in the loop of the latest news and announcements by signing up for free at [MyExpatTaxes.com].
+As of 2019, MyExpatTaxes has officially launched a full-scale version of their tax software, powerful enough to support 70% of U.S. expat tax profiles!  Be sure to stay in the loop of the latest news and announcements by signing up for free at [MyExpatTaxes.com](https://www.myexpattaxes.com/?utm_source=the_expat_magazine&utm_medium=blog_creating_stree-free_taxsolution).
 
 _Additionally, for those interested in following along expat news in English on popular European cities, check out_ [_MyExpatCommunity_]_, a sub-project of MyExpatTaxes._
 
-Also, if you are planning to move abroad and need tips & tricks to organize your moving, here's your [Guide to Moving Internationally].
+Also, if you are planning to move abroad and need tips & tricks to organize your moving, here's your [Guide to Moving Internationally](https://www.myexpatcommunity.com/?utm_source=the_expat_magazine&utm_medium=blog_creating_stree-free_taxsolution).
 
-<img  src="/img/uploads/2019/01/Michelle-Mock-Photography-color-3-150x150.jpg" alt="" width="150" height="150" />
+[Michelle Mock](Michelle-Mock-Photography-color-3.jpg)
 
-**By Michelle H. of MyExpatTaxes\*\*** \*\*
-
-: https://www.myexpattaxes.com/?utm_source=the_expat_magazine&utm_medium=blog_creating_stree-free_taxsolution
-: https://www.myexpatcommunity.com/?utm_source=the_expat_magazine&utm_medium=blog_creating_stree-free_taxsolution
-: https://localhost/thexpatmagazine-wp/2018/expat-life/your-guide-to-moving-internationally/?preview_id=1083&preview_nonce=269b10a6de&post_format=standard&_thumbnail_id=1095&preview=true
+**By Michelle H. of MyExpatTaxes**

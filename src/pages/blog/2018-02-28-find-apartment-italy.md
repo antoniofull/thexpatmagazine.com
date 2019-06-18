@@ -41,12 +41,4 @@ This is similar to Subito.it, as you can find postings from agencies and private
 
 This is a great way to look for a house or apartment if you don't want to go through the agencies (and therefore pay a fee), because here you mainly have private postings. Each city has a different page or pages (you might find more than one), so all you need to do is look these pages by using keywords such as "case in affitto Firenze" (house for rent in Florence), or "appartamento in affitto Milano" (apartment for rent Milan) and so on.
 
-###### After reading these tips, are you ready to start your apartment hunting? Let us know as soon as you find the perfect one.
-
-  
-
-: https://www.immobiliare.it
-: https://www.casa.it/affitti
-
-: https://www.subito.it/annunci-italia/affitto/appartamenti/?ref=dem&xtor=SEC-10308-GOO-[Affitto_Appartamenti]-[E]-S-[%2Bcerco%20%2Bappartamento%20in%20%2Baffitto]&xts=355968
-: https://www.bakeca.it/annunci/cerco-casa/
+**After reading these tips, are you ready to start your apartment hunting? Let us know as soon as you find the perfect one.**
