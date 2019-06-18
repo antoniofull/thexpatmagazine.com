@@ -15,7 +15,7 @@ category:
 
 When you decide to move to an other country, you have to consider various things and facts to settle down the way you wish. Most of the time next to the administrational checks, if you really want to feel home and live the new place at your best, you also need to **learn the local language**. I &#8216;m going to share with you **5 tips** to include in your daily routine on how to learn a new language easily and fast.
 
-&nbsp;
+  
 
 <img  src="/img/uploads/2018/03/hello-1502369_1280.png" alt="" width="1280" height="878" srcset="/img/uploads/2018/03/hello-1502369_1280.png 1280w, /img/uploads/2018/03/hello-1502369_1280-300x206.png 300w, /img/uploads/2018/03/hello-1502369_1280-768x527.png 768w, /img/uploads/2018/03/hello-1502369_1280-1024x702.png 1024w, /img/uploads/2018/03/hello-1502369_1280-1150x789.png 1150w" sizes="(max-width: 1280px) 100vw, 1280px" />
 
@@ -37,7 +37,7 @@ Alright, so far we have had options to train reading and listening, but what abo
 
 ### Books
 
-Reading books is the last but not least tip you can use when you're more confident with the new language. When I read my first book in an other language, I was so eager that I wanted to understand every single word, so I had to look them up on the dictionary&#8230; the thing is that my enthusiasm fade away little by little, because I did not enjoy the reading. So, once I knew a bit more about the language a gave it a try again and promised not to look up for all the words I didn't know the meaning of, as long as I could understand the story and the context. Guess what? It went much better after that, and I got more and more fluent, and proud of myself too.
+Reading books is the last but not least tip you can use when you're more confident with the new language. When I read my first book in an other language, I was so eager that I wanted to understand every single word, so I had to look them up on the dictionary   the thing is that my enthusiasm fade away little by little, because I did not enjoy the reading. So, once I knew a bit more about the language a gave it a try again and promised not to look up for all the words I didn't know the meaning of, as long as I could understand the story and the context. Guess what? It went much better after that, and I got more and more fluent, and proud of myself too.
 
 #### Now it's up to you, which tips are you going to use first? Do you have any other tips on this topic? Don't hesitate to share them with us.
 

@@ -20,11 +20,7 @@ category:
 
 The **Canada's Minister of Citizenship** and Immigration **Chris Alexander**  said
 
-> &#8220;Securing economic growth is and will remain our government’s top priority. Canada is in a global competition for the best and brightest immigrants, and this plan is crafted with attracting the people we need for Canada to succeed&#8221;.<!--more-->
-
-<span > 
-
-<iframe src="//embed.gettyimages.com/embed/200569702-001?et=c1h-ueY46ES_z4TSaWGZ3A&sig=OGI8kkx6uz9OiAz6B1ZFwMEDFfZdavFPLB1ZEwtGb0A=" height="428" width="478" frameborder="0" scrolling="no"></iframe>
+> Securing economic growth is and will remain our government’s top priority. Canada is in a global competition for the best and brightest immigrants, and this plan is crafted with attracting the people we need for Canada to succeed"
 
 The plan for Canada are in two different schemes :
 
@@ -32,4 +28,4 @@ The first is **Canadian Experience Class (CEC),** and is the most popular among
 
 The second scheme is the Provincial Nominee Programme (PNP). This is the second popular scheme for expats and has helped to spread immigrants also to other cities not only Vancouver or Toronto. This scheme has increased from 1250 expats to 41000 on the last year.
 
-Canada is also working on bring more &#8220;geeks&#8221; on the North, suggesting them to leave the <a href="https://www.bloomberg.com/news/2013-07-10/canada-tells-geeks-to-flee-silicon-valley-head-north.html" target="_blank">silicon valley for the North</a>. Are you living in Canada? What do you think, let us know in the comments below. 🙂
+Canada is also working on bring more "geeks" on the North, suggesting them to leave the <a href="https://www.bloomberg.com/news/2013-07-10/canada-tells-geeks-to-flee-silicon-valley-head-north.html" rel="noopener noreferrer"  target="_blank" rel="noopener noreferrer">silicon valley for the North</a>. Are you living in Canada? What do you think, let us know in the comments below. 🙂

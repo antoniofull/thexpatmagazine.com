@@ -23,15 +23,15 @@ category:
 
 1 **The people.**
 
-Really, spanish people are awesome. Always smiling and ready for &#8220;fiesta&#8221; they are often in a good mood. It's easy to enter in a bar and start talking with someone and even more easy in the big cities like Madrid or Barcelona. I notice this his also influence on many expats and making friendship in Spain is easy 🙂
+Really, spanish people are awesome. Always smiling and ready for "fiesta" they are often in a good mood. It's easy to enter in a bar and start talking with someone and even more easy in the big cities like Madrid or Barcelona. I notice this his also influence on many expats and making friendship in Spain is easy 🙂
 
 2 **The Weather**
 
-I have a friend in Chicago, few weeks ago was -50C. Scary, right now in Sevilla is 17C. 🙂 Weather is one of the &#8220;perks' of Spain, hot during summer and not so cold during winter. If you live in the South you can forget about heavy coats and scarf and gloves, yeah! Madrid as in the internal has a more &#8220;international&#8221; weather so you might want to consider Barcelona as is also near by the sea.
+I have a friend in Chicago, few weeks ago was -50C. Scary, right now in Sevilla is 17C. 🙂 Weather is one of the "perks' of Spain, hot during summer and not so cold during winter. If you live in the South you can forget about heavy coats and scarf and gloves, yeah! Madrid as in the internal has a more "international" weather so you might want to consider Barcelona as is also near by the sea.
 
 3 **Is cheap.**
 
-Despite the crisis Spain is still a **cheap country**. Madrid is in average less expensive that many other European cities and the south is even more cheaper. Renting a room costs around 200 euros. Of course the job situation is not good and be aware that the salary in Spain are also &#8220;cheap&#8221;, they are called &#8220;mileurista&#8221;.
+Despite the crisis Spain is still a **cheap country**. Madrid is in average less expensive that many other European cities and the south is even more cheaper. Renting a room costs around 200 euros. Of course the job situation is not good and be aware that the salary in Spain are also "cheap", they are called "mileurista".
 
 4 **Sea, Mountain, History**.
 
@@ -43,10 +43,10 @@ If you are planning to retire in a different country than you live, so why not c
 
 6 **Food, incredible good food**.
 
-If you never tried Spanish food, you must! They have a lot of different types of food and, like Italy, they are different from region to region but is all good! Did you know that the best restaurant in the world was <a href="https://en.wikipedia.org/wiki/ElBulli" target="_blank">spanish</a>? Paella, tapas, pulpo á galeg, tortillas, so much goodness you will not regret!
+If you never tried Spanish food, you must! They have a lot of different types of food and, like Italy, they are different from region to region but is all good! Did you know that the best restaurant in the world was <a href="https://en.wikipedia.org/wiki/ElBulli" rel="noopener noreferrer"  target="_blank" rel="noopener noreferrer">spanish</a>? Paella, tapas, pulpo á galeg, tortillas, so much goodness you will not regret!
 
 Do you live in Spain? What do you think? Let us know in the comments.
 
-Foto <a href="https://sunshineandsiestas.com/2013/07/09/uno-de-enero-dos-de-febrero-experiencing-the-san-fermines-festival-of-pamplona/" target="_blank">credit</a>.
+Foto <a href="https://sunshineandsiestas.com/2013/07/09/uno-de-enero-dos-de-febrero-experiencing-the-san-fermines-festival-of-pamplona/" rel="noopener noreferrer"  target="_blank" rel="noopener noreferrer">credit</a>.
 
 : /img/uploads/2014/03/corrida_san_fermin.jpg

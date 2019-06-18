@@ -26,4 +26,4 @@ The **European Union** did not like the move of **Switzerland**, which goes agai
 
 It will be hard now to get a **Job in Switzerland.**
 
-Foto credit : <a href="https://www.flickr.com/photos/kecko/15957725/sizes/o/in/photolist-2pMFc-R95G9-Razxc-6dZNDY-6jpSyD-6jpSzt-6jpSAi-6ju3vb-84HQ5X-dsHT5N-84LXos-9j7U9B-bfShJK-bfSjie-bfSujV-bfSyBi-bfSgvz-bfSym6-bfSprK-bfSvyV-bfSm9X-bfSn14-bfSwWF-bfStPK-bfSs6F-bfSwHe-bfSzcV-bfStkX-bfSxWF-bfSuAT-bfSfVe-bfSuP8-bfSnuT-bfSt5v-bfSBvk-bfSskv-bfSijP-bfSrdt-bfSiGX-bfSj1c-bfSwha-bfSySH-bfSpXz-bfSu4K-bfSzr4-bfSwuB-bfSkDF-bfStAv-bfSrPr-bfSnHB-bfSrzi/" target="_blank">flickr</a>.
+Foto credit : <a href="https://www.flickr.com/photos/kecko/15957725/sizes/o/in/photolist-2pMFc-R95G9-Razxc-6dZNDY-6jpSyD-6jpSzt-6jpSAi-6ju3vb-84HQ5X-dsHT5N-84LXos-9j7U9B-bfShJK-bfSjie-bfSujV-bfSyBi-bfSgvz-bfSym6-bfSprK-bfSvyV-bfSm9X-bfSn14-bfSwWF-bfStPK-bfSs6F-bfSwHe-bfSzcV-bfStkX-bfSxWF-bfSuAT-bfSfVe-bfSuP8-bfSnuT-bfSt5v-bfSBvk-bfSskv-bfSijP-bfSrdt-bfSiGX-bfSj1c-bfSwha-bfSySH-bfSpXz-bfSu4K-bfSzr4-bfSwuB-bfSkDF-bfStAv-bfSrPr-bfSnHB-bfSrzi/"  target="_blank" rel="noopener noreferrer" rel="noopener noreferrer">flickr</a>.

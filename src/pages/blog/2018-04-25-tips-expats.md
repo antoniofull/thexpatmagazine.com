@@ -26,7 +26,7 @@ If you are ready to start a new adventure, you need to be ready to open your min
 
 ### **Search for information.**
 
-Once you identify the city you want to move in, my advice is to do your homework by searching all kind of information you need in order to be more familiar with the new place before arriving there. For example, you want to know about the job opportunities, average salary, average for renting a house, pros and cons, and why not&#8230;search for stories from other expats to know better from people who already experienced what you are about to try.
+Once you identify the city you want to move in, my advice is to do your homework by searching all kind of information you need in order to be more familiar with the new place before arriving there. For example, you want to know about the job opportunities, average salary, average for renting a house, pros and cons, and why not  search for stories from other expats to know better from people who already experienced what you are about to try.
 
 ### **Holidays Vs living abroad**.
 

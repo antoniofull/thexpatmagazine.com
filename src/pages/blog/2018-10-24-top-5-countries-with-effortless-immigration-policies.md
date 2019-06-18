@@ -24,7 +24,7 @@ The following is the list of countries with lenient and easy immigration policie
 
 ## **1. Canada**
 
-## **<img  src="/img/uploads/2018/10/canada-new-1024x651.jpg" alt="" width="1024" height="651" srcset="/img/uploads/2018/10/canada-new-1024x651.jpg 1024w, /img/uploads/2018/10/canada-new-300x191.jpg 300w, /img/uploads/2018/10/canada-new-768x488.jpg 768w, /img/uploads/2018/10/canada-new-1150x731.jpg 1150w, /img/uploads/2018/10/canada-new.jpg 1380w" sizes="(max-width: 1024px) 100vw, 1024px" />**
+<img  src="/img/uploads/2018/10/canada-new-1024x651.jpg" alt="" width="1024" height="651" srcset="/img/uploads/2018/10/canada-new-1024x651.jpg 1024w, /img/uploads/2018/10/canada-new-300x191.jpg 300w, /img/uploads/2018/10/canada-new-768x488.jpg 768w, /img/uploads/2018/10/canada-new-1150x731.jpg 1150w, /img/uploads/2018/10/canada-new.jpg 1380w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 Canada is the country with one of the most effortless immigration policies in the world. The country adopted an open immigration policy initiatives to deal with the problem of shortage of skilled labour. However, its attempt has been quite successful in the long run. According to the reports, Canada has a total population of around 36 million people out of which more than 7 million are immigrants from outside.
 
@@ -32,13 +32,13 @@ The increasing Canadian immigrant’s population indicates the welcoming attitud
 
 ## **2. Germany**
 
-<img  src="/img/uploads/2018/10/germany-new.jpg" alt="" width="1380" height="704" srcset="/img/uploads/2018/10/germany-new.jpg 1380w, /img/uploads/2018/10/germany-new-300x153.jpg 300w, /img/uploads/2018/10/germany-new-768x392.jpg 768w, /img/uploads/2018/10/germany-new-1024x522.jpg 1024w, /img/uploads/2018/10/germany-new-1150x587.jpg 1150w" sizes="(max-width: 1380px) 100vw, 1380px" />
+<img src="/img/uploads/2018/10/germany-new.jpg" alt="" width="1380" height="704" srcset="/img/uploads/2018/10/germany-new.jpg 1380w, /img/uploads/2018/10/germany-new-300x153.jpg 300w, /img/uploads/2018/10/germany-new-768x392.jpg 768w, /img/uploads/2018/10/germany-new-1024x522.jpg 1024w, /img/uploads/2018/10/germany-new-1150x587.jpg 1150w" sizes="(max-width: 1380px) 100vw, 1380px" />
 
-\*\* \*\*Germany is considered to be one amongst those nations which attract immigrants towards itself for relocation. It consists of some of the best universities in the world with the very high quality of education, low rates of unemployment, accepting attitude towards refugees and a high rate of economic growth are some of the reasons for the popularity of Germany among the immigrants.
+Germany is considered to be one amongst those nations which attract immigrants towards itself for relocation. It consists of some of the best universities in the world with the very high quality of education, low rates of unemployment, accepting attitude towards refugees and a high rate of economic growth are some of the reasons for the popularity of Germany among the immigrants.
 
 More than 10 million people out of the total of 81 million comprise of the immigrants from other nations. The country has a large number of immigrants from European countries such as Poland, Greece, Italy, Turkey and many more. This diverse influx of immigrant population contributes towards the stable economic growth of the country.
 
-## **3.France**
+## 3.France\*\*
 
 <img  src="/img/uploads/2018/10/france.jpg" alt="" width="1324" height="818" srcset="/img/uploads/2018/10/france.jpg 1324w, /img/uploads/2018/10/france-300x185.jpg 300w, /img/uploads/2018/10/france-768x474.jpg 768w, /img/uploads/2018/10/france-1024x633.jpg 1024w, /img/uploads/2018/10/france-1150x710.jpg 1150w" sizes="(max-width: 1324px) 100vw, 1324px" />
 
@@ -46,7 +46,7 @@ More than 10 million people out of the total of 81 million comprise of the immig
 
 Also, France is one of the most influential countries in the world and a significant proportion of the population is included amongst the high-income brackets and wealthy population. The economic stability and wealth might be one of the major reasons for the immigrants being attracted to the country.
 
-## **4. Australia**
+## 4. Australia\*\*
 
 <img src="/img/uploads/2018/10/australia.jpg" alt="" width="1380" height="921" srcset="/img/uploads/2018/10/australia.jpg 1380w, /img/uploads/2018/10/australia-300x200.jpg 300w, /img/uploads/2018/10/australia-768x513.jpg 768w, /img/uploads/2018/10/australia-1024x683.jpg 1024w, /img/uploads/2018/10/australia-1150x768.jpg 1150w" sizes="(max-width: 1380px) 100vw, 1380px" />
 
@@ -54,7 +54,7 @@ Popularly known as the “land of kangaroos and koala”, Australia is a well-kn
 
 However, the immigration system in Australia has been designed such that incoming immigrants have something to offer to the country. With such immigration policies, the country provides immense opportunities for entrepreneurship, good job prospects, and economic stability in the long run.
 
-## **5.Ireland**
+## 5.Ireland\*\*
 
 <img src="/img/uploads/2018/10/ireland.jpg" alt="" width="1380" height="920" srcset="/img/uploads/2018/10/ireland.jpg 1380w, /img/uploads/2018/10/ireland-300x200.jpg 300w, /img/uploads/2018/10/ireland-768x512.jpg 768w, /img/uploads/2018/10/ireland-1024x683.jpg 1024w, /img/uploads/2018/10/ireland-1150x767.jpg 1150w" sizes="(max-width: 1380px) 100vw, 1380px" />
 
@@ -62,6 +62,4 @@ However, the immigration system in Australia has been designed such that incomin
 
 The availability of a plethora of opportunities and the rapidly increasing economic growth are the major reasons for the attraction of people towards the country. The growing range of international companies provide plenty of opportunities to you whether you are a recent graduate willing to gain some valuable experience or you are an experienced professional seeking to take your career to next level. Apart from this, a well-established and high-quality education system, low corporate tax, well connected geographical location and high standards of living of the people in the country attract people from all over the world to come and settle down there.
 
-There you go, hopefully, this list of the countries whose immigration policies are easy helps you in shortening your choices and making an informed decision about where to relocate. If you are planning to settle down in the country after you’ve completed your studies there and have a lot of questions about the immigration policies there, you can check out <u>[Post Graduation Visa & Immigration]</u> where you will find all information that you might require. Bon voyage.
-
-: https://www.mim-essay.com/blog/post-study-work-visa-and-immigration
+There you go, hopefully, this list of the countries whose immigration policies are easy helps you in shortening your choices and making an informed decision about where to relocate. If you are planning to settle down in the country after you’ve completed your studies there and have a lot of questions about the immigration policies there, you can check out [Post Graduation Visa & Immigration](https://www.mim-essay.com/blog/post-study-work-visa-and-immigration) where you will find all information that you might require. Bon voyage.

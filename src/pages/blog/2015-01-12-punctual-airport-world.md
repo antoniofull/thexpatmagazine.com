@@ -5,7 +5,7 @@ author: Editorial Team
 type: post
 date: 2015-01-12T12:34:26.000Z
 featuredimage: /wp-content/uploads/2015/01/bristol-700x500.jpg
-country: 
+country:
   - Travel
 tags:
   - airlines
@@ -16,7 +16,7 @@ category:
   - destinations
 ---
 
-The  <a href="https://www.oag.com" target="_blank"><strong>OAG</strong></a>, the the UK based aviation data monitor, released a press with a study that determines the **most punctual airport in the World**, and the most punctual airlines.
+The  <a href="https://www.oag.com"  target="_blank" rel="noopener noreferrer"><strong>OAG</strong></a>, the the UK based aviation data monitor, released a press with a study that determines the **most punctual airport in the World**, and the most punctual airlines.
 
 Surprising the first place on the list is taken by the small Hub of _**Bristol**_ in the UK. The Hub hosts flights in Europe and Africa and has the 94.4 % of the flights arrived within 15 minutes from the scheduled time, making it the most punctual airport in the World.<!--more-->
 
@@ -55,22 +55,12 @@ These are the others airlines companies in the rank :
   Alaska Airlines (88.5%).
 </li>
 
-<p>
-  Finally, the <em><strong>Norwegian Air Shuttle</strong></em> was named the most punctual low-cost carrier, with almost nine out of 10 flights sticking to schedule. Followed by <strong> the asian Thai AirAsia</strong> and <strong>EasyJet</strong>.
-</p>
+Finally, the  <strong>Norwegian Air Shuttle</strong> was named the most punctual low-cost carrier, with almost nine out of 10 flights sticking to schedule. Followed by <strong> the asian Thai AirAsia</strong> and <strong>EasyJet</strong>.
 
-<p>
-  So, as recap,  if you are flying in Europe and need to be on time the best solution would be to take a plane from<strong> Air Baltic in Bristol</strong> 😀
-</p>
+So, as recap,  if you are flying in Europe and need to be on time the best solution would be to take a plane from<strong> Air Baltic in Bristol</strong> 😀
 
-<p>
-  You can read the complete press release at this <a href="https://www.oag.com/Press-Room/bristol-airport-and-airbaltic-win-global-otp-battle" target="_blank">link</a>.
-</p>
+You can read the complete press release at this <a href="https://www.oag.com/Press-Room/bristol-airport-and-airbaltic-win-global-otp-battle"  target="_blank" rel="noopener noreferrer">link</a>.
 
-<p>
-  Did you have travelled from one of these airport? Share your experience in the comments 😀
-</p>
-
-<p>
+Did you have travelled from one of these airport? Share your experience in the comments 😀
 
 : /img/uploads/2015/01/bristol.jpg

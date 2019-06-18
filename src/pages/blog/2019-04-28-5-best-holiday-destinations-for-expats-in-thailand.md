@@ -17,7 +17,7 @@ category:
   - destinations
 ---
 
-Thailand is one of the most popular places for good living abroad. This part of the world has a year-round tropical climate, delicious food, affordable & high-quality healthcare, and a low cost of living among other things. Apart from the welcoming locals, you'll most certainly meet a sizeable community of expats in Thailand from various parts of the world. The region exhibits a sophisticated culture and has lots of holiday destinations. Here are some of the most popular, as well as off-the-grid Thailand holiday destinations for <a  href="https://thexpatmagazine.com/thexpatmagazine-wp/2014/expat-life/8-things-changed-forever-since-live-abroad/" target="_blank" rel="noopener">expats looking to unwind and have fun</a>
+Thailand is one of the most popular places for good living abroad. This part of the world has a year-round tropical climate, delicious food, affordable & high-quality healthcare, and a low cost of living among other things. Apart from the welcoming locals, you'll most certainly meet a sizeable community of expats in Thailand from various parts of the world. The region exhibits a sophisticated culture and has lots of holiday destinations. Here are some of the most popular, as well as off-the-grid Thailand holiday destinations for <a  href="https://thexpatmagazine.com/thexpatmagazine-wp/2014/expat-life/8-things-changed-forever-since-live-abroad/"  target="_blank" rel="noopener noreferrer" rel="noopener">expats looking to unwind and have fun</a>
 
 ## **Krabi**
 
@@ -27,7 +27,7 @@ Thailand is one of the most popular places for good living abroad. This part of 
 
 , this region offers everything for every kind of traveller. From towering limestone cliffs to the Emerald lagoon, the gorgeous turquoise sea, surreal beaches, hot water springs, the extensive jungle and hidden caves, and the countless islands off the coast.
 
-Most hotel accommodation, night entertainment, and tourist shopping happen in Ao Nang Township. One of the best places to stay is <a href="https://www.krabi.holidayinnresorts.com/en/home" target="_blank" rel="noopener">the Holiday Inn Resort Krabi Ao Nang Beach</a> which provides the best service for families and other passionate travellers. Be sure to go scuba diving, snorkelling, fishing, sea tours, rock climbing, and kayaking. Or, simply lay back and soak in the sun.
+Most hotel accommodation, night entertainment, and tourist shopping happen in Ao Nang Township. One of the best places to stay is <a href="https://www.krabi.holidayinnresorts.com/en/home"  target="_blank" rel="noopener noreferrer" rel="noopener">the Holiday Inn Resort Krabi Ao Nang Beach</a> which provides the best service for families and other passionate travellers. Be sure to go scuba diving, snorkelling, fishing, sea tours, rock climbing, and kayaking. Or, simply lay back and soak in the sun.
 
 ## **Ayutthaya**
 
@@ -65,7 +65,7 @@ Popular sites include the statue of Guan Yin, Mae Fah Luang Garden, Baandam Muse
 
 Located Northwest of Bangkok, the city of Kanchanaburi is ideal for nature enthusiasts. It's where expats go to enjoy the best of Thai's flora and fauna. It's known for its historical attractions, breathtaking natural beauty, and spectacular outdoor activities, including star-gazing, bird-watching, fishing, golfing, canoeing, and trekking.
 
-Some of its major tourist spots include the Riverkwai Bridge, <a href="https://www.tourismthailand.org/Attraction/Erawan-National-Park--286" target="_blank" rel="noopener">Erawan National Park</a>, Sai Yok National Park, and Huai Mae Khamin Waterfall. Dining options are pretty fantastic with the riverside resorts and restaurants making it a destination for luxury-seeking travellers.
+Some of its major tourist spots include the Riverkwai Bridge, <a href="https://www.tourismthailand.org/Attraction/Erawan-National-Park--286"  target="_blank" rel="noopener noreferrer" rel="noopener">Erawan National Park</a>, Sai Yok National Park, and Huai Mae Khamin Waterfall. Dining options are pretty fantastic with the riverside resorts and restaurants making it a destination for luxury-seeking travellers.
 
 ### **About the Author:**
 

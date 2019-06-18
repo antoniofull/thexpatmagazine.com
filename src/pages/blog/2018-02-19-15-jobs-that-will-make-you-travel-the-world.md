@@ -18,7 +18,7 @@ category:
   - destinations
 ---
 
-&#8220;I give up everything and go live in Bora Bora!&#8221;, how many times have you had this thought? Well the destination may be different, but the dream of having a **job that will make you travel the world** has touched your mind for sure. Of course, you can't just leave and do it for free, you need a plan and a job that makes you still be independent. So the best solution would be to have a job that makes you (for real) travel the world.
+"I give up everything and go live in Bora Bora!", how many times have you had this thought? Well the destination may be different, but the dream of having a **job that will make you travel the world** has touched your mind for sure. Of course, you can't just leave and do it for free, you need a plan and a job that makes you still be independent. So the best solution would be to have a job that makes you (for real) travel the world.
 
 Guess what? It is possible, and here's a list of 15 opportunities you might want to look for.
 
@@ -34,7 +34,7 @@ Same as above, there are plenty of restaurants and café around the globe that a
 
 #### **Hostels.**
 
-If you like to work surrounded by people and have an easy-going attitude, this might be a good option for you. Hostels often look for new staff that are willing to help with different tasks, such as receptions, cleaning and more, in exchange for a bed &#8211; which is a good way to travel without paying a rent.
+If you like to work surrounded by people and have an easy-going attitude, this might be a good option for you. Hostels often look for new staff that are willing to help with different tasks, such as receptions, cleaning and more, in exchange for a bed which is a good way to travel without paying a rent.
 
 #### **Farms.**
 
@@ -88,8 +88,8 @@ There's only one thing to bear in mind, to pursuit this path you need motivation
 
 **_Which job are you going to pick? Let us know in the comments. _**
 
-&nbsp;
+  
 
-&nbsp;
+  
 
-&nbsp;
+  

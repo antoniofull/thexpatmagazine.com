@@ -17,7 +17,7 @@ category:
   - destinations
 ---
 
-I was thinking about how to start this article because of my personal story and It is actually not easy. I spent 3 or 4 months thinking just of those 2 words &#8220;Yucatàn travel&#8221; and organizing the journey with one of my friends and at the end, I couldn't get there for an accident, So I have to stay at home for several weeks. It's sad! It is&#8230;but there is something I can do to feel better: share with you the itinerary and, maybe, help someone who is looking for tips. Here following what you have to check when organising your trip
+I was thinking about how to start this article because of my personal story and It is actually not easy. I spent 3 or 4 months thinking just of those 2 words "Yucatàn travel" and organizing the journey with one of my friends and at the end, I couldn't get there for an accident, So I have to stay at home for several weeks. It's sad! It is  but there is something I can do to feel better: share with you the itinerary and, maybe, help someone who is looking for tips. Here following what you have to check when organising your trip
 
 #### **First of all flight tickets**.
 
@@ -35,17 +35,17 @@ Once you have done all this boring bureaucracy you can start to organize the **b
 
 #### Here our itinerary:
 
-**Day 1 &#8211; **Flight at 8:30 a.m. (local hours) from Schipol. Landed in Cancùn at 4:30 p.m. (local hours). Got a nice Hotel in the center of the city. It has an airport shuttle service and a nice swimming pool. The idea was to stay there and relax in order to rest after the long trip and get used to jet lag.
+**Day 1 **Flight at 8:30 a.m. (local hours) from Schipol. Landed in Cancùn at 4:30 p.m. (local hours). Got a nice Hotel in the center of the city. It has an airport shuttle service and a nice swimming pool. The idea was to stay there and relax in order to rest after the long trip and get used to jet lag.
 
-**Day 2 &#8211; **Early in the morning jump on one ADO bus and go to Valladolid (is more or less 2,5 hours trip). Visit the amazing city center and, for the first time, a Cenote. Couldn't ask for more.
+**Day 2 **Early in the morning jump on one ADO bus and go to Valladolid (is more or less 2,5 hours trip). Visit the amazing city center and, for the first time, a Cenote. Couldn't ask for more.
 
-**Day 3 &#8211; **It is time for another little trip to Merìda! We planned 4 days there for a wedding. So Day 3 and **Day 4** were mainly dedicated to this event. There was a party the day before the wedding and then the celebration itself, plus dinner in a wonderful typical restaurant.
+**Day 3 **It is time for another little trip to Merìda! We planned 4 days there for a wedding. So Day 3 and **Day 4** were mainly dedicated to this event. There was a party the day before the wedding and then the celebration itself, plus dinner in a wonderful typical restaurant.
 
-**Day 5 &#8211; **I am sure you had already heard about **Chichen Itza.  **Of course, you did! It is the Maya's place where they found the calendar till 2011 and from there they started to believe it was the prediction of the end of the world. Do I need more words to make you curious about this place?
+**Day 5 **I am sure you had already heard about **Chichen Itza.  **Of course, you did! It is the Maya's place where they found the calendar till 2011 and from there they started to believe it was the prediction of the end of the world. Do I need more words to make you curious about this place?
 
 <img  src="/img/uploads/2019/04/merida-thexpat-300x225.jpg" alt="" width="300" height="225" srcset="/img/uploads/2019/04/merida-thexpat-300x225.jpg 300w, /img/uploads/2019/04/merida-thexpat.jpg 563w" sizes="(max-width: 300px) 100vw, 300px" />
 
-**Day 6 &#8211;**Uxmal to discover more and get knowledge of the population who used to live in Yucatàn and then follow the &#8220;travel plan&#8221; made before leaving and, always with ADO bus, go to Tulum. Tulum deserves 2/3 days to chill at the beach and from here it will be easy to visit Playa del Carmen (**Day 7) **or go to the mountains to San Cristobal (**Day 8**) for example.
+**Day 6 **Uxmal to discover more and get knowledge of the population who used to live in Yucatàn and then follow the "travel plan" made before leaving and, always with ADO bus, go to Tulum. Tulum deserves 2/3 days to chill at the beach and from here it will be easy to visit Playa del Carmen (**Day 7) **or go to the mountains to San Cristobal (**Day 8**) for example.
 
 **Days 9-10-11 **There are more islands you can reach, the most famous should be Isla Mujeres and this means it is also the most crowdy. Our plan was to stay at the beach and don't do anything for a few days so, we chose the less touristic island: Holbox simple a paradise!!!
 
@@ -57,7 +57,7 @@ It wasn't difficult to organize all of that, it just took time. The use of websi
 
 Of course, I didn't experience all of this but my friend did and it was great. I will be super happy knowing if any of you will follow some of these tips about the itinerary to travel around Yucatàn or has some other/better tips to add.
 
-&nbsp;
+  
 
 <!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->
 

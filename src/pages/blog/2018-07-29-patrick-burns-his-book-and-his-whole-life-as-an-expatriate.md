@@ -23,7 +23,7 @@ Today's amazing story is shared by Patrick Burns, the author of _Far Away and Fu
 
 I was born in the north of England pretty much at the beginning of the current Elizabethan age. My mother became the first expatriate in our family when she married my father shortly after the Second World War and they moved from her native Germany to his native South Yorkshire in 1947.
 
-From a very early age, I fell in love with the idea of being in different countries. As a family, we went camping all over Europe in the fifties and early sixties. At the age of 12 I formed a deeply romantic notion of visiting the USA &#8211; and even of being able to live there – to the extent that I requested detailed road maps from the US Department of the Interior and developed a fully documented six week road trip around the country, complete with Greyhound Bus departure and arrival times for each of the cities to be visited…Sadly it never came off.
+From a very early age, I fell in love with the idea of being in different countries. As a family, we went camping all over Europe in the fifties and early sixties. At the age of 12 I formed a deeply romantic notion of visiting the USA and even of being able to live there – to the extent that I requested detailed road maps from the US Department of the Interior and developed a fully documented six week road trip around the country, complete with Greyhound Bus departure and arrival times for each of the cities to be visited…Sadly it never came off.
 
 However, in 1975 the American Dream did become a reality when my first employer, Burroughs Machines Limited, transferred me from London to the company’s World HQ in Detroit. I was 23, engaged to be married, and it felt like the beginning of a huge adventure…
 
@@ -39,7 +39,7 @@ The USA is now my permanent home. (After Detroit, I had a spell in living in Con
 
 ### Why did you decide to write a book which includes expat stories?
 
-The idea for writing a book came gradually from the fact that I realized with hindsight I’d probably retired from Corporate life too soon and too quickly. The idea of being free from the pressures and commitments of a working life was obviously attractive – but only in an abstract way; I hadn’t really thought through what I really wanted to do to fill the hours that work had occupied &#8211; and I wasn’t a golfer…
+The idea for writing a book came gradually from the fact that I realized with hindsight I’d probably retired from Corporate life too soon and too quickly. The idea of being free from the pressures and commitments of a working life was obviously attractive – but only in an abstract way; I hadn’t really thought through what I really wanted to do to fill the hours that work had occupied and I wasn’t a golfer…
 
 As a result, I struggled with not having responsibilities and with the absence of a sense of self-worth – status definers that I had taken completely for granted for many years and too casually gave up.
 
@@ -47,9 +47,9 @@ In looking at what I might do to reclaim some of what I was missing it occurred 
 
 I cast around for other ideas and gradually the concept of a kind of travel memoir emerged – one focused mainly on some of the more memorable events that happened over forty years of expatriate life. I’d already co-written and published one of the earliest “how-to” books in this field (“The Expatriates Handbook – A Guide To Living And Working Overseas” with Bill Twinn: Kogan Page 1993) which had given me some practice in writing around this theme.
 
-I started by having a go at writing a sample story &#8211; about a curious event that occurred when I worked in the oil industry and found myself helping with a pipeline pressure-testing job deep in the Algerian desert. My colleague and I were standing in the shade of a water tank in the blistering heat, waiting for the test to complete. We gradually became aware of a large black bird repeatedly flapping up from behind a nearby sand dune and then dropping down again out of view. Our curiosity got the better of us so we went to see what was happening and this led to a remarkable discovery and a very frightening experience&#8230;
+I started by having a go at writing a sample story about a curious event that occurred when I worked in the oil industry and found myself helping with a pipeline pressure-testing job deep in the Algerian desert. My colleague and I were standing in the shade of a water tank in the blistering heat, waiting for the test to complete. We gradually became aware of a large black bird repeatedly flapping up from behind a nearby sand dune and then dropping down again out of view. Our curiosity got the better of us so we went to see what was happening and this led to a remarkable discovery and a very frightening experience  
 
-I won't give any more away but the point was that I really enjoyed the experience of putting this down on paper and without too much difficulty realized I had a number of other tales that arose from where my work took me. I found the voice I'd been searching for and a formula for writing that was fulfilling &#8211; one that allowed me to shake off the dissatisfaction I still felt from dropping out of corporate life so suddenly and terminally&#8230;
+I won't give any more away but the point was that I really enjoyed the experience of putting this down on paper and without too much difficulty realized I had a number of other tales that arose from where my work took me. I found the voice I'd been searching for and a formula for writing that was fulfilling one that allowed me to shake off the dissatisfaction I still felt from dropping out of corporate life so suddenly and terminally  
 
 ### Can you explain and tell us more about the book?
 
@@ -57,7 +57,7 @@ The book's title “Far Away And Further Back” is very easy to explain. Each s
 
 Thematically the book underlines the view that history always informs experience and that family history shapes the person we become.  My expatriate life and how I see the world from an expatriate’s viewpoint comes to a large extent from the intersecting of various lines of family history and events.
 
-Having said all that, it would be wrong to give the impression that this is a self-indulgent book all about me droning on about who I am and what I think and like. I consciously shied away from that kind of memoir (and purposely avoided making it a chronological account of my life to help avoid such self-absorption). The book is mainly about other people that I have come across &#8211; largely as a consequence of an expatriate life &#8211; and the circumstances that surrounded our connecting in some way.
+Having said all that, it would be wrong to give the impression that this is a self-indulgent book all about me droning on about who I am and what I think and like. I consciously shied away from that kind of memoir (and purposely avoided making it a chronological account of my life to help avoid such self-absorption). The book is mainly about other people that I have come across largely as a consequence of an expatriate life and the circumstances that surrounded our connecting in some way.
 
 Each story is a self-contained chapter and while there are some links between them, each can be read in isolation. In my mind I felt the book might appeal to various types of expatriate: the experienced ones who would be nodding along with stories and events that chimed with their own experiences; the novices and soon-to-be expats who are looking for something that will give them a feel for what to expect and, of course, the armchair expats who would love to do all these things but in reality will only experience them vicariously from the comforts of their home countries!
 
@@ -71,7 +71,7 @@ Since there are twenty plus discrete stories and no single narrative or plotline
 
 Much of this is obvious but it’s worth saying again:
 
-To become an expatriate you tend to need to have skills that are in particular demand outside your home country and/or an employer with a very international reach who is known to move employees around. It isn’t hard to work that one out but so many people don’t prepare by putting themselves into that kind of position and become frustrated when they can’t “break out”. When I spoke to a government employment advisor after university, she had two graduate trainee openings on her books in the HR field. One was with United Biscuits &#8211; headquartered in Oldham, Lancashire, a traditional manufacturing centre in the north of England; the other was with Burroughs, based near London – a US mainframe computer manufacturer with operations all over the world. It wasn’t a difficult decision to make…
+To become an expatriate you tend to need to have skills that are in particular demand outside your home country and/or an employer with a very international reach who is known to move employees around. It isn’t hard to work that one out but so many people don’t prepare by putting themselves into that kind of position and become frustrated when they can’t “break out”. When I spoke to a government employment advisor after university, she had two graduate trainee openings on her books in the HR field. One was with United Biscuits headquartered in Oldham, Lancashire, a traditional manufacturing centre in the north of England; the other was with Burroughs, based near London – a US mainframe computer manufacturer with operations all over the world. It wasn’t a difficult decision to make…
 
 Don’t procrastinate – do it! It’s dangerously easy to get hung up on all the possible negatives. The leap into the dark is sometimes scary but, in my experience, it’s ALWAYS been worth it.
 
@@ -96,6 +96,3 @@ _“Far Away And Further Back” is available in paperback and Kindle Reader for
 _There is also an author’s [Facebook page] at Patrick H Burns with photographs and additional commentary on several stories._
 
 Thank Patrick, for sharing your book and story with us.
-
-: https://www.amazon.com/Away-Further-Back-Patrick-Burns/dp/1986213870/ref=sr_1_1?s=books&ie=UTF8&qid=1532236479&sr=1-1&keywords=far+away+and+further+back
-: https://www.facebook.com/patrickharaldburns/

@@ -19,17 +19,17 @@ category:
 
 Imagine being an American who just left the United States for a new career and life with your soul mate who happens to be an Austrian citizen. You’re filled with different emotions but mostly excited to start a life in Europe. Then when tax season starts full force in March you realize that even though you’re a U.S. citizen living abroad, you still have to file your taxes. How do you know this? Your U.S. passport clearly states that every American, regardless of where they live, must complete their yearly tax-filing obligation to the IRS. You groan.
 
-Nathalie Goldstein from San Jose, California lived out this exact experience. As an American who just moved to Vienna, Austria, she knew that along with adjusting to expat life and a new culture, she had to fit in doing U.S. taxes as well. This task usually results in anxiety, confusion and ultimately panic, but it is something U.S. Americans living abroad MUST DO &#8211; or else they have to deal with nasty fines. One penalty is having to pay \$10,000 for not reporting your foreign bank account details to the IRS. Yikes!
+Nathalie Goldstein from San Jose, California lived out this exact experience. As an American who just moved to Vienna, Austria, she knew that along with adjusting to expat life and a new culture, she had to fit in doing U.S. taxes as well. This task usually results in anxiety, confusion and ultimately panic, but it is something U.S. Americans living abroad MUST DO or else they have to deal with nasty fines. One penalty is having to pay \$10,000 for not reporting your foreign bank account details to the IRS. Yikes!
 
 Typically, expats pay a tax professional to help them with their U.S. taxes abroad.  Nathalie paid over \$500 for someone to do her taxes, but it turned out to be a disaster; first, there was a lot of paperwork that had to be filled out and sent back and forth. The firm filed her taxes late, resulting in penalties and fines that she had to pay. And on top of it all, the tax professional mistaked Austria for… you guessed it, Australia (_rookie mistake_).
 
-As you can imagine, Nathalie was stressed out &#8211; as I’m sure anyone would be. Doing taxes is the last thing on an expat’s mind &#8211; not to mention, U.S. taxes are not the easiest thing to do. There is a lot of difficult terminology and complicated forms involved that the non-tax professional is just not equipped to understand. Perhaps this is why there are a lot of famous quotes from celebrities on the dreaded tax job everyone needs to do &#8211; because it’s just so darn difficult.
+As you can imagine, Nathalie was stressed out as I’m sure anyone would be. Doing taxes is the last thing on an expat’s mind not to mention, U.S. taxes are not the easiest thing to do. There is a lot of difficult terminology and complicated forms involved that the non-tax professional is just not equipped to understand. Perhaps this is why there are a lot of famous quotes from celebrities on the dreaded tax job everyone needs to do because it’s just so darn difficult.
 
-_“This is a question too difficult for a mathematician. It should be asked of a philosopher&#8221;_(when asked about completing his income tax form)” ― **Albert Einstein**
+_“This is a question too difficult for a mathematician. It should be asked of a philosopher"_(when asked about completing his income tax form)” ― **Albert Einstein**
 
 ## A Solution to U.S. Expatriate Taxes
 
-These miserable events with the big U.S. tax firm inspired Nathalie to do something about her situation: realizing her love for numbers and a passion to help American expats (like herself), Nathalie did something new. She went to took the IRS exams to become an enrolled agent and partnered with two engineering masterminds, Markus Finster and Joachim Niederreiter. The three of them worked together to create something pretty cool: [MyExpatTaxes]&#8211; the world’s first expat tax solution software where customers can do their U.S. taxes stress-free and in under 30 minutes online.
+These miserable events with the big U.S. tax firm inspired Nathalie to do something about her situation: realizing her love for numbers and a passion to help American expats (like herself), Nathalie did something new. She went to took the IRS exams to become an enrolled agent and partnered with two engineering masterminds, Markus Finster and Joachim Niederreiter. The three of them worked together to create something pretty cool: [MyExpatTaxes] the world’s first expat tax solution software where customers can do their U.S. taxes stress-free and in under 30 minutes online.
 
 <img  src="/img/uploads/2019/01/websitegraphic-200x300.png" alt="" width="200" height="300" srcset="/img/uploads/2019/01/websitegraphic-200x300.png 200w, /img/uploads/2019/01/websitegraphic.png 600w" sizes="(max-width: 200px) 100vw, 200px" />
 
@@ -44,16 +44,6 @@ _Additionally, for those interested in following along expat news in English on 
 Also, if you are planning to move abroad and need tips & tricks to organize your moving, here's your [Guide to Moving Internationally].
 
 <img  src="/img/uploads/2019/01/Michelle-Mock-Photography-color-3-150x150.jpg" alt="" width="150" height="150" />
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 **By Michelle H. of MyExpatTaxes\*\*** \*\*
 

@@ -119,10 +119,10 @@ BlogPostTemplate.propTypes = {
   title: PropTypes.string,
   helmet: PropTypes.object
 };
-
 const BlogPost = props => {
   const { markdownRemark: post } = props.data;
   const { relatedArticles } = props.pageContext;
+  console.log(post);
   return (
     <Layout>
       <SEO
@@ -130,6 +130,7 @@ const BlogPost = props => {
         description={post.frontmatter.description}
         image={
           post.frontmatter.featuredimage &&
+          post.frontmatter.featuredimage.childImageSharp &&
           post.frontmatter.featuredimage.childImageSharp.sizes
         }
       />

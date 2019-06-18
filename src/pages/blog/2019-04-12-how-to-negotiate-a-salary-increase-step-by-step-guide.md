@@ -55,7 +55,7 @@ This is indeed one of the biggest critical mistakes of those new-to-the-jobs ama
 
 Pro Tip: Never ever mention your previous ‘salary in an interview.
 
-&nbsp;
+  
 
 **Author Bio:**
 

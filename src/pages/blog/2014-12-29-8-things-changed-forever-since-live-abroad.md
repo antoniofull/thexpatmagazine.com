@@ -19,7 +19,7 @@ category:
 
 _**Living abroad**_ is an amazing experience, but it has some drawback with it. Things change, and so do you.
 
-You start looking at the past and thinking about it, how everything has changed, and how you changed too. We did the same and chose the 8 most important things that changed in our life after moving abroad &#8230; here we go.<!--more-->
+You start looking at the past and thinking about it, how everything has changed, and how you changed too. We did the same and chose the 8 most important things that changed in our life after moving abroad    here we go.<!--more-->
 
 ## 1. You feel suddenly free.
 
@@ -31,7 +31,7 @@ Yes, freedom is one of the most amazing feelings you have when travelling. _**Li
 
 <img  src="/img/uploads/2014/12/adrenaline.png" alt="adrenaline" width="1000" height="750" srcset="/img/uploads/2014/12/adrenaline.png 1000w, /img/uploads/2014/12/adrenaline-300x225.png 300w, /img/uploads/2014/12/adrenaline-768x576.png 768w, /img/uploads/2014/12/adrenaline-667x500.png 667w, /img/uploads/2014/12/adrenaline-800x600.png 800w" sizes="(max-width: 1000px) 100vw, 1000px" />
 
-Living in a different country gives you adrenaline. _**Visiting new places**_ and meeting new people makes everything so exciting. You will not fear to start from &#8220;**scratch**&#8220;, instead you will have the need to keep on doing it, like an addiction. That's adrenaline.
+Living in a different country gives you adrenaline. _**Visiting new places**_ and meeting new people makes everything so exciting. You will not fear to start from "**scratch**", instead you will have the need to keep on doing it, like an addiction. That's adrenaline.
 
 ## 3. Language confusion.
 
@@ -51,7 +51,7 @@ C'mon, we know it .. it happens to almost everyone. There is a moment when you s
 
 There is so much to say about your experience and they way you feel, that you would like to share your feelings with the world. But you can't find the right words. Too many things at once running in your mind and in your heart. Sometimes, it is difficult to express some feelings, you can try but living them in person is something completely different.
 
-## 6. Nothing changes at home&#8230;
+## 6. Nothing changes at home  
 
 <img  src="/img/uploads/2014/12/changehome.png" alt="changehome" width="1000" height="667" srcset="/img/uploads/2014/12/changehome.png 1000w, /img/uploads/2014/12/changehome-300x200.png 300w, /img/uploads/2014/12/changehome-768x512.png 768w, /img/uploads/2014/12/changehome-750x500.png 750w" sizes="(max-width: 1000px) 100vw, 1000px" />
 
@@ -69,7 +69,7 @@ Some people tell you that you were brave enough to leave everything and get this
 
 It might sound like a clichè, but it's the truth: you change, an experience like this will change who you are. You won't realize it at the beginning, but when the time passes by you will see it more clearly. It's like a puzzle that you have to match the pieces one by one and step by step. You grew up, have scars and, much more, you live your life.
 
-\[/et_pb_text\]\[/et_pb_column\]\[/et_pb_row\]\[/et_pb_section\]\[et_pb_section bb_built=&#8221;1&#8243; fullwidth=&#8221;on&#8221; specialty=&#8221;off&#8221;\]\[et_pb_fullwidth_image \_builder_version=&#8221;3.0.92&#8243; /\][/et\_pb\_section]
+\[/et_pb_text\]\[/et_pb_column\]\[/et_pb_row\]\[/et_pb_section\]\[et_pb_section bb_built="1&#8243; fullwidth="on" specialty="off"\]\[et_pb_fullwidth_image \_builder_version="3.0.92&#8243; /\][/et\_pb\_section]
 
 : /img/uploads/2014/12/freedom.png
 : /img/uploads/2014/12/adrenaline.png

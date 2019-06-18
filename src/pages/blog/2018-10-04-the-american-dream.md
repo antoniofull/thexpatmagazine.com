@@ -18,9 +18,9 @@ category:
   - destinations
 ---
 
-Make a dream come true&#8230; Is it possible and how?! Mirko told us about his experience, what he did and why.
+Make a dream come true   Is it possible and how?! Mirko told us about his experience, what he did and why.
 
-Here the interview&#8230;
+Here the interview  
 
 #### Hi Mirko, let’s start with a little introduction about you, where are you from, and where do you live?
 

@@ -13,21 +13,13 @@ category:
 author: Rossella Daví
 ---
 
-<p style="text-align: left;">
-  The song <em>&#8220;Should I stay or should I go?&#8221;</em> doesn't mention expat life. It speaks about love! But, even if it is not for a human being, is not love what we feel for our Country? Isn't it for love that often we leave or stay?
-</p>
+The song "Should I stay or should I go?"  doesn't mention expat life. It speaks about love! But, even if it is not for a human being, is not love what we feel for our Country? Isn't it for love that often we leave or stay?
 
-<p style="text-align: left;">
-  Before analyzing data and interesting numbers about expats (and not) in the world, I'd like to share some stories and thoughts from some followers of the<a href="https://www.instagram.com/the_expatmagazine/"> IG page @thexpatmagazine.</a>
-</p>
+Before analyzing data and interesting numbers about expats (and not) in the world, I'd like to share some stories and thoughts from some followers of the<a href="https://www.instagram.com/the_expatmagazine/"> IG page @thexpatmagazine.</a>
 
-<p style="text-align: left;">
-  Claudayita is an expat for 7 years, her story is about necessity and love for someone but also for the native Country. She moved from Argentina to Australia and went back to Argentina and Mexico at the end. The reasons were different. In Australia, she even gets married but she was homesick soon, this is a &#8220;con&#8221; of being an expat. After coming back to Argentina she lost her loved one and, also, realized her Country's situation wasn't good so she moved to Mexico, following a love story.
-</p>
+Claudayita is an expat for 7 years, her story is about necessity and love for someone but also for the native Country. She moved from Argentina to Australia and went back to Argentina and Mexico at the end. The reasons were different. In Australia, she even gets married but she was homesick soon, this is a "con" of being an expat. After coming back to Argentina she lost her loved one and, also, realized her Country's situation wasn't good so she moved to Mexico, following a love story.
 
-<p style="text-align: left;">
-  Ana, instead, thinks that living abroad is her freedom. She said: <em>&#8220;I can live my life on my own terms far away from what me, my family and friends were expecting from me&#8221;</em>
-</p>
+Ana, instead, thinks that living abroad is her freedom. She said: "I can live my life on my own terms far away from what me, my family and friends were expecting from me"
 
 There are so many feelings, reasons, pros & cons that can lead to a decision to live an expat life or stay in your homeland.  How many times have we asked ourselves what to do?
 

@@ -23,7 +23,7 @@ Well, you might think that Swedish is an hard language(and you are probably righ
 
 It's the way how the say yes and well .. we cannot write it down here, you can only listen to it and try to repeat it. I am sure you will like it .. so, check it out!
 
-[\[youtube youtubeurl=&#8221;URgdIAz4QNg&#8221; \]\[/youtube\]]
+[\[youtube youtubeurl="URgdIAz4QNg" \]\[/youtube\]]
 
 Was it fun? Did you try to repeat it? Let Us know in the comments below! 😀
 

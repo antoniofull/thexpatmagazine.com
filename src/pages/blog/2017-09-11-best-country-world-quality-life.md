@@ -6,7 +6,7 @@ type: post
 date: 2017-09-11T12:42:14.000Z
 url: /2017/europe/best-country-world-quality-life/
 featuredimage: /wp-content/uploads/2017/09/tram-2650096_1920-952x500.jpg
-country: 
+country:
   - Europe
   - Portugal
 tags:
@@ -20,14 +20,14 @@ category:
   - destinations
 ---
 
-Finding the right country to settle in is never easy. A lot of factors come in when considering a country and, without any doubt, one of the major factor in our choice is the **quality of life**. <a href="https://www.internations.org/expat-insider/" target="_blank" rel="noopener">Expat Insider</a> has released the results for the **2017 poll on the best country in the World for quality of life** and the results are quite surprising.<!--more-->
+Finding the right country to settle in is never easy. A lot of factors come in when considering a country and, without any doubt, one of the major factor in our choice is the **quality of life**. <a href="https://www.internations.org/expat-insider/"  target="_blank" rel="noopener noreferrer" rel="noopener">Expat Insider</a> has released the results for the **2017 poll on the best country in the World for quality of life** and the results are quite surprising.<!--more-->
 
 <div id="attachment_560" style="width: 1034px">
   <img  src="/img/uploads/2017/09/tram-2650096_1920-1024x538.jpg" alt="Portugal is the country with the best quality of life in the World" width="1024" height="538" srcset="/img/uploads/2017/09/tram-2650096_1920-1024x538.jpg 1024w, /img/uploads/2017/09/tram-2650096_1920-300x158.jpg 300w, /img/uploads/2017/09/tram-2650096_1920-768x403.jpg 768w, /img/uploads/2017/09/tram-2650096_1920-952x500.jpg 952w, /img/uploads/2017/09/tram-2650096_1920.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />
   
- <p>
-    Portugal is the country with the best quality of life in the World
-  </p>
+   
+  Portugal is the country with the best quality of life in the World
+    
 </div>
 
 At the top of the rank there is a country that usually is not considered a lot, unless you are European and retired, **Portugal**.
@@ -49,5 +49,3 @@ There are over 40 factor considered, among this : **quality of life, cost of liv
 9. Costa Rica
 10. Germany
 11. What do you think? Have you ever been to Portugal? If so how is your experience? Let us know in the comments below!
-
-&nbsp;

@@ -31,7 +31,7 @@ As for the filters, It works same as the one above, and you may find overlapping
 
 ##### [Subito.it]
 
-Here you can find offers posted both by agencies and private owners, as there's any kind of posting I always suggest to read scrupulosy, check all the information and details, and much more be careful: never pay anything in advance, unless you have seen the apartment yourself &#8211; there's a lot of scam around.
+Here you can find offers posted both by agencies and private owners, as there's any kind of posting I always suggest to read scrupulosy, check all the information and details, and much more be careful: never pay anything in advance, unless you have seen the apartment yourself there's a lot of scam around.
 
 ##### [Bakeca.it ]
 
@@ -39,11 +39,11 @@ This is similar to Subito.it, as you can find postings from agencies and private
 
 ##### Facebook
 
-This is a great way to look for a house or apartment if you don't want to go through the agencies (and therefore pay a fee), because here you mainly have private postings. Each city has a different page or pages (you might find more than one), so all you need to do is look these pages by using keywords such as &#8220;case in affitto Firenze&#8221; (house for rent in Florence), or &#8220;appartamento in affitto Milano&#8221; (apartment for rent Milan) and so on.
+This is a great way to look for a house or apartment if you don't want to go through the agencies (and therefore pay a fee), because here you mainly have private postings. Each city has a different page or pages (you might find more than one), so all you need to do is look these pages by using keywords such as "case in affitto Firenze" (house for rent in Florence), or "appartamento in affitto Milano" (apartment for rent Milan) and so on.
 
 ###### After reading these tips, are you ready to start your apartment hunting? Let us know as soon as you find the perfect one.
 
-&nbsp;
+  
 
 : https://www.immobiliare.it
 : https://www.casa.it/affitti

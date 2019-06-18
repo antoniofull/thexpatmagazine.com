@@ -15,9 +15,10 @@ category:
   - stories
 author: Editorial Team
 ---
-**This is an excerpt from the book:** [Amsterdam Exposed](https://www.amsterdamexposed.com/home.html): **an American's journey into the red light district.** From [David Wienir](https://www.amsterdamexposed.com/author.html). 
 
-**You can buy the book on <a href="https://www.amazon.com/Amsterdam-Exposed-Americans-Journey-District/dp/0999355902/ref=as_sl_pc_tf_til?tag=amsterdamexpo-20&linkCode=w00&linkId=69c7846882d95a76667aa9fc55528d28&creativeASIN=0999355902" target="_blank" rel="noopener">Amazon</a> US.**
+**This is an excerpt from the book:** [Amsterdam Exposed](https://www.amsterdamexposed.com/home.html): **an American's journey into the red light district.** From [David Wienir](https://www.amsterdamexposed.com/author.html).
+
+**You can buy the book on <a href="https://www.amazon.com/Amsterdam-Exposed-Americans-Journey-District/dp/0999355902/ref=as_sl_pc_tf_til?tag=amsterdamexpo-20&linkCode=w00&linkId=69c7846882d95a76667aa9fc55528d28&creativeASIN=0999355902"  target="_blank" rel="noopener noreferrer" rel="noopener">Amazon</a> US.**
 
 The red haze from the lights was intoxicating but ominous. Best way to describe it, it felt like visiting Pleasure Island from _Pinocchio_ seconds before everyone turned into donkeys. There was a sense of immediacy, a feeling it might be the last night on Earth. From here the district derives much of its power. That, combined with fantasy, creates a potent cocktail, and a paradox. While there is a feeling of being transported to another time, there is also a feeling of being immersed in the now. Both happen at once. While terrifying, it was also exhilarating, and for many, highly addictive.<!--more-->
 
@@ -40,5 +41,3 @@ Trompettersteeg, while intense, takes only about 30 seconds to navigate. We made
 As I gazed across the water, I was ready to begin. The problem was, I had no idea how to start. I had no contacts. I had no experience. I was an outsider. Every day, thousands of tourists swarm the district. Now I was one of them. The thought of building a relationship with one of these women seemed crazier than ever. They didn’t come to Amsterdam for a social life. They certainly didn’t come to write a book.
 
 Author: **David** Wienir**.**
-
-: https://www.amazon.co.uk/gp/product/B079HFLR4L/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=thexpatmagazi-21&creative=6738&linkCode=as2&creativeASIN=B079HFLR4L&linkId=a596f9b83895e7f6a34eb64267c4326b

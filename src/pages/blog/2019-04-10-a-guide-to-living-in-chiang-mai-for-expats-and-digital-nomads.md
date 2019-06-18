@@ -62,7 +62,7 @@ author: Editorial Team
 
 ###
 
-&nbsp;
+  
 
 ##### **About the Author:**
 
@@ -70,9 +70,9 @@ author: Editorial Team
 
 <img  src="/img/uploads/2019/04/maryn-mcdonnell-image-150x150.jpg" alt="" width="150" height="150" srcset="/img/uploads/2019/04/maryn-mcdonnell-image-150x150.jpg 150w, /img/uploads/2019/04/maryn-mcdonnell-image-300x300.jpg 300w, /img/uploads/2019/04/maryn-mcdonnell-image-768x768.jpg 768w, /img/uploads/2019/04/maryn-mcdonnell-image.jpg 960w" sizes="(max-width: 150px) 100vw, 150px" />
 
-&nbsp;
+  
 
-&nbsp;
+  
 
 : https://wikitravel.org/en/Northern_Thailand
 : https://www.chiangmaicitylife.com/news/new-visa-rules-explained/

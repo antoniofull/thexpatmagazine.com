@@ -25,10 +25,8 @@ The complains are especially for country like Italy, Spain or Greece which are w
 
 The problem lays also in the german mentality and the problem with welcoming foreigner workers, this is something the **German government** is trying to fix and recently they facilitated the bureaucracy to recognise study in the country and they want to introduce more initiative to attract foreigners workers in the the country.
 
-The government recognise that there is a problem also with a certain mentality and that it needs to change &#8220;Immigration won't solve all the problem, but is indeed something we need&#8221; is what a german minister said few days ago regarding the topic.
+The government recognise that there is a problem also with a certain mentality and that it needs to change "Immigration won't solve all the problem, but is indeed something we need" is what a german minister said few days ago regarding the topic.
 
 Are you planning to go to **Germany**? if you are  a skilled worker with experience it might be a good moment to do an experience there 🙂
-
-&nbsp;
 
 : /img/uploads/2014/03/germany.jpg

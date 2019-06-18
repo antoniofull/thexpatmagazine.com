@@ -6,14 +6,14 @@ type: post
 date: 2015-02-09T18:09:12.000Z
 url: /2015/living-abroad/store-important-documents/
 featuredimage: /wp-content/uploads/2015/02/document-428334_1280-752x500.jpg
-country: 
+country:
   - Living abroad
 tags:
   - documents
   - papers
 category:
   - expat tips
-  - destinations  
+  - destinations
 ---
 
 **Where To Store Your Most Important Documents?**
@@ -26,7 +26,7 @@ You begin to think .. oh my – this did initially seem like a good idea!
 
 **Visas, Permits and Legalisation**
 
-<img  src="/img/uploads/2015/02/document-428334_1280-1024x681.jpg" alt="document-428334_1280" width="785" height="522" srcset="/img/uploads/2015/02/document-428334_1280-1024x681.jpg 1024w, /img/uploads/2015/02/document-428334_1280-300x199.jpg 300w, /img/uploads/2015/02/document-428334_1280-768x511.jpg 768w, /img/uploads/2015/02/document-428334_1280-752x500.jpg 752w, /img/uploads/2015/02/document-428334_1280.jpg 1280w" sizes="(max-width: 785px) 100vw, 785px" />
+<img src="/img/uploads/2015/02/document-428334_1280-1024x681.jpg" alt="document-428334_1280" width="785" height="522" srcset="/img/uploads/2015/02/document-428334_1280-1024x681.jpg 1024w, /img/uploads/2015/02/document-428334_1280-300x199.jpg 300w, /img/uploads/2015/02/document-428334_1280-768x511.jpg 768w, /img/uploads/2015/02/document-428334_1280-752x500.jpg 752w, /img/uploads/2015/02/document-428334_1280.jpg 1280w" sizes="(max-width: 785px) 100vw, 785px" />
 
 Getting the legalities sorted is one of the first things you need to do because until you have visas and work permits and have your UK documents and certificates legalised your hands will be tied to do anything else.
 

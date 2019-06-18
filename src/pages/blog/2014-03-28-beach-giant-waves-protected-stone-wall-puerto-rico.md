@@ -19,14 +19,8 @@ category:
 
 This looks like a normal beach, but behind that huge stones there is the ocean and his huge waves. <span >Luckily the people are protected by this stone wall and can enjoy this small part of beach relaxed with no risk.<!--more-->
 
-[amazon\_link asins='1786571153,B01LEXHDVA,B01H6MMT08,B01MFGE8J9&#8242; template='ProductCarousel' store='thexpatmagazi-21&#8242; marketplace='US' link\_id='6726cf30-f22f-11e6-9376-ffcdf9acf3f3&#8242;]
-
 This beach is located in **Puerto Rico** and the name is **Playa Puerto Nuevo,** the wall with these huge limestone rocks protects the beach from the waves and creates a natural swimming pool, but when the ocean waves are high then you can assist at sights like this one in the video :
 
 https://www.youtube.com/watch?v=DQ28yzmkpiI
 
 Have you ever been to **Puerto Rico**? What's your experience with this country? Let us know in the comments below.
-
-&nbsp;
-
-&nbsp;

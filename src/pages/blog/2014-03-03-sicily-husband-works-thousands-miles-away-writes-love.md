@@ -21,7 +21,7 @@ category:
   - stories
 ---
 
-**Sicily, South of Italy &#8211; 1973**.
+**Sicily, South of Italy 1973**.
 
 This story is about a  woman and her husband. They both were **illiterate** and he was working thousands of miles away, in **Germany**. The only way to communicate to each other was asking to someone to write and then read a letter for them. But this time she decided to do it herself, and this is how she did it.
 

@@ -34,7 +34,7 @@ A friend of my from France heard from his friend that there was a MMA Gym openin
 
 #### Tell us a bit more about the place where you grew up?
 
-<span style="font-style: inherit;">I grew up in Petrópolis a city known as Brazil’s Imperial City, located in the Rio de Janeiro State.
+I grew up in Petrópolis a city known as Brazil’s Imperial City, located in the Rio de Janeiro State.
 
 #### What are the main differences between your culture and the one you discovered there?
 
@@ -69,5 +69,3 @@ Not at the moment!
 <img  src="/img/uploads/2018/04/29542345_1681867821903688_5138587160951830205_n.jpg" alt="" width="959" height="959" srcset="/img/uploads/2018/04/29542345_1681867821903688_5138587160951830205_n.jpg 959w, /img/uploads/2018/04/29542345_1681867821903688_5138587160951830205_n-150x150.jpg 150w, /img/uploads/2018/04/29542345_1681867821903688_5138587160951830205_n-300x300.jpg 300w, /img/uploads/2018/04/29542345_1681867821903688_5138587160951830205_n-768x768.jpg 768w" sizes="(max-width: 959px) 100vw, 959px" />
 
 ##### If you want to know more about Bruno, [here]&#8216;s the link to his page.
-
-: https://bjjasia.com/2017/09/26/building-an-empire/

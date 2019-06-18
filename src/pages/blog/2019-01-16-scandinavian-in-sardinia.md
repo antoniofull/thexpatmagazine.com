@@ -16,78 +16,48 @@ tags:
 
 Bee is from Norway originally and has lived for 11 years in Scotland. She loved it there and would happily move back at some point. So, why and how did she end up in Sardinia?
 
-_&#8220;What brought me to Sardinia was a red kayak on Instagram. I was following some people from Sardinia on Instagram and one of them has the exact same red kayak as mine. We started talking and I ended up going for a kayak and MTB (mountain bike) visit to Sardinia. I loved it so much that decided to stay. Right now I travel between Norway and Sardinia as I'm studying coaching in Norway.&#8221;_
+_"What brought me to Sardinia was a red kayak on Instagram. I was following some people from Sardinia on Instagram and one of them has the exact same red kayak as mine. We started talking and I ended up going for a kayak and MTB (mountain bike) visit to Sardinia. I loved it so much that decided to stay. Right now I travel between Norway and Sardinia as I'm studying coaching in Norway."_
 
-Here's her experience&#8230;
+Here's her experience
 
-<p>
-  <span lang="EN-US">Adventures and new places are wonderful, but when many things are new and unfamiliar it is <span lang="EN-US">good and important <span lang="EN-US">to have some of your old comforts to bring back some familiarity. Like a good cup of tea, just the way you like it. But when this ‘last familiar thing’ also fails it can get a bit too overwhelming.
-</p>
+Adventures and new places are wonderful, but when many things are new and unfamiliar it is  good and important  to have some of your old comforts to bring back some familiarity. Like a good cup of tea, just the way you like it. But when this ‘last familiar thing’ also fails it can get a bit too overwhelming.
 
-<p>
-  <b></b>I’<span lang="EN-US">m ashamed to say it, but I had an egoistic meltdown <span lang="EN-US">over tea. N<span lang="EN-US">ot my finest moment I have to say. All my peace, <span lang="EN-US">calm and serenity went out of the window, just because of a cup of tea. You could say that the apparent overreaction was due to the last drop that made my teacup issue spill over.
-</p>
+I’ m ashamed to say it, but I had an egoistic meltdown  over tea. N ot my finest moment I have to say. All my peace, calm and serenity went out of the window, just because of a cup of tea. You could say that the apparent overreaction was due to the last drop that made my teacup issue spill over.
 
-<p>
-  <span lang="EN-US">As a Scandinavian in Sardinia, I have discovered that Italians are not tea drinkers, at least not in the same way as somebody who has lived 11 years in the North of the UK is used to. The black, strong brew that grows hairs on your chest and that you can leave the spoon standing upright in all by itself. Milky, strong and fortifying – <span lang="EN-US">THAT kind of tea.
-</p>
+    As a Scandinavian in Sardinia, I have discovered that Italians are not tea drinkers, at least not in the same way as somebody who has lived 11 years in the North of the UK is used to. The black, strong brew that grows hairs on your chest and that you can leave the spoon standing upright in all by itself. Milky, strong and fortifying –   THAT kind of tea.
 
-<p align="center">
-  <b><i>‘</i></b><b><i><span lang="EN-US">Come along inside</i></b><b><i>……</i></b><b><i><span lang="DE">We</i></b><b><i>’</i></b><b><i><span lang="EN-US">ll see if tea and buns can make the world a better place</i></b><b><i>’ – </i></b><b><i><span lang="EN-US">The Wind in the Willows</i></b><b><i></i></b>
-</p>
+Come along inside We'll see if tea and buns can make the world a better place The Wind in the Willows
 
 <img  src="/img/uploads/2019/01/IMG_7364.jpg" alt="" width="1050" height="1400" srcset="/img/uploads/2019/01/IMG_7364.jpg 1050w, /img/uploads/2019/01/IMG_7364-225x300.jpg 225w, /img/uploads/2019/01/IMG_7364-768x1024.jpg 768w" sizes="(max-width: 1050px) 100vw, 1050px" />
 
-## _My tea is cold_**\_\_** {.Default}
+## _My tea is cold_\*\*
 
-<p>
-  In Sardinia<span lang="EN-US">, the strongest tea <span lang="EN-US">I get served is English Breakfast tea– <span lang="EN-US">with lemon if I ask for<span lang="EN-US">. Alright, I was in a new country, a new culture so I embraced; ‘<span lang="EN-US">in Rome do as the Romans’ they say. <span lang="EN-US">I drank my <span lang="EN-US">English Breakfast tea with lemon and made peace with that, this is the tea I will get served here. I even <span lang="EN-US">got used to it and kind of <span lang="EN-US">liked it. 
-</p>
+In Sardinia , the strongest tea I get served is English Breakfast tea– with lemon if I ask for . Alright, I was in a new country, a new culture so I embraced; ‘ in Rome do as the Romans’ they say.  I drank my  English Breakfast tea with lemon and made peace with that, this is the tea I will get served here. I even got used to it and kind of liked it.
 
-<p>
-  <span lang="EN-US">Then summer came and the tea started to be served tepid. Ok, the first time I thought it was a mistake. Thinking that maybe the girl behind the bar was busy and had forgotten my tea for a while. And since I'm not a person who wants to complain (and indeed not being able to complain in a language I still don’t speak) – I ignored it and drank my tepid tea. Then the second time, I started to feel a tad annoyed. The third time, being served a teabag to steep in lukewarm water – so tepid that the teabag did not even give off its golden dark liquid. So one day I had a migraine! That was it, the drop that made the cup of tea issues flow over and a meltdown ensued!
-</p>
+Then summer came and the tea started to be served tepid. Ok, the first time I thought it was a mistake. Thinking that maybe the girl behind the bar was busy and had forgotten my tea for a while. And since I'm not a person who wants to complain (and indeed not being able to complain in a language I still don’t speak) – I ignored it and drank my tepid tea. Then the second time, I started to feel a tad annoyed. The third time, being served a teabag to steep in lukewarm water – so tepid that the teabag did not even give off its golden dark liquid. So one day I had a migraine! That was it, the drop that made the cup of tea issues flow over and a meltdown ensued!
 
-<p>
-  <span lang="EN-US">I made a BIG FUSS about it, <span lang="EN-US">attacking an unsuspecting Sardinian man. A<span lang="EN-US">sking what he would have said if his cappuccino had been wrong!! I was fussing and complaining over a “<span lang="EN-US">horrible tea”<span lang="EN-US">, almost crying and went totally into behaving like a spoilt child who did not get her sweeties.
-</p>
+I made a BIG FUSS about it,  attacking an unsuspecting Sardinian man. A sking what he would have said if his cappuccino had been wrong!! I was fussing and complaining over a “ horrible tea” , almost crying and went totally into behaving like a spoilt child who did not get her sweeties.
 
-<p>
-  <span lang="EN-US">The Sardinian man said ‘but, w<span lang="EN-US">hy all this fuss? why are you so upset? it’<span lang="EN-US">s not the end of the world!’. <span lang="EN-US">But YES, <span lang="EN-US">to me it kind of felt like it there. (I'm sure H<span lang="EN-US">e would have protested too if his cappuccino did not live up to the expectations – <span lang="EN-US">although probably with less fuss)<b><i> </i></b>
-</p>
+The Sardinian man said ‘but, w hy all this fuss? why are you so upset? it’ s not the end of the world!’. But YES,  to me it kind of felt like it there. (I'm sure H e would have protested too if his cappuccino did not live up to the expectations – although probably with less fuss)
 
-<p>
-  <b><i>Tea is so much more than tea</i></b><b><i></i></b>
-</p>
+Tea is so much more than tea
 
-<span lang="EN-US">Tea is more than a beverage, tea is a ritual, it’s something you do to make you feel good, to relax. It’s self-care, self-preservation, time to centre yourself and breathe while letting the world go by. Tea is the drink you turn to in times of distress (the ‘shaky cuppa’ as my Scottish colleagues turned to when things were rough) and in times of peace and calm.
+Tea is more than a beverage, tea is a ritual, it’s something you do to make you feel good, to relax. It’s self-care, self-preservation, time to centre yourself and breathe while letting the world go by. Tea is the drink you turn to in times of distress (the ‘shaky cuppa’ as my Scottish colleagues turned to when things were rough) and in times of peace and calm.
 
-<p align="center">
-  <b><i>‘</i></b><b><i><span lang="EN-US">We had a kettle; we let it leak: Our not repairing made it worse. We haven</i></b><b><i>’</i></b><b><i><span lang="EN-US">t had any tea for a week</i></b><b><i>…</i></b><b><i><span lang="EN-US">.. The bottom is out of the Universe</i></b><b><i>’ – Rudyard Kipling</i></b><b><i></i></b>
-</p>
+We had a kettle; we let it leak: Our not repairing made it worse. We haven't had any tea for a week.. The bottom is out of the Universe’ – Rudyard Kipling
 
-<p>
-  As a foreigner in a new place, trying to keep abreast with all the changes and differences, language and customs, you feel like<span lang="EN-US"> things change too much or too fast around you. Since everything is unfamiliar and there are many things you compromise on, these little things like having your tea the way you like it become very important. Maybe lots more important than they ‘<span lang="EN-US">should’ <span lang="EN-US">be – <span lang="EN-US">but you cling to what’<span lang="EN-US">s left of familiarity. And maybe trying t<span lang="EN-US">o maintain some ‘<span lang="EN-US">normality’ <span lang="EN-US">in the form of well-known, cosy habits.
-</p>
+As a foreigner in a new place, trying to keep abreast with all the changes and differences, language and customs, you feel like  things change too much or too fast around you. Since everything is unfamiliar and there are many things you compromise on, these little things like having your tea the way you like it become very important. Maybe lots more important than they ‘ should’ be – but you cling to what’ s left of familiarity. And maybe trying t o maintain some ‘ normality’  in the form of well-known, cosy habits.
 
-<p>
-  <span lang="EN-US">But that is OK, let tea or other habits be our support system when we need it. We find safety in that, safety in well-known routines (even if it’<span lang="EN-US">s just a cup of tea). When there are many changes on the outside some of our <span lang="EN-US">familiar things help this seem less dramatic –<span lang="EN-US">even if it is ‘<span lang="DE">JUST’ tea.
-</p>
+But that is OK, let tea or other habits be our support system when we need it. We find safety in that, safety in well-known routines (even if it’ s just a cup of tea). When there are many changes on the outside some of our familiar things help this seem less dramatic – even if it is ‘<span lang="DE">JUST’ tea.
 
-<p>
-  <span lang="EN-US">It’<span lang="EN-US">s easier to embrace new things when you have some of your comforts with you. And y<span lang="EN-US">ou can face anything after being fortified with a cuppa!
-</p>
+It’ s easier to embrace new things when you have some of your comforts with you. And y ou can face anything after being fortified with a cuppa!
 
-<p>
-  <b><i>My tea is hot, very hot</i></b><b><i></i></b>
-</p>
+My tea is hot, very hot
 
-<span lang="EN-US">The Sardinian man, bless him, must have had a quiet word with the staff as every time I now come back my tea is more than boiling hot – it is steamed! Oh well, I can live with that even if it kind of changes the taste of the tea a little bit. I just have to wait a while before I can drink it.
+The Sardinian man, bless him, must have had a quiet word with the staff as every time I now come back my tea is more than boiling hot – it is steamed! Oh well, I can live with that even if it kind of changes the taste of the tea a little bit. I just have to wait a while before I can drink it.
 
-<span lang="EN-US">Fortunately, I can buy really, good and strong tea in the supermarket and make a proper ‘<span lang="IT">cuppa<span lang="EN-US">’ at home – so zen and calm can be found at least every morning. And I choose to enjoy my steamed English Breakfast tea with lemon when I go to a caf<span lang="FR">é.
+Fortunately, I can buy really, good and strong tea in the supermarket and make a proper ‘ cuppa ’ at home – so zen and calm can be found at least every morning. And I choose to enjoy my steamed English Breakfast tea with lemon when I go to a caf é.
 
 <img  src="/img/uploads/2019/01/tea.jpg" alt="" width="1400" height="854" srcset="/img/uploads/2019/01/tea.jpg 1400w, /img/uploads/2019/01/tea-300x183.jpg 300w, /img/uploads/2019/01/tea-768x468.jpg 768w, /img/uploads/2019/01/tea-1024x625.jpg 1024w, /img/uploads/2019/01/tea-1150x702.jpg 1150w" sizes="(max-width: 1400px) 100vw, 1400px" />
 
-If you want to know more about her, here's her [blog]. Enjoy it!
-
-: https://the-compass-adventures.com
+If you want to know more about her, here's her [blog](https://the-compass-adventures.com). Enjoy it!

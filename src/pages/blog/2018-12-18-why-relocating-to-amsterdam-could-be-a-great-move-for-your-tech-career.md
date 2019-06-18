@@ -39,9 +39,9 @@ But it’s not just the up-and-comers making a home by the Amstel—the city is 
 
 **Dangling the carrot for international talent**
 
-Average salaries for tech workers in Amsterdam are another alluring bonus offered by the city. Wages for IT pros \[tend to be higher in Amsterdam than in many other European tech hub]s like London, Berlin, Paris, and Dublin; software developers, for example, can earn between €2,750 &#8211; €6,000 a month on average, depending on experience.
+Average salaries for tech workers in Amsterdam are another alluring bonus offered by the city. Wages for IT pros \[tend to be higher in Amsterdam than in many other European tech hub]s like London, Berlin, Paris, and Dublin; software developers, for example, can earn between €2,750 €6,000 a month on average, depending on experience.
 
-Coupled with the competitive salaries, cost of living in Amsterdam is pretty attractive too; one of the lowest of all Europe’s capitals. Though it varies depending on where, and how, you live, generally €1,000 &#8211; €1,500 will be enough to cover essentials like rent, insurance, groceries, and public transport.
+Coupled with the competitive salaries, cost of living in Amsterdam is pretty attractive too; one of the lowest of all Europe’s capitals. Though it varies depending on where, and how, you live, generally €1,000 €1,500 will be enough to cover essentials like rent, insurance, groceries, and public transport.
 
 If the earning potential isn’t tempting enough already, international tech talent looking to make a home in Amsterdam can qualify for a 30% tax break, offered to skilled, high-earning foreign nationals to help lure the best talent to the city.
 

@@ -27,10 +27,10 @@ This funny video will guide you trough the Dutch history and explain  the diffe
 
 Do you live in the Netherlands? What do you think of the country? Let us know in the comments 😀
 
-&nbsp;
+  
 
-&nbsp;
+  
 
-&nbsp;
+  
 
-&nbsp;
+  

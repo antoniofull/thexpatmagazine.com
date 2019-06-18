@@ -43,7 +43,7 @@ Here there are a lot of job opportunities and good conditions, indeed the **71%*
 
 ### 3. Switzerland
 
-Expats have an average salary of \$188,275, which is double compared to the global average. It's also true that it is expensive to live here, but hey&#8230;you can't have it all. 🙂
+Expats have an average salary of \$188,275, which is double compared to the global average. It's also true that it is expensive to live here, but hey  you can't have it all. 🙂
 
 <img  src="/img/uploads/2018/03/mountains-1645078_1920.jpg" alt="" width="1920" height="1104" srcset="/img/uploads/2018/03/mountains-1645078_1920.jpg 1200w, /img/uploads/2018/03/mountains-1645078_1920-300x173.jpg 300w, /img/uploads/2018/03/mountains-1645078_1920-768x442.jpg 768w, /img/uploads/2018/03/mountains-1645078_1920-1024x589.jpg 1024w, /img/uploads/2018/03/mountains-1645078_1920-1150x661.jpg 1150w" sizes="(max-width: 1920px) 100vw, 1920px" />
 
@@ -51,7 +51,7 @@ Expats have an average salary of \$188,275, which is double compared to the glob
 
 ### 4. Irland
 
-Many of the expats who live here have left years ago thinking &#8220;it's going to be only for few months or years, just the time to improve my English skills&#8221;&#8230;and well, they are still living there. Surrounded by the ocean, Irland will surprise you with its pictoresque villages and beautiful natural sites.
+Many of the expats who live here have left years ago thinking "it's going to be only for few months or years, just the time to improve my English skills"  and well, they are still living there. Surrounded by the ocean, Irland will surprise you with its pictoresque villages and beautiful natural sites.
 
 <img  src="/img/uploads/2018/03/home-3175921_1920.jpg" alt="" width="1920" height="1274" srcset="/img/uploads/2018/03/home-3175921_1920.jpg 1200w, /img/uploads/2018/03/home-3175921_1920-300x199.jpg 300w, /img/uploads/2018/03/home-3175921_1920-768x510.jpg 768w, /img/uploads/2018/03/home-3175921_1920-1024x679.jpg 1024w, /img/uploads/2018/03/home-3175921_1920-1150x763.jpg 1150w" sizes="(max-width: 1920px) 100vw, 1920px" />
 
@@ -75,7 +75,7 @@ Another nordic country in this list, Finland has a high quality life, great scho
 
 ### 7. Canada
 
-It is a safe country and has beautiful lakes, cities and landscapes, people are genuinely nice and friendly. Also here, it can get cold in winter &#8211; up to minus 30 degrees &#8211; but spring and summer offer a lovely blue sky. Salaries are higher, and there are more job opportunities.
+It is a safe country and has beautiful lakes, cities and landscapes, people are genuinely nice and friendly. Also here, it can get cold in winter up to minus 30 degrees but spring and summer offer a lovely blue sky. Salaries are higher, and there are more job opportunities.
 
 <img  src="/img/uploads/2018/03/nature-3039901_1920.jpg" alt="" width="1920" height="1280" srcset="/img/uploads/2018/03/nature-3039901_1920.jpg 1200w, /img/uploads/2018/03/nature-3039901_1920-300x200.jpg 300w, /img/uploads/2018/03/nature-3039901_1920-768x512.jpg 768w, /img/uploads/2018/03/nature-3039901_1920-1024x683.jpg 1024w, /img/uploads/2018/03/nature-3039901_1920-1150x767.jpg 1150w" sizes="(max-width: 1920px) 100vw, 1920px" />
 
