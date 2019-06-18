@@ -5,7 +5,7 @@ author: Editorial Team
 type: post
 date: 2014-03-26T17:25:04.000Z
 url: /2014/europe/iceland-police-killed-man-first-time-shock-whole-country/
-featuredimage: /wp-content/uploads/2014/03/6951334514_e21906983a_b-750x500.jpg
+featuredimage: /wp-content/uploads/2014/03/6951334514_e21906983a_b.jpg
 country:
   - Iceland
 tags:
@@ -23,7 +23,7 @@ category:
 
 **Iceland** was the first time and for the whole country was an incredible shock. Usually police do not carry arms with them, army in Iceland are considered threatened and dangerous and are considered only for sports.
 
-<img alt="iceland police shooting" src="/img/uploads/2014/03/6951334514_e21906983a_b.jpg" width="1024" height="683" srcset="/img/uploads/2014/03/6951334514_e21906983a_b.jpg 1024w, /img/uploads/2014/03/6951334514_e21906983a_b-300x200.jpg 300w, /img/uploads/2014/03/6951334514_e21906983a_b-768x512.jpg 768w, /img/uploads/2014/03/6951334514_e21906983a_b-750x500.jpg 750w" sizes="(max-width: 1024px) 100vw, 1024px" />
+![iceland police shooting](/img/uploads/2014/03/6951334514_e21906983a_b.jpg)
 
 The man was a 59 -years old he had a history of mental illness and he started to shot to the police when they entered in the building. The police officers involved in the shooting will go trough a **grief Counselling** and the police department had already apologised to the family of the victim.
 

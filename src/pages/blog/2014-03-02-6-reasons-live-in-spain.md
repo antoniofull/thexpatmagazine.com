@@ -17,9 +17,9 @@ category:
   - destinations
 ---
 
-**Spain** is a mediterranean country in the south of **Europe** and is one of the country hit by the crisis. Now is slowly recovering, however being a cheap country with a nice weather almost all the year and fabulous people is easy for many expats fall in love for this country.  I've collected my list of the most important reasons to **live in Spain**.<!--more-->
+**Spain** is a mediterranean country in the south of **Europe** and is one of the country hit by the crisis. Now is slowly recovering, however being a cheap country with a nice weather almost all the year and fabulous people is easy for many expats fall in love for this country.  I've collected my list of the most important reasons to **live in Spain**.
 
-<img alt="live spain" src="/img/uploads/2014/03/corrida_san_fermin-300x191.jpg" />
+![live spain](/img/uploads/2014/03/corrida_san_fermin.jpg)
 
 1 **The people.**
 
@@ -48,5 +48,3 @@ If you never tried Spanish food, you must! They have a lot of different types of
 Do you live in Spain? What do you think? Let us know in the comments.
 
 Foto <a href="https://sunshineandsiestas.com/2013/07/09/uno-de-enero-dos-de-febrero-experiencing-the-san-fermines-festival-of-pamplona/" rel="noopener noreferrer"  target="_blank" rel="noopener noreferrer">credit</a>.
-
-: /img/uploads/2014/03/corrida_san_fermin.jpg

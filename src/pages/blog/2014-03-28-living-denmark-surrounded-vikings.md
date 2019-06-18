@@ -5,7 +5,7 @@ author: Editorial Team
 type: post
 date: 2014-03-28T06:27:58.000Z
 url: /2014/europe/living-denmark-surrounded-vikings/
-featuredimage: /wp-content/uploads/2014/03/Copenhagen-Nyhavn1-753x500.jpg
+featuredimage: /wp-content/uploads/2014/03/Copenhagen-Nyhavn1.jpg
 country:
   - Denmark
 tags:
@@ -23,9 +23,9 @@ If you would like to share your experience too, send an email to info [at] thexp
 
 Leaving your beloved, the home where you grew up, the smells and horizons which you've been always got use to, for going to Denmark was not easy, but the bravery in choosing what kind of live's path, can make the difference.
 
-[<img alt="Expat denmark" src="/img/uploads/2014/03/Copenhagen-Nyhavn-1024x680.jpg" width="785" height="521" />
+![Expat denmark](/img/uploads/2014/03/Copenhagen-Nyhavn.jpg)
 
-I remember perfectly when my Danish professor, under whose guidance I had my Erasmus Placement and the thesis for my master, asked me if I was interested in doing a Ph.D (Doctor of Philosophy) at the Aalborg University (AAU). It was the day before my graduation session, and from that moment on my mind was focus on something else  other than anxiety for the graduation! Too many questions without any answer, too many random variables, using a scientific terminology, and a lot of insecurity, but also a lot of awareness and joy for the great opportunity that I was given to.
+I remember perfectly when my Danish professor, under whose guidance I had my Erasmus Placement and the thesis for my master, asked me if I was interested in doing a Ph.D (Doctor of Philosophy) at the Aalborg University (AAU). It was the day before my graduation session, and from that moment on my mind was focus on something else other than anxiety for the graduation! Too many questions without any answer, too many random variables, using a scientific terminology, and a lot of insecurity, but also a lot of awareness and joy for the great opportunity that I was given to.
 
 Immediately I thought about my family. I spent 26 years at home, surrounded by people who have always loved and supported me, before and after life's storms. And how would I survive abroad without a good command of the English language? What about the weather?
 
@@ -45,7 +45,7 @@ Even though I always put in my luggage some “made in Italy”, I combined my I
 
 I had to think a bit before using the word “home”, wondering how to use it. It's home the place where I grew up and I spent most of my life, or is it the place where I'm living right now? For sure it's not a place delimited by walls, maybe it is not even possible to give it a specific place geographically, after these kind of experiences in life.
 
-The real home is in our heart, where there's enough space for both the past and the future, for the family, old and Erasmus friends, for the love of your life, emotions, hopes and difficulties  and the most beautiful thing is that it will travel forever with us, wherever we go. Have the courage to take the risk and get involved in this daily game!
+The real home is in our heart, where there's enough space for both the past and the future, for the family, old and Erasmus friends, for the love of your life, emotions, hopes and difficulties and the most beautiful thing is that it will travel forever with us, wherever we go. Have the courage to take the risk and get involved in this daily game!
 
 Lorenzo
 
