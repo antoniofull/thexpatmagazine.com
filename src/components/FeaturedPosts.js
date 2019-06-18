@@ -14,13 +14,18 @@ const Featured = ({ post }) => {
   if (img) {
     return (
       <React.Fragment key={post.node.id}>
-        <div className='featured-image'>
-          <BackgroundImage
-            Tag='section'
-            className='backdrop'
-            fluid={post.node.frontmatter.featuredimage.childImageSharp.fluid}
-          />
-        </div>
+        {ost.node.frontmatter.featuredimag &&
+          post.node.frontmatter.featuredimage.childImageSharp && (
+            <div className='featured-image'>
+              <BackgroundImage
+                Tag='section'
+                className='backdrop'
+                fluid={
+                  post.node.frontmatter.featuredimage.childImageSharp.fluid
+                }
+              />
+            </div>
+          )}
         <div className='featured-post__container has-shadow'>
           <article className='featured-post'>
             <header className='featured-post__header'>

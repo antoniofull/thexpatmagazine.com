@@ -46,5 +46,3 @@ If you are planning to retire in a different country than you live, so why not c
 If you never tried Spanish food, you must! They have a lot of different types of food and, like Italy, they are different from region to region but is all good! Did you know that the best restaurant in the world was <a href="https://en.wikipedia.org/wiki/ElBulli" rel="noopener noreferrer"  target="_blank" rel="noopener noreferrer">spanish</a>? Paella, tapas, pulpo á galeg, tortillas, so much goodness you will not regret!
 
 Do you live in Spain? What do you think? Let us know in the comments.
-
-Foto <a href="https://sunshineandsiestas.com/2013/07/09/uno-de-enero-dos-de-febrero-experiencing-the-san-fermines-festival-of-pamplona/" rel="noopener noreferrer"  target="_blank" rel="noopener noreferrer">credit</a>.

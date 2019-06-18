@@ -22,12 +22,15 @@ const AuthorMeta = props => {
           to={`/authors/${kebabCase(author.node.frontmatter.name)}`}
           className='post-meta--author__link'
         >
-          <span className='post-meta--author__image'>
-            <Img
-              alt={author.node.frontmatter.name}
-              sizes={author.node.frontmatter.photo.childImageSharp.sizes}
-            />
-          </span>
+          {author.node.frontmatter.photo &&
+            author.node.frontmatter.photo.childImageSharp && (
+              <span className='post-meta--author__image'>
+                <Img
+                  alt={author.node.frontmatter.name}
+                  sizes={author.node.frontmatter.photo.childImageSharp.sizes}
+                />
+              </span>
+            )}
           <h4 className='post-meta--author__name wf-os'>
             {author.node.frontmatter.name}
           </h4>

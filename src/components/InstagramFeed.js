@@ -18,10 +18,12 @@ const InstagramFeed = ({ data }) => (
           target='_blank'
           rel='noopener noreferrer'
         >
-          <Img
-            alt='The Expat Magazine on Instagram'
-            fluid={edge.node.localFile.childImageSharp.fluid}
-          />
+          {edge.node.localFile && edge.node.localFile.childImageSharp && (
+            <Img
+              alt='The Expat Magazine on Instagram'
+              fluid={edge.node.localFile.childImageSharp.fluid}
+            />
+          )}
         </a>
       ))}
     </div>

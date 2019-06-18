@@ -14,16 +14,17 @@ const Tips = ({ posts }) => {
           key={story.node.id}
         >
           <div className='article-home__header'>
-            {story.node.frontmatter.featuredimage && (
-              <Link to={story.node.fields.slug}>
-                <Img
-                  alt={story.node.frontmatter.title}
-                  fluid={
-                    story.node.frontmatter.featuredimage.childImageSharp.fluid
-                  }
-                />
-              </Link>
-            )}
+            {story.node.frontmatter.featuredimage &&
+              story.node.frontmatter.featuredimage.childImageSharp && (
+                <Link to={story.node.fields.slug}>
+                  <Img
+                    alt={story.node.frontmatter.title}
+                    fluid={
+                      story.node.frontmatter.featuredimage.childImageSharp.fluid
+                    }
+                  />
+                </Link>
+              )}
             <div className='article--home__content'>
               <h2 className=''>
                 <Link to={story.node.fields.slug}>

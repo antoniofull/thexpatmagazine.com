@@ -16,10 +16,13 @@ const AuthorPost = props => {
       >
         <h3 className='post-author__title'>{`Written by: ${author.node.frontmatter.name}`}</h3>
         <div className='post-author'>
-          <Image
-            className='post-author__image'
-            sizes={author.node.frontmatter.photo.childImageSharp.sizes}
-          />
+          {author.node.frontmatter.photo &&
+            author.node.frontmatter.photo.childImageSharp && (
+              <Image
+                className='post-author__image'
+                sizes={author.node.frontmatter.photo.childImageSharp.sizes}
+              />
+            )}
           <p className='post-author__bio'>{author.node.frontmatter.bio}</p>
         </div>
       </Link>

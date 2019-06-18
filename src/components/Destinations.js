@@ -16,16 +16,18 @@ const Destinations = ({ posts }) => {
             key={story.node.id}
           >
             <div className='destination__content'>
-              {story.node.frontmatter.featuredimage && (
-                <Link to={story.node.fields.slug}>
-                  <Img
-                    alt={story.node.frontmatter.title}
-                    fluid={
-                      story.node.frontmatter.featuredimage.childImageSharp.fluid
-                    }
-                  />
-                </Link>
-              )}
+              {story.node.frontmatter.featuredimage &&
+                story.node.frontmatter.featuredimage.childImageSharp && (
+                  <Link to={story.node.fields.slug}>
+                    <Img
+                      alt={story.node.frontmatter.title}
+                      fluid={
+                        story.node.frontmatter.featuredimage.childImageSharp
+                          .fluid
+                      }
+                    />
+                  </Link>
+                )}
               <div className='article--home__content is-color-white'>
                 <h2 className='article-home__header'>
                   <Link to={story.node.fields.slug}>

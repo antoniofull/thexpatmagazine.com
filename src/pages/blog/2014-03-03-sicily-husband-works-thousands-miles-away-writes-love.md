@@ -25,10 +25,6 @@ category:
 
 This story is about a  woman and her husband. They both were **illiterate** and he was working thousands of miles away, in **Germany**. The only way to communicate to each other was asking to someone to write and then read a letter for them. But this time she decided to do it herself, and this is how she did it.
 
-<!--more-->
-
-<img src="/img/uploads/2014/03/love_letter-213x300.jpg" alt="Love Letter" width="213" height="300" />
-
 She drew this letter for him, and this is the translation by the write **Comiso Geraldo** :
 
 My love, the distance between us is tearing me up and I stretch my arms with our children out to you. Everybody is fine, only the youngest child is a bit sick. I didn’t receive any reply to the last letter I’ve sent you. Your mother is at the hospital where I go to visit her, don’t worry I always bring her something and I never go alone to not let people talking about me negatively, the second son comes with me and the oldest one stays at home taking care of his brother.\_
