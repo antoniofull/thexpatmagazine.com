@@ -40,12 +40,10 @@ Enjoy! 😀
 
 ## 4 Silfra, Þingvellir, Iceland
 
-https://www.youtube.com/watch?v=JKcdJZRwVj8
+[video](https://www.youtube.com/watch?v=JKcdJZRwVj8)
 
 From outside it looks like a lake and nothing special. But this small site is very well known because of what lies below. This is the only place in the world where you can dive between 2 continents, Europe and North America.
 
 ## 5 Middle Arch, Poor Knights Islands, New Zealand
-
-{{< youtube M5b2520KJSU >}}
 
 This island is 11-million-year-old and diving here  you will find the best sub-tropical underwater gardens on the planet. It offers several sites for diving,  like *Bernies Cave* or *Landing Bay Pinnacle.*
