@@ -14,7 +14,7 @@ const Featured = ({ post }) => {
   if (img) {
     return (
       <React.Fragment key={post.node.id}>
-        {post.node.frontmatter.featuredimag &&
+        {post.node.frontmatter.featuredimage &&
           post.node.frontmatter.featuredimage.childImageSharp && (
             <div className='featured-image'>
               <BackgroundImage
