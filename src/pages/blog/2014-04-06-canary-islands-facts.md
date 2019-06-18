@@ -32,7 +32,7 @@ it's property to refrigerate and regenerate made it resistant to fire. After a f
 
 The Hierro (Iron)  island once was the first meridian, known in European history as the prime meridian in common use outside of the future British Empire.
 
-<img src="/img/uploads/2014/04/hierro.jpg" alt="hierro" width="1024" height="682" srcset="/img/uploads/2014/04/hierro.jpg 1024w, /img/uploads/2014/04/hierro-300x200.jpg 300w, /img/uploads/2014/04/hierro-768x512.jpg 768w, /img/uploads/2014/04/hierro-751x500.jpg 751w" sizes="(max-width: 1024px) 100vw, 1024px" />
+![Expat Stories](/img/uploads/2014/04/hierro.jpg)
 
 **4 There are several different type of "microclima"**
 
@@ -52,21 +52,16 @@ The **spanish corrida** has been abolished since 1991, so you will not see bulls
 
 **8 Tenerife airport is known for the biggest tragedy in the aviation history.**
 
-In 1977 at the **Tenerife airport** a collision between a klm boing and a Pam an, killed 583 people making this the <span style="text-decoration: underline;">biggest tragedy in the history of aviation. The reasons are several, one of this was a terroristic attack at the main Gran Canaria aiport that caused the air traffic to be moved to Tenerife.
+In 1977 at the **Tenerife airport** a collision between a klm boing and a Pam an, killed 583 people making this the biggest tragedy in the history of aviation. The reasons are several, one of this was a terroristic attack at the main Gran Canaria aiport that caused the air traffic to be moved to Tenerife.
 
 **9 The world's smallest hotel is on the Hierro island.**
 
 With only 4 rooms but a beautiful view, this small hotel has the record to be the smallest in the world.
 
-<img src="/img/uploads/2014/04/hierro-hotel.jpg" alt="smallest hotel in the world" width="500" height="380" srcset="/img/uploads/2014/04/hierro-hotel.jpg 500w, /img/uploads/2014/04/hierro-hotel-300x228.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />
+![Expat Stories](/img/uploads/2014/04/hierro-hotel.jpg)
 
 **10 The Wind-Hydro-Pumped Station of El Hierro will power the entire region with sustainable energy.**
 
 In 1997, El Hierro was the first in the **Canary Islands** to adopt a sustainable development plan to protect its environmental and cultural richness, prompting UNESCO to declare the entire island a biosphere reserve in 2000.
 
 The goal is to power the entire region only using sustainable energy.
-
-<span style="color: #4189dd; font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-weight: bold; line-height: normal;"> 
-
-: /img/uploads/2014/04/hierro.jpg
-: /img/uploads/2014/04/hierro-hotel.jpg
