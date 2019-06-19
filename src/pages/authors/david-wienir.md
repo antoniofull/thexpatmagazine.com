@@ -1,6 +1,7 @@
 ---
 templateKey: blog-author
 role: guest-author
+name: David Wienir
 bio: >-
   David Wienir is a business affairs executive at United Talent Agency and
   entertainment law instructor at UCLA Extension. Before UTA, he practiced law

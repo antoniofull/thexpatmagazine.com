@@ -5,13 +5,14 @@ import Layout from '../../components/Layout';
 
 const AuthorsPage = ({ data }) => {
   const { authors, guests } = data;
+  console.log(data);
   return (
     <Layout>
       <section className='section'>
         <Helmet title={`Tags `} />
         {authors.edges.map(author => (
           <Link to={author.node.fields.slug} key={author.node.id}>
-            {author.node.frontmatter.title}
+            {author.node.frontmatter.name}
           </Link>
         ))}
         {guests.edges.map(author => (
@@ -45,6 +46,7 @@ export const AuthorsQuery = graphql`
             pinterest
             facebook
             twitter
+            name
             instagram
             photo {
               childImageSharp {
