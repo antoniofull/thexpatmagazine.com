@@ -4,6 +4,7 @@ title: Amsterdam Exposed
 date: 2019-03-25T20:15:37.000Z
 description: "This is an excerpt from the book: Amsterdam Exposed, an American's journey into the red light district. By David Wienir.\_"
 featuredimage: /img/amsterdam-exposed-cover-small.jpg
+imagealt: Amsterdam Exposed
 tags:
   - amazon
   - amsterdam
@@ -13,7 +14,7 @@ country:
   - Netherlands
 category:
   - stories
-author: Editorial Team
+author: 'david wienir '
 ---
 
 **This is an excerpt from the book:** [Amsterdam Exposed](https://www.amsterdamexposed.com/home.html): **an American's journey into the red light district.** From [David Wienir](https://www.amsterdamexposed.com/author.html).
