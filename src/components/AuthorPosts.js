@@ -46,7 +46,6 @@ export default props => (
                 slug
               }
               frontmatter {
-                title
                 bio
                 name
                 photo {

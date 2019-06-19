@@ -69,6 +69,7 @@ const Post = ({ post }) => (
 const AuthorRoute = props => {
   const posts = props.pageContext.group;
   const author = props.data.markdownRemark;
+  console.log(props);
   return (
     <Layout>
       <Helmet

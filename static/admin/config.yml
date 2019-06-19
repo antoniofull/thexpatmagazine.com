@@ -68,8 +68,8 @@ collections:
         widget: 'relation'
         collection: 'authors'
         searchFields: ['name']
-        valueField: 'title'
-        displayFields: ['title']
+        valueField: 'name'
+        displayFields: ['name']
 
   - name: 'category'
     label: 'Category'
@@ -133,11 +133,7 @@ collections:
           options: ['author', 'guest-author'],
         }
       - { label: 'Name', name: 'name', widget: 'string' }
-      - {
-          label: 'Title (used for the url, do not use accent or other characters)',
-          name: 'title',
-          widget: 'string',
-        }
+
       - { label: 'Bio (In Markdown)', name: 'bio', widget: 'markdown' }
       - { label: 'Photo', name: 'photo', widget: image }
       - { label: 'Website', name: 'website', widget: 'string', required: false }
