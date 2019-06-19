@@ -69,83 +69,85 @@ const Post = ({ post }) => (
 const AuthorRoute = props => {
   const posts = props.pageContext.group;
   const author = props.data.markdownRemark;
-  console.log(props);
-  return (
-    <Layout>
-      <Helmet
-        title={`${author.frontmatter.name} - ${author.frontmatter.bio}`}
-      />
-      <section className='blog-author'>
-        <div className='author'>
-          <h2 className='author__title'>{author.frontmatter.name}</h2>
-          <div className='author__info'>
-            <Image
-              className='author__image'
-              sizes={author.frontmatter.photo.childImageSharp.sizes}
-            />
-            <p>{author.frontmatter.bio}</p>
-          </div>
-          <ul className='author__social'>
-            {author.frontmatter.instagram && (
-              <li>
-                <a
-                  rel='noopener noreferrer'
-                  target='_blank'
-                  href={author.frontmatter.instagram}
-                >
-                  <InstagramIcon />
-                </a>
-              </li>
-            )}
-            {author.frontmatter.facebook && (
-              <li>
-                <a
-                  rel='noopener noreferrer'
-                  target='_blank'
-                  href={author.frontmatter.facebook}
-                >
-                  <FacebookIcon />
-                </a>
-              </li>
-            )}
-            {author.frontmatter.pinterest && (
-              <li>
-                <a
-                  rel='noopener noreferrer'
-                  target='_blank'
-                  href={author.frontmatter.pinterest}
-                >
-                  <PinterestIcon />
-                </a>
-              </li>
-            )}
-            {author.frontmatter.twitter && (
-              <li>
-                <a
-                  rel='noopener noreferrer'
-                  target='_blank'
-                  href={author.frontmatter.twitter}
-                >
-                  <TwitterIcon />
-                </a>
-              </li>
-            )}
-          </ul>
-        </div>
-
-        <h2 className='author__all'>{`All Articles from ${author.frontmatter.title}`}</h2>
-        <div className='container-home--articles'>
-          {posts.map(post => (
-            <Post post={post} key={post.node.id} />
-          ))}
-        </div>
-        <Pagination
-          count={props.pageContext.pageCount}
-          author={props.pageContext.author}
+  if (author) {
+    return (
+      <Layout>
+        <Helmet
+          title={`${author.frontmatter.name} - ${author.frontmatter.bio}`}
         />
-      </section>
-    </Layout>
-  );
+        <section className='blog-author'>
+          <div className='author'>
+            <h2 className='author__title'>{author.frontmatter.name}</h2>
+            <div className='author__info'>
+              <Image
+                className='author__image'
+                sizes={author.frontmatter.photo.childImageSharp.sizes}
+              />
+              <p>{author.frontmatter.bio}</p>
+            </div>
+            <ul className='author__social'>
+              {author.frontmatter.instagram && (
+                <li>
+                  <a
+                    rel='noopener noreferrer'
+                    target='_blank'
+                    href={author.frontmatter.instagram}
+                  >
+                    <InstagramIcon />
+                  </a>
+                </li>
+              )}
+              {author.frontmatter.facebook && (
+                <li>
+                  <a
+                    rel='noopener noreferrer'
+                    target='_blank'
+                    href={author.frontmatter.facebook}
+                  >
+                    <FacebookIcon />
+                  </a>
+                </li>
+              )}
+              {author.frontmatter.pinterest && (
+                <li>
+                  <a
+                    rel='noopener noreferrer'
+                    target='_blank'
+                    href={author.frontmatter.pinterest}
+                  >
+                    <PinterestIcon />
+                  </a>
+                </li>
+              )}
+              {author.frontmatter.twitter && (
+                <li>
+                  <a
+                    rel='noopener noreferrer'
+                    target='_blank'
+                    href={author.frontmatter.twitter}
+                  >
+                    <TwitterIcon />
+                  </a>
+                </li>
+              )}
+            </ul>
+          </div>
+
+          <h2 className='author__all'>{`All Articles from ${author.frontmatter.title}`}</h2>
+          <div className='container-home--articles'>
+            {posts.map(post => (
+              <Post post={post} key={post.node.id} />
+            ))}
+          </div>
+          <Pagination
+            count={props.pageContext.pageCount}
+            author={props.pageContext.author}
+          />
+        </section>
+      </Layout>
+    );
+  }
+  return null;
 };
 
 export default AuthorRoute;
