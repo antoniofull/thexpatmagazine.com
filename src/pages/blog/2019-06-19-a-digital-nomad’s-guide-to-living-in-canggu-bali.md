@@ -13,9 +13,9 @@ description: >-
 featuredimage: /img/christopher-alvarenga-1492918-unsplash.jpg
 imagealt: Canggu Bali
 tags:
-  - Indonesia
   - Digital nomads
-country: []
+country:
+  - Indonesia
 category:
   - expat tips
 author: Maryn Macdonnell
