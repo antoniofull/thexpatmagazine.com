@@ -14,12 +14,11 @@ const TemplateWrapper = ({ children }) => {
   const site = useSiteMetadata();
 
   return (
-    <div>
+    <React.Fragment>
       <Helmet>
         <html lang='en' />
         <title>{site.title}</title>
         <meta name='description' content={site.description} />
-
         <link
           rel='apple-touch-icon'
           sizes='180x180'
@@ -49,15 +48,11 @@ const TemplateWrapper = ({ children }) => {
         <meta property='og:title' content={site.title} />
         <meta property='og:url' content='/' />
         <meta property='og:image' content='/img/og-image.jpg' />
-        <link
-          href='https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i|Playfair+Display:900|Open+Sans:300&display=swap'
-          rel='stylesheet'
-        />
       </Helmet>
       <Navbar />
       <div>{children}</div>
       <Footer site={site} />
-    </div>
+    </React.Fragment>
   );
 };
 

@@ -18,6 +18,15 @@ module.exports = {
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     `gatsby-plugin-transition-link`,
+    `gatsby-plugin-lodash`,
+    {
+      resolve: 'gatsby-plugin-web-font-loader',
+      options: {
+        google: {
+          families: ['Lora|Playfair+Display:900|Open+Sans&display=swap']
+        }
+      }
+    },
     {
       resolve: `gatsby-plugin-feed`,
       options: {
@@ -171,6 +180,17 @@ module.exports = {
         develop: true // Activates purging in npm run develop
       }
     }, // must be after other CSS plugins
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `The Expat Magazine`,
+        short_name: `Expat Magazine`,
+        start_url: `/`,
+        background_color: `#f7f0eb`,
+        theme_color: `#a2466c`,
+        display: `standalone`
+      }
+    },
     'gatsby-plugin-netlify' // make sure to keep it last in the array
   ],
   // for avoiding CORS while developing Netlify Functions locally
