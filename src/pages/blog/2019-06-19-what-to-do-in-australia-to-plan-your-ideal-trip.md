@@ -12,6 +12,7 @@ featuredimage: /img/keith-zhu-638314-unsplash.jpg
 imagealt: Australia
 tags:
   - Trip Australia
+country:
   - Australia
 category:
   - destinations
