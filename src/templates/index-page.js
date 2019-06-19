@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { graphql } from 'gatsby';
 import Helmet from 'react-helmet';
-import CookieBanner from 'react-cookie-banner';
+import { CookieBanner } from '@palmabit/react-cookie-law';
 
 import Layout from '../components/Layout';
 import FeaturedPosts from '../components/FeaturedPosts';
@@ -91,10 +91,17 @@ class IndexPage extends Component {
             />
             <Tips authors={authors} posts={tips} count={tips.length} />
           </main>
+
           <CookieBanner
-            message='This website uses cookie, read more about it on our privacy page!'
+            message='This website uses cookie, read more about it on our privacy page'
             onAccept={() => {}}
-            cookie='user-has-accepted-cookies'
+            onAcceptPreferences={() => {}}
+            onAcceptStatistics={() => {}}
+            onAcceptMarketing={() => {}}
+            policyLink={'/pages/privacy-and-cookies-policy/'}
+            dismissOnScroll={true}
+            showPreferencesOption={false}
+            necessaryOptionText='Allow Cookies'
           />
         </Layout>
       );
