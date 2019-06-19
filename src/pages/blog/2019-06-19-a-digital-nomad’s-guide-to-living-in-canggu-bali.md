@@ -18,8 +18,9 @@ tags:
 country: []
 category:
   - expat tips
-author: maryn macdonnell
+author: Maryn Macdonnell
 ---
+
 Canggu is one of the most chilled out places in the world. It sits north of Kuta and Seminyak, which are hotspots for tourist party scenes. It is located just 45 minutes from the airport in Denspar via taxi. If you are looking for a carefree surfer life, you will find it here. You can catch a wave any day and its warm water means there is no need for a wetsuit. If you are in search of an endless summer, this is the place to visit. Here is what you need to know about living in Canggu.
 
 ## Applying for a Visa
