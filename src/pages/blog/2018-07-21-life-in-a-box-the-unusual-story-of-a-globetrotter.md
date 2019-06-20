@@ -1,20 +1,23 @@
 ---
 templateKey: blog-post
-title: Life in a Box, the Unusual Story of a Globetrotter
-author: Rossella Daví
-type: post
+title: 'Life in a Box, the Unusual Story of a Globetrotter'
 date: 2018-07-21T18:48:27.000Z
-url: /2018/expat-life/life-in-a-box-the-unusual-story-of-a-globetrotter/
+description: >-
+  Today I'd like to share with you all the feelings and emotions I got when I
+  had the privilege to listen to the story of the life in a box of the more
+  unusual globetrotter I ever met.
 featuredimage: /wp-content/uploads/2018/07/IMG_4297.jpg
-country:
-  - Expat
-  - Inspiration
+imagealt: Globetrotter
 tags:
   - expat story
   - living abroad
+country:
+  - Expat
+  - Inspiration
 category:
-  - expat tips
-  - destinations
+  - stories
+  - travel tips
+author: Rossella Daví
 ---
 
 Hello travellers,
