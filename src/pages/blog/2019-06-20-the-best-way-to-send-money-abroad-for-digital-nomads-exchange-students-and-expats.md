@@ -11,6 +11,7 @@ description: >-
   Indeed, it usually is expensive, takes time and untrustworthy (what if the
   money does not arrive?). Your concerns are more than natural and you should be
   worried.
+featuredpost: true
 featuredimage: /img/monito-new-homepage.jpeg
 imagealt: Sending money abroad
 tags:
