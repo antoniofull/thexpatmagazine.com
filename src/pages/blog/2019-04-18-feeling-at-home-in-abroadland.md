@@ -7,6 +7,7 @@ description: >-
   what is left when specific walls are taken away, what is in the core of home?
   And what things can add the feeling of home to you?
 featuredimage: /img/feeling-expat.jpg
+imagealt: feeling at home
 tags:
   - expat experience
   - expat story
@@ -15,7 +16,7 @@ country:
   - Living abroad
 category:
   - expat tips
-author: Editorial Team
+author: Helena Jalanka
 ---
 
 **How to find a home abroad? Not the physical property but quite the opposite: what is left when specific walls are taken away, what is in the core of home? And what things can add the feeling of home to you?**
