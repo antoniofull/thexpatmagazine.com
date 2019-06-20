@@ -16,8 +16,9 @@ country:
   - Australia
 category:
   - destinations
-author: rebecca siggers
+author: Rebecca Siggers
 ---
+
 What comes to your mind when you think of Australia? For most of us, Australia is reminiscent of kangaroos, the opera house, and the barrier reef. And perhaps also of koalas and the famous Australian team. Yes, these are definitely the places and things that entice people when they think of Australia.
 
 But if you are planning to head to Australia, then you need not be stuck with just these few places and things. Because Australia is much more than this! Yes, not only there are many places to visit but also you could choose from a variety of options such as short city breaks, nature trails, and hiking, and so much more. You can opt for laid back barbeque afternoons or some sports commending an adrenaline rush. Alternatively, go for long coastal drives and enjoy the beauty of the landscape. Basically, first, you need to make up your mind on what to do in Australia and then plan likewise.
@@ -38,9 +39,9 @@ Sydney (also known as Harbour City) is the country’s oldest city. It is also o
 
 **\#3 Melbourne**
 
-Melbourne is the second most populous city in Australia after Sydney.  You will find tree-lined boulevards, the modern Federation Square, the Melbourne Arts Precinct, the Melbourne Zoo and Melbourne Aquarium, Queen Victoria Market and the Skydeck 88 viewpoint for a panoramic city view as some interesting attractions.
+Melbourne is the second most populous city in Australia after Sydney. You will find tree-lined boulevards, the modern Federation Square, the Melbourne Arts Precinct, the Melbourne Zoo and Melbourne Aquarium, Queen Victoria Market and the Skydeck 88 viewpoint for a panoramic city view as some interesting attractions.
 
- **\#4 Brisbane**
+**\#4 Brisbane**
 
 This modern city is popular for the famous Queensland Museum and Science centre and Queensland Gallery of Modern Art.
 

@@ -85,7 +85,6 @@ body.body-home {
 .article--home {
   flex: 1 1 auto;
   margin-bottom: var(--margin-xxl);
-
   justify-content: space-between;
 }
 .article-home__header a,
@@ -98,6 +97,13 @@ body.body-home {
 }
 .article--home__content {
   padding: var(--padding-l);
+}
+.authors {
+  padding-top: var(--padding-xl);
+}
+.authors h2 {
+  text-align: center;
+  margin-bottom: var(--margin-xl);
 }
 @media screen and (min-width: 667px) {
   .article--home {

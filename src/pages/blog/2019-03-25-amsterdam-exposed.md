@@ -14,7 +14,7 @@ country:
   - Netherlands
 category:
   - stories
-author: 'david wienir '
+author: David Wienir
 ---
 
 **This is an excerpt from the book:** [Amsterdam Exposed](https://www.amsterdamexposed.com/home.html): **an American's journey into the red light district.** From [David Wienir](https://www.amsterdamexposed.com/author.html).

@@ -69,6 +69,7 @@ const Post = ({ post }) => (
 const AuthorRoute = props => {
   const posts = props.pageContext.group;
   const author = props.data.markdownRemark;
+  console.log(props);
   if (author) {
     return (
       <Layout>
@@ -147,7 +148,7 @@ const AuthorRoute = props => {
       </Layout>
     );
   }
-  return null;
+  return <div>test</div>;
 };
 
 export default AuthorRoute;
@@ -167,6 +168,7 @@ export const AuthorQuery = graphql`
         instagram
         pinterest
         photo {
+          id
           childImageSharp {
             sizes(maxWidth: 700) {
               ...GatsbyImageSharpSizes

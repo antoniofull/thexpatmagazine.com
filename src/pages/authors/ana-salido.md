@@ -6,4 +6,3 @@ bio: "Ana Salido is a Life Coach, Psychologist and entrepreneur on a mission to 
 photo: /img/ana-salido.jpg
 website: 'https://anasalido.com'
 ---
-
