@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
-title: 'Outbound App : The Social Network For Travellers'
-author: Editorial Team
-type: post
+title: 'Outbound App: The Social Network For Travellers'
 date: 2015-01-18T10:01:34.000Z
-url: /2015/travel/outbound-app-social-network-travellers/
+description: "We had finally the opportunity to test the new app <a href=\"https://www.outboundapp.org\"  target=\"_blank\" rel=\"noopener noreferrer\">Outbound</a>, released just few days ago. I can say I was quite excited to give it a try\_as finally we can have a sort of social network dedicated only to travellers. (I'm personally not a big fan of Facebook)"
 featuredimage: /wp-content/uploads/2015/01/Screen-Shot-2015-01-18-at-10.58.11.png
-country:
-  - Travel
+imagealt: Social network for traveller
 tags:
   - app
   - outbound
   - travel apps
+country:
+  - Travel
 category:
   - expat tips
   - destinations
+author: Editorial Team
 ---
 
 We had finally the opportunity to test the new app <a href="https://www.outboundapp.org"  target="_blank" rel="noopener noreferrer">Outbound</a>, released just few days ago. I can say I was quite excited to give it a try as finally we can have a sort of social network dedicated only to travellers. (I'm personally not a big fan of Facebook)
