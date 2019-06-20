@@ -12,6 +12,8 @@ featuredimage: /img/element5-digital-352043-unsplash.jpg
 imagealt: Local language
 tags:
   - Learning languages
+country:
+  - Macedonia
 category:
   - expat tips
 author: Elena Filipovska-Bozinovska
