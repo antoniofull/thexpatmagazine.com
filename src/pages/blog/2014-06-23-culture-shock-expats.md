@@ -1,17 +1,20 @@
 ---
 templateKey: blog-post
-title: 'Culture shock : what it is and how to deal with it.'
-author: Editorial Team
-type: post
+title: 'Culture shock: what it is and how to deal with it.'
 date: 2014-06-23T20:31:23.000Z
-url: /2014/expat-life/culture-shock-expats/
+description: >-
+  Let's be honest, the word culture shock is kinda of scary. I think almost any
+  expat has heard of it and most of them get scared, the word shock itself is
+  not encouraging
 featuredimage: /wp-content/uploads/2014/06/culture-667x500.jpg
+imagealt: Culture shock
 tags:
   - culture shock
   - expat life
   - expats
 category:
   - expat tips
+author: Editorial Team
 ---
 
 <span >Let's be honest, the word culture shock is kinda of scary. I think almost any expat has heard of it and most of them get scared, the word shock itself is not encouraging.<!--more-->
