@@ -1,25 +1,26 @@
 ---
 templateKey: blog-post
-title: From Brazil To Malaysia, Bruno’s Experience as an Expat
-author: Editorial Team
-type: post
+title: 'From Brazil To Malaysia, Bruno’s Experience as an Expat'
 date: 2018-04-17T13:00:01.000Z
-url: /2018/expat-life/from-brazil-to-malaysia/
+description: >-
+  Bruno left Brazil, turned his passion into a job and started a new life in
+  Malaysia. He answers our questions to share his story and experience.
 featuredimage: /wp-content/uploads/2018/04/city-1283140_1920.jpg
-country:
-  - Expat
-  - Interviews
+imagealt: Brazil
 tags:
   - brazil
   - expat life
   - expat living
   - expat story
   - malaysia
+country:
+  - Expat
+  - Interviews
 category:
-  - expat tips
   - destinations
+  - stories
+author: Editorial Team
 ---
-
 Bruno left Brazil, turned his passion into a job and started a new life in Malaysia. He answers our questions to share his story and experience.
 
 #### First of all, thank you Bruno for sharing your experience with us. Just to get started, can you tell us something about you?
