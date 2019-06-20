@@ -1,20 +1,23 @@
 ---
 templateKey: blog-post
 title: How I ended up living in Utrecht
-author: Editorial Team
-type: post
 date: 2018-03-09T08:04:13.000Z
-url: /2018/europe/netherlands/ended-living-utrecht/
+description: >-
+  Have you ever had the feeling of wanting to change, leave, explore new places
+  and experiences? Much more if you feel stuck in the small town where being
+  open minded is not that popular. Yes, this is how I felt and why I decided to
+  leave the sunny and warm Calabria to ended up living in Utrecht.
 featuredimage: /wp-content/uploads/2018/03/199007_1850589581015_4785362_n.jpg
-country:
-  - Netherlands
+imagealt: Utrecht
 tags:
   - expat life
   - living abroad
   - utrecht
+country:
+  - Netherlands
 category:
-  - expat tips
-  - destinations
+  - stories
+author: Editorial Team
 ---
 
 Have you ever had the feeling of wanting to change, leave, explore new places and experiences? Much more if you feel stuck in the small town where being open minded is not that popular. Yes, this is how I felt and why I decided to leave the sunny and warm Calabria to ended up living in **Utrecht**.
