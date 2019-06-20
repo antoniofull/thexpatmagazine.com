@@ -1,17 +1,22 @@
 ---
 templateKey: blog-post
 title: 'A Scandinavian in Sardinia: a breakdown over tea'
-author: Editorial Team
-type: post
 date: 2019-01-16T13:00:47.000Z
-url: /2019/europe/italy/scandinavian-in-sardinia/
+description: >-
+  Bee is from Norway originally and has lived for 11 years in Scotland. She
+  loved it there and would happily move back at some point. So, why and how did
+  she end up in Sardinia?
 featuredimage: /wp-content/uploads/2019/01/fullsizeoutput_888.jpg
-country:
-  - Italy
+imagealt: Sardinia
 tags:
   - expat experience
   - expat story
   - sardinia
+country:
+  - Italy
+category:
+  - stories
+author: Editorial Team
 ---
 
 Bee is from Norway originally and has lived for 11 years in Scotland. She loved it there and would happily move back at some point. So, why and how did she end up in Sardinia?
