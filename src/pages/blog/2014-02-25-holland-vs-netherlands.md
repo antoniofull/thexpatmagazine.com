@@ -5,7 +5,7 @@ date: 2014-02-25T07:30:36.000Z
 description: >-
   Europe is full of history. Netherlands is one of these countries with a long
   history and for Us living overseas most of this history is completely unknown.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/netherlands-751x500.jpg
 imagealt: The Netherlands
 tags:
