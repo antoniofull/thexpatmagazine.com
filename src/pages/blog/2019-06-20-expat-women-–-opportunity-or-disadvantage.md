@@ -8,6 +8,7 @@ description: >-
   leaving their family, friends and social networks to support their
   husband/partner. And let’s face facts, very few individuals would pass up an
   opportunity to live and work abroad if it were presented to them.
+featuredpost: true
 featuredimage: /img/idea-1880978_1920.jpg
 imagealt: Expat women
 tags:
