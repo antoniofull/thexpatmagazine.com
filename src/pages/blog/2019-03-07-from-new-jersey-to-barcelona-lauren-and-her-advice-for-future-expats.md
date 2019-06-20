@@ -5,9 +5,10 @@ date: 2019-03-07T20:21:37.000Z
 description: >-
   Moving from New Jersey to Barcelona is quite a change! It is a change that
   makes you enjoy life and embrace everything that comes with it. Of course,
-  it's not always so easy. Things don't always go smoothly, but with
-  advice for future expats, it could help to embrace this change much easier.
+  it's not always so easy. Things don't always go smoothly, but with advice for
+  future expats, it could help to embrace this change much easier.
 featuredimage: /img/barcelona-cathedral.jpg
+imagealt: Barcelona
 tags:
   - barcelona
   - expat story
@@ -15,6 +16,7 @@ country:
   - Spain
 category:
   - stories
+  - destinations
 author: Editorial Team
 ---
 
