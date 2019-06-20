@@ -1,24 +1,28 @@
 ---
 templateKey: blog-post
-title: My Expat Life between London, Amsterdam and Barcelona
-author: Editorial Team
-type: post
+title: 'My Expat Life between London, Amsterdam and Barcelona'
 date: 2018-05-07T18:06:55.000Z
-url: /2018/europe/netherlands/expat-london-amsterdam-barcelona/
+description: >-
+  I am Alessio, 29 years old and I come from a small village of 850 inhabitants
+  in the north of Sardinia called Ardara. It was 2008 when my expat life
+  started, when I decided to try a new experience and think of my personal
+  growth, enrich my culture and my habits in another country.
 featuredimage: /wp-content/uploads/2018/05/IMG_5584-e1526734827525.jpg
-country:
-  - Living abroad
-  - Netherlands
-  - Spain
-  - United Kingdom
+imagealt: 'London, Amsterdam and Barcelona'
 tags:
   - amsterdam
   - barcelona
   - expat life
   - london
+country:
+  - Living abroad
+  - Netherlands
+  - Spain
+  - United Kingdom
 category:
-  - expat tips
   - destinations
+  - stories
+author: Editorial Team
 ---
 
 I am Alessio, 29 years old and I come from a small village of 850 inhabitants in the north of Sardinia called Ardara. It was 2008 when my expat life started, when I decided to try a new experience and think of my personal growth, enrich my culture and my habits in another country. I remember to be very scared and I can still clearly remember what my mother said back then "but where are you going? I'm sure that in two weeks you will be back home" and well yes, this is what she said 11 years ago and I am still living abroad 🙂
