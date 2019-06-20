@@ -1,19 +1,24 @@
 ---
 templateKey: blog-post
 title: The goodbye and its beauty
-author: Rossella Daví
-type: post
 date: 2019-02-20T17:54:18.000Z
-url: /2019/america/the-goodbye-and-its-beauty/
-featuredimage: /wp-content/uploads/2019/02/IMG_1578-768x1152.jpg
+description: >-
+  Why we need to be sad every time we pronounce or hear the word "goodbye"?! Can
+  we learn anything from it?I​t was March 2012 and Ross was leaving London to
+  move back, with his family, to the States. He had spent the last 2 years and a
+  half in London meeting the best friends of his life. He was obviously sad but
+  suddenly something happened.
+featuredimage: /img/farewell-3258939_1920.jpg
+imagealt: goodbye
+tags:
+  - expat story
 country:
   - America
   - Expat
-tags:
-  - expat story
 category:
   - expat tips
-  - destinations
+  - stories
+author: Rossella Daví
 ---
 
 Why we need to be sad every time we pronounce or hear the word "goodbye"?! Can we learn anything from it?
