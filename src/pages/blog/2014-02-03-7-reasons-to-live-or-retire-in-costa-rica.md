@@ -5,7 +5,7 @@ date: 2014-02-03T11:36:00.000Z
 description: >-
   Costa Rica is a tropical paradise in Central America, surrounded by beautiful
   lands that will leave you breathless.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/atanas-malamov.jpg
 imagealt: >-
   Photo by [Atanas
