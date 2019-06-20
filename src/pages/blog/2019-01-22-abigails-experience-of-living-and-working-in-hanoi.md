@@ -1,21 +1,26 @@
 ---
 templateKey: blog-post
 title: Abigail’s experience of living and working in Hanoi
-author: Editorial Team
-type: post
 date: 2019-01-22T19:19:14.000Z
-url: /2019/living-abroad/abigails-experience-of-living-and-working-in-hanoi/
+description: >-
+  With one of the fastest growing economies in Asia, <a 
+  href="https://thexpatmagazine.com/thexpatmagazine-wp/2018/expat-life/teaching-abroad-and-living-a-bourgeois-existence-in-hanoi/">Vietnam</a>
+  is seeing a rise in expats who are choosing the country as their first choice
+  for living and working. In 2017 Abigail Burrow found herself making the same
+  decision and moved to Hanoi, the country’s capital.
 featuredimage: /wp-content/uploads/2019/01/2-Air-Pollution-1.jpg
-country:
-  - Interviews
-  - Living abroad
+imagealt: Hanoi
 tags:
   - living abroad
   - vietnam
   - working abroad
+country:
+  - Interviews
+  - Living abroad
 category:
   - expat tips
-  - destinations
+  - stories
+author: Editorial Team
 ---
 
 With one of the fastest growing economies in Asia, <a  href="https://thexpatmagazine.com/thexpatmagazine-wp/2018/expat-life/teaching-abroad-and-living-a-bourgeois-existence-in-hanoi/">Vietnam</a> is seeing a rise in expats who are choosing the country as their first choice for living and working. In 2017 Abigail Burrow found herself making the same decision and moved to Hanoi, the country’s capital.
