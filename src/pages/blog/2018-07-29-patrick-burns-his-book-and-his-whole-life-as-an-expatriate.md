@@ -1,20 +1,23 @@
 ---
 templateKey: blog-post
-title: Patrick Burns, his book and his whole life as an expatriate
-author: Editorial Team
-type: post
+title: 'Patrick Burns, his book and his whole life as an expatriate'
 date: 2018-07-29T19:18:23.000Z
-url: /2018/expat-life/patrick-burns-his-book-and-his-whole-life-as-an-expatriate/
+description: >-
+  Today's amazing story is shared by Patrick Burns, the author of Far Away and
+  Further Back, who has lived his entire life as an expatriate and decided to
+  write a book which includes chapters of expat's stories.
 featuredimage: /wp-content/uploads/2018/07/Linked-in-cover.png
-country:
-  - Expat
-  - Interviews
+imagealt: expatriate
 tags:
   - expat story
   - writer
+country:
+  - Expat
+  - Interviews
 category:
   - expat tips
-  - destinations
+  - stories
+author: Editorial Team
 ---
 
 Today's amazing story is shared by Patrick Burns, the author of _Far Away and Further Back_, who has lived his entire life as an expatriate and decided to write a book which includes chapters of expat's stories.
