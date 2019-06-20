@@ -1,19 +1,19 @@
 ---
 templateKey: blog-post
 title: 'I am a Traveller, not a Tourist: Maria Giovanna’s Project to Travel Europe'
-author: Rossella Daví
-type: post
 date: 2018-06-08T16:34:57.000Z
-url: /2018/europe/i-am-a-traveller-not-a-tourist/
+description: "Are you a traveller or a tourist?I​ guess we have read so many times about people who consider themselves travellers and not just tourists.\_ In the beginning, I couldn't really understand what they meant and now, after all my travelling experiences I see it clearer​ but if there are still some doubts let's have a look at Maria Giovanna's interview, read about her project and how she defines herself."
 featuredimage: /wp-content/uploads/2018/06/13445369_10153786440908215_20099517409138804_n.jpg
-country:
-  - Europe
+imagealt: Traveller
 tags:
   - european capitals
   - travelling
+country:
+  - Europe
 category:
-  - expat tips
   - destinations
+  - stories
+author: Rossella Daví
 ---
 
 Are you a traveller or a tourist?
