@@ -16,6 +16,7 @@ country:
   - Australia
 category:
   - destinations
+  - travel tips
 author: Rebecca Siggers
 ---
 
