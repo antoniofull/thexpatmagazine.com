@@ -2,8 +2,9 @@
 templateKey: blog-post
 title: 10 facts to know about Canary islands
 date: 2014-04-06T14:46:47.000Z
-description: Canary Islands
+description: "Canary island is an\_archipelago situated to the\_northwest coast of mainland Africa, 100 kilometres (62 miles) west of the border between Morocco and the Western Sahara. Is a favorite place for tourist because of the sub-tropical weather and the beautiful beaches, is also quite cheap.\_"
 featuredimage: /img/hierro.jpg
+imagealt: Canary Islands
 tags:
   - canarias
   - canary islands
@@ -11,18 +12,17 @@ tags:
 country:
   - Spain
 category:
-  - expat tips
   - destinations
+  - travel tips
 author: Editorial Team
 ---
-
-Canary island is an archipelago situated to the northwest coast of mainland Africa, 100 kilometres (62 miles) west of the border between Morocco and the Western Sahara. Is a favorite place for tourist because of the sub-tropical weather and the beautiful beaches, is also quite cheap. <!--more-->
+Canary island is an archipelago situated to the northwest coast of mainland Africa, 100 kilometres (62 miles) west of the border between Morocco and the Western Sahara. Is a favorite place for tourist because of the sub-tropical weather and the beautiful beaches, is also quite cheap. 
 
 But also many expats decided to live there,  Canary island is a little bit like the Costa Rica for european 🙂 Here then things you should know about Canary island but you probably didn't.
 
 **1 The name Canary has nothing to do with birds, but instead comes from dogs.**
 
-The name of canary is not inspired by birds, canaries, as the name could seems. Instead, it comes from dogs, two mastiff found from the soldier of King **Juba II de Mauritania when** entered the region. The king appreciated them and thought they were there to defend the region, here the name \_**canis **(dogs in latin)  _and then **Canarias.**
+The name of canary is not inspired by birds, canaries, as the name could seems. Instead, it comes from dogs, two mastiff found from the soldier of King **Juba II de Mauritania when** entered the region. The king appreciated them and thought they were there to defend the region, here the name _**canis** (dogs in latin)  _and then **Canarias.**
 
 **2 The canary island pine is a tree capable of resist to fire.**
 
