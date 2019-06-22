@@ -1,22 +1,29 @@
 ---
 templateKey: blog-post
-title: '10 Incredible Secret and Beautiful little town in Europe, number #4 is my favorite.'
-author: Editorial Team
-type: post
+title: >-
+  10 Incredible Secret and Beautiful little town in Europe, number #4 is my
+  favorite.
 date: 2014-11-13T18:00:38.000Z
-url: /2014/europe/8-amazing-places-europe-live/
+description: >-
+  Europe is big, full of history and with many, many beautiful places. Some of
+  them are really famous, who doesn't know about Paris? But there are some
+  magical, secret places that you probably have not heard so much. If you are
+  considering moving to a place where the quality of life is higher and
+  lifestyle is calm, then you should consider one of the place in this list.
 featuredimage: /wp-content/uploads/2014/11/manarola-italy-800x500.jpg
-country:
-  - Europe
-  - Italy
+imagealt: Europe
 tags:
   - europe
   - little
   - town
   - travelling
+country:
+  - Europe
+  - Italy
 category:
-  - expat tips
   - destinations
+  - travel tips
+author: Editorial Team
 ---
 
 **Europe** is big, full of history and with many, many beautiful places. Some of them are really famous, who doesn't know about Paris? But there are some magical, secret places that you probably have not heard so much. If you are considering moving to a place where the quality of life is higher and lifestyle is calm, then you should consider one of the place in this list.
