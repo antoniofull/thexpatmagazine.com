@@ -1,21 +1,21 @@
 ---
 templateKey: blog-post
 title: ten things you probably did not know about germans
-author: Editorial Team
-type: post
 date: 2014-04-07T16:22:21.000Z
-url: /2014/europe/ten-things-probably-know-germans/
+description: "Germany is actually one of the most wealthy country in Europe, and beside that germans are famous also for their language, which sometimes does not sounds so friendly \_(but of course they are)"
 featuredimage: /wp-content/uploads/2014/04/abendbrot-der-woche-667x500.jpg
-country:
-  - Germany
+imagealt: Germany
 tags:
   - Abendbrot
   - facts
   - germans
   - germany
+country:
+  - Germany
 category:
-  - expat tips
   - destinations
+  - travel tips
+author: Editorial Team
 ---
 
 Germany is actually one of the most wealthy country in Europe, and beside that germans are famous also for their language, which sometimes does not sounds so friendly  (but of course they are) 🙂

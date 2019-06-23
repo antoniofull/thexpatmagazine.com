@@ -1,20 +1,22 @@
 ---
 templateKey: blog-post
 title: My Paradise Called Rotterdam
-author: Editorial Team
-type: post
 date: 2018-04-10T20:00:07.000Z
-url: /2018/europe/rotterdam-netherlands/
+description: >-
+  There are places that I have never thought of visiting, even less to be able
+  to call it home; this is until I found my paradise, which is called Rotterdam.
 featuredimage: /wp-content/uploads/2018/04/rotterdam-1598418_1920.jpg
-country:
-  - Europe
-  - Netherlands
+imagealt: Rotterdam
 tags:
   - living abroad
   - Rotterdam
+country:
+  - Europe
+  - Netherlands
 category:
-  - expat tips
   - destinations
+  - stories
+author: Rossella Daví
 ---
 
 There are places that I have never thought of visiting, even less to be able to call it home; this is until I found my paradise, which is called **Rotterdam**.

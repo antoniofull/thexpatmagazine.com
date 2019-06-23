@@ -1,21 +1,24 @@
 ---
 templateKey: blog-post
 title: The Top 5 Most Amazing Scuba Diving Sites In The World.
-author: Editorial Team
-type: post
 date: 2014-11-20T20:42:29.000Z
-url: /2014/living-abroad/diving-top-sites/
+description: >-
+  Are you a diver or wannabe? Looking for the most beautiful sights to dive? No
+  more searching, we found it! Here the top 5 places in the world where every
+  diver should go at least once in it's life.
 featuredimage: /wp-content/uploads/2014/11/Screen-Shot-2014-11-20-at-21.41.37.png
-country:
-  - Living abroad
+imagealt: Scuba diving sites
 tags:
   - diving
   - expats
   - sea
   - top list
+country:
+  - Living abroad
 category:
-  - expat tips
   - destinations
+  - travel tips
+author: Editorial Team
 ---
 
 Are you a diver or wannabe? Looking for the most beautiful sights to dive? No more searching, we found it! Here the top 5 places in the world where every diver should go at least once in it's life.

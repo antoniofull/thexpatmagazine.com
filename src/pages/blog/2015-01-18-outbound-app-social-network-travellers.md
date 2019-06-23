@@ -12,8 +12,8 @@ tags:
 country:
   - Travel
 category:
-  - expat tips
   - destinations
+  - travel tips
 author: Editorial Team
 ---
 
