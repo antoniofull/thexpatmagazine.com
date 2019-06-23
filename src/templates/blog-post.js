@@ -1,9 +1,8 @@
-import React from 'react';
+import React, { useState } from 'react';
 import PropTypes from 'prop-types';
 import { kebabCase } from 'lodash-es';
 import { graphql, Link } from 'gatsby';
 import Img from 'gatsby-image';
-import { DiscussionEmbed } from 'disqus-react';
 import ReactMarkdown from 'react-markdown';
 
 import AuthorPost from '../components/AuthorPosts';
@@ -31,6 +30,12 @@ const Figcaption = ({ figcaption }) => (
   </figure>
 );
 
+async function getComments({ url, title }) {
+  const Comments = await import('../components/Comments');
+  console.log(Comments.default);
+  return <Comments.default url={url} title={title} />;
+}
+
 export const BlogPostTemplate = ({
   content,
   contentComponent,
@@ -46,9 +51,12 @@ export const BlogPostTemplate = ({
   relatedArticles
 }) => {
   const PostContent = contentComponent || Content;
-  const disqusConfig = {
-    shortname: 'thexpatmagazine',
-    config: { id: url, title }
+
+  const [comments, setComments] = useState(null);
+
+  const handleComments = async (urul, title) => {
+    const module = await import('../components/Comments');
+    setComments(React.createElement(module.default, { url, title }));
   };
 
   return (
@@ -66,11 +74,7 @@ export const BlogPostTemplate = ({
           </p>
 
           <h1 className='post__title'>{title}</h1>
-          <AuthorMeta
-            // readingTime={timeToRead}
-            className='post__author'
-            author={author}
-          />
+          <AuthorMeta className='post__author' author={author} />
         </div>
         {image && (
           <React.Fragment>
@@ -103,9 +107,21 @@ export const BlogPostTemplate = ({
           ) : null}
 
           <AuthorPost author={author} />
-
           <RelatedArticles articles={relatedArticles} />
-          <DiscussionEmbed {...disqusConfig} />
+          <section className='comments'>
+            {comments ? (
+              comments
+            ) : (
+              <button
+                onClick={() => {
+                  handleComments(url, title);
+                }}
+                className='open-comments'
+              >
+                Join the conversation
+              </button>
+            )}
+          </section>
         </div>
       </div>
     </section>

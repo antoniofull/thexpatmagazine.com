@@ -166,6 +166,17 @@
   color: var(--color-primary);
   font-weight: bold;
 }
+.open-comments {
+  border-width: 0;
+  width: 300px;
+  display: block;
+  margin: var(--margin) auto;
+  background-color: var(--color-primary);
+  color: var(--color-white);
+  padding: var(--padding);
+  font-size: 1rem;
+  border-radius: 4px;
+}
 @media screen and (min-width: 667px) {
   .post__content {
     max-width: 80%;
