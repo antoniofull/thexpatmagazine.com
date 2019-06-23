@@ -30,12 +30,6 @@ const Figcaption = ({ figcaption }) => (
   </figure>
 );
 
-async function getComments({ url, title }) {
-  const Comments = await import('../components/Comments');
-  console.log(Comments.default);
-  return <Comments.default url={url} title={title} />;
-}
-
 export const BlogPostTemplate = ({
   content,
   contentComponent,
