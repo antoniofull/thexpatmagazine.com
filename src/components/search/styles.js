@@ -13,15 +13,22 @@ export const SearchIcon = styled(Search)`
   width: 1rem;
   pointer-events: none;
   color: #3a3a3a;
+  @media (max-width: 1024px) {
+    position: absolute;
+    right: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+    margin: 0;
+  }
 `;
 
 const focus = css`
   background: white;
   color: #3a3a3a;
   cursor: text;
-  width: 5em;
+  width: 10rem;
   + ${SearchIcon} {
-    color: ${props => props.theme.darkBlue};
+    color: var(--color-text);
     margin: 0.3em;
   }
 `;
@@ -48,6 +55,14 @@ const expand = css`
   padding-left: 1.6em;
   + ${SearchIcon} {
     margin: 0.3em;
+    @media (max-width: 1024px) {
+      margin: 0;
+    }
+  }
+  @media (max-width: 1024px) {
+    width: 100%;
+    padding: var(--padding);
+    background: white;
   }
 `;
 
@@ -58,14 +73,17 @@ export const Input = styled.input`
   background: transparent;
   transition: all 0.2s;
   border-radius: 4px;
-  {hightlight-next-line}
   ${props => (props.collapse ? collapse : expand)};
+  @media (max-width: 1024px) {
+    ${expand};
+  }
 `;
 
 export const Form = styled.form`
   display: flex;
   flex-direction: row-reverse;
   align-items: center;
+  position: relative;
 `;
 
 export const HitsWrapper = styled.div`
@@ -100,8 +118,8 @@ export const HitsWrapper = styled.div`
     list-style: none;
   }
   mark {
-    color: blue;
-    background: blue;
+    color: var(--color-text);
+    background: yellow;
   }
   header {
     display: flex;
@@ -119,6 +137,12 @@ export const HitsWrapper = styled.div`
   }
   h4 {
     margin-bottom: 0.3em;
+  }
+  @media (max-width: 1024px) {
+    width: 100%;
+    padding: var(--padding);
+    background: white;
+    max-width: 90%;
   }
 `;
 

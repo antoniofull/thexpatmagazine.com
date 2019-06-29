@@ -2,7 +2,8 @@ import React, { useState, useEffect, createRef } from 'react';
 import {
   InstantSearch,
   Index,
-  Hits,
+  InfiniteHits,
+  Configure,
   connectStateResults
 } from 'react-instantsearch-dom';
 import algoliasearch from 'algoliasearch/lite';
@@ -35,7 +36,7 @@ const useClickOutside = (ref, handler, events) => {
   });
 };
 
-export default function Search({ indices, collapse, hitsAsGrid }) {
+export default function Search({ indices, collapse, hitsAsGrid, className }) {
   const ref = createRef();
   const [query, setQuery] = useState(``);
   const [focus, setFocus] = useState(false);
@@ -50,7 +51,9 @@ export default function Search({ indices, collapse, hitsAsGrid }) {
       indexName={indices[0].name}
       onSearchStateChange={({ query }) => setQuery(query)}
       root={{ Root, props: { ref } }}
+      className={className ? className : null}
     >
+      <Configure hitsPerPage={10} analytics={true} distinct />
       <Input onFocus={() => setFocus(true)} {...{ collapse, focus }} />
       <HitsWrapper show={query.length > 0 && focus} asGrid={hitsAsGrid}>
         {indices.map(({ name, title, hitComp }) => (
@@ -60,7 +63,10 @@ export default function Search({ indices, collapse, hitsAsGrid }) {
               <Stats />
             </header>
             <Results>
-              <Hits hitComponent={hitComps[hitComp](() => setFocus(false))} />
+              <InfiniteHits
+                showPrevious
+                hitComponent={hitComps[hitComp](() => setFocus(false))}
+              />
             </Results>
           </Index>
         ))}

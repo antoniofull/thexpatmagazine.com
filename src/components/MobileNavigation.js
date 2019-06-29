@@ -5,9 +5,9 @@ import { Motion, spring } from 'react-motion';
 import Div100vh from 'react-div-100vh';
 import { kebabCase } from 'lodash-es';
 
+import { searchIndices } from './search/indices';
+import Search from './search/';
 import '../styles/nav.css';
-
-import SearchForm from './SearchForm';
 
 const MobileNavigation = ({ items, active, toggleState }) => {
   if (active) {
@@ -26,7 +26,7 @@ const MobileNavigation = ({ items, active, toggleState }) => {
               }}
             >
               <div className='nav--mobile__bg'>
-                <SearchForm />
+                <Search collapse={false} indices={searchIndices} />
                 <nav
                   className='main-nav '
                   role='navigation'

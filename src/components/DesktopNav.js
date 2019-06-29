@@ -1,12 +1,8 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Link } from 'gatsby';
 import { kebabCase } from 'lodash-es';
 
-import SearchForm from './SearchForm';
-import SearchIcon from '../img/icon-search.svg';
-
 const DesktopNav = ({ items }) => {
-  const [isSearchOpen, setSearchState] = useState(false);
   return (
     <React.Fragment>
       <nav
@@ -26,16 +22,6 @@ const DesktopNav = ({ items }) => {
           ))}
         </ul>
       </nav>
-      <button
-        type='button'
-        className='search-toggle-desktop'
-        onClick={() => setSearchState(!isSearchOpen)}
-      >
-        <SearchIcon
-          className={`search-icon ${isSearchOpen && 'search-icon--open'}`}
-        />
-      </button>
-      {isSearchOpen && <SearchForm />}
     </React.Fragment>
   );
 };

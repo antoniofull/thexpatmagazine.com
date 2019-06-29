@@ -1,0 +1,32 @@
+.page-404 {
+  margin: var(--margin-xl) auto;
+  padding: var(--padding-xl);
+}
+.page-404 h1,
+.page-404 h3 {
+  text-align: center;
+}
+.page-404 .travel-404 {
+  margin: var(--margin-xl) auto;
+  max-width: 600px;
+  max-height: 500px;
+  display: block;
+  width: 100%;
+}
+.page-404 form {
+  border: 1px solid var(--border-color-light);
+}
+.page-404 form + div {
+  max-width: 100%;
+}
+
+.page-404 button {
+  padding: var(--padding);
+  border: 1px solid var(--border-color-light);
+  background: var(--color-primary);
+  color: white;
+  border-radius: 4px;
+  margin: var(--margin-l) auto;
+  min-width: 200px;
+  cursor: pointer;
+}
