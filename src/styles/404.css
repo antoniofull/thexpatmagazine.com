@@ -16,6 +16,18 @@
 .page-404 form {
   border: 1px solid var(--border-color-light);
 }
+.page-404 form > input + svg {
+  position: absolute;
+  right: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  margin: 0 !important;
+}
+.page-404 form > input {
+  width: 100%;
+  background: white;
+  padding: var(--padding);
+}
 .page-404 form + div {
   max-width: 100%;
 }
