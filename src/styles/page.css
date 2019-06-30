@@ -1,0 +1,12 @@
+.page {
+  margin: var(--margin-l) auto;
+}
+
+.post__title {
+  width: 100%;
+  max-width: 960px;
+  margin-bottom: var(--margin-xl);
+}
+.post__content {
+  max-width: 800px;
+}
