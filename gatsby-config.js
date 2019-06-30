@@ -8,16 +8,29 @@ module.exports = {
     title: 'Thexpatmagazine.com - A Magazine for Expats',
     description: `The Expat Magazine is an online community made of expats and travellers who write and share tips, news and experiences to help you travel and live abroad.`,
     siteURL: 'https://thexpatmagazine.com',
+    siteUrl: 'https://thexpatmagazine.com',
     lang: 'en',
     links: {
       website: 'https://thexpatmagazine.com',
       facebook: 'https://www.facebook.com/thexpatmagazine/',
-      twitter: 'ThexpatMagazine',
+      twitter: 'https://twitter.com/ThexpatMagazine',
       instagram: 'https://www.instagram.com/the_expatmagazine/',
       pinterest: 'https://www.pinterest.com/08zwmxzliph7fpzk2p5heehhd5yb4y/'
     }
   },
   plugins: [
+    `gatsby-plugin-advanced-sitemap`,
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: 'https://thexpatmagazine.com',
+        sitemap: 'https://thexpatmagazine.com/sitemap.xml',
+        policy: [
+          { userAgent: '*', allow: '/' },
+          { userAgent: '*', disallow: '/admin/' }
+        ]
+      }
+    },
     {
       resolve: `gatsby-plugin-algolia`,
       options: {
