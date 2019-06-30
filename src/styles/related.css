@@ -1,0 +1,36 @@
+.related-posts {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  max-width: 100%;
+  margin: var(--margin) auto;
+  scroll-behavior: smooth;
+}
+
+.related-post::-webkit-scrollbar {
+  display: none;
+}
+
+.related-post {
+  padding: var(--padding);
+  margin-right: var(--margin);
+  flex: 0 0 auto;
+  max-width: 300px;
+  max-height: 300px;
+  position: relative;
+}
+.related-post__image {
+  object-fit: cover;
+  height: 100%;
+}
+.related-post__header {
+  font-size: var(--font-base);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(255, 255, 255, 0.5);
+  padding: var(--padding-xl);
+  width: 80%;
+}

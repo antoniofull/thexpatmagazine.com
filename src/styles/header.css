@@ -1,0 +1,50 @@
+.main-header {
+  height: var(--header-height);
+  position: relative;
+  font-family: '-apple-system', 'HelveticaNeue-Light', 'Helvetica Neue Light',
+    'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+}
+.main-header__container {
+  width: 100%;
+  height: 100%;
+  padding: var(--padding);
+  display: flex;
+}
+
+.main-header:after {
+  bottom: 0;
+  box-shadow: inset 0px 4px 8px -3px rgba(17, 17, 17, 0.06);
+  content: '';
+  height: 5px;
+  left: 0px;
+  opacity: 1;
+  pointer-events: none;
+  position: absolute;
+  right: 0px;
+  width: 100%;
+  z-index: 100;
+}
+
+.mobile-toggle {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+.logo {
+  display: block;
+  width: auto;
+  height: 100%;
+}
+.logo .logo--svg {
+  height: 100%;
+  width: auto;
+}
+@media screen and (min-width: 1025px) {
+  .main-header {
+    display: flex;
+  }
+  .main-header__container {
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+}

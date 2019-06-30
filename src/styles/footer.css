@@ -1,0 +1,124 @@
+.instagram {
+  padding: var(--padding-xl) var(--padding-xl);
+}
+.main-footer .icon-insta {
+  width: 36px;
+  fill: white;
+}
+
+.main-footer .icon-insta--rounded {
+  margin: var(--margin) auto;
+  border: 1px solid var(--color-text-third);
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+
+.instagram__header {
+  color: var(--color-white);
+  font-size: var(--font-l);
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0 auto;
+}
+.instagram__container:after {
+  clear: both;
+  content: '';
+  display: block;
+}
+.instagram__container {
+  height: 250px;
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  margin: auto;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+  overflow-scrolling: touch;
+}
+.instagram__link {
+  height: 100%;
+  width: 50%;
+  min-width: 90%;
+  flex: 0 0 auto;
+}
+.main-footer__container {
+  max-width: 650px;
+  text-align: center;
+  margin: var(--margin-l) auto;
+  width: 90%;
+  padding: var(--padding);
+}
+.main-footer__about {
+  font-size: 14px;
+  padding-bottom: var(--margin-l);
+}
+.main-footer__about p {
+  margin: var(--margin-l) auto;
+}
+.footer-logo {
+  margin: auto;
+  display: block;
+  max-width: 150px;
+}
+.footer-social {
+  max-width: 200px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  padding-top: var(--padding-l);
+  margin-bottom: var(--margin-l);
+}
+.footer-social li {
+  width: 24px;
+  height: 24px;
+}
+.social-icon {
+  color: var(--color-white);
+  fill: var(--color-white);
+}
+.page-info {
+  padding-top: var(--padding-l);
+  display: flex;
+  justify-content: space-between;
+  max-width: 80%;
+  margin: auto;
+}
+.page-info a {
+  color: var(--color-white);
+  text-transform: uppercase;
+}
+.footer-copypright {
+  padding: var(--padding);
+  text-align: center;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  font-size: 14px;
+}
+@media screen and (min-width: 500px) {
+  .instagram__link {
+    max-width: 50%;
+    min-width: 50%;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .instagram__link {
+    max-width: 32%;
+    min-width: 32%;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .instagram__link {
+    max-width: 250px;
+    min-width: 250px;
+  }
+}

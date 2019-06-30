@@ -1,0 +1,30 @@
+.btn {
+  border: none;
+  text-decoration: none;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  cursor: pointer;
+
+  max-width: 240px;
+  max-height: 48px;
+
+  transition: all 2.3s cubic-bezier(0.165, 0.84, 0.44, 1);
+  padding: var(--padding);
+}
+
+.btn--primary {
+  background-color: var(--color-primary);
+  color: var(--color-white);
+}
+
+.btn--primary:hover {
+  background-color: var(--color-accent);
+}
+
+.btn--rounded {
+  border-radius: calc(var(--border-radius) * 1.5);
+}
