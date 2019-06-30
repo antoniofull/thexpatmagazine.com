@@ -92,6 +92,9 @@
   max-width: 80%;
   margin: auto;
 }
+.page-info li {
+  list-style-type: none;
+}
 .page-info a {
   color: var(--color-white);
   text-transform: uppercase;
