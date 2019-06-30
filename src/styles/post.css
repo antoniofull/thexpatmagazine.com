@@ -192,3 +192,8 @@
     font-size: 20px;
   }
 }
+
+.page .post__content {
+  box-shadow: var(--box-shadows);
+  padding: var(--padding-l);
+}
