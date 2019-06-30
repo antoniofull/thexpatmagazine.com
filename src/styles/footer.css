@@ -80,6 +80,7 @@
 .footer-social li {
   width: 24px;
   height: 24px;
+  list-style-type: none;
 }
 .social-icon {
   color: var(--color-white);
