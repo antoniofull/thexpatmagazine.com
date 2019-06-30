@@ -4,6 +4,7 @@ import { kebabCase } from 'lodash-es';
 import { graphql, Link } from 'gatsby';
 import Img from 'gatsby-image';
 import ReactMarkdown from 'react-markdown';
+import AdSense from 'react-adsense';
 
 import AuthorPost from '../components/AuthorPosts';
 import Layout from '../components/Layout';
@@ -83,6 +84,15 @@ export const BlogPostTemplate = ({
             <Separator />
           </React.Fragment>
         )}
+        <div className='post__ads'>
+          <AdSense.Google
+            client='ca-pub-5100800746597188'
+            slot='9580336420'
+            style={{ display: 'block', textAlign: 'center' }}
+            layout='in-article'
+            format='fluid'
+          />
+        </div>
         <div className='post__content'>
           <PostContent content={content} className='post__article' />
           {tags && tags.length ? (
