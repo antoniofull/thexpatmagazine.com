@@ -62,7 +62,9 @@ const CustomForm = ({ status, message, onValidated }) => {
         <div className='form-newsletter__container'>
           <span className='form-newsletter__privacy wf-os'>
             Only one email per month. No spam. Read our{' '}
-            <Link to={`/privacy-and-cookies-policy/`}>privacy policy</Link>
+            <Link to={`/pages/privacy-and-cookies-policy/`}>
+              privacy policy
+            </Link>
           </span>
           <button className='btn btn--primary btn--rounded' onClick={submit}>
             Get Free Travel Tips
