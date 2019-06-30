@@ -23,8 +23,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        host: 'https://thexpatmagazine.com',
-        sitemap: 'https://thexpatmagazine.com/sitemap.xml',
+        host: 'https://www.thexpatmagazine.com',
+        sitemap: 'https://www.thexpatmagazine.com/sitemap.xml',
         policy: [
           { userAgent: '*', allow: '/' },
           { userAgent: '*', disallow: '/admin/' }
