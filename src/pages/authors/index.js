@@ -43,7 +43,7 @@ const AuthorsPage = ({ data }) => {
                     to={author.node.fields.slug}
                     className='read-more read-more--full-image'
                   >
-                    All articles from {author.node.frontmatter.name}{' '}
+                    All articles from {author.node.frontmatter.title}{' '}
                     <span className='arrow-action'>→</span>
                   </Link>
                 </div>
