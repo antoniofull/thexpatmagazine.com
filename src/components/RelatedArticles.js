@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'gatsby';
+import Img from 'gatsby-image';
 
 import '../styles/related.css';
 
@@ -13,16 +14,19 @@ const RelatedArticles = props => {
           {articles.map(
             article =>
               article.node.frontmatter.featuredimage &&
-              article.node.frontmatter.featuredimage.publicURL && (
+              article.node.frontmatter.featuredimage.childImageSharp && (
                 <Link
                   to={article.node.fields.slug}
                   key={article.node.id}
                   className='related-post has-shadow'
                 >
-                  <img
+                  <Img
                     alt={article.node.frontmatter.description}
                     className='related-post__image'
-                    src={article.node.frontmatter.featuredimage.publicURL}
+                    fluid={
+                      article.node.frontmatter.featuredimage.childImageSharp
+                        .fluid
+                    }
                   />
 
                   <h3 className='related-post__header'>

@@ -250,6 +250,20 @@ exports.createPages = async ({ actions, graphql }) => {
                 templateKey
                 author
                 title
+                category
+                description
+                featuredimage {
+                  childImageSharp {
+                    fluid(maxWidth: 400, quality: 100) {
+                      src
+                      srcSet
+                      aspectRatio
+                      sizes
+                      base64
+                    }
+                  }
+                  publicURL
+                }
               }
             }
           }
