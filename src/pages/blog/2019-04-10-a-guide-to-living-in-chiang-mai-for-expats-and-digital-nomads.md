@@ -51,7 +51,7 @@ July to October marks the start of the rainy season. This is considered to be on
 
 As of early November, the Thai baht was trading at $1= 32 Baht. You can access your money through the numerous ATM machines located all over the city. You should, however, note that the local banks charge a 200-baht fee for those using international cards to withdraw money from the ATMs.  As mentioned earlier, living in Chiang Mai Thailand is relatively cheap and you can easily survive on $500 a month.
 
-A great way to supplement your income would be to \[become an English teacher in Chiang Mai]. This is not only a great way for you to earn some extra spending money, but it also provides you with a unique opportunity to interact with the local residents. It is a great way for you to \[learn their language, culture, and even make new friends].
+A great way to supplement your income would be to [[become an English teacher in Chiang Mai](https://seetefl.com/teaching-jobs-in-chiang-mai/)]. This is not only a great way for you to earn some extra spending money, but it also provides you with a unique opportunity to interact with the local residents. It is a great way for you to \[learn their language, culture, and even make new friends].
 
 But before you start making plans on how you will be spending your free time in the city, there are a few things you need to understand about teaching English as a foreigner in Chiang Mai. You must have your TEFL course certification before you can start applying for teaching jobs.
 
