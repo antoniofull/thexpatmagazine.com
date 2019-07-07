@@ -20,7 +20,6 @@ category:
   - expat tips
 author: Maryn Macdonnell
 ---
-
 Canggu is one of the most chilled out places in the world. It sits north of Kuta and Seminyak, which are hotspots for tourist party scenes. It is located just 45 minutes from the airport in Denspar via taxi. If you are looking for a carefree surfer life, you will find it here. You can catch a wave any day and its warm water means there is no need for a wetsuit. If you are in search of an endless summer, this is the place to visit. Here is what you need to know about living in Canggu.
 
 ## Applying for a Visa
@@ -47,7 +46,7 @@ Many digital nomads work in Bali. You can join a tribe of them and make some fri
 
 ![](/img/maksym-ivashchenko-1190760-unsplash.jpg)
 
-While staying here, you will obviously want to be thinking about fitness in Canggu. There is a CrossFit gym within the area. Besides that, you can find gyms that offer small weights for you to lift. In addition, you can visit one of the Active Escapes Bali, which are great Bali fitness retreats that you can join.
+While staying here, you will obviously want to be thinking about fitness in Canggu. There is a CrossFit gym within the area. Besides that, you can find gyms that offer small weights for you to lift. In addition, you can visit one of the [Active Escapes Bali](https://activeescapes.com/bali/), which are great Bali fitness retreats that you can join.
 
 ## Summary
 
