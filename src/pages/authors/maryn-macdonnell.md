@@ -1,7 +1,7 @@
 ---
 templateKey: blog-author
 role: guest-author
-name: Maryn Macdonnell
+title: Maryn Macdonnell
 bio: >-
   As a life of a digital nomad and years of writing experience, Maryn Mcdonnell
   is a travel writer who loves exploring the world and shares her travel

@@ -24,7 +24,7 @@ const AuthorsPage = ({ data }) => {
                   author.node.frontmatter.photo.childImageSharp && (
                     <Link to={author.node.fields.slug}>
                       <Img
-                        alt={author.node.frontmatter.name}
+                        alt={author.node.frontmatter.title}
                         fluid={
                           author.node.frontmatter.photo.childImageSharp.fluid
                         }
@@ -34,7 +34,7 @@ const AuthorsPage = ({ data }) => {
                 <div className='article--home__content is-color-white'>
                   <h2 className='article-home__header'>
                     <Link to={author.node.fields.slug}>
-                      {author.node.frontmatter.name}
+                      {author.node.frontmatter.title}
                     </Link>
                   </h2>
 
@@ -83,7 +83,6 @@ export const AuthorsQuery = graphql`
             pinterest
             facebook
             twitter
-            name
             instagram
             photo {
               childImageSharp {

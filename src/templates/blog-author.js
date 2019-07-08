@@ -73,11 +73,11 @@ const AuthorRoute = props => {
     return (
       <Layout>
         <Helmet
-          title={`${author.frontmatter.name} - ${author.frontmatter.bio}`}
+          title={`${author.frontmatter.title} - ${author.frontmatter.bio}`}
         />
         <section className='blog-author'>
           <div className='author'>
-            <h2 className='author__title'>{author.frontmatter.name}</h2>
+            <h2 className='author__title'>{author.frontmatter.title}</h2>
             <div className='author__info'>
               <Image
                 className='author__image'
@@ -154,12 +154,11 @@ export default AuthorRoute;
 
 export const AuthorQuery = graphql`
   query Author($author: String!) {
-    markdownRemark(frontmatter: { name: { eq: $author } }) {
+    markdownRemark(frontmatter: { title: { eq: $author } }) {
       id
       html
       frontmatter {
         title
-        name
         bio
         role
         website

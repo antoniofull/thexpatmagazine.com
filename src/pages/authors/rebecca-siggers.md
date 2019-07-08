@@ -1,7 +1,7 @@
 ---
 templateKey: blog-author
 role: guest-author
-name: Rebecca Siggers
+title: Rebecca Siggers
 bio: >-
   Rebecca has been closely studying the travel industry trends from quite some
   time. Intrigued by the booming growth of this sector, she takes interest in

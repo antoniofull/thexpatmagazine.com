@@ -6,15 +6,15 @@ import { find, kebabCase } from 'lodash-es';
 const AuthorPost = props => {
   const authors = props.data.allMarkdownRemark.edges;
   const author = find(authors, a => {
-    return a.node.frontmatter.name === props.author;
+    return a.node.frontmatter.title === props.author;
   });
   if (author) {
     return (
       <Link
-        to={`/authors/${kebabCase(author.node.frontmatter.name)}`}
+        to={`/authors/${kebabCase(author.node.frontmatter.title)}`}
         className='post-author__link'
       >
-        <h3 className='post-author__title'>{`Written by: ${author.node.frontmatter.name}`}</h3>
+        <h3 className='post-author__title'>{`Written by: ${author.node.frontmatter.title}`}</h3>
         <div className='post-author'>
           {author.node.frontmatter.photo &&
             author.node.frontmatter.photo.childImageSharp && (
@@ -47,7 +47,7 @@ export default props => (
               }
               frontmatter {
                 bio
-                name
+                title
                 photo {
                   childImageSharp {
                     sizes(maxWidth: 60) {

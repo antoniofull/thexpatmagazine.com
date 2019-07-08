@@ -169,7 +169,7 @@ const BlogPost = props => {
         title={post.frontmatter.title}
         category={post.frontmatter.category}
         timeToRead={post.timeToRead}
-        name={post.frontmatter.name}
+        name={post.frontmatter.title}
         relatedArticles={relatedArticles}
         id={post.id}
         url={post.fields.slug}
@@ -203,7 +203,6 @@ export const pageQuery = graphql`
         tags
         category
         author
-        name
         imagealt
         featuredimage {
           publicURL
