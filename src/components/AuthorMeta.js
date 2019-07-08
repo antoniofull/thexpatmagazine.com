@@ -10,7 +10,7 @@ const AuthorMeta = props => {
   // const { readingTime } = props;
 
   const author = find(authors, a => {
-    return a.node.frontmatter.name === props.author;
+    return a.node.frontmatter.title === props.author;
   });
   if (author) {
     return (
@@ -19,20 +19,20 @@ const AuthorMeta = props => {
           props.className}`}
       >
         <Link
-          to={`/authors/${kebabCase(author.node.frontmatter.name)}`}
+          to={`/authors/${kebabCase(author.node.frontmatter.title)}`}
           className='post-meta--author__link'
         >
           {author.node.frontmatter.photo &&
             author.node.frontmatter.photo.childImageSharp && (
               <span className='post-meta--author__image'>
                 <Img
-                  alt={author.node.frontmatter.name}
+                  alt={author.node.frontmatter.title}
                   sizes={author.node.frontmatter.photo.childImageSharp.sizes}
                 />
               </span>
             )}
           <h4 className='post-meta--author__name wf-os'>
-            {author.node.frontmatter.name}
+            {author.node.frontmatter.title}
           </h4>
         </Link>
       </div>
@@ -58,7 +58,6 @@ export default props => (
               frontmatter {
                 title
                 description
-                name
                 photo {
                   childImageSharp {
                     sizes(maxWidth: 60) {

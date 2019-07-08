@@ -132,7 +132,7 @@ collections:
           widget: 'select',
           options: ['author', 'guest-author'],
         }
-      - { label: 'Name', name: 'name', widget: 'string' }
+      - { label: 'Name', name: 'title', widget: 'string' }
 
       - { label: 'Bio (In Markdown)', name: 'bio', widget: 'markdown' }
       - { label: 'Photo', name: 'photo', widget: image }

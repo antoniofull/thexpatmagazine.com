@@ -1,7 +1,7 @@
 ---
 templateKey: blog-author
 role: guest-author
-name: David Wienir
+title: David Wienir
 bio: >-
   David Wienir is a business affairs executive at United Talent Agency and
   entertainment law instructor at UCLA Extension. Amsterdam Exposed is his
@@ -12,4 +12,3 @@ bio: >-
   (foreword by Jason Alexander).
 photo: /img/wienir_headshot_final.jpg
 ---
-

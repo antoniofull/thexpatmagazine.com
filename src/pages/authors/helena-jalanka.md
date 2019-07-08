@@ -1,7 +1,7 @@
 ---
 templateKey: blog-author
 role: guest-author
-name: Helena Jalanka
+title: Helena Jalanka
 bio: >-
   Helena Jalanka,the author and illustrator of the book Greetings from
   Abroadland – Experiences of Family Life Abroad. Besides the home, the book’s

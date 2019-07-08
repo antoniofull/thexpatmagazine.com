@@ -1,7 +1,7 @@
 ---
 templateKey: blog-author
 role: guest-author
-name: Ana Salido
+title: Ana Salido
 bio: >-
   Ana Salido is a Life Coach, Psychologist and entrepreneur on a mission to help
   women to make their expatriation a successful project. She opened the Expat
@@ -11,4 +11,3 @@ bio: >-
 photo: /img/ana-salido.jpg
 website: 'https://anasalido.com'
 ---
-

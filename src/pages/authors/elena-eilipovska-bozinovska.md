@@ -1,7 +1,7 @@
 ---
 templateKey: blog-author
 role: guest-author
-name: Elena Filipovska-Bozinovska
+title: Elena Filipovska-Bozinovska
 bio: >-
   Elena Filipovska-Bozinovska has been teaching Macedonian and Italian since
   2001. She has worked at private language schools, state high schools, and at
