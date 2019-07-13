@@ -8,7 +8,7 @@ description: >-
   regarding the local language and culture in a country where one could easily
   get by with English. Around 70 people took part and here following some
   insights.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/element5-digital-352043-unsplash.jpg
 imagealt: Local language
 tags:
