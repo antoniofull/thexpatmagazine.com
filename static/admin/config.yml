@@ -67,9 +67,9 @@ collections:
         name: 'author'
         widget: 'relation'
         collection: 'authors'
-        searchFields: ['name']
-        valueField: 'name'
-        displayFields: ['name']
+        searchFields: ['title']
+        valueField: 'title'
+        displayFields: ['title']
 
   - name: 'category'
     label: 'Category'
