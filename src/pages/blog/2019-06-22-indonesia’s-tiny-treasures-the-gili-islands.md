@@ -18,7 +18,7 @@ country:
 category:
   - destinations
   - travel tips
-author: Editorial Team
+author: Leila Hashemi
 ---
 Close your eyes and imagine white sand trickling through your toes, turquoise blue waters lapping calmly against the shore and jaw-dropping sunsets that come at the end of lounging beachside on a lazy afternoon. Even your most vivid mind’s eye depiction cannot compare to the simple and serene beauty of Indonesia’s Gili Islands. 
 
