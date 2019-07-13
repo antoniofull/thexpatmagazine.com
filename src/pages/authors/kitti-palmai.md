@@ -9,5 +9,6 @@ bio: >-
   people.
 photo: /img/kitti.jpeg
 website: www.kp-writing.com
+instagram: '@kitty_cat1987'
 ---
 
