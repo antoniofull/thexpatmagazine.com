@@ -23,11 +23,11 @@ However, if you are serious about creating a travel lifestyle blog, a good found
 
 ## Create the Name of the Blog and Buy a Proper Domain
 
-The right domain name will play an important role in your success as a blogger. The best name is short, catchy, and easy to remember. Besides that, it should be timeless. In short, you need to choose a blog name that has global appeal, especially if you are targeting the global digital nomad community. Keep in mind that not everyone might be an English speaker. Thus, some names might not make much sense to them.
+The right domain name will play an important role in your success as a blogger. The best name is short, catchy, and easy to remember. Besides that, it should be timeless. In short, you need to choose a blog name that has global appeal, especially if you are targeting the global digital nomad community. Keep in mind that not everyone might be an [English speaker](https://www.thexpatmagazine.com/blog/2018-03-23-how-to-learn-a-new-language-in-5-tips/). Thus, some names might not make much sense to them.
 
 ## Pick a Good Hosting Plan
 
-There are many cheap VPS web hosting options from which you can pick. However, price should not be your main consideration. Site performance should be your main priority. The hosting service affects how fast your site runs and traffic capacity. 
+There are [many cheap VPS web hosting options](https://www.vpshispeed.com/en/blogs-en/what-is-vps-hosting-used-for-what-can-i-do-with-it/) from which you can pick. However, price should not be your main consideration. Site performance should be your main priority. The hosting service affects how fast your site runs and traffic capacity. 
 
 Thus, you need to find a reliable web hosting service with a great reputation. Some hosting services will even give you a free domain when you open an account with them. The new domain will be free for about a year, after which you have to pay for it.
 
@@ -43,7 +43,7 @@ Almost all digital nomads today are on social media. You can share your blog wit
 
 ## Start Creating Content
 
-Finally, you want to create content on a regular basis. Ideally, the content should be created according to a fixed schedule. This way, your fans know when to visit your blog to see new posts. You should also have a comment section where they can send feedback on what they wish to you talk about next. When creating contents, avoid creating duplicated ones. You also have to ensure that the contents are optimized for SEO. This will reduce your advertising budget while helping you generate more income over time.
+Finally, you want to create content on a regular basis. Ideally, the content should be created according to a fixed schedule. This way, your fans know when to visit your blog to see new posts. You should also have a comment section where they can send feedback on what they wish to you talk about next. When creating contents, avoid creating duplicated ones. You also have to ensure that the [contents are optimized for SEO](https://noria.co.th/seo-terminology-glossary-terms-definitions/). This will reduce your advertising budget while helping you generate more income over time.
 
 ## Summary
 
