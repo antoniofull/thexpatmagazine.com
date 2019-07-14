@@ -143,7 +143,7 @@ export const BlogPostTemplate = ({
               </WhatsappShareButton>
               <PinterestShareButton
                 url={String(window && window.location)}
-                media={`${String(window.location)}/${image}`}
+                media={`${String(window && window.location)}/${image}`}
                 windowWidth={1000}
                 windowHeight={730}
                 className='share-btn'
