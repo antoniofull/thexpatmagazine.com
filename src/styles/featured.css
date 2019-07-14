@@ -102,6 +102,7 @@
   min-height: 400px;
   max-height: 768px;
   margin: auto;
+  overflow: hidden;
 }
 .featured-post__container {
   position: absolute;

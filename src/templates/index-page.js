@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import { graphql } from 'gatsby';
 import Helmet from 'react-helmet';
 import { CookieBanner } from '@palmabit/react-cookie-law';
+import AdSense from 'react-adsense';
 
 import Layout from '../components/Layout';
 import FeaturedPosts from '../components/FeaturedPosts';
@@ -83,12 +84,31 @@ class IndexPage extends Component {
               posts={featured}
               count={featured.length}
             />
+
             <Stories authors={authors} posts={stories} count={stories.length} />
+            <div className='ad--index'>
+              <AdSense.Google
+                client='ca-pub-5100800746597188'
+                slot='9580336420'
+                style={{ display: 'block', textAlign: 'center' }}
+                layout='in-article'
+                format='fluid'
+              />
+            </div>
             <Destinations
               authors={authors}
               posts={destinations}
               count={destinations.length}
             />
+            <div className='ad--index'>
+              <AdSense.Google
+                client='ca-pub-5100800746597188'
+                slot='9580336420'
+                style={{ display: 'block', textAlign: 'center' }}
+                layout='in-article'
+                format='fluid'
+              />
+            </div>
             <Tips authors={authors} posts={tips} count={tips.length} />
           </main>
 

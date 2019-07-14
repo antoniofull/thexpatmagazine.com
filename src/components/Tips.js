@@ -54,12 +54,14 @@ const Tips = ({ posts }) => {
   return (
     <section className='home-row home-row--white'>
       <div className='container container--home container-row'>
-        <h3
-          alt='Tips for Expats and Travellers'
-          className='home-row__header container padding-xl'
-        >
-          Travel and Expat Guides
-        </h3>
+        <Link to='/destinations/'>
+          <h3
+            alt='Tips for Expats and Travellers'
+            className='home-row__header container padding-xl'
+          >
+            Travel and Expat Guides
+          </h3>
+        </Link>
         <div className='container-home--articles'>{stories}</div>
         <div className='view-all-home'>
           <Link to='/travel-tips/' className=' view-all'>

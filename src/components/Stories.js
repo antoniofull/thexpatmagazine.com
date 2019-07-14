@@ -65,12 +65,14 @@ const Stories = ({ posts }) => {
       {({ width, height }) => (
         <section className='home-row'>
           <div className='container container--home is-color-white container-row'>
-            <h3
-              alt='Latest Stories'
-              className='home-row__header container padding-xl'
-            >
-              Latest Stories
-            </h3>
+            <Link to='/stories/'>
+              <h3
+                alt='Latest Stories'
+                className='home-row__header container padding-xl'
+              >
+                Latest Stories
+              </h3>
+            </Link>
             <Masonry
               className={'stories masonry stories--home'} // default ''
               elementType={'div'} // default 'div'

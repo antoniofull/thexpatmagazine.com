@@ -56,12 +56,14 @@ const Destinations = ({ posts }) => {
     return (
       <section className='home-row home-row--blue'>
         <div className='container container--home container-row'>
-          <h3
-            alt='Destinations. Chose your next travel destination'
-            className='home-row__header container padding-xl'
-          >
-            Destinations
-          </h3>
+          <Link to='/destinations/'>
+            <h3
+              alt='Destinations. Chose your next travel destination'
+              className='home-row__header container padding-xl'
+            >
+              Destinations
+            </h3>
+          </Link>
           <div className='container-home--articles'>{stories}</div>
           <div className='view-all-home view-all-home--accent'>
             <Link to='/destinations/' className=' view-all'>

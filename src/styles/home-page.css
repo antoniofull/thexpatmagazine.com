@@ -3,7 +3,6 @@ body.body-home {
 }
 .home-row {
   background: var(--color-body-light);
-  padding-top: var(--padding-xl);
   margin-bottom: var(--margin-xl);
 }
 .home-row--white {
@@ -18,7 +17,11 @@ body.body-home {
   margin-left: auto;
   margin-right: auto;
 }
-
+.ad--index {
+  margin: var(--margin-l) auto;
+  max-width: 90%;
+  background: white;
+}
 .home-row__header {
   padding: var(--padding-l) var(--padding-l) var(--padding-s) var(--padding-l);
   position: relative;
@@ -126,7 +129,9 @@ body.body-home {
   .article--home {
     max-width: 31%;
   }
-
+  .ad--index {
+    max-width: 1600px;
+  }
   @supports (display: grid) {
     .container-home--articles {
       display: grid;
