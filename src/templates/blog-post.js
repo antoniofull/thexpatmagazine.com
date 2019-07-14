@@ -10,8 +10,6 @@ import {
   FacebookIcon,
   TwitterShareButton,
   TwitterIcon,
-  PinterestShareButton,
-  PinterestIcon,
   TelegramShareButton,
   TelegramIcon,
   WhatsappShareButton,
@@ -141,15 +139,7 @@ export const BlogPostTemplate = ({
               >
                 <WhatsappIcon size={32} round />
               </WhatsappShareButton>
-              <PinterestShareButton
-                url={String(window && window.location)}
-                media={`${String(window && window.location)}/${image}`}
-                windowWidth={1000}
-                windowHeight={730}
-                className='share-btn'
-              >
-                <PinterestIcon size={32} round />
-              </PinterestShareButton>
+
               <TwitterShareButton
                 url={`${baseUrl}${url}`}
                 via='@thexpatmagazine'
