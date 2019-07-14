@@ -83,6 +83,23 @@
   max-width: 700px;
   margin: auto;
 }
+.share-container {
+  padding: 0;
+  background-color: var(--color-secondary);
+  margin-bottom: var(--margin);
+}
+.share-btn {
+  cursor: pointer;
+}
+.share {
+  display: flex;
+  flex-wrap: wrap;
+  height: 62px;
+  justify-content: space-around;
+  align-content: center;
+  max-width: 400px;
+  margin: var(--margin-xl) auto;
+}
 .post__ads {
   margin: var(--margin-l) auto;
   max-width: 700px;
@@ -105,7 +122,6 @@
   overflow-x: hidden;
 }
 .taglist {
-  margin-bottom: var(--margin-xxl);
   margin-top: var(--margin-s);
   display: flex;
   align-items: flex-start;

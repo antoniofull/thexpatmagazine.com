@@ -5,7 +5,18 @@ import { graphql, Link } from 'gatsby';
 import Img from 'gatsby-image';
 import ReactMarkdown from 'react-markdown';
 import AdSense from 'react-adsense';
-
+import {
+  FacebookShareButton,
+  FacebookIcon,
+  TwitterShareButton,
+  TwitterIcon,
+  PinterestShareButton,
+  PinterestIcon,
+  TelegramShareButton,
+  TelegramIcon,
+  WhatsappShareButton,
+  WhatsappIcon
+} from 'react-share';
 import AuthorPost from '../components/AuthorPosts';
 import Layout from '../components/Layout';
 import AuthorMeta from '../components/AuthorMeta';
@@ -49,11 +60,12 @@ export const BlogPostTemplate = ({
 
   const [comments, setComments] = useState(null);
 
-  const handleComments = async (urul, title) => {
+  const handleComments = async (url, title) => {
     const module = await import('../components/Comments');
     setComments(React.createElement(module.default, { url, title }));
   };
 
+  const baseUrl = 'https://www.thexpatmagazine.com/';
   return (
     <section className='section post'>
       <div className='container'>
@@ -95,22 +107,62 @@ export const BlogPostTemplate = ({
         </div>
         <div className='post__content'>
           <PostContent content={content} className='post__article' />
+
           {tags && tags.length ? (
-            <div className='post__tags'>
-              <h4 className='has-horizontal-dividers wf-os font-small has-horizontal-dividers--on-white'>
-                Tags
-              </h4>
-              <ul className='taglist'>
-                {tags.map(tag => (
-                  <li className='font-small wf-os post__tag' key={tag + `tag`}>
-                    <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                  </li>
-                ))}
-              </ul>
-            </div>
+            <ul className='taglist'>
+              {tags.map(tag => (
+                <li className='font-small wf-os post__tag' key={tag + `tag`}>
+                  <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                </li>
+              ))}
+            </ul>
           ) : null}
+          <div className='share-container'>
+            <div className='share'>
+              <FacebookShareButton
+                url={`${baseUrl}${url}`}
+                quote={title}
+                className='share-btn'
+              >
+                <FacebookIcon size={32} round />
+              </FacebookShareButton>
+              <TelegramShareButton
+                url={`${baseUrl}${url}`}
+                title={title}
+                className='share-btn'
+              >
+                <TelegramIcon size={32} round />
+              </TelegramShareButton>
+              <WhatsappShareButton
+                url={`${baseUrl}${url}`}
+                title={title}
+                separator=':: '
+                className='share-btn'
+              >
+                <WhatsappIcon size={32} round />
+              </WhatsappShareButton>
+              <PinterestShareButton
+                url={String(window && window.location)}
+                media={`${String(window.location)}/${image}`}
+                windowWidth={1000}
+                windowHeight={730}
+                className='share-btn'
+              >
+                <PinterestIcon size={32} round />
+              </PinterestShareButton>
+              <TwitterShareButton
+                url={`${baseUrl}${url}`}
+                via='@thexpatmagazine'
+                title={title}
+                className='share-btn'
+              >
+                <TwitterIcon size={32} round />
+              </TwitterShareButton>
+            </div>
+          </div>
 
           <AuthorPost author={author} />
+
           <RelatedArticles articles={relatedArticles} />
           <section className='comments'>
             {comments ? (
