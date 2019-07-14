@@ -83,6 +83,12 @@
   max-width: 700px;
   margin: auto;
 }
+.post__ads {
+  margin: var(--margin-l) auto;
+  max-width: 700px;
+  border-top: 1px solid var(--border-color-light);
+  border-bottom: 1px solid var(--border-color-light);
+}
 .post__article > p:first-of-type {
   font-size: 18px;
   line-height: 1.5;
@@ -178,7 +184,8 @@
   border-radius: 4px;
 }
 @media screen and (min-width: 667px) {
-  .post__content {
+  .post__content,
+  .post__ads {
     max-width: 80%;
   }
 }
