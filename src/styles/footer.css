@@ -92,9 +92,11 @@
 .page-info {
   padding-top: var(--padding-l);
   display: flex;
-  justify-content: space-between;
+  flex-wrap: wrap;
+  justify-content: space-around;
   max-width: 80%;
   margin: auto;
+  text-align: center;
 }
 .page-info li {
   list-style-type: none;
