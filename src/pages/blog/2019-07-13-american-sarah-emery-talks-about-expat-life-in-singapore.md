@@ -29,7 +29,7 @@ Together we arrived in Singapore with 2 suitcases each, in October of 2017. Sudd
 
 ![](/img/singapore-expat-life-sarah-emery.jpg)
 
-## What is Singapore like?  
+## What is Singapore like?
 
 I echo the same sentiment of what many others have noticed at first observation.  Which is, how clean the city is. It is intriguingly beautiful.  Many buildings, hotels, and residences have designed lush greenery within their architecture. It’s a reflection of Singapore’s vision, being a City in a Garden. The array of temples, skyscrapers, and colorful shophouses adds to the unique landscape.
 
@@ -41,7 +41,7 @@ I still consider myself a newbie expat, because during my first year I traveled 
 
 Traveling is a big part of our lives as expatriates.  Singapore is a busy hub that provides easy access to neighboring countries.  It's been a blast to share our new home when friends come to visit and we explore new countries together as well.
 
-![](/img/singapore-expat-life-sarah-emery.jpg)
+![](/img/singapore-sarah-emery-expat-life.jpg)
 
 ## What about the language?
 
@@ -65,7 +65,7 @@ We’ve learned to embrace a lot of do not’s as well.  For the first time in m
 
 ![](/img/expat-life-in-singapore-sarah-emery.jpg)
 
-## The secret to easing into expat life.  
+## The secret to easing into expat life.
 
 The driving force that has helped ease our life abroad, is the meaningful friendships we have developed.  Singapore hosts a revolving door of expatriates and there’s a fantastic expat community that has helped us navigate around our new surroundings.
 
