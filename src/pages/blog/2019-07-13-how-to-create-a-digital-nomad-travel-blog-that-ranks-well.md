@@ -8,7 +8,7 @@ description: >-
   nomad travel blog is a great way to keep friends and other people in the
   digital nomad world informed of your adventures. However, if you are expecting
   your blog to become an overnight success, you are sorely mistaken.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/content-pixie-0z7dmskp70e-unsplash.jpg
 imagealt: Digital Nomad Travel Blog
 tags:
