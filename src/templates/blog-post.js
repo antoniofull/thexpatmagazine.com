@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import PropTypes from 'prop-types';
-import { kebabCase } from 'lodash-es';
+import kebabCase from 'lodash/kebabCase';
+
 import { graphql, Link } from 'gatsby';
 import Img from 'gatsby-image';
 import ReactMarkdown from 'react-markdown';
@@ -142,8 +143,9 @@ export const BlogPostTemplate = ({
                 <WhatsappIcon size={32} round />
               </WhatsappShareButton>
               <PinterestShareButton
-                url={String(window && window.location)}
-                media={`${String(window.location)}/${image}`}
+                url={typeof window !== 'undefined' && String(window.location)}
+                media={`${typeof window !== 'undefined' &&
+                  String(window.location)}/${image}`}
                 windowWidth={1000}
                 windowHeight={730}
                 className='share-btn'

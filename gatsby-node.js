@@ -1,4 +1,5 @@
-const _ = require('lodash');
+const intersectionBy = require('lodash/intersectionBy');
+const kebabCase = require('lodash/kebabCase');
 const path = require('path');
 const { createFilePath } = require('gatsby-source-filesystem');
 const { fmImagesToRelative } = require('gatsby-remark-relative-images');
@@ -16,7 +17,7 @@ const getRelatedArticles = (currentArticle, articles) => {
     if (currentArticle.node.id === node.id) {
       return false;
     }
-    const categoriesInCommon = _.intersectionBy(
+    const categoriesInCommon = intersectionBy(
       currentArticle.node.frontmatter.category,
       node.frontmatter.category,
       category => category
@@ -91,7 +92,7 @@ exports.createPages = async ({ actions, graphql }) => {
   const categories = categoriesPosts.data.allMarkdownRemark.group;
 
   categories.forEach(g => {
-    const catPath = _.kebabCase(g.fieldValue);
+    const catPath = kebabCase(g.fieldValue);
     createPaginatedPages({
       edges: g.edges,
       createPage: createPage,
@@ -156,7 +157,7 @@ exports.createPages = async ({ actions, graphql }) => {
   const countries = countriesPosts.data.allMarkdownRemark.group;
 
   countries.forEach(g => {
-    const countryPath = `${_.kebabCase(g.fieldValue)}`;
+    const countryPath = `${kebabCase(g.fieldValue)}`;
     createPaginatedPages({
       edges: g.edges,
       createPage: createPage,
@@ -219,7 +220,7 @@ exports.createPages = async ({ actions, graphql }) => {
   const authors = authorsList.data.allMarkdownRemark.group;
 
   authors.forEach(g => {
-    const authorPath = `authors/${_.kebabCase(g.fieldValue)}`;
+    const authorPath = `authors/${kebabCase(g.fieldValue)}`;
 
     createPaginatedPages({
       edges: g.edges,
@@ -353,7 +354,7 @@ exports.createPages = async ({ actions, graphql }) => {
   const tags = tagsList.data.allMarkdownRemark.group;
 
   tags.forEach(g => {
-    const tagPath = `tags/${_.kebabCase(g.fieldValue)}`;
+    const tagPath = `tags/${kebabCase(g.fieldValue)}`;
 
     createPaginatedPages({
       edges: g.edges,

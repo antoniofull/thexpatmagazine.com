@@ -1,5 +1,5 @@
 import React from 'react';
-import { find } from 'lodash-es';
+import find from 'lodash/find';
 import { Link } from 'gatsby';
 import Carousel from 'nuka-carousel';
 import BackgroundImage from 'gatsby-background-image';

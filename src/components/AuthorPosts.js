@@ -1,7 +1,8 @@
 import React from 'react';
 import { graphql, StaticQuery, Link } from 'gatsby';
 import Image from 'gatsby-image';
-import { find, kebabCase } from 'lodash-es';
+import find from 'lodash/find';
+import kebabCase from 'lodash/kebabCase';
 
 const AuthorPost = props => {
   const authors = props.data.allMarkdownRemark.edges;
