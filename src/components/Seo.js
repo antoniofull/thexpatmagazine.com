@@ -11,7 +11,7 @@ function SEO({ description, lang, image, meta, keywords, title, pathname }) {
         const metaDescription =
           description || data.site.siteMetadata.description;
         const metaImage = image
-          ? `${data.site.siteMetadata.siteURL}${image.src}`
+          ? `${data.site.siteMetadata.siteURL}${image.publicURL}`
           : null;
         const metaUrl = `${data.site.siteMetadata.siteURL}${pathname}`;
         return (
