@@ -2,9 +2,10 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import { Link, graphql } from 'gatsby';
 import Image from 'gatsby-image';
-import { kebabCase } from 'lodash-es';
+import SEO from '../components/Seo';
 
 import Layout from '../components/Layout';
+import Pagination from '../components/Pagination';
 import AuthorMeta from '../components/AuthorMeta';
 import FacebookIcon from '../img/social/facebook.svg';
 import InstagramIcon from '../img/social/instagram.svg';
@@ -12,28 +13,6 @@ import PinterestIcon from '../img/social/pinterest.svg';
 import TwitterIcon from '../img/social/twitter.svg';
 import '../styles/author.css';
 import '../styles/home-page.css';
-
-const Pagination = ({ count, author }) => {
-  const pages = [];
-  for (let i = 1; i <= count; i++) {
-    pages.push(i);
-  }
-  const baseUrl = `authors/${kebabCase(author)}`;
-  return (
-    <div className='pagination'>
-      <div className='pagination__container wf-os'>
-        {pages.map(page => (
-          <Link
-            key={page}
-            to={`${page === 1 ? `/${baseUrl}/` : `/${baseUrl}/${page}`}`}
-          >
-            {page}
-          </Link>
-        ))}
-      </div>
-    </div>
-  );
-};
 
 const Post = ({ post }) => (
   <article className='author__post'>
@@ -72,6 +51,18 @@ const AuthorRoute = props => {
   if (author) {
     return (
       <Layout>
+        <SEO
+          keywords={[
+            'expats',
+            'travel',
+            'life abroad',
+            'expatriates',
+            'expat life',
+            author.frontmatter.title
+          ]}
+          title={`${author.frontmatter.title} Expat and Travel Writer Home Page`}
+          description={`All expat and travel articles written by : ${author.frontmatter.title}`}
+        />
         <Helmet
           title={`${author.frontmatter.title} - ${author.frontmatter.bio}`}
         />

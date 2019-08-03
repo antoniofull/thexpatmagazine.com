@@ -1,7 +1,7 @@
 import React from 'react';
+import kebabCase from 'lodash/kebabCase';
 import { graphql, Link } from 'gatsby';
 import Layout from '../../components/Layout';
-import { kebabCase } from 'lodash-es';
 
 const Country = ({ country }) => (
   <article className='country'>

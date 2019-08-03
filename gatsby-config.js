@@ -31,15 +31,15 @@ module.exports = {
         ]
       }
     },
-    {
-      resolve: `gatsby-plugin-algolia`,
-      options: {
-        appId: process.env.GATSBY_ALGOLIA_APP_ID,
-        apiKey: process.env.ALGOLIA_ADMIN_KEY,
-        queries,
-        chunkSize: 10000 // default: 1000
-      }
-    },
+    // {
+    //   resolve: `gatsby-plugin-algolia`,
+    //   options: {
+    //     appId: process.env.GATSBY_ALGOLIA_APP_ID,
+    //     apiKey: process.env.ALGOLIA_ADMIN_KEY,
+    //     queries,
+    //     chunkSize: 10000 // default: 1000
+    //   }
+    // },
     `gatsby-plugin-styled-components`,
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
@@ -163,7 +163,8 @@ module.exports = {
       resolve: 'gatsby-plugin-webpack-bundle-analyzer',
       options: {
         analyzerPort: 3000,
-        production: true
+        production: true,
+        analyzerMode: 'static'
       }
     },
     {
@@ -219,6 +220,7 @@ module.exports = {
         display: `standalone`
       }
     },
+    'gatsby-plugin-offline',
     'gatsby-plugin-netlify' // make sure to keep it last in the array
   ],
   // for avoiding CORS while developing Netlify Functions locally

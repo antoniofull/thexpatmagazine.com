@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import { Link } from 'gatsby';
 import { Motion, spring } from 'react-motion';
 import Div100vh from 'react-div-100vh';
-import { kebabCase } from 'lodash-es';
+import kebabCase from 'lodash/kebabCase';
 
 import { searchIndices } from './search/indices';
 import Search from './search/';

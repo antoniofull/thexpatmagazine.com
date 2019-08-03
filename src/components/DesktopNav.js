@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'gatsby';
-import { kebabCase } from 'lodash-es';
+import kebabCase from 'lodash/kebabCase';
 
 const DesktopNav = ({ items }) => {
   return (

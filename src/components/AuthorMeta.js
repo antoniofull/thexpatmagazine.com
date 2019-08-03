@@ -1,5 +1,6 @@
 import React from 'react';
-import { find, kebabCase } from 'lodash-es';
+import find from 'lodash/find';
+import kebabCase from 'lodash/kebabCase';
 import { Link, graphql, StaticQuery } from 'gatsby';
 import Img from 'gatsby-image';
 
@@ -27,7 +28,7 @@ const AuthorMeta = props => {
               <span className='post-meta--author__image'>
                 <Img
                   alt={author.node.frontmatter.title}
-                  sizes={author.node.frontmatter.photo.childImageSharp.sizes}
+                  fluid={author.node.frontmatter.photo.childImageSharp.fluid}
                 />
               </span>
             )}
@@ -60,8 +61,8 @@ export default props => (
                 description
                 photo {
                   childImageSharp {
-                    sizes(maxWidth: 60) {
-                      ...GatsbyImageSharpSizes
+                    fluid(maxWidth: 60) {
+                      ...GatsbyImageSharpFluid
                     }
                   }
                 }

@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import PropTypes from 'prop-types';
-import { kebabCase } from 'lodash-es';
+import kebabCase from 'lodash/kebabCase';
+
 import { graphql, Link } from 'gatsby';
 import Img from 'gatsby-image';
 import ReactMarkdown from 'react-markdown';
@@ -139,7 +140,6 @@ export const BlogPostTemplate = ({
               >
                 <WhatsappIcon size={32} round />
               </WhatsappShareButton>
-
               <TwitterShareButton
                 url={`${baseUrl}${url}`}
                 via='@thexpatmagazine'

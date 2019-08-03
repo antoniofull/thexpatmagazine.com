@@ -62,7 +62,7 @@ const Stories = ({ posts }) => {
 
   return (
     <ReactResizeDetector handleWidth handleHeight>
-      {({ width, height }) => (
+      {() => (
         <section className='home-row'>
           <div className='container container--home is-color-white container-row'>
             <Link to='/stories/'>
