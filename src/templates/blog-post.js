@@ -16,6 +16,7 @@ import {
   WhatsappShareButton,
   WhatsappIcon
 } from 'react-share';
+import Helmet from 'react-helmet';
 import AuthorPost from '../components/AuthorPosts';
 import Layout from '../components/Layout';
 import AuthorMeta from '../components/AuthorMeta';
@@ -67,6 +68,37 @@ export const BlogPostTemplate = ({
   const baseUrl = 'https://www.thexpatmagazine.com/';
   return (
     <section className='section post'>
+      <Helmet>
+        <script type='application/ld+json'>{`
+          {
+            "@context": "https://schema.org",
+            "@type": "NewsArticle",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "${baseUrl}${url}"'
+            },
+            "headline": "${title}",
+            "image": [
+              "${image && baseUrl + image.publicURL}",
+             ],
+            "datePublished": "${date}",
+            "dateModified": "${date}",
+            "author": {
+              "@type": "Person",
+              "name": "${author}"
+            },
+             "publisher": {
+              "@type": "Organization",
+              "name": "The Expat Magazine",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://thexpatmagazine.com/icons/icon-512x512.png"
+              }
+            },
+            "description": "${description}"
+          }
+        `}</script>
+      </Helmet>
       <div className='container'>
         <div className='post__container'>
           <p className='wf-os font-small post__top-meta'>
@@ -88,7 +120,7 @@ export const BlogPostTemplate = ({
               Tag='figure'
               title={title}
               alt={description}
-              sizes={image.sizes}
+              fluid={image.childImageSharp && image.childImageSharp.fluid}
               className='post__image'
             />
             <Figcaption figcaption={figcaption} />
@@ -189,11 +221,7 @@ const BlogPost = props => {
       <SEO
         title={post.frontmatter.title}
         description={post.frontmatter.description}
-        image={
-          post.frontmatter.featuredimage &&
-          post.frontmatter.featuredimage.childImageSharp &&
-          post.frontmatter.featuredimage.childImageSharp.sizes
-        }
+        image={post.frontmatter.featuredimage && post.frontmatter.featuredimage}
       />
       <BlogPostTemplate
         content={post.html}
@@ -201,10 +229,7 @@ const BlogPost = props => {
         description={post.frontmatter.description}
         author={post.frontmatter.author}
         figcaption={post.frontmatter.imagealt}
-        image={
-          post.frontmatter.featuredimage &&
-          post.frontmatter.featuredimage.childImageSharp
-        }
+        image={post.frontmatter.featuredimage && post.frontmatter.featuredimage}
         altimage={post.frontmatter.altimage}
         tags={post.frontmatter.tags}
         date={post.frontmatter.date}
@@ -249,8 +274,8 @@ export const pageQuery = graphql`
         featuredimage {
           publicURL
           childImageSharp {
-            sizes(maxWidth: 1200) {
-              ...GatsbyImageSharpSizes
+            fluid(maxWidth: 1200) {
+              ...GatsbyImageSharpFluid
             }
           }
         }
