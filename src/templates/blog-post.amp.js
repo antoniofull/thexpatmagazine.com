@@ -70,22 +70,22 @@ export const BlogPostTemplate = ({
     <section className='section post'>
       <Helmet>
         <script type='application/ld+json'>{`
-          {
+           {
             "@context": "https://schema.org",
             "@type": "NewsArticle",
             "mainEntityOfPage": {
               "@type": "WebPage",
-              "@id": ${url}
+              "@id": "${baseUrl}${url}"'
             },
-            "headline": ${title},
+            "headline": "${title}",
             "image": [
-              ${image && image.publicURL},
+              "${image && baseUrl + image.publicURL}",
              ],
-            "datePublished": ${date},
-            "dateModified": ${date},
+            "datePublished": "${date}",
+            "dateModified": "${date}",
             "author": {
               "@type": "Person",
-              "name": ${author}
+              "name": "${author}"
             },
              "publisher": {
               "@type": "Organization",
@@ -95,7 +95,7 @@ export const BlogPostTemplate = ({
                 "url": "https://thexpatmagazine.com/icons/icon-512x512.png"
               }
             },
-            "description": ${description}
+            "description": "${description}"
           }
         `}</script>
       </Helmet>

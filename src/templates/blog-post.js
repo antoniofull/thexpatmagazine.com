@@ -98,6 +98,7 @@ export const BlogPostTemplate = ({
             "description": "${description}"
           }
         `}</script>
+        <link rel='amphtml' href={`${baseUrl}amp/${url}`}></link>
       </Helmet>
       <div className='container'>
         <div className='post__container'>

@@ -297,6 +297,17 @@ exports.createPages = async ({ actions, graphql }) => {
           relatedArticles: getRelatedArticles(edge, posts)
         }
       });
+      createPage({
+        path: `/amp${edge.node.fields.slug}`,
+        component: path.resolve('./src/templates/blog-post.amp.js'),
+        context: {
+          id,
+          author,
+          title,
+          slug: edge.node.fields.slug,
+          relatedArticles: getRelatedArticles(edge, posts)
+        }
+      });
     }
   });
   // Index Page
