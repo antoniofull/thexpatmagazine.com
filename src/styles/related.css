@@ -17,14 +17,14 @@
 
 .related-post__image {
   object-fit: cover;
-  height: 14 0px;
+  height: 120px;
   min-width: 100%;
   flex: 1 1 100px;
 }
 .related-post__header {
   font-size: var(--font-base);
-  margin-left: var(--margin);
+  margin: var(--margin) auto;
   background: rgba(255, 255, 255, 0.5);
-  width: 80;
+  max-width: 80%;
   flex: 1 1 auto;
 }

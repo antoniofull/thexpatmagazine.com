@@ -75,7 +75,7 @@ export const BlogPostTemplate = ({
             "@type": "NewsArticle",
             "mainEntityOfPage": {
               "@type": "WebPage",
-              "@id": "${baseUrl}${url}"'
+              "@id": "${baseUrl}${url}"
             },
             "headline": "${title}",
             "image": [
