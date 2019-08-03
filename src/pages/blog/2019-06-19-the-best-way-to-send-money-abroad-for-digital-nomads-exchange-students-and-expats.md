@@ -51,4 +51,4 @@ More than enough to give it a try and take the fittest solution to transfer your
 
 Sending money abroad? Compare all your options at Monito.com. 
 
-Furthermore, if you are looking for more tips here are [8 Apps that make your moving abroad much easier.](https://thexpatmagazine.com/2019/expat-life/8-apps-to-make-moving-abroad-easier-infographic/)
+Furthermore, if you are looking for more tips here are [8 Apps that make your moving abroad much easier.](https://www.thexpatmagazine.com/2019/expat-life/8-apps-to-make-moving-abroad-easier-infographic/)

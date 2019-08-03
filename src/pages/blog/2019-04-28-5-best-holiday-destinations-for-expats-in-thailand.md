@@ -17,7 +17,7 @@ category:
   - destinations
 ---
 
-Thailand is one of the most popular places for good living abroad. This part of the world has a year-round tropical climate, delicious food, affordable & high-quality healthcare, and a low cost of living among other things. Apart from the welcoming locals, you'll most certainly meet a sizeable community of expats in Thailand from various parts of the world. The region exhibits a sophisticated culture and has lots of holiday destinations. Here are some of the most popular, as well as off-the-grid Thailand holiday destinations for <a  href="https://thexpatmagazine.com/thexpatmagazine-wp/2014/expat-life/8-things-changed-forever-since-live-abroad/"  target="_blank" rel="noopener noreferrer" rel="noopener">expats looking to unwind and have fun</a>
+Thailand is one of the most popular places for good living abroad. This part of the world has a year-round tropical climate, delicious food, affordable & high-quality healthcare, and a low cost of living among other things. Apart from the welcoming locals, you'll most certainly meet a sizeable community of expats in Thailand from various parts of the world. The region exhibits a sophisticated culture and has lots of holiday destinations. Here are some of the most popular, as well as off-the-grid Thailand holiday destinations for <a  href="https://www.thexpatmagazine.com/thexpatmagazine-wp/2014/expat-life/8-things-changed-forever-since-live-abroad/"  target="_blank" rel="noopener noreferrer" rel="noopener">expats looking to unwind and have fun</a>
 
 ## **Krabi**
 

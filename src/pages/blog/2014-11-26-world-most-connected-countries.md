@@ -22,7 +22,7 @@ The **ITU**, **_International Telecommunication Union_**, released yesterday a 
 
 ![Expat Stories](/img/uploads/2014/03/Copenhagen-Nyhavn.jpg)
 
-_<a title="Living in Denmark…surrounded by the Vikings!"  href="https://thexpatmagazine.com/thexpatmagazine-wp/2014/europe/living-denmark-surrounded-vikings/"  target="_blank" rel="noopener noreferrer">Denmark</a>_ ranks first, followed by _**South Korea Sweden and Iceland.**_ The index is calculated based on the usage of mobile phone and internet connection and there is no surprise that Europe dominates the list taking almost all the first 10 places, leaving space only to Asia with Hong Kong and South Korea.
+_<a title="Living in Denmark…surrounded by the Vikings!"  href="https://www.thexpatmagazine.com/thexpatmagazine-wp/2014/europe/living-denmark-surrounded-vikings/"  target="_blank" rel="noopener noreferrer">Denmark</a>_ ranks first, followed by _**South Korea Sweden and Iceland.**_ The index is calculated based on the usage of mobile phone and internet connection and there is no surprise that Europe dominates the list taking almost all the first 10 places, leaving space only to Asia with Hong Kong and South Korea.
 
 Also unsurprising the less connected countries are in Africa, at least the last 10 of the rank. US ranks 14th. According with the study about 3 billion of people are using internet today with an increase of 40% since the last year, but still there are 450 million of people that have no phone connections and tehre are 4.3 billion of people still not connected to internet, and most of them are living in developed countries.
 

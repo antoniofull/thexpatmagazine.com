@@ -11,7 +11,7 @@ module.exports = {
     siteUrl: 'https://www.thexpatmagazine.com',
     lang: 'en',
     links: {
-      website: 'https://thexpatmagazine.com',
+      website: 'https://www.thexpatmagazine.com',
       facebook: 'https://www.facebook.com/thexpatmagazine/',
       twitter: 'https://twitter.com/ThexpatMagazine',
       instagram: 'https://www.instagram.com/the_expatmagazine/',

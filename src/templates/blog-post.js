@@ -82,7 +82,7 @@ export const BlogPostTemplate = ({
               "${image && baseUrl + image.publicURL}",
              ],
             "datePublished": "${date}",
-            "dateModified": "${date}",
+            " ": "${date}",
             "author": {
               "@type": "Person",
               "name": "${author}"
@@ -92,13 +92,16 @@ export const BlogPostTemplate = ({
               "name": "The Expat Magazine",
               "logo": {
                 "@type": "ImageObject",
-                "url": "https://thexpatmagazine.com/icons/icon-512x512.png"
+                "url": "https://www.thexpatmagazine.com/icons/icon-512x512.png"
               }
             },
             "description": "${description}"
           }
         `}</script>
-        <link rel='amphtml' href={`${baseUrl}amp/${url}`}></link>
+        <link
+          rel='amphtml'
+          href={`https://www.thexpatmagazine.com/amp/${url}`}
+        ></link>
       </Helmet>
       <div className='container'>
         <div className='post__container'>

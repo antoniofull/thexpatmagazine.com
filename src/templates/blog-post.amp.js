@@ -92,7 +92,7 @@ export const BlogPostTemplate = ({
               "name": "The Expat Magazine",
               "logo": {
                 "@type": "ImageObject",
-                "url": "https://thexpatmagazine.com/icons/icon-512x512.png"
+                "url": "https://www.thexpatmagazine.com/icons/icon-512x512.png"
               }
             },
             "description": "${description}"

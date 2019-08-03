@@ -68,7 +68,7 @@ France has always been one of the most promoter of renewable energy.
 
 Another little country, Austria. The government is directly supporting the citizens in growing plants and garden.
 
-<a title="7 things to know about Vienna (plus bonus)"  href="https://thexpatmagazine.com/thexpatmagazine-wp/2014/europe/things-to-know-about-vienna/"  target="_blank" rel="noopener noreferrer">Vienna</a> is the only city in the world with noteworthy winegrowing operations within thecity boundaries.
+<a title="7 things to know about Vienna (plus bonus)"  href="https://www.thexpatmagazine.com/thexpatmagazine-wp/2014/europe/things-to-know-about-vienna/"  target="_blank" rel="noopener noreferrer">Vienna</a> is the only city in the world with noteworthy winegrowing operations within thecity boundaries.
 
 ![Expat Austria](/img/uploads/014/07/vienna.jpg)
 

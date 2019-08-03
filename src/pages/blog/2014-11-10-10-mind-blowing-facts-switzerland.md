@@ -48,7 +48,7 @@ In some cities, like Zurich if you drive at the admitted limit, e.g. 40km/H all 
 
 ### 6 Referendum as political choices.
 
-**Swiss** people use referendum for taking decisions. The referendum are considered very important we wrote recently about the <a title="Switzerland approved the referendum against immigration"  href="https://thexpatmagazine.com/thexpatmagazine-wp/2014/europe/switzerland-immigration/" rel="noopener noreferrer"  target="_blank" rel="noopener noreferrer">last referendum</a> which has to do with expats.
+**Swiss** people use referendum for taking decisions. The referendum are considered very important we wrote recently about the <a title="Switzerland approved the referendum against immigration"  href="https://www.thexpatmagazine.com/thexpatmagazine-wp/2014/europe/switzerland-immigration/" rel="noopener noreferrer"  target="_blank" rel="noopener noreferrer">last referendum</a> which has to do with expats.
 
 ### 7 You might be happy to lose your job.
 
