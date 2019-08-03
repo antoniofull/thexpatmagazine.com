@@ -75,7 +75,13 @@ class IndexPage extends Component {
         <SEO
           title='The Expat Magazine Home Page'
           description='The Expat Magazine is an online community made of expats and travellers who write and share tips, news and experiences to help you travel and live abroad.'
-          keywords='expats'
+          keywords={[
+            'expats',
+            'travel',
+            'life abroad',
+            'expatriates',
+            'expat life'
+          ]}
         />
         <main className='home'>
           <FeaturedPosts

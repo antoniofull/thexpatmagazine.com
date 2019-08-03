@@ -2,6 +2,7 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import { Link, graphql } from 'gatsby';
 import Image from 'gatsby-image';
+import SEO from '../components/Seo';
 
 import Layout from '../components/Layout';
 import Pagination from '../components/Pagination';
@@ -50,6 +51,18 @@ const AuthorRoute = props => {
   if (author) {
     return (
       <Layout>
+        <SEO
+          keywords={[
+            'expats',
+            'travel',
+            'life abroad',
+            'expatriates',
+            'expat life',
+            author.frontmatter.title
+          ]}
+          title={`${author.frontmatter.title} Expat and Travel Writer Home Page`}
+          description={`All expat and travel articles written by : ${author.frontmatter.title}`}
+        />
         <Helmet
           title={`${author.frontmatter.title} - ${author.frontmatter.bio}`}
         />
