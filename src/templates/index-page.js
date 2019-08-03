@@ -7,12 +7,8 @@ import AdSense from 'react-adsense';
 
 import Layout from '../components/Layout';
 import FeaturedPosts from '../components/FeaturedPosts';
-import Stories from '../components/Stories';
-import Tips from '../components/Tips';
-import Destinations from '../components/Destinations';
-import Loader from '../components/Loader';
 import SEO from '../components/Seo';
-
+import HomePostList from '../components/HomePostList';
 import '../styles/variables.css';
 import '../styles/reset.css';
 import '../styles/typography.css';
@@ -24,14 +20,13 @@ class IndexPage extends Component {
     this.state = {};
   }
 
-  componentDidMount() {
+  componentWillMount() {
     const authors = this.props.data.authors.edges;
 
     // remove duplicates
     const allposts = this.props.data.posts.edges;
     const featured = this.props.data.featured.edges;
 
-    // Remove duplicates
     const ids = new Set();
     let [stories, destinations, tips] = [[], [], []];
 
@@ -69,68 +64,61 @@ class IndexPage extends Component {
 
   render() {
     const { authors, featured, stories, destinations, tips } = this.state;
-    if (featured && featured.length) {
-      return (
-        <Layout>
-          <Helmet
-            bodyAttributes={{
-              class: 'body-home'
-            }}
-          />
-          <SEO title='The Expat Magazine Home Page' />
-          <main className='home'>
-            <FeaturedPosts
-              authors={authors}
-              posts={featured}
-              count={featured.length}
-            />
 
-            <Stories authors={authors} posts={stories} count={stories.length} />
-            <div className='ad--index'>
-              <AdSense.Google
-                client='ca-pub-5100800746597188'
-                slot='9580336420'
-                style={{ display: 'block', textAlign: 'center' }}
-                layout='in-article'
-                format='fluid'
-              />
-            </div>
-            <Destinations
-              authors={authors}
-              posts={destinations}
-              count={destinations.length}
-            />
-            <div className='ad--index'>
-              <AdSense.Google
-                client='ca-pub-5100800746597188'
-                slot='9580336420'
-                style={{ display: 'block', textAlign: 'center' }}
-                layout='in-article'
-                format='fluid'
-              />
-            </div>
-            <Tips authors={authors} posts={tips} count={tips.length} />
-          </main>
-
-          <CookieBanner
-            message='This website uses cookie, read more about it on our privacy page'
-            onAccept={() => {}}
-            onAcceptPreferences={() => {}}
-            onAcceptStatistics={() => {}}
-            onAcceptMarketing={() => {}}
-            policyLink={'/pages/privacy-and-cookies-policy/'}
-            dismissOnScroll={true}
-            showPreferencesOption={false}
-            necessaryOptionText='Allow Cookies'
-          />
-        </Layout>
-      );
-    }
     return (
       <Layout>
+        <Helmet
+          bodyAttributes={{
+            class: 'body-home'
+          }}
+        />
+        <SEO
+          title='The Expat Magazine Home Page'
+          description='The Expat Magazine is an online community made of expats and travellers who write and share tips, news and experiences to help you travel and live abroad.'
+          keywords='expats'
+        />
         <main className='home'>
-          <Loader />
+          <FeaturedPosts
+            authors={authors}
+            posts={featured}
+            count={featured.length}
+          />
+
+          <HomePostList title='stories' posts={stories} />
+          <div className='ad--index'>
+            <AdSense.Google
+              client='ca-pub-5100800746597188'
+              slot='9580336420'
+              style={{ display: 'block', textAlign: 'center' }}
+              layout='in-article'
+              format='fluid'
+            />
+          </div>
+          <HomePostList
+            authors={authors}
+            posts={destinations}
+            count={destinations.length}
+            title='destinations'
+          />
+
+          <HomePostList
+            title='tips'
+            authors={authors}
+            posts={tips}
+            count={tips.length}
+          />
         </main>
+        <CookieBanner
+          message='This website uses cookie, read more about it on our privacy page'
+          onAccept={() => {}}
+          onAcceptPreferences={() => {}}
+          onAcceptStatistics={() => {}}
+          onAcceptMarketing={() => {}}
+          policyLink={'/pages/privacy-and-cookies-policy/'}
+          dismissOnScroll={true}
+          showPreferencesOption={false}
+          necessaryOptionText='Allow Cookies'
+        />
       </Layout>
     );
   }

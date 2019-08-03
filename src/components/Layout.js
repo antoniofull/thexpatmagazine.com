@@ -61,6 +61,26 @@ const TemplateWrapper = ({ children }) => {
           rel='preconnect'
           crossorigin
         ></link>
+        <link
+          href='https://pagead2.googlesyndication.com'
+          rel='preconnect'
+          crossorigin
+        ></link>
+        <link
+          href='https://googleads.g.doubleclick.net'
+          rel='preconnect'
+          crossorigin
+        ></link>
+        <link
+          href='https://adservice.google.it'
+          rel='preconnect'
+          crossorigin
+        ></link>
+        <link
+          href='https://adservice.google.com'
+          rel='preconnect'
+          crossorigin
+        ></link>
 
         <link
           href='https://www.google-analytics.com'
@@ -75,16 +95,6 @@ const TemplateWrapper = ({ children }) => {
         <link href='https://www.google.com' rel='preconnect' crossorigin></link>
         <link
           href='https://apis.google.com'
-          rel='preconnect'
-          crossorigin
-        ></link>
-        <link
-          href='https://www.gstatic.com'
-          rel='preconnect'
-          crossorigin
-        ></link>
-        <link
-          href='https://accounts.google.com'
           rel='preconnect'
           crossorigin
         ></link>
