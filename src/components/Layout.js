@@ -48,6 +48,46 @@ const TemplateWrapper = ({ children }) => {
         <meta property='og:title' content={site.title} />
         <meta property='og:url' content='/' />
         <meta property='og:image' content='/img/og-image.jpg' />
+        <link rel='dns-prefetch' href='https://fonts.googleapis.com'></link>
+        <link rel='preconnect' href='https://e.dlx.addthis.com'></link>
+        <link rel='dns-prefetch' href='https://e.dlx.addthis.com'></link>
+        <link
+          href='https://fonts.googleapis.com'
+          rel='preconnect'
+          crossorigin
+        ></link>
+        <link
+          href='https://fonts.gstatic.com'
+          rel='preconnect'
+          crossorigin
+        ></link>
+
+        <link
+          href='https://www.google-analytics.com'
+          rel='preconnect'
+          crossorigin
+        ></link>
+        <link
+          href='https://stats.g.doubleclick.net'
+          rel='preconnect'
+          crossorigin
+        ></link>
+        <link href='https://www.google.com' rel='preconnect' crossorigin></link>
+        <link
+          href='https://apis.google.com'
+          rel='preconnect'
+          crossorigin
+        ></link>
+        <link
+          href='https://www.gstatic.com'
+          rel='preconnect'
+          crossorigin
+        ></link>
+        <link
+          href='https://accounts.google.com'
+          rel='preconnect'
+          crossorigin
+        ></link>
       </Helmet>
       <Navbar />
       {children}
