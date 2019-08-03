@@ -26,7 +26,7 @@
 }
 .meta__date {
   min-height: 14px;
-  color: var(--text-color-primary);
+  color: var(--color-text-secondary);
 }
 .meta--align-left {
   justify-content: start;
@@ -42,7 +42,7 @@
   height: 100%;
   width: 1px;
   background-color: var(--border-color-light);
-  min-height: 14px;
+  min-height: 24px;
   margin-left: var(--margin-s);
   margin-right: var(--margin-s);
   max-width: 1px;
@@ -60,7 +60,7 @@
 
 .post-meta--author__name {
   font-weight: 300;
-  color: var(--color-text-third);
+  color: var(--color-text-secondary);
 }
 .post-meta--author__link {
   display: flex;
