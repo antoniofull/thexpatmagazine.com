@@ -16,22 +16,24 @@ const RelatedArticles = props => {
               article.node.frontmatter.featuredimage &&
               article.node.frontmatter.featuredimage.childImageSharp && (
                 <Link
+                  className='related-post'
                   to={article.node.fields.slug}
                   key={article.node.id}
-                  className='related-post has-shadow'
                 >
-                  <Img
-                    alt={article.node.frontmatter.description}
-                    className='related-post__image'
-                    fluid={
-                      article.node.frontmatter.featuredimage.childImageSharp
-                        .fluid
-                    }
-                  />
+                  <div className='has-shadow'>
+                    <Img
+                      alt={article.node.frontmatter.description}
+                      className='related-post__image'
+                      fluid={
+                        article.node.frontmatter.featuredimage.childImageSharp
+                          .fluid
+                      }
+                    />
 
-                  <h3 className='related-post__header'>
-                    {article.node.frontmatter.title}
-                  </h3>
+                    <h3 className='related-post__header'>
+                      {article.node.frontmatter.title}
+                    </h3>
+                  </div>
                 </Link>
               )
           )}
