@@ -121,8 +121,10 @@ ol {
   margin: 0 0 0 var(--margin);
   padding: var(--padding);
 }
-li:not(.main-nav__item),
-li:not(.author__social li) {
+li {
+  list-style-type: none;
+}
+.post__article li {
   margin-bottom: var(--margin);
   list-style-type: disc;
 }
