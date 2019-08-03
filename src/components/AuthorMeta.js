@@ -28,7 +28,7 @@ const AuthorMeta = props => {
               <span className='post-meta--author__image'>
                 <Img
                   alt={author.node.frontmatter.title}
-                  sizes={author.node.frontmatter.photo.childImageSharp.sizes}
+                  fluid={author.node.frontmatter.photo.childImageSharp.fluid}
                 />
               </span>
             )}
@@ -61,8 +61,8 @@ export default props => (
                 description
                 photo {
                   childImageSharp {
-                    sizes(maxWidth: 60) {
-                      ...GatsbyImageSharpSizes
+                    fluid(maxWidth: 60) {
+                      ...GatsbyImageSharpFluid
                     }
                   }
                 }
