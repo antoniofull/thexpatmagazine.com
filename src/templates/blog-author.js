@@ -2,7 +2,6 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import { Link, graphql } from 'gatsby';
 import Image from 'gatsby-image';
-import kebabCase from 'lodash/kebabCase';
 
 import Layout from '../components/Layout';
 import Pagination from '../components/Pagination';

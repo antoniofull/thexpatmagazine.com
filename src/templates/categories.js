@@ -1,7 +1,4 @@
 import React from 'react';
-// import Helmet from 'react-helmet';
-import { Link } from 'gatsby';
-import kebabCase from 'lodash/kebabCase';
 
 import Layout from '../components/Layout';
 import Grid from '../components/Grid';
