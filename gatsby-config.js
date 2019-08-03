@@ -163,8 +163,8 @@ module.exports = {
       resolve: 'gatsby-plugin-webpack-bundle-analyzer',
       options: {
         analyzerPort: 3000,
-        production: true,
-        analyzerMode: 'static'
+        production: false
+        // analyzerMode: 'static'
       }
     },
     {
@@ -201,6 +201,12 @@ module.exports = {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {
         modulePath: `${__dirname}/src/cms/cms.js`
+      }
+    },
+    {
+      resolve: `gatsby-plugin-canonical-urls`,
+      options: {
+        siteUrl: `https://www.thexpatmagazine.com/`
       }
     },
     {

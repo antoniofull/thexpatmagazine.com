@@ -18,6 +18,8 @@
     "gatsby-pagination": "^1.2.0",
     "gatsby-plugin-advanced-sitemap": "^1.1.1",
     "gatsby-plugin-algolia": "^0.3.0",
+    "gatsby-plugin-amp": "^0.2.2",
+    "gatsby-plugin-canonical-urls": "^2.1.2",
     "gatsby-plugin-debug-build": "^1.0.0",
     "gatsby-plugin-disqus": "^1.0.3",
     "gatsby-plugin-feed": "^2.2.3",
