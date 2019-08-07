@@ -54,7 +54,8 @@ export const BlogPostTemplate = ({
   figcaption,
   category,
   url,
-  relatedArticles
+  relatedArticles,
+  mtime
 }) => {
   const PostContent = contentComponent || Content;
 
@@ -64,6 +65,8 @@ export const BlogPostTemplate = ({
     const module = await import('../components/Comments');
     setComments(React.createElement(module.default, { url, title }));
   };
+
+  console.log(mtime);
 
   const baseUrl = 'https://www.thexpatmagazine.com/';
   return (
@@ -79,10 +82,10 @@ export const BlogPostTemplate = ({
             },
             "headline": "${title}",
             "image": [
-              "${image && baseUrl + image.publicURL}",
+              "${image && baseUrl + image.publicURL}"
              ],
             "datePublished": "${date}",
-            " ": "${date}",
+            "dateModified": "${mtime}",
             "author": {
               "@type": "Person",
               "name": "${author}"
@@ -244,6 +247,7 @@ const BlogPost = props => {
         relatedArticles={relatedArticles}
         id={post.id}
         url={post.fields.slug}
+        mtime={post.parent.mtime}
       />
     </Layout>
   );
@@ -266,6 +270,11 @@ export const pageQuery = graphql`
       excerpt(pruneLength: 250)
       fields {
         slug
+      }
+      parent {
+        ... on File {
+          mtime
+        }
       }
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
