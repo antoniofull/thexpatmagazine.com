@@ -18,7 +18,6 @@ category:
   - stories
 author: Editorial Team
 ---
-
 Bee is from Norway originally and has lived for 11 years in Scotland. She loved it there and would happily move back at some point. So, why and how did she end up in Sardinia?
 
 _"What brought me to Sardinia was a red kayak on Instagram. I was following some people from Sardinia on Instagram and one of them has the exact same red kayak as mine. We started talking and I ended up going for a kayak and MTB (mountain bike) visit to Sardinia. I loved it so much that decided to stay. Right now I travel between Norway and Sardinia as I'm studying coaching in Norway."_
@@ -29,13 +28,13 @@ Adventures and new places are wonderful, but when many things are new and unfami
 
 I’ m ashamed to say it, but I had an egoistic meltdown  over tea. N ot my finest moment I have to say. All my peace, calm and serenity went out of the window, just because of a cup of tea. You could say that the apparent overreaction was due to the last drop that made my teacup issue spill over.
 
-    As a Scandinavian in Sardinia, I have discovered that Italians are not tea drinkers, at least not in the same way as somebody who has lived 11 years in the North of the UK is used to. The black, strong brew that grows hairs on your chest and that you can leave the spoon standing upright in all by itself. Milky, strong and fortifying –   THAT kind of tea.
+As a Scandinavian in Sardinia, I have discovered that Italians are not tea drinkers, at least not in the same way as somebody who has lived 11 years in the North of the UK is used to. The black, strong brew that grows hairs on your chest and that you can leave the spoon standing upright in all by itself. Milky, strong and fortifying –   THAT kind of tea.
 
 Come along inside We'll see if tea and buns can make the world a better place The Wind in the Willows
 
 ![Expat Stories](/img/uploads/2019/01/IMG_7364.jpg)
 
-## _My tea is cold_\*\*
+## My tea is cold
 
 In Sardinia , the strongest tea I get served is English Breakfast tea– with lemon if I ask for . Alright, I was in a new country, a new culture so I embraced; ‘ in Rome do as the Romans’ they say.  I drank my  English Breakfast tea with lemon and made peace with that, this is the tea I will get served here. I even got used to it and kind of liked it.
 
