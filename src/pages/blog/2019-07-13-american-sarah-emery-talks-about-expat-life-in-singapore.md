@@ -6,7 +6,7 @@ description: >-
   Expat life in Singapore has become the best sight-unseen, moving decision I
   have made to date.  It has enhanced my traveling lifestyle, exposed me to new
   experiences and vastly increased my worldly outlook.  
-featuredpost: true
+featuredpost: false
 featuredimage: /img/singapore-sarah-emery-expat.jpg
 imagealt: Singapore
 tags:
