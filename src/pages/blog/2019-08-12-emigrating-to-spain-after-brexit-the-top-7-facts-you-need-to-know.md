@@ -15,7 +15,9 @@ featuredimage: /img/brexit-4011711_1920.jpg
 imagealt: UK
 tags:
   - Emigrating
-country: []
+country:
+  - United Kingdom
+  - Spain
 category:
   - expat tips
 author: Sean Delaney
