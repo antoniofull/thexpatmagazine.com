@@ -6,7 +6,7 @@ description: >-
   I still remember the day I arrived in England, it feels like yesterday! Not
   only was it my first time flying but I wasn’t even sure what I got myself
   into, taken that I moved country with a complete stranger....read more
-featuredpost: true
+featuredpost: false
 featuredimage: /img/aron-van-de-pol-218042-unsplash.jpg
 imagealt: Life abroad
 tags:
