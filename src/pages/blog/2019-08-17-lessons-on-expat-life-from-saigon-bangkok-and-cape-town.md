@@ -8,6 +8,8 @@ featuredimage: /img/agriculture-1793403_1920.jpg
 imagealt: Image by Sasin Tipchai from Pixabay
 tags:
   - living abroad
+country:
+  - Vietnam
 category:
   - stories
 author: Sean Campbell
