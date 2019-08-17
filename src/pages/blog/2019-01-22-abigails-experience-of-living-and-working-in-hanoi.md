@@ -18,7 +18,6 @@ country:
   - Interviews
   - Living abroad
 category:
-  - expat tips
   - stories
 author: Editorial Team
 ---
