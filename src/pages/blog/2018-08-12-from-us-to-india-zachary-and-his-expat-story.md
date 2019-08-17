@@ -8,7 +8,6 @@ imagealt: India
 country:
   - Europe
 category:
-  - destinations
   - stories
 author: Editorial Team
 ---
