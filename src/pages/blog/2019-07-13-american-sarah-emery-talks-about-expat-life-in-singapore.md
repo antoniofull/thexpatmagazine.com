@@ -16,7 +16,6 @@ country:
   - Singapore
 category:
   - stories
-  - expat tips
 author: Sarah Emery
 ---
 Expat life in Singapore has become the best sight-unseen, moving decision I have made to date.  It has enhanced my traveling lifestyle, exposed me to new experiences and vastly increased my worldly outlook.   
