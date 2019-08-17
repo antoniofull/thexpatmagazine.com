@@ -14,7 +14,7 @@ imagealt: Digital Nomad Travel Blog
 tags:
   - Digital nomads
 category:
-  - travel tips
+  - expat tips
 author: Maryn Macdonnell
 ---
 If you are a digital nomad who likes to travel to exciting destinations, you can make some money on the side by starting a digital nomad blog. A digital nomad travel blog is a great way to keep friends and other people in the digital nomad world informed of your adventures. However, if you are expecting your blog to become an overnight success, you are sorely mistaken.
