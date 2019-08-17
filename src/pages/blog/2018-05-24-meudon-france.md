@@ -1,21 +1,20 @@
 ---
 templateKey: blog-post
 title: 'Meudon: a little history box of art, music and literature in France'
-author: Editorial Team
-type: post
 date: 2016-11-30T00:00:00.000Z
-draft: true
-url: /?p=1016
-country:
-  - Europe
-  - France
+description: "When we talk about France we always think right away to Paris or other bigger cities, but how much do we know about the hidden gems and lovely places located just in the suburbs? One of these is Meudon, situated only\_15 minutes on the RER-C train southwest of the Eiffel Tower and 15 minutes northeast of the Chateau of Versailles."
+featuredimage: /img/nature-4409114_1920.jpg
+imagealt: Image by djedj from Pixabay
 tags:
   - living abroad
   - local culture
   - meudon
+country:
+  - Europe
+  - France
 category:
-  - expat tips
   - destinations
+author: Editorial Team
 ---
 
 When we talk about France we always think right away to Paris or other bigger cities, but how much do we know about the hidden gems and lovely places located just in the suburbs? One of these is Meudon, situated only 15 minutes on the RER-C train southwest of the Eiffel Tower and 15 minutes northeast of the Chateau of Versailles.
