@@ -10,6 +10,7 @@ tags:
   - living abroad
 country:
   - Vietnam
+  - Africa
 category:
   - stories
 author: Sean Campbell
