@@ -16,7 +16,6 @@ country:
   - America
   - Expat
 category:
-  - expat tips
   - stories
 author: Rossella Daví
 ---
