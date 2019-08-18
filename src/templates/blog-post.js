@@ -98,7 +98,7 @@ export const BlogPostTemplate = ({
                 "url": "https://www.thexpatmagazine.com/icons/icon-512x512.png"
               }
             },
-            "description": "${description}"
+            "description": "${description.replace(/['"]+/g, '')}"
           }
         `}</script>
         <link
