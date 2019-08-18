@@ -26,7 +26,7 @@
   margin-bottom: var(--margin);
 }
 .post__image {
-  margin-bottom: var(--margin-xl);
+  margin-bottom: var(--margin);
   max-height: 640px;
 }
 .post__title {

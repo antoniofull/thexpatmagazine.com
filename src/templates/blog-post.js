@@ -75,7 +75,7 @@ export const BlogPostTemplate = ({
         <script type='application/ld+json'>{`
           {
             "@context": "https://schema.org",
-            "@type": "NewsArticle",
+            "@type": "Article"s,
             "mainEntityOfPage": {
               "@type": "WebPage",
               "@id": "${baseUrl}${url}"
@@ -98,7 +98,10 @@ export const BlogPostTemplate = ({
                 "url": "https://www.thexpatmagazine.com/icons/icon-512x512.png"
               }
             },
-            "description": "${description.replace(/['"]+/g, '')}"
+            
+            "description": "${
+              description ? description.replace(/['"]+/g, '') : title
+            }"
           }
         `}</script>
         <link
@@ -131,7 +134,6 @@ export const BlogPostTemplate = ({
               className='post__image'
             />
             <Figcaption figcaption={figcaption} />
-            <Separator />
           </React.Fragment>
         )}
         <div className='post__ads'>
@@ -143,6 +145,7 @@ export const BlogPostTemplate = ({
             format='fluid'
           />
         </div>
+        <Separator />
         <div className='post__content'>
           <PostContent content={content} className='post__article' />
 
