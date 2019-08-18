@@ -32,7 +32,7 @@ Did you say party? Well .. Barcelona is .. Party! Everywhere, from the famous **
 
 ![Barcelona Las Ramblas](/img/uploads/2014/11/origin_2940529845.jpg "Las Ramblas")
 
-Do you know **Las Ramblas**? Sure you do 🙂 Is the most famous street of **Barcelona**, with streets artists and tourist, called "**_guiris_**", taking photos with them. A long walk that ends up in front of the port, full of all of the colours and joyful of Spain.
+Do you know **Las Ramblas**? Sure you do 🙂 Is the most famous street of **Barcelona**, with streets artists and tourist, called "_**guiris**_", taking photos with them. A long walk that ends up in front of the port, full of all of the colours and joyful of Spain.
 
 ## Gay Friendly
 
@@ -50,19 +50,19 @@ Barcelona is one of the most gay friendly city in the conservative Europe. Unlik
 
 ![Barcelona Food](/img/uploads/2014/11/large_2768777402.jpg "Where to eat in Barcelona")
 
-Did you know that the best restaurant and chef in the world were from **Barcelona**? Catalan cuisine is amazing, various and healthy. There is much more than just Paella (which is not from Barcelona but **_Valencia_**, btw).
+Did you know that the best restaurant and chef in the world were from **Barcelona**? Catalan cuisine is amazing, various and healthy. There is much more than just Paella (which is not from Barcelona but _**Valencia**_, btw).
 
 ## The People
 
 ![Barcelona](/img/people-of-barcelona.jpg "Catalan People")
 
-People in Barcelona are always happy, no matter what. A part of pick pocketing in the crowded and touristic streets, _**Barcelona is a quite safe**_ city and Catalan people are very friendly and welcoming.
+People in Barcelona are always happy, no matter what. A part of pick pocketing in the crowded and touristic streets, **_Barcelona is a quite safe_** city and Catalan people are very friendly and welcoming.
 
 ## Festivals
 
 ![Barcelona Festivals](/img/barcelona-festivals.jpg "Festivals and Parties in Barcelona")
 
-**Parties**? Sure, **Festivals**? All the best run here! From [**Sonar**](https://sonar.es) ****to [**Circuit Festival**](https://www.circuitfestival.net), the biggest **_international gay and lesbian event_** **Barcelona** is the best spot for events and festival, just check the calendar. Ah and don't forget that Barcelona has been elected "[**_World Best Summer City_**](https://www.mydestination.com/barcelona/travel-articles/72420/barcelona-voted-worlds-best-summer-city)_"._
+**Parties**? Sure, **Festivals**? All the best run here! From [**Sonar**](https://sonar.es) ***\*to [**Circuit Festival**](https://www.circuitfestival.net), the biggest** _international gay and lesbian event_\*\* **Barcelona** is the best spot for events and festival, just check the calendar. Ah and don't forget that Barcelona has been elected "[_**World Best Summer City**_](https://www.mydestination.com/barcelona/travel-articles/72420/barcelona-voted-worlds-best-summer-city)_"._
 
 ##  City of Culture
 
@@ -80,7 +80,7 @@ Sonar is the biggest Electronic Music Festival in Europe. Every year in June tho
 
 ![Barcelona Fiesta de gracia](/img/barcelona-gracia.jpg "The district of Gracia in Barcelona")
 
-_****_[_**La fiesta mayor de Gracia**_](https://www.festamajordegracia.cat) is a big  festival in the cultural district of **Gracia**, once famous for its cultural and political scene. Is a big festival for all the districts with music and party everywhere (as usual!).
+_\*\*\*\*_[**_La fiesta mayor de Gracia_**](https://www.festamajordegracia.cat) is a big  festival in the cultural district of **Gracia**, once famous for its cultural and political scene. Is a big festival for all the districts with music and party everywhere (as usual!).
 
 ## Cana y tapas for 2 Euros!
 
@@ -116,11 +116,11 @@ The magic fountain is well .. a Magic fountain! No seriously watch this [video](
 
 ![Barcelona Xampanyeria](/img/uploads/2014/11/4517812079_534972d867_o-1024x683.jpg "Barcelona Xampanyeria")
 
-**_Cava_** is a tipical catalan wine, **Xampanyeria** is the place where you can have Cava tapas and bocadillo (sanwitch). Some are very cheap as 0.80 cents for glass of **Cava**!
+_**Cava**_ is a tipical catalan wine, **Xampanyeria** is the place where you can have Cava tapas and bocadillo (sanwitch). Some are very cheap as 0.80 cents for glass of **Cava**!
 
 ## Leo Messi
 
-![Barcelona Stories](/img/uploads/2019/05/statistiche.jpg)
+![Leo Messi](/img/messi.jpg "Messi Barcelona")
 
 The best soccer player in the world, and the King of Barcelona. Wherever you go you will see his face or his t-shirt. Seriously, he is much more important than the King of Spain here in Catalonia.
 
@@ -128,7 +128,7 @@ The best soccer player in the world, and the King of Barcelona. Wherever you go 
 
 ![Barcelona Weather](/img/uploads/2014/11/11666442975_424202c27f_b.jpg)
 
-**_Weather in Barcelona_** is perfect, winter are not cold or at least nothing compared with a winter in Chicago. Summer is hot with a lot of light during the day, it can be still day at **10:30**.
+_**Weather in Barcelona**_ is perfect, winter are not cold or at least nothing compared with a winter in Chicago. Summer is hot with a lot of light during the day, it can be still day at **10:30**.
 
 ## Montjuïc.
 
@@ -136,21 +136,21 @@ The best soccer player in the world, and the King of Barcelona. Wherever you go 
 
 Where the 1992 Olympic game where played. Montjuïc is up on a mountain and so less crowded than the centre. The view is amazing, is it possible to visit the old Stadium of Espanyol, the second team of Barcelona. Montjuïc hosts also a lot of concert. I a bit tricky to get there but it's worth all the efforts.
 
-Pro tip : go when the **_Magic Fountain_** is about to start, go on top and enjoy 😀
+Pro tip : go when the _**Magic Fountain**_ is about to start, go on top and enjoy 😀
 
 ## La Bouqueria.
 
 ![Barcelona Bouqueria](/img/bouqueria.jpg "Bouqueria Barcelona Market")
 
-**_La Bouqueria_** is a large public market held in **Las Ramblas** where you can enjoy all type of foods and of course, sea food. Fish is fresh and cheap, there are also plenty of typical small groceries with candies, chocolates and other delicious food. La Bouqueria is a must-see for everyone in Barcelona.
+_**La Bouqueria**_ is a large public market held in **Las Ramblas** where you can enjoy all type of foods and of course, sea food. Fish is fresh and cheap, there are also plenty of typical small groceries with candies, chocolates and other delicious food. La Bouqueria is a must-see for everyone in Barcelona.
 
 ## Placa Reial
 
 ![Barcelona Placa Reialtories](/img/uploads/2014/11/2257660666_c2fea1144e_b.jpg)
 
-My favorite place! **_Place Reial_** is a small, incredible vibrant square just off Las Ramblas. In a very small place there are plenty of bars and locals, live music and so much more!
+My favorite place! _**Place Reial**_ is a small, incredible vibrant square just off Las Ramblas. In a very small place there are plenty of bars and locals, live music and so much more!
 
-**_Pro Tip_** : Don't drink beer at the bars as they are very expensive, buy one in the street for 1 euro and sit down near the fountain. Then enjoy the atmosphere.
+_**Pro Tip**_ : Don't drink beer at the bars as they are very expensive, buy one in the street for 1 euro and sit down near the fountain. Then enjoy the atmosphere.
 
 ## The **Gothic Quarter**
 
