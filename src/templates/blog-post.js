@@ -75,7 +75,7 @@ export const BlogPostTemplate = ({
         <script type='application/ld+json'>{`
           {
             "@context": "https://schema.org",
-            "@type": "Article"s,
+            "@type": "Article",
             "mainEntityOfPage": {
               "@type": "WebPage",
               "@id": "${baseUrl}${url}"
