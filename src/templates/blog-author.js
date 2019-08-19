@@ -50,7 +50,7 @@ const AuthorRoute = props => {
   const posts = props.pageContext.group;
   const author = props.data.markdownRemark;
   if (author) {
-    console.log(author);
+    
     return (
       <Layout>
         <SEO
