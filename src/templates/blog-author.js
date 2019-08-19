@@ -2,6 +2,7 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import { Link, graphql } from 'gatsby';
 import Image from 'gatsby-image';
+import kebabCase from 'lodash/kebabCase';
 import SEO from '../components/Seo';
 
 import Layout from '../components/Layout';
@@ -49,6 +50,7 @@ const AuthorRoute = props => {
   const posts = props.pageContext.group;
   const author = props.data.markdownRemark;
   if (author) {
+    console.log(author);
     return (
       <Layout>
         <SEO
@@ -65,7 +67,27 @@ const AuthorRoute = props => {
         />
         <Helmet
           title={`${author.frontmatter.title} - ${author.frontmatter.bio}`}
-        />
+        >
+          <script type='application/ld+json'>{`
+           {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "image": "https://thexpatmagazine.com/${
+              author.frontmatter.photo.publicURL
+            }",
+            "name": "${author.frontmatter.title ||
+              'The Expat Magazine Author'}",
+            "url": "${author.frontmatter.website ||
+              'https://thexpatmagazine.com'}",
+            "sameAs" : [ 
+              "${author.frontmatter.instagram && author.frontmatter.instagram}",
+              "${author.frontmatter.pinterest && author.frontmatter.pinterest}",
+              "${author.frontmatter.facebook && author.frontmatter.facebook}",
+              "${author.frontmatter.twitter && author.frontmatter.twitter}"
+            ]
+          }
+        `}</script>
+        </Helmet>
         <section className='blog-author'>
           <div className='author'>
             <h2 className='author__title'>{author.frontmatter.title}</h2>
@@ -133,6 +155,7 @@ const AuthorRoute = props => {
           <Pagination
             count={props.pageContext.pageCount}
             author={props.pageContext.author}
+            base={`authors/${kebabCase(author.frontmatter.title)}`}
           />
         </section>
       </Layout>
@@ -156,8 +179,10 @@ export const AuthorQuery = graphql`
         facebook
         instagram
         pinterest
+        twitter
         photo {
           id
+          publicURL
           childImageSharp {
             sizes(maxWidth: 700) {
               ...GatsbyImageSharpSizes

@@ -3,12 +3,19 @@ import PropTypes from 'prop-types';
 import kebabCase from 'lodash/kebabCase';
 import { Link } from 'gatsby';
 
-const Pagination = ({ count, title }) => {
+const Pagination = ({ count, title, base }) => {
   const pages = [];
+
   for (let i = 1; i <= count; i++) {
     pages.push(i);
   }
-  const baseUrl = kebabCase(title);
+  let baseUrl = '';
+  if (title) {
+    baseUrl = kebabCase(title);
+  }
+  if (base) {
+    baseUrl = base;
+  }
   return (
     <div className='pagination'>
       <div className='pagination__container wf-os'>
@@ -25,9 +32,15 @@ const Pagination = ({ count, title }) => {
   );
 };
 
+Pagination.defaultProps = {
+  title: '',
+  base: ''
+};
+
 Pagination.propTypes = {
   count: PropTypes.number.isRequired,
-  title: PropTypes.string.isRequired
+  title: PropTypes.string,
+  base: PropTypes.string
 };
 
 export default Pagination;
