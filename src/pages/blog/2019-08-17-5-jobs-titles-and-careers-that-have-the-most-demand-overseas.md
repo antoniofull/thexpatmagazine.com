@@ -17,7 +17,7 @@ author: Jamie Costello
 ---
 As populations grow across the globe and environments in certain industries begin to evolve and change, we’re finding that the need to fill job roles seem to be going in a merry-go round. 
 
-According to a new report conducted by job site CareerCast, medical and healthcare professions are now at the forefront when it comes to being in-demand to fill roles. Of course, within the healthcare industry there are required expertise required in the industry in order to be applicable. Jobs are also secure considering the salaries are paid for through the government. 
+According to a new [report conducted by job site CareerCast](https://www.careercast.com/jobs-rated/2019-most-difficult-jobs-to-fill), medical and healthcare professions are now at the forefront when it comes to being in-demand to fill roles. Of course, within the healthcare industry there are required expertise required in the industry in order to be applicable. Jobs are also secure considering the salaries are paid for through the government. 
 
 There are also other careers on the list that you could pursue. Below is a list of the top jobs that are currently in demand for 2019 as they continue to grow in importance over the next few years.
 
@@ -31,7 +31,7 @@ As mentioned, the healthcare industry is one of the in-demand industries when it
 
 ## Nurse
 
-Another medical role on the list is the role of being a registered nurse. Your role would be extremely important considering the different aspects it entails. Not only will you be responsible for providing care for patients but you’d also have the importance of educating patients on any health conditions that they have and providing emotional support for them and their families as they go through a potentially tough time. In order to become a registered nurse, you’d tend to go through a form of degree or diploma. Alternatively, nursing courses and programs are also available to help you qualify as a registered nurse.
+Another medical role on the list is the role of being a registered nurse. Your role would be extremely important considering the different aspects it entails. Not only will you be responsible for providing care for patients but you’d also have the importance of educating patients on any health conditions that they have and providing emotional support for them and their families as they go through a potentially tough time. In order to become a registered nurse, you’d tend to go [through a form of degree or diploma](https://www.allnursingschools.com/registered-nursing/degrees/). Alternatively, nursing courses and programs are also available to help you qualify as a registered nurse.
 
 ![](/img/doctors-2607295_1920.jpg)
 
@@ -43,4 +43,4 @@ This can be a similar role to that of a registered nurse, except it comes with l
 
 Perhaps you prefer a more hands on approach? If you like the physical type of work then your efforts won’t be looked over if you’re looking to get into construction. The reason for its high demand is mainly down to the risks and injuries that can be involved with being a construction labourer. The benefit of becoming a construction laborer is down to experience as you don’t require any. Typically, in the role you can receive on the job training and a form of education isn’t required. The average salary for the role is around $34,500 annually. 
 
-Although these jobs are in-demand, it’s important to consider your current skill set and whether it’ll meet what’s required of these jobs. It may be appealing due to salary demands, but they’re also in demand roles for a reason. You may be lucky enough to have the required skills to fill the job that’s already in your region, whilst others may need to move elsewhere to satisfy their career needs. In which case, think about other aspects that are required, such as legal documents, transfer policies and tier 2 visa requirements. Regardless, with the right application there is the opportunity to fill roles that are more in-demand than ever.
+Although these jobs are in-demand, it’s important to consider your current skill set and whether it’ll meet what’s required of these jobs. It may be appealing due to salary demands, but they’re also in demand roles for a reason. You may be lucky enough to have the required skills to fill the job that’s already in your region, whilst others may need to move elsewhere to satisfy their career needs. In which case, think about other aspects that are required, such as [legal documents, transfer policies and tier 2 visa requirements](https://www.themuse.com/advice/15-things-you-need-to-know-about-working-abroad). Regardless, with the right application there is the opportunity to fill roles that are more in-demand than ever.
