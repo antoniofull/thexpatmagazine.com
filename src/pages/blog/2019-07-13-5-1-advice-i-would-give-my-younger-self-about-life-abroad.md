@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 5 +1 advice I would give my younger self about life abroad
-date: 2019-07-10T14:15:25.556Z
+date: 2019-08-18T14:15:25.556Z
 description: >-
   I still remember the day I arrived in England, it feels like yesterday! Not
   only was it my first time flying but I wasn’t even sure what I got myself
