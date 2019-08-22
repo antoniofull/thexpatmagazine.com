@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 5 +1 advice I would give my younger self about life abroad
-date: 2019-07-10T14:15:25.556Z
+date: 2019-08-18T14:15:25.556Z
 description: >-
   I still remember the day I arrived in England, it feels like yesterday! Not
   only was it my first time flying but I wasn’t even sure what I got myself
@@ -15,7 +15,6 @@ country:
   - England
 category:
   - stories
-  - expat tips
 author: Kitti Palmai
 ---
 I still remember the day I arrived in England, it feels like yesterday! Not only was it my first time flying but I wasn’t even sure what I got myself into, taken that I moved country with a complete stranger. I mean he was a friend of my friend’s boyfriend but come on, I only met him once, 3 days prior to our flight so to me he was a complete stranger! Everyone tried to warn me about all the bad things that can happen so I would be prepared for the worst case scenarios but I was so excited I didn’t even hear their negativity! Just brushed it off and told them it’s going to be all good and fun! (You shouldn’t follow my example though, just to be on the safe side!)
