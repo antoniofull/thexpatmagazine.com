@@ -5,7 +5,7 @@ date: 2019-07-29T17:37:30.481Z
 description: >-
   How difficulties in​ a daily life can be seen from a different perspective,
   and how this perspective can change your mood and the way you approach life. 
-featuredpost: true
+featuredpost: false
 featuredimage: /img/subway-101639_1280.jpg
 imagealt: Paris
 tags:
