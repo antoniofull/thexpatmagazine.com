@@ -8,7 +8,7 @@ description: >-
   you shouldn't miss out on its signature Southern charm which contrasts the
   thrilling outback life just because you can't afford to visit the cosmopolitan
   and luxurious scene. 
-featuredpost: true
+featuredpost: false
 featuredimage: /img/sunrise-288326_1920.jpg
 imagealt: Australia
 tags:
