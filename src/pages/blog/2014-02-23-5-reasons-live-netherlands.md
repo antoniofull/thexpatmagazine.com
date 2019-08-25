@@ -3,8 +3,8 @@ templateKey: blog-post
 title: 5 reasons to live in the Netherlands
 date: 2014-02-23T20:41:09.000Z
 description: >-
-  Netherlands is a country in the North of Europe with 16 million inhabitants
-  and an incredible increasing expat community.
+  Are you thinking about moving to Netherlands? We give you 5 reasons why moving
+  to Netherlands might be a good idea.
 featuredpost: false
 featuredimage: /img/netherlands-751x500.jpg
 imagealt: Netherlands Canals
@@ -12,6 +12,7 @@ tags:
   - expats
   - holland
   - netherlands
+  - Amsterdam
 country:
   - Netherlands
 category:
@@ -19,11 +20,11 @@ category:
   - travel tips
 author: Editorial Team
 ---
-**Netherlands** is a country in the North of Europe with 16 million inhabitants and an incredible increasing expat community. The 50% of habitants in Amsterdam don't speak dutch.  Thanks to some &#8220;<a href="https://www.expatica.com/nl/finance_business/tax/The-Dutch-30-percent-ruling_explained_11398.html" target="_blank">benefits</a>&#8221; that the Dutch government gives to them, many expats have decided to move there. A lot of them are coming from Us and overseas countries.  Let&#8217;s see  what are the **main 5 reasons to live in the Netherlands** for an expats.<!--more-->
+**Netherlands** is a country in the North of Europe with 16 million inhabitants and an incredible and increasing expat community. The 50% of habitants in Amsterdam don't speak dutch. Many expats have decided to move there and call Amsterdam their home. A lot of them are coming from Us and overseas countries.  Let's see  what are the **main 5 reasons**[ **to live in the Netherlands**](http://thexpatmagazine.com/netherlands) **and why you should** [**move to Amsterdam**](https://www.thexpatmagazine.com/tags/relocating-to-amsterdam/)**.**
 
 ## 1 - Job.
 
-If you are a skilled expats finds a job is pretty easy. In most jobs dutch might just be a plus and in fact for many jobs  the dutch is not a main requirement. Situation is getting a little bit <a href="https://www.spiegel.de/international/europe/economic-crisis-hits-the-netherlands-a-891919.html" target="_blank">tricky</a> in the last couple of years but is still possible to find a job.
+If you are a skilled expats finds a job is pretty easy. In most jobs dutch might just be a plus and in fact for many jobs  the dutch is not a main requirement. Amsterdam is a startup hub and there are plenty of big companies who have their main HQ there.
 
 ## 2-Money.
 
