@@ -3,8 +3,9 @@ templateKey: blog-post
 title: Holland vs Netherlands
 date: 2014-02-25T07:30:36.000Z
 description: >-
-  Europe is full of history. Netherlands is one of these countries with a long
-  history and for Us living overseas most of this history is completely unknown.
+  Is it called Holland or Netherlands? What's going on with the names for this
+  country located in the north of Europe? Here is a quick explanation, 2 minutes
+  videos that explains why is called The Netherlands and what is Holland.
 featuredpost: false
 featuredimage: /img/netherlands-751x500.jpg
 imagealt: The Netherlands
