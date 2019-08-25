@@ -3,8 +3,10 @@ templateKey: blog-post
 title: 7 reasons to live (or retire) in Costa Rica
 date: 2014-02-03T11:36:00.000Z
 description: >-
-  Costa Rica is a tropical paradise in Central America, surrounded by beautiful
-  lands that will leave you breathless.
+  Are you thinking to retiring in to an exotic and safe place? Then retiring to
+  Costa Rica might be a good option. A beautiful place located in Central
+  America, with beautiful beaches and stunning nature, Costa Rica is the place
+  to go, for holidays or for retirement. 
 featuredpost: false
 featuredimage: /img/atanas-malamov.jpg
 imagealt: >-
@@ -23,11 +25,11 @@ category:
   - destinations
 author: Editorial Team
 ---
-**Costa Rica** is a tropical-paradise in the **Central America**, surrounded by beautiful lands that will leave you breathless. Mountains, caribbean sea and amazing beaches, plenty of healthy and exotic fruits and  incredible places like the **Osa Peninsula**;  one of the most bio-diverse  places in the world.
+If you are looking for a place to enjoy your retirement, then look no further than **Costa Rica,** a tropical-paradise in the **Central America** surrounded by beautiful landscapes that will leave you breathless. Mountains, Caribbean sea and amazing beaches, plenty of healthy and exotic fruits and  incredible places like the **Osa Peninsula**;  one of the most bio-diverse  places in the world.
 
-**Life is cheap** and people are among the **happiest in the** world. Is one of the most democratic country in Latin America and has no army since 1948.
+**Cost of life in Cost Rica is cheap (although higher than many other latin countries)** and people are among the **happiest in the** world. Is one of the most democratic country in Latin America and has no army since 1948.
 
-But let's in details why you should think about moving to Costa Rica.
+But let's see in details why you should think about **moving or retire in Costa Rica**.
 
 ## 1- Peaceful and democratic.
 
@@ -51,14 +53,14 @@ Yes, Costa Rica is the <a title="costa rica happiest country" href="https://www.
 
 ## 5 Cheap cost of life
 
-The **cost of living in Costa Rica** has assuredly become one of the principal considerations when contemplating living in Costa Rica. It is relatively cheap for expats coming from countries like **Europe** or **Australia** and also cheap compared with **US**, maybe different from other countries. Of course life is more expensive in the big cities, and it's getting more expensive because of the high movement of expats and tourists, but anyway I still think is a cheap country where to live. You can check this <a title="cost of life costa rica" href="https://www.numbeo.com/cost-of-living/country_result.jsp?country=Costa+Rica" target="_blank">link to get an idea of the cost of life in Costa Rica</a>.
+The **cost of living in Costa Rica** has assuredly become one of the principal considerations when contemplating living in Costa Rica. It is relatively cheap for expats coming from countries like **Europe** or **Australia** and also cheap compared with **US**, maybe different from other countries. Of course life is more expensive in the big cities, and it's getting more expensive because of the high movement of expats and tourists, but anyway I still think is a cheap country where to live. You can check this [link](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Costa+Rica) to get an idea of the cost of life in Costa Rica.
 
 ## 6 Open minded local and expat community
 
-People from Costa Rica are very open minded and friendly. Also there is a pretty well established expat community that keeps growing and there are a lot of initiative to help new-arrived expats to integrate well in the community.  Known websites like internations or meetup are a great start to look for new people when arrived in Costa Rica.
+People from **Costa Rica** are very open minded and friendly. Also there is a pretty well established expat community that keeps growing and there are a lot of initiative to help new-arrived expats to integrate well in the community.  Known websites like **Internations.org or Meetup.com** are a great start to look for new people when arrived in Costa Rica.
 
 ## 7 Low taxes
 
-Not <a style="color:#000;text-decoration:none" href="https://robloxfreerobux.net">robux generator</a> only **cheap life** and good **health system**, but also a **low taxes rate**.  In general Costa Rica Taxes are low compared with the rest of the western countries. I have also to say that instead the overall cost of living in Costa Rica it might be high if compared with the rest of Latin and south America, but consider that Costa Rica is, indeed, a country that offer much more better quality of life compared with the others latin countries..
+Not only **cheap life** and good **health system**, but also a **low taxes rate**.  In general Costa Rica Taxes are low compared with the rest of the western countries. I have also to say that instead the overall cost of living in Costa Rica it might be high if compared with the rest of Latin and south America, but consider that Costa Rica is, indeed, a country that offer much more better quality of life compared with the others latin countries..
 
 And you? What do you think, have you ever been to Costa Rica? Let us know in the comment 🙂
