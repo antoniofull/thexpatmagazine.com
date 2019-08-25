@@ -1,24 +1,23 @@
 ---
 templateKey: blog-post
 title: Switzerland approved the referendum against immigration
-author: Editorial Team
-type: post
 date: 2014-03-17T17:33:55.000Z
-url: /2014/europe/switzerland-immigration/
-featuredimage: /wp-content/uploads/2014/03/border-switzerland.jpg
-country:
-  - Europe
-  - Switzerland
+description: Switzerland approved a new referendum against the immigration
+featuredimage: /img/products-full-width.jpg
+imagealt: Living in Switzerland as an expat has become harder now
 tags:
   - borders
   - immigration
   - switzerland
+country:
+  - Europe
+  - Switzerland
 category:
   - expat tips
   - destinations
+author: Editorial Team
 ---
-
-**Switzerland** approved with a referendum a new law to limitate immigration in the country. After a very uncertain exit poll the yes won for **50.3%**.
+**Switzerland** approved with a referendum a new law to **limitate immigration in the country.** After a very uncertain exit poll the yes won for **50.3%**.
 
 The **European Union** did not like the move of **Switzerland**, which goes against the agreements taken previously with EU. The first result is that Swiss students will not be accepted anymore to Erasmus program.<!--more-->
 
