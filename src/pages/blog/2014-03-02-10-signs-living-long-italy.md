@@ -7,6 +7,7 @@ description: >-
   food :). The friendly attitude of Italians is contagious and if you live with
   them for a long time, you cannot avoid to start acting like them.
 featuredimage: /img/italiangestures.jpg
+imagealt: talian Body Language
 tags:
   - expat
   - expats
