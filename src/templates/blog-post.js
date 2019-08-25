@@ -158,6 +158,7 @@ export const BlogPostTemplate = ({
               ))}
             </ul>
           ) : null}
+          <AuthorPost author={author} />
           <div className='share-container'>
             <div className='share'>
               <FacebookShareButton
@@ -192,8 +193,6 @@ export const BlogPostTemplate = ({
               </TwitterShareButton>
             </div>
           </div>
-
-          <AuthorPost author={author} />
 
           <RelatedArticles articles={relatedArticles} />
           <section className='comments'>

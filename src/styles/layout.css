@@ -106,7 +106,7 @@
 }
 .read-more {
   padding-top: var(--padding-s);
-  color: var(--color-text-third);
+  color: var(--color-text-secondary);
   text-decoration: none;
   text-transform: uppercase;
   text-align: right;
