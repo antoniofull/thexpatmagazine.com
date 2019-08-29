@@ -6,7 +6,7 @@ description: >-
   As populations grow across the globe and environments in certain industries
   begin to evolve and change, we’re finding that the need to fill job roles seem
   to be going in a merry-go-round​. 
-featuredpost: true
+featuredpost: false
 featuredimage: /img/success-2697951_1920.jpg
 imagealt: Jobs overseas
 tags:
