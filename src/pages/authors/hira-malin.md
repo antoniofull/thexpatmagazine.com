@@ -9,5 +9,7 @@ bio: >-
   moved to Abu Dhabi and now in Vienna. I blog about expat life, parenthood,
   travel and social issues.
 photo: /img/20170617_185302.jpg
+website: 'https://hiramalin.com/'
+instagram: www.instagram.com/expat_mommi
 ---
 
