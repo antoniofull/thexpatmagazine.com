@@ -15,7 +15,7 @@ country:
   - England
 category:
   - stories
-author: Ana Salido
+author: Melissa Gebara
 ---
 When I moved from Atlanta, Georgia to London in October 2017, I was focused on the idea of living in London, a big city full of history, rain, and culture. While all that was true, there were things I didn’t even consider at all that I wish I had. 
 
@@ -46,5 +46,7 @@ Everyone knows London has free healthcare through the NHS but what they don’t 
 ## Loneliness
 
 You will get lonely from time to time or at least homesick in one way or another. Maybe you miss a PB & J (they don’t have grape jelly here). Or crave some homemade banana pudding. Or you just miss your mom’s smile and dad’s hugs. London has a constant stream of activity but now and again you may feel a little isolated. It’s not as friendly as Georgia - nobody will look you in the eye or talk to you on the Tube. This can make you feel even further away than you really are. Think of ways you will tackle the loneliness or homesickness when it strikes. I would call on What’s App often and talk to family and friends or use FaceTime. 
+
+![](/img/image1-1-.png)
 
 London can be an exciting time in your life but definitely think it through and weigh all your options and pros and cons. Do you have older parents who may become ill while you’re living there? If you fall in love in London, would you want to stay there or would you prefer to move back? When you consider both sides of the coin and are more prepared for the culture, your experience living in London will be an adventure you'll never forget.
