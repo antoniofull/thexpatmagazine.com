@@ -11,6 +11,8 @@ featuredimage: /img/20170817_121619.jpg
 imagealt: Hira Malin
 tags:
   - living abroad
+country:
+  - Pakistan
 category:
   - stories
 author: Hira Malin
