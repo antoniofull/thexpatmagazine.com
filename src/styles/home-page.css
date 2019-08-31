@@ -20,7 +20,6 @@ body.body-home {
 .ad--index {
   margin: var(--margin-l) auto;
   max-width: 90%;
-  background: white;
 }
 .home-row__header {
   padding: var(--padding-l) var(--padding-l) var(--padding-s) var(--padding-l);
