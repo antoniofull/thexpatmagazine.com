@@ -4,6 +4,7 @@ body.body-home {
 .home-row {
   background: var(--color-body-light);
   margin-bottom: var(--margin-xl);
+  margin: var(--margin-xl) 0;
 }
 .home-row--white {
   background: #ffffff;
