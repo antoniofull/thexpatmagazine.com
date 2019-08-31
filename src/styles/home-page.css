@@ -25,7 +25,7 @@ body.body-home {
   padding: var(--padding-l) var(--padding-l) var(--padding-s) var(--padding-l);
   position: relative;
   max-width: 360px;
-  margin: 0 0 var(--margin-xl);
+  margin: var(--margin-xl) 0;
   display: inline-block;
 }
 
