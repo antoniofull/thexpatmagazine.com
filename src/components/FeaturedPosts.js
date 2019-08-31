@@ -20,7 +20,7 @@ const Featured = ({ post }) => {
             />
           </div>
         )}
-      <div className='featured-post__container has-shadow'>
+      <div className='featured-post__container'>
         <article className='featured-post'>
           <header className='featured-post__header'>
             <Link to={post.node.fields.slug}>
