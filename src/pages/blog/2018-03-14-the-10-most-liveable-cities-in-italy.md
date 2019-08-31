@@ -1,20 +1,26 @@
 ---
 templateKey: blog-post
 title: The 10 most liveable cities in Italy
-author: Editorial Team
-type: post
 date: 2018-03-14T17:55:01.000Z
-url: /2018/europe/italy/the-10-most-liveable-cities-in-italy/
-featuredimage: /wp-content/uploads/2018/03/art-1982089_1920.jpg
+description: >-
+  Are you planning to live in Italy? We tell you which are the 10 best Italian
+  cities for living based on safety, cost of living and quality of life. 
+featuredimage: /img/best-italian-cities-living.jpg
+imagealt: >-
+  Best Italian Cities for living: Photo by <a
+  href="https://unsplash.com/@tompodmore86?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
+  target="_blank" rel="noreferrer" rel="noopener">Tom Podmore</a> on
+  **Unsplash**
+tags:
+  - expat life italy
+  - italy
+  - best cities for living
 country:
   - Italy
   - Living abroad
-tags:
-  - expat
-  - italy
 category:
   - expat tips
-  - destinations
+author: Editorial Team
 ---
 
 Italy is a beautiful country, so many cities and with so many things to visit and explore, so the perfect place for holidays, but what about the quality of life if you decide to live there? There are different key elements that have been considered, just to mention some: services, environment, public transport and population. Here for you the top 10 most liveable cities in the "Bel Paese".
