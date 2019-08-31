@@ -1,7 +1,6 @@
 import React from 'react';
 import MailchimpSubscribe from 'react-mailchimp-subscribe';
 import { Link } from 'gatsby';
-import ReCAPTCHA from 'react-google-recaptcha';
 
 import '../styles/newsletter.css';
 
@@ -71,7 +70,6 @@ const CustomForm = ({ status, message, onValidated }) => {
             Get Free Travel Tips
           </button>
         </div>
-        <ReCAPTCHA sitekey='6LeQ87UUAAAAADWDTklXaNjhWEUlzm7axnrqutNo' />
       </form>
     </>
   );
