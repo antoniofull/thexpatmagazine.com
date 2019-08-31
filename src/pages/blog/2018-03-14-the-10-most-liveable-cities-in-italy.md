@@ -22,22 +22,21 @@ category:
   - expat tips
 author: Editorial Team
 ---
-
-Italy is a beautiful country, so many cities and with so many things to visit and explore, so the perfect place for holidays, but what about the quality of life if you decide to live there? There are different key elements that have been considered, just to mention some: services, environment, public transport and population. Here for you the top 10 most liveable cities in the "Bel Paese".
+If you are planning to move and live in Italy, then this article will be very useful for you. [Italy](https://www.thexpatmagazine.com/italy) is a beautiful country. So many cities and so many places to visit and explore, it is a  perfect place for holidays, but **what about the** [**quality of life if in Italy**?](https://www.thexpatmagazine.com/blog/2019-02-05-life-in-italy/) There are different key elements that have been considered, just to mention some: **services, environment, public transport and population**. Here for you the top **10 most liveable cities in the Italy or, "Bel Paese"**.
 
 ### 10. Florence, Tuscany
 
-You are surrounded by so many historical buildings and it's almost like going back in the history, you can learn a lot about Michelangelo, Donatello, De' Medici family and all the other most famous artists who lived there. It's a live city, a lot of restaurants and café, as well as many tourists all year around, which makes the living in this city very challenging. Also, you have to consider that the centre is restricted to traffic, and it's not very easy to find a job unless you have experience in the hospitality.
+You are surrounded by so many historical buildings and it's almost like going back in the history, you can learn a lot about **Michelangelo, Donatello, De' Medici** family and all the other most famous artists who lived there. It's a live city, a lot of restaurants and café, as well as many tourists all year around, which makes the living in this city very challenging. Also, you have to consider that the centre is restricted to traffic, and it's not very easy to find a job unless you have experience in the hospitality. 
 
 ### 9. Rome, Lazio
 
-La Dolce Vita is the first thing you though about as soon as you read Rome, isn't that right? No wonder how the Eternal city caught the heart of millions of people around the world. Its beauty and its history leave you breathless, so I strongly suggest to add this city to your "top cities to visit before you die". On the other side, if you're thinking of actually moving there, you may want to consider a couple of things more. The local transport and the traffic jam are the city's pain points, it takes really long to travel from one side to the other, regardless of the way you choose to move around.
+**La Dolce Vita** is the first thing you though about as soon as you read **Rome**, isn't that right? No wonder how the Eternal city caught the heart of millions of people around the world. Its beauty and its history leave you breathless, so I strongly suggest to add this city to your "**top cities to visit before you die**". On the other side, if you're thinking of actually moving there, you may want to consider a couple of things more. The local transport and the traffic jam are the city's pain points, it takes really long to travel from one side to the other, regardless of the way you choose to move around. And the [cost of an apartment in Rome](https://www.thexpatmagazine.com/blog/2018-02-28-find-apartment-italy/) isn't that cheap either
 
-![The 10 most liveable cities in Italy](/img/uploads/2018/03/rome-1945033_1920-300x169.jpg)
+![Life in Rome](/img/life-in-italy-rome.jpg)
 
 ### 8. Reggio Emilia, Emilia Romagna
 
-Considering that Reggio Emilia is not a metropolitan city nor one of the biggest in Italy, its undoubted historical and architectural beauties still put this city into this top list. No need to mention the delicious local cuisine that you can taste in any of the many restaurants in the centre, the fact that it's hometown to the Italian flag, its lovely historical centre and a good service level overall.
+Considering that **Reggio Emilia** is not a metropolitan city nor one of the biggest in Italy, its undoubted historical and architectural beauties still put this city into this top list. No need to mention the delicious local cuisine that you can taste in any of the many restaurants in the centre, the fact that it's hometown to the Italian flag, its lovely historical centre and a good service level overall.
 
 ### 7. Brescia, Lombardy
 
@@ -57,8 +56,6 @@ The fourth place goes to Mantova, Italian Capital of Culture in 2016, an event t
 
 ### 3. Turin, Piedmont
 
-![Turin](/img/uploads/2018/03/piazza-vittorio-438449_1920-300x200.jpg)
-
 This dynamic, cultural and mysterious city, definitely efficient in services, is hometown to the renowned University. There are various historical places and monuments, as well as chocolate shops where you can enjoy pleasant moments of sweetness with partners and friends. Quality of life in Turin is quite high.
 
 ### 2. Milan, Lombardy
@@ -67,4 +64,4 @@ Excellent results for the well known busy city. As everyone knows (and it is not
 
 ### 1. Bologna, Emilia Romagna
 
-And the winner is: Bologna! Standing out for its management capacity, for the usability of its services and for its digital infrastructures. Apparently Bologna is the top city to really live well. It is also an excellent university city and not by chance first even in the ranking regarding the best Italian university cities. Live city and rich in culture, offers leisure for all tastes. Its center is alive, stimulating and full of activities.
+And the winner is: **Bologna**! Standing out for its management capacity, for the usability of its services and for its digital infrastructures. Apparently **Bologna** is the top city to really live well. It is also an excellent university city and not by chance first even in the ranking regarding the best Italian university cities. Live city and rich in culture, offers leisure for all tastes. Its center is alive, stimulating and full of activities.
