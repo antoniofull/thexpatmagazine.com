@@ -16,13 +16,11 @@ category:
   - expat tips
 author: Editorial Team
 ---
-10 Safest cities in the World. Tokyo and [Singapore](https://www.thexpatmagazine.com/blog/2019-07-13-american-sarah-emery-talks-about-expat-life-in-singapore/) the top 2.# Top 10 Safest cities in the World 2019.
-
-The **Safe Cities Index** is an index that identifies the **safest cities in the world**. The report ranks 60 cities across 57 different indicators. The various indicators covers **digital security, health security, infrastructure security and personal security.**
+The **Safe Cities Index** is an index that identifies the **safest cities in the world**. The report ranks 60 cities across 57 different indicators. The various indicators covers **digital security, health security, infrastructure security and personal security.** 
 
 ## So, what are the safest cities in the World for 2019?
 
-**Tokyo** is the city that, overall, tops the list, followed by Singapore and Osaka.
+**Tokyo** is the city that, overall, tops the list, followed by [**Singapore**](https://www.thexpatmagazine.com/blog/2019-07-13-american-sarah-emery-talks-about-expat-life-in-singapore/)  and **Osaka**.
 
 The first American cities are **Toronto(**6th) and **Washington DC(**7th). Some parts of the report are self evident and well known to any expat/ That **Singapore** would win for public transport and personal safety was quite obvious, as well as cities like **San Francisco** or **Los Angeles** when it comes to digital security.
 
@@ -40,8 +38,6 @@ Finally, Here is the list of the safest cities in the world for 2019, divided by
 
 **1. Los Angeles**
 
-
-
 ## Safest countries for Health Security
 
 **1. Osaka**
@@ -54,8 +50,6 @@ Finally, Here is the list of the safest cities in the world for 2019, divided by
 
 **1. Stockholm**
 
-
-
 ## Safest countries for Infrastructure Security
 
 **1. Singapore**
@@ -67,8 +61,6 @@ Finally, Here is the list of the safest cities in the world for 2019, divided by
 **1. Tokyo**
 
 **1. Madrid**
-
-
 
 ## Safest countries for Personal Security
 
