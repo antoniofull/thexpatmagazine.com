@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 'Lessons on Expat Life from Saigon, Bangkok and Cape Town'
 date: 2019-08-14T19:10:55.998Z
 description: "Irish expat Sean Campbell discusses the balancing act of sticking to your old familiar ways​ while embracing the strange and new when you settle in a new culture.\_"
-featuredpost: true
+featuredpost: false
 featuredimage: /img/agriculture-1793403_1920.jpg
 imagealt: Image by Sasin Tipchai from Pixabay
 tags:
