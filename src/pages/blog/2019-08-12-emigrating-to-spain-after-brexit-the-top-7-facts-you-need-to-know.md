@@ -10,7 +10,7 @@ description: >-
   (around 310,000 on the latest estimate) it is almost regarded as a rite of
   passage for those approaching early retirement. Make no doubt about it. Brexit
   has thrown a spanner in the works.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/brexit-4011711_1920.jpg
 imagealt: UK
 tags:
