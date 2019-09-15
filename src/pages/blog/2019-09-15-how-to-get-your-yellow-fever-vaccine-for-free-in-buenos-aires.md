@@ -11,6 +11,8 @@ featuredimage: /img/dsc_0022.jpg
 imagealt: Argentina
 tags:
   - Buenos Aires
+country:
+  - Argentina
 category:
   - travel tips
 author: Amy Henschke
