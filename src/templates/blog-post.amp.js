@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import kebabCase from 'lodash/kebabCase';
 
 import { graphql, Link } from 'gatsby';
-import Img from 'gatsby-image';
+// import Img from 'gatsby-image';
 import ReactMarkdown from 'react-markdown';
 import AdSense from 'react-adsense';
 import {

@@ -15,3 +15,8 @@
   box-shadow: var(--box-shadows);
   padding: var(--padding-l);
 }
+
+.post__content li {
+  margin-bottom: var(--margin);
+  list-style-type: disc;
+}

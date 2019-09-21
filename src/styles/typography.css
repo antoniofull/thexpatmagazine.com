@@ -124,10 +124,12 @@ ol {
 li {
   list-style-type: none;
 }
-.post__article li {
-  margin-bottom: var(--margin);
-  list-style-type: disc;
+
+.post__content ol li,
+.post__content ul li {
+  list-style-type: initial !important;
 }
+
 @media screen and (min-width: 768px) {
   html {
     font-size: 100%;

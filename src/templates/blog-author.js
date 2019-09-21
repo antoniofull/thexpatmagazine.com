@@ -50,7 +50,6 @@ const AuthorRoute = props => {
   const posts = props.pageContext.group;
   const author = props.data.markdownRemark;
   if (author) {
-    
     return (
       <Layout>
         <SEO
@@ -62,11 +61,11 @@ const AuthorRoute = props => {
             'expat life',
             author.frontmatter.title
           ]}
-          title={`${author.frontmatter.title} Expat and Travel Writer Home Page`}
-          description={`All expat and travel articles written by : ${author.frontmatter.title}`}
+          title={`${author.frontmatter.title}, Author at The Expat Magazine`}
+          description={`${author.frontmatter.bio}`}
         />
         <Helmet
-          title={`${author.frontmatter.title} - ${author.frontmatter.bio}`}
+          title={`${author.frontmatter.title}, Author at The Expat Magazine`}
         >
           <script type='application/ld+json'>{`
            {
