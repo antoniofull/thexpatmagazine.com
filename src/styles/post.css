@@ -188,7 +188,8 @@
 }
 .post__article .post-author__link,
 .post__content .post-author__link:visited {
-  color: var(--color-font-primary);
+  color: var(--color-text-secondary);
+  font-weight: normal;
 }
 .featured-image__caption {
   font-size: 12px;
