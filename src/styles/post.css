@@ -186,7 +186,7 @@
 .post-author__title {
   min-width: 100%;
 }
-.post__article a.post-author__link.primary,
+.post__content a.post-author__link.primary,
 .post__content a.post-author__link.primary:visited {
   color: var(--color-text-secondary);
   font-weight: normal;
