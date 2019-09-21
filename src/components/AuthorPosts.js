@@ -11,22 +11,24 @@ const AuthorPost = props => {
   });
   if (author) {
     return (
-      <Link
-        to={`/authors/${kebabCase(author.node.frontmatter.title)}`}
-        className='post-author__link'
-      >
+      <React.Fragment>
         <h3 className='post-author__title'>{`Written by: ${author.node.frontmatter.title}`}</h3>
-        <div className='post-author'>
-          {author.node.frontmatter.photo &&
-            author.node.frontmatter.photo.childImageSharp && (
-              <Image
-                className='post-author__image'
-                sizes={author.node.frontmatter.photo.childImageSharp.sizes}
-              />
-            )}
-          <p className='post-author__bio'>{author.node.frontmatter.bio}</p>
-        </div>
-      </Link>
+        <Link
+          to={`/authors/${kebabCase(author.node.frontmatter.title)}`}
+          className='post-author__link primary'
+        >
+          <div className='post-author'>
+            {author.node.frontmatter.photo &&
+              author.node.frontmatter.photo.childImageSharp && (
+                <Image
+                  className='post-author__image'
+                  sizes={author.node.frontmatter.photo.childImageSharp.sizes}
+                />
+              )}
+            <p className='post-author__bio'>{author.node.frontmatter.bio}</p>
+          </div>
+        </Link>
+      </React.Fragment>
     );
   }
   return null;
