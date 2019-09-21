@@ -40,7 +40,7 @@ module.exports = {
             }
           }
         },
-        canonicalBaseUrl: 'https://www.thexpatmagazine.com',
+        canonicalBaseUrl: 'https://www.thexpatmagazine.com/',
         components: ['amp-form'],
         excludedPaths: ['/404*', '/'],
         pathIdentifier: '/amp/',
