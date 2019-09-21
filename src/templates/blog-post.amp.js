@@ -1,26 +1,15 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import kebabCase from 'lodash/kebabCase';
-import Comments from '../components/Comments';
 import { graphql, Link } from 'gatsby';
 import ReactMarkdown from 'react-markdown';
 import AdSense from 'react-adsense';
-import {
-  FacebookShareButton,
-  FacebookIcon,
-  TwitterShareButton,
-  TwitterIcon,
-  TelegramShareButton,
-  TelegramIcon,
-  WhatsappShareButton,
-  WhatsappIcon
-} from 'react-share';
+
 import Helmet from 'react-helmet';
 import AuthorPost from '../components/AuthorPosts';
 import LayoutAmp from '../components/LayoutAmp';
 import AuthorMeta from '../components/AuthorMeta';
 import Content, { HTMLContent } from '../components/Content';
-import RelatedArticles from '../components/RelatedArticles';
 import SEO from '../components/Seo';
 
 // Import css files
@@ -56,8 +45,7 @@ export const BlogPostTemplate = ({
   image,
   figcaption,
   category,
-  url,
-  relatedArticles
+  url
 }) => {
   const PostContent = contentComponent || Content;
   const baseUrl = 'https://www.thexpatmagazine.com/';
@@ -142,45 +130,7 @@ export const BlogPostTemplate = ({
               ))}
             </ul>
           ) : null}
-          <div className='share-container'>
-            <div className='share'>
-              <FacebookShareButton
-                url={`${baseUrl}${url}`}
-                quote={title}
-                className='share-btn'
-              >
-                <FacebookIcon size={32} round />
-              </FacebookShareButton>
-              <TelegramShareButton
-                url={`${baseUrl}${url}`}
-                title={title}
-                className='share-btn'
-              >
-                <TelegramIcon size={32} round />
-              </TelegramShareButton>
-              <WhatsappShareButton
-                url={`${baseUrl}${url}`}
-                title={title}
-                separator=':: '
-                className='share-btn'
-              >
-                <WhatsappIcon size={32} round />
-              </WhatsappShareButton>
-              <TwitterShareButton
-                url={`${baseUrl}${url}`}
-                via='@thexpatmagazine'
-                title={title}
-                className='share-btn'
-              >
-                <TwitterIcon size={32} round />
-              </TwitterShareButton>
-            </div>
-          </div>
           <AuthorPost author={author} />
-          <RelatedArticles articles={relatedArticles} />
-          <section className='comments'>
-            <Comments url={url} title={title} />
-          </section>
         </div>
       </div>
     </section>
