@@ -9,7 +9,7 @@ export default function HTML(props) {
         <meta httpEquiv='x-ua-compatible' content='ie=edge' />
         <meta
           name='viewport'
-          content='width=device-width, initial-scale=1, shrink-to-fit=no'
+          content='width=device-width, initial-scale=1, minimum-scale=1, shrink-to-fit=no'
         />
         {props.headComponents}
       </head>
@@ -24,10 +24,6 @@ export default function HTML(props) {
           dangerouslySetInnerHTML={{ __html: props.body }}
         />
         {props.postBodyComponents}
-        <script
-          async
-          src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'
-        ></script>
       </body>
     </html>
   );

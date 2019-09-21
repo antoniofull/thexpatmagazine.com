@@ -1,9 +1,8 @@
-import React, { useState } from 'react';
+import React from 'react';
 import PropTypes from 'prop-types';
 import kebabCase from 'lodash/kebabCase';
-
+import Comments from '../components/Comments';
 import { graphql, Link } from 'gatsby';
-// import Img from 'gatsby-image';
 import ReactMarkdown from 'react-markdown';
 import AdSense from 'react-adsense';
 import {
@@ -18,12 +17,16 @@ import {
 } from 'react-share';
 import Helmet from 'react-helmet';
 import AuthorPost from '../components/AuthorPosts';
-import Layout from '../components/Layout';
+import LayoutAmp from '../components/LayoutAmp';
 import AuthorMeta from '../components/AuthorMeta';
 import Content, { HTMLContent } from '../components/Content';
 import RelatedArticles from '../components/RelatedArticles';
 import SEO from '../components/Seo';
 
+// Import css files
+import '../styles/amp/reset.css';
+import '../styles/amp/layout.css';
+import '../styles/buttons.css';
 import '../styles/post.css';
 
 const Separator = () => (
@@ -57,14 +60,6 @@ export const BlogPostTemplate = ({
   relatedArticles
 }) => {
   const PostContent = contentComponent || Content;
-
-  const [comments, setComments] = useState(null);
-
-  const handleComments = async (url, title) => {
-    const module = await import('../components/Comments');
-    setComments(React.createElement(module.default, { url, title }));
-  };
-
   const baseUrl = 'https://www.thexpatmagazine.com/';
   return (
     <section className='section post'>
@@ -181,23 +176,10 @@ export const BlogPostTemplate = ({
               </TwitterShareButton>
             </div>
           </div>
-
           <AuthorPost author={author} />
-
           <RelatedArticles articles={relatedArticles} />
           <section className='comments'>
-            {comments ? (
-              comments
-            ) : (
-              <button
-                onClick={() => {
-                  handleComments(url, title);
-                }}
-                className='open-comments'
-              >
-                Join the conversation
-              </button>
-            )}
+            <Comments url={url} title={title} />
           </section>
         </div>
       </div>
@@ -216,7 +198,7 @@ const BlogPost = props => {
   const { markdownRemark: post } = props.data;
   const { relatedArticles } = props.pageContext;
   return (
-    <Layout>
+    <LayoutAmp>
       <SEO
         title={post.frontmatter.title}
         description={post.frontmatter.description}
@@ -240,7 +222,7 @@ const BlogPost = props => {
         id={post.id}
         url={post.fields.slug}
       />
-    </Layout>
+    </LayoutAmp>
   );
 };
 

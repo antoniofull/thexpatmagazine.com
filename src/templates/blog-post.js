@@ -106,7 +106,7 @@ export const BlogPostTemplate = ({
         `}</script>
         <link
           rel='amphtml'
-          href={`https://www.thexpatmagazine.com/amp/${url}`}
+          href={`https://www.thexpatmagazine.com/amp${url}`}
         ></link>
       </Helmet>
       <div className='container'>

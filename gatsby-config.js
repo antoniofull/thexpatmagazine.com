@@ -21,6 +21,34 @@ module.exports = {
   plugins: [
     `gatsby-plugin-advanced-sitemap`,
     {
+      resolve: `gatsby-plugin-amp`,
+      options: {
+        analytics: {
+          type: 'gtag',
+          dataCredentials: 'include',
+          config: {
+            vars: {
+              gtag_id: 'UA-67184030-1',
+              config: {
+                'UA-67184030-1': {
+                  page_location: '{{pathname}}',
+                  vars: {
+                    account: 'UA-67184030-1'
+                  }
+                }
+              }
+            }
+          }
+        },
+        canonicalBaseUrl: 'https://www.thexpatmagazine.com',
+        components: ['amp-form'],
+        excludedPaths: ['/404*', '/'],
+        pathIdentifier: '/amp/',
+        relAmpHtmlPattern: '{{canonicalBaseUrl}}{{pathname}}{{pathIdentifier}}',
+        useAmpClientIdApi: true
+      }
+    },
+    {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
         host: 'https://www.thexpatmagazine.com',
@@ -201,12 +229,6 @@ module.exports = {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {
         modulePath: `${__dirname}/src/cms/cms.js`
-      }
-    },
-    {
-      resolve: `gatsby-plugin-canonical-urls`,
-      options: {
-        siteUrl: `https://www.thexpatmagazine.com/`
       }
     },
     {

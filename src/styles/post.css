@@ -186,7 +186,8 @@
 .post-author__title {
   min-width: 100%;
 }
-.post-author__link {
+.post__article .post-author__link,
+.post__content .post-author__link:visited {
   color: var(--color-font-primary);
 }
 .featured-image__caption {
