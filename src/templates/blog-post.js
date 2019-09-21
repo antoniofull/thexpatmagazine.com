@@ -66,8 +66,6 @@ export const BlogPostTemplate = ({
     setComments(React.createElement(module.default, { url, title }));
   };
 
-  console.log(mtime);
-
   const baseUrl = 'https://www.thexpatmagazine.com/';
   return (
     <section className='section post'>
