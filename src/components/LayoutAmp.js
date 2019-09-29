@@ -1,8 +1,7 @@
 import React from 'react';
 import Helmet from 'react-helmet';
 
-import Footer from '../components/Footer';
-import NavbarAmp from '../components/NavbarAmp';
+import NavbarAmp from '../components/NavBarAmp';
 import useSiteMetadata from './SiteMetadata';
 
 const TemplateWrapper = ({ children }) => {
