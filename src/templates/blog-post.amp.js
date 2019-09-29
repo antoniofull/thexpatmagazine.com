@@ -6,7 +6,7 @@ import ReactMarkdown from 'react-markdown';
 import AdSense from 'react-adsense';
 
 import Helmet from 'react-helmet';
-import AuthorPost from '../components/AuthorPosts';
+import AuthorPostAmp from '../components/AuthorPostsAmp';
 import LayoutAmp from '../components/LayoutAmp';
 import AuthorMeta from '../components/AuthorMeta';
 import Content, { HTMLContent } from '../components/Content';
@@ -130,7 +130,7 @@ export const BlogPostTemplate = ({
               ))}
             </ul>
           ) : null}
-          <AuthorPost author={author} />
+          <AuthorPostAmp author={author} />
         </div>
       </div>
     </section>

@@ -2,7 +2,7 @@ import React from 'react';
 import Helmet from 'react-helmet';
 
 import Footer from '../components/Footer';
-import Navbar from '../components/Navbar';
+import NavbarAmp from '../components/NavbarAmp';
 import useSiteMetadata from './SiteMetadata';
 
 const TemplateWrapper = ({ children }) => {
@@ -94,9 +94,8 @@ const TemplateWrapper = ({ children }) => {
           crossorigin
         ></link>
       </Helmet>
-      <Navbar />
+      <NavbarAmp />
       {children}
-      <Footer site={site} />
     </React.Fragment>
   );
 };
