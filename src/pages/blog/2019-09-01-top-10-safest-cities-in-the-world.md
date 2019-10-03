@@ -22,9 +22,9 @@ The **Safe Cities Index** is an index that identifies the **safest cities in the
 
 **Tokyo** is the city that, overall, tops the list, followed by [**Singapore**](https://www.thexpatmagazine.com/blog/2019-07-13-american-sarah-emery-talks-about-expat-life-in-singapore/)  and **Osaka**.
 
-The first American cities are **Toronto(**6th) and **Washington DC(**7th). Some parts of the report are self evident and well known to any expat/ That **Singapore** would win for public transport and personal safety was quite obvious, as well as cities like **San Francisco** or **Los Angeles** when it comes to digital security.
+The first American cities are **Toronto(**6th) and **Washington DC(**7th). Some parts of the report are self evident and well known to any expat. For example, that **Singapore** would win for public transport and personal safety was quite obvious, as well as cities like **San Francisco** and **Los Angeles** when it comes to digital security.
 
-Finally, Here is the list of the safest cities in the world for 2019, divided by sector:
+Finally, here is the list of the safest cities in the world for 2019, divided by sector:
 
 ## Safest countries for Digital Security
 
