@@ -6,7 +6,7 @@ description: >-
   They state you cry multiple times when you go to Pakistan, first when you hear
   you are being posted to on Pakistan and the second when your posting is over
   and you need to leave Pakistan.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/20170817_121619.jpg
 imagealt: Hira Malin
 tags:
