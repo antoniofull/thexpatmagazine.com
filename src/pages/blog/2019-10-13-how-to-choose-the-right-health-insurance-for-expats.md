@@ -52,7 +52,7 @@ A sporty person who likes practicing extreme sports, for example, might be more 
 
 ## 6. Add Extras If You Can
 
-How about the dentist? is at least a 6 month visit allowed? How about mental health and therapy? Many expats experience culture shock when moving. What about, again, a sport injurty and the need for some physiotherapy? You might have kids who practice some sports, health is important so consider spending some small extras, also considering the many different and unknown factor that will come with the new moving.
+How about the dentist? is at least a 6 month visit allowed? How about mental health and therapy? Many expats experience [culture shock](https://www.thexpatmagazine.com/blog/2014-06-23-culture-shock-expats/) when moving. What about, again, a sport injurty and the need for some physiotherapy? You might have kids who practice some sports, health is important so consider spending some small extras, also considering the many different and unknown factor that will come with the new moving.
 
 For example: in my first year in the Netherlands, I experienced a shift in the weather who brought me more often to the doctor than I thought, so spending more money which were not, initially covered by the insurance.
 
