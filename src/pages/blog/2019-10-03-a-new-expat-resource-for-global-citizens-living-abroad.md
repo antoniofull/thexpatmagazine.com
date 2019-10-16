@@ -7,7 +7,7 @@ description: >-
   questions. There is a lot of information you need to know and you are probably
   curious about, but how to find the answers?
 featuredpost: true
-featuredimage: /img/passport-2733068_1920.jpg
+featuredimage: /img/image001.jpg
 imagealt: expats
 tags:
   - living abroad
