@@ -5,7 +5,7 @@ date: 2019-10-11T20:10:02.997Z
 description: >-
   The Challenge has been created to help you to find a job and to also encourage
   you to consider opportunities outside of your country. 
-featuredpost: true
+featuredpost: false
 featuredimage: /img/banner-revista.png
 imagealt: working abroad
 tags:
