@@ -6,7 +6,7 @@ description: >-
   In general, it’s best to take care of vaccines before you do any international
   travel so you can be sure you’re covered for everything ahead of time. But
   what happens when you find yourself abroad and in need of a vaccination? 
-featuredpost: true
+featuredpost: false
 featuredimage: /img/dsc_0022.jpg
 imagealt: Argentina
 tags:
