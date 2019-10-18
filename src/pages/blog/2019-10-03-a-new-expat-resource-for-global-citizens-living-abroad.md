@@ -6,7 +6,7 @@ description: >-
   Making the decision to go abroad comes with a lot of doubts and many many
   questions. There is a lot of information you need to know and you are probably
   curious about, but how to find the answers?
-featuredpost: true
+featuredpost: false
 featuredimage: /img/image001.jpg
 imagealt: expats
 tags:
