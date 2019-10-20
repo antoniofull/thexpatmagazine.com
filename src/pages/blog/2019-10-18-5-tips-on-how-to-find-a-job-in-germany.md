@@ -13,7 +13,6 @@ country:
   - Germany
 category:
   - stories
-  - expat tips
 author: Teresa García
 ---
 While studying International Management in Ireland and my home country Spain, I gained first work experience in Germany when interning with an e-commerce company in Berlin. Having received a degree, I worked as a Key Account Manager in the retail industry in Spain for some years. Even though my job has always had an international context, this wasn’t enough anymore after some time. I wanted to live abroad. To increase the likelihood of finding a job in another country, I decided to do an MBA at the IE Business School. 
