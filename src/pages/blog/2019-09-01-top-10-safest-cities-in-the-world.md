@@ -26,52 +26,52 @@ The first American cities are **Toronto(**6th) and **Washington DC(**7th). Some 
 
 Finally, here is the list of the safest cities in the world for 2019, divided by sector:
 
-## Safest countries for Digital Security
+## Safest cities for digital security
 
 **1. Tokyo**
 
-**1. Singapore**
+**2. Singapore**
 
-**1. Chicago**
+**3. Chicago**
 
-**1. Washington DC**
+**4. Washington DC**
 
-**1. Los Angeles**
+**5. Los Angeles**
 
-## Safest countries for Health Security
+## Safest cities for health security
 
 **1. Osaka**
 
-**1. Tokyo**
+**2. Tokyo**
 
-**1. Seoul**
+**3. Seoul**
 
-**1. Amsterdam**
+**4. Amsterdam**
 
-**1. Stockholm**
+**5. Stockholm**
 
-## Safest countries for Infrastructure Security
-
-**1. Singapore**
-
-**1. Osaka**
-
-**1. Barcelona**
-
-**1. Tokyo**
-
-**1. Madrid**
-
-## Safest countries for Personal Security
+## Safest cities for infrastructure security
 
 **1. Singapore**
 
-**1. Copenhagen**
+**2. Osaka**
 
-**1. Hong Kong**
+**3. Barcelona**
 
-**1. Tokyo**
+**4. Tokyo**
 
-**1. Wellington**
+**5. Madrid**
 
-You can read the full report \[at this link](https://safecities.economist.com/safe-cities-index-2019/).
+## Safest cities for personal security
+
+**1. Singapore**
+
+**2. Copenhagen**
+
+**3. Hong Kong**
+
+**4. Tokyo**
+
+**5. Wellington**
+
+If you want to discover more details, you can read the [full report here](https://safecities.economist.com/safe-cities-index-2019/).
