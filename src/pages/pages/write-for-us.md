@@ -10,6 +10,8 @@ Living in another country is a fantastic adventure that will enrich your life an
 
 We are always looking for volunteers who want to share their stories, tips and suggestions, so If you want to share your experience with us and our readers, we are happy to host your article!
 
+> **_Please be aware, we receive several emails per day and we are just a small team. Do not be discouraged if we do not reply immediately, we always read all emails and we try to reply to all of them. Do no hesitate to contact us again if you do not receive a reply in a week._**
+
 Drop us a mail at _info@thexpatmagazine.com_ and tell us what you would like to talk about or just send the article and we will review it. There are no strict rules for writing, but just some basic ones :
 
 1. Article must be in english
@@ -24,7 +26,5 @@ This is[ Rossella's page](https://www.thexpatmagazine.com/authors/rossella-davi/
 If you are rather interested in promoting or advertising on this website, then you can have a look at our [advertising page](https://www.thexpatmagazine.com/pages/advertising-on-the-expat-magazine/). 
 
 So, are you ready to share your experience with us? We are waiting for you 🙂
-
-
 
 _Please note that we are receiving many requests. Therefore it may take a bit longer to get back to you, but we promise we'll do our best to do it as soon as we can._
