@@ -17,9 +17,10 @@ category:
   - expat tips
 author: Ana Salido
 ---
+
 The opportunity to travel abroad to expand professionally and personally is becoming increasingly common and often results in women becoming expats, leaving their family, friends and social networks to support their husband/partner. And let’s face facts, very few individuals would pass up an opportunity to live and work abroad if it were presented to them.
 
-The challenges for the travelling spouse are often not considered in the excitement of moving and travelling. The hard truth is that 90% of you won’t able to find a job in your professional field. This pill is a hard one to swallow especially when you are an independent woman who has always been financially independent. Quickly the fear of the gap on your resume is felt, and without knowing anyone who has been through this same experience it can be hard to talk about it with your family and friends. Coupled with this, labels are often given to expat women which can be pretty harsh. Between the “desperate housewives”, “the following spouse”, “the wife of …”, the loss of self-confidence and social recognition is very quickly felt.
+The challenges for the travelling spouse are often not considered in the excitement of moving and travelling. The hard truth is that 90% of you won’t able to [find a job](https://thexpatmagazine.com/blog/2019-10-18-5-tips-on-how-to-find-a-job-in-germany/) in your professional field. This pill is a hard one to swallow especially when you are an independent woman who has always been financially independent. Quickly the fear of the gap on your resume is felt, and without knowing anyone who has been through this same experience it can be hard to talk about it with your family and friends. Coupled with this, labels are often given to expat women which can be pretty harsh. Between the “desperate housewives”, “the following spouse”, “the wife of …”, the loss of self-confidence and social recognition is very quickly felt.
 
 ## Expatriation doesn’t have to be like this
 

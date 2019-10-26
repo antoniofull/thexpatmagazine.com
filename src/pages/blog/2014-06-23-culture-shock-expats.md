@@ -38,13 +38,13 @@ let's have a look at each phase and how to overcome it without problems.
 
 I guess the name should suggest something to you, and yet this is the period when you are just arrived to your new country. This period lasts from **few weeks** to the **first** month. During this period everything is seen in a romantic way (hence the name) and basically the expat will fall in love with everything.
 
-From food to people, culture, habit everything (since it's new) will look beautiful and so "romantic". But what's wrong with that? Isn't that true? Well .. it is and is not .. but the excitement for this new adventure will "fake" your view of everything  you will discover during this period, regardless if is it true or not. There are 2 important mistakes to avoid during this period :
+From [food](https://www.thexpatmagazine.com/blog/2019-09-07-5-best-combinations-of-food-and-drinks-from-different-countries-you-should-try/) to people, culture, habit everything (since it's new) will look beautiful and so "romantic". But what's wrong with that? Isn't that true? Well .. it is and is not .. but the excitement for this new adventure will "fake" your view of everything  you will discover during this period, regardless if is it true or not. There are 2 important mistakes to avoid during this period :
 
 **1 Comparing everything with your home country.**
 
 Stop doing that, this is not how it works. You don't need to thing how nice is that station compared with the one your old town, you need to understand how trains works when you go to work or how to find a house. For how beauty is the new country, making comparison will obviously put the new country in a better position, and you might do mistakes. (e.g. trust every one like a nice and trusted person).
 
-**2 Learn everything you can.** Are you in UK? Do not stop visiting London, go also on other places, town. Visit different places, Uk is not only London like Netherlands is not only Amsterdam. Learn the story, their culture their habit. Learn, explore don't be scared or excited, be curious.
+**2 Learn everything you can.** Are you in UK? Do not stop visiting [London](https://www.thexpatmagazine.com/tags/london), go also on other places, town. Visit different places, Uk is not only London like Netherlands is not only Amsterdam. Learn the story, their culture their habit. Learn, explore don't be scared or excited, be curious.
 
 ## Negotiation Phase.
 

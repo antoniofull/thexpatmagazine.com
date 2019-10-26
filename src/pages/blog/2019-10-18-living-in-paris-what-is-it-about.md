@@ -4,7 +4,7 @@ title: 'Living in Paris: what is it about?'
 date: 2019-10-18T19:12:03.775Z
 description: >-
   What is like to live in Paris? From America, Magda Theodate shares her
-  experience and top tips for all those people who want to do the same. 
+  experience and top tips for all those people who want to do the same.
 featuredpost: true
 featuredimage: /img/eiffel-tower-768501_1920.jpg
 imagealt: >-
@@ -19,7 +19,8 @@ category:
   - stories
 author: Magda Theodate
 ---
-It's late afternoon on a Sunday in [Paris](https://www.thexpatmagazine.com/blog/2019-07-29-what-i-learned-from-taking-the-metro-with-a-baby/). The sun is setting just behind the Jardin de Luxembourg in the 5e arrondisement, and the temperature is cooling. I am wearing a black-and-rose-flowered cotton sun dress and dark Jackie-O style sunglasses. I have been sitting at a table on the terrace of Le Comptoir du Panthéon, sipping an Orangina for the last hour, and mesmerized by author James Baldwin's Another Country. I am beginning to feel a chill in the air, but I'm not prepared to leave. This is "la vie en rose" that Edith Piaf sang about, and a Parisian terrace on a lazy afternoon, is the perfect place to understand what she meant.
+
+It's late afternoon on a Sunday in [Paris](https://www.thexpatmagazine.com/blog/2019-07-29-what-i-learned-from-taking-the-metro-with-a-baby/). The sun is setting just behind the Jardin de [Luxembourg](https://www.thexpatmagazine.com/blog/2014-11-24-best-country-world-expat/) in the 5e arrondisement, and the temperature is cooling. I am wearing a black-and-rose-flowered cotton sun dress and dark Jackie-O style sunglasses. I have been sitting at a table on the terrace of Le Comptoir du Panthéon, sipping an Orangina for the last hour, and mesmerized by author James Baldwin's Another Country. I am beginning to feel a chill in the air, but I'm not prepared to leave. This is "la vie en rose" that Edith Piaf sang about, and a Parisian terrace on a lazy afternoon, is the perfect place to understand what she meant.
 
 French women always have "une écharpe" (scarf) around their necks, even in the Summer, just in case the temperature changes. The French even have a saying "En avril ne te découvre pas d'un fil, en mai, fais ce qu'il te plait." Loosely translated, it means in April, stay covered, but in May, do as you wish. It's synonymous with the weather in those months, but I think it can be applied to several other binary month groupings as well. I have no scarf, but I have the right attitude, so I sit defiantly facing down the winds, and contemplating why I love this city so much.
 

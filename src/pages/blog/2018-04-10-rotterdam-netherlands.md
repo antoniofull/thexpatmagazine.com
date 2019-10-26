@@ -33,7 +33,7 @@ What stroke me the most? It's what Rotterdam can offer, thanks to its soul of a 
 
 Looking for a job in 2013 was a bit easier than nowadays, anyway my advice is to learn at least English before going into this adventure. Once you've done that, you can download the [Undutchables](https://undutchables.nl) app to be up to date on new job opportunities, which you can filter by city or primary language remember to be patient and you need a lot of enthusiasm to be back into the game. From my personal experience, I have worked in IT with 2 different companies and I have learned a lot.
 
-From the administrational side, I remember how efficient and fast is the bureaucracy for things such as registration at the municipality, open a bank account and receiving the health insurance card. I think I did everything in 3 hours and 1 appointment, as I knew in advance all the documents needed thanks to the call I had before going to the office.
+From the administrational side, I remember how efficient and fast is the bureaucracy for things such as registration at the municipality, open a bank account and receiving the [health insurance](https://www.thexpatmagazine.com/blog/2019-10-13-how-to-choose-the-right-health-insurance-for-expats/) card. I think I did everything in 3 hours and 1 appointment, as I knew in advance all the documents needed thanks to the call I had before going to the office.
 
 I'll tell you more (and hopefully soon) why I moved back to Italy, how much I miss Rotterdam and my project to be back there.
 

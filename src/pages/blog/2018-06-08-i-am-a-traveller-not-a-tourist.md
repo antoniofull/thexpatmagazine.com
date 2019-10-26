@@ -40,7 +40,7 @@ But if I have to choose a country, then my favourite one is Ireland instead such
 
 ![Expat Stories](/img/uploads/2018/06/21371124_10155051905088215_2649903609846765611_n.jpg)
 
-Amsterdam
+[Amsterdam](https://www.thexpatmagazine.com/tags/amsterdam)
 
 #### What about other people? Do you ask other travellers to join you or it's something more natural?
 

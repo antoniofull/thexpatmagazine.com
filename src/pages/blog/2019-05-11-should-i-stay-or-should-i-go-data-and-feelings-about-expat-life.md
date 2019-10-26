@@ -19,7 +19,7 @@ The song "Should I stay or should I go?"  doesn't mention expat life. It speaks
 
 Before analyzing data and interesting numbers about expats (and not) in the world, I'd like to share some stories and thoughts from some followers of the<a href="https://www.instagram.com/the_expatmagazine/"> IG page @thexpatmagazine.</a>
 
-Claudayita is an expat for 7 years, her story is about necessity and love for someone but also for the native Country. She moved from Argentina to Australia and went back to Argentina and Mexico at the end. The reasons were different. In Australia, she even gets married but she was homesick soon, this is a "con" of being an expat. After coming back to Argentina she lost her loved one and, also, realized her Country's situation wasn't good so she moved to Mexico, following a love story.
+Claudayita is an expat for 7 years, her story is about necessity and love for someone but also for the native Country. She moved from [Argentina](https://www.thexpatmagazine.com/blog/2019-09-15-how-to-get-your-yellow-fever-vaccine-for-free-in-buenos-aires/) to Australia and went back to Argentina and Mexico at the end. The reasons were different. In Australia, she even gets married but she was homesick soon, this is a "con" of being an expat. After coming back to Argentina she lost her loved one and, also, realized her Country's situation wasn't good so she moved to Mexico, following a love story.
 
 Ana, instead, thinks that living abroad is her freedom. She said: "I can live my life on my own terms far away from what me, my family and friends were expecting from me"
 

@@ -18,6 +18,7 @@ category:
   - stories
 author: Editorial Team
 ---
+
 Bee is from Norway originally and has lived for 11 years in Scotland. She loved it there and would happily move back at some point. So, why and how did she end up in Sardinia?
 
 _"What brought me to Sardinia was a red kayak on Instagram. I was following some people from Sardinia on Instagram and one of them has the exact same red kayak as mine. We started talking and I ended up going for a kayak and MTB (mountain bike) visit to Sardinia. I loved it so much that decided to stay. Right now I travel between Norway and Sardinia as I'm studying coaching in Norway."_
@@ -28,7 +29,7 @@ Adventures and new places are wonderful, but when many things are new and unfami
 
 I’ m ashamed to say it, but I had an egoistic meltdown  over tea. N ot my finest moment I have to say. All my peace, calm and serenity went out of the window, just because of a cup of tea. You could say that the apparent overreaction was due to the last drop that made my teacup issue spill over.
 
-As a Scandinavian in Sardinia, I have discovered that Italians are not tea drinkers, at least not in the same way as somebody who has lived 11 years in the North of the UK is used to. The black, strong brew that grows hairs on your chest and that you can leave the spoon standing upright in all by itself. Milky, strong and fortifying –   THAT kind of tea.
+As a Scandinavian in Sardinia, I have discovered that Italians are not tea drinkers, at least not in the same way as somebody who has lived 11 years in the North of the UK is used to. The black, strong brew that grows hairs on your chest and that you can leave the spoon standing upright in all by itself. Milky, strong and fortifying – THAT kind of tea.
 
 Come along inside We'll see if tea and buns can make the world a better place The Wind in the Willows
 
@@ -52,7 +53,7 @@ We had a kettle; we let it leak: Our not repairing made it worse. We haven't had
 
 As a foreigner in a new place, trying to keep abreast with all the changes and differences, language and customs, you feel like  things change too much or too fast around you. Since everything is unfamiliar and there are many things you compromise on, these little things like having your tea the way you like it become very important. Maybe lots more important than they ‘ should’ be – but you cling to what’ s left of familiarity. And maybe trying t o maintain some ‘ normality’  in the form of well-known, cosy habits.
 
-But that is OK, let tea or other habits be our support system when we need it. We find safety in that, safety in well-known routines (even if it’ s just a cup of tea). When there are many changes on the outside some of our familiar things help this seem less dramatic – even if it is ‘<span lang="DE">JUST’ tea.
+But that is OK, let tea or other habits be our support system when we need it. We find [safety](https://www.thexpatmagazine.com/blog/2019-09-01-top-10-safest-cities-in-the-world/) in that, safety in well-known routines (even if it’ s just a cup of tea). When there are many changes on the outside some of our familiar things help this seem less dramatic – even if it is ‘JUST’ tea.
 
 It’ s easier to embrace new things when you have some of your comforts with you. And y ou can face anything after being fortified with a cuppa!
 
