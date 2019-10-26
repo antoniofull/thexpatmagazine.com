@@ -1,6 +1,5 @@
 import React from 'react';
 import { graphql, StaticQuery, Link } from 'gatsby';
-import Image from 'gatsby-image';
 import find from 'lodash/find';
 import kebabCase from 'lodash/kebabCase';
 
@@ -26,6 +25,7 @@ const AuthorPostAmp = props => {
                   width={200}
                   height={200}
                   src={author.node.frontmatter.photo.publicURL}
+                  alt={author.node.frontmatter.title}
                 />
               )}
             <p className='post-author__bio'>{author.node.frontmatter.bio}</p>

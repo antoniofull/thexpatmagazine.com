@@ -26,11 +26,12 @@ class IndexPage extends Component {
     // remove duplicates
     const allposts = this.props.data.posts.edges;
     const featured = this.props.data.featured.edges;
-
+    const latestPosts = allposts.slice(0, 12);
+    const categoriesPosts = allposts.slice(12);
     const ids = new Set();
     let [stories, destinations, tips] = [[], [], []];
 
-    allposts.forEach((post, i) => {
+    categoriesPosts.forEach((post, i) => {
       const cat = post.node.frontmatter.category;
       const id = post.node.id;
       if (cat.includes('destinations') && !ids.has(id) && i < 30) {
@@ -53,6 +54,7 @@ class IndexPage extends Component {
     if (destinations.length > 0) {
       this.setState({
         ...this.state,
+        latestPosts,
         authors,
         featured,
         tips,
@@ -63,7 +65,14 @@ class IndexPage extends Component {
   }
 
   render() {
-    const { authors, featured, stories, destinations, tips } = this.state;
+    const {
+      authors,
+      featured,
+      stories,
+      destinations,
+      tips,
+      latestPosts
+    } = this.state;
 
     return (
       <Layout>
@@ -90,6 +99,7 @@ class IndexPage extends Component {
             count={featured.length}
           />
 
+          <HomePostList title='latests' posts={latestPosts} />
           <HomePostList title='stories' posts={stories} />
           <div className='ad--index'>
             <AdSense.Google

@@ -2,12 +2,21 @@ import React from 'react';
 import { Link } from 'gatsby';
 
 import AuthorMeta from './AuthorMeta';
+import LatestPosts from './LatestPosts';
 import Img from 'gatsby-image';
 import Stories from './Stories';
 
 const HomePostList = ({ posts, title }) => {
+  if (title === 'stories') {
+    return <Stories posts={posts} />;
+  }
+  if (title === 'latests') {
+    return <LatestPosts posts={posts} />;
+  }
   const isDestinations = title === 'destinations';
-  const viewTitle = isDestinations ? 'Destinations' : 'Travel And Expat Tips';
+  const viewTitle = isDestinations
+    ? 'Destinations'
+    : 'Travel And Expat Tips' || 'Latest Posts';
   const catLink = isDestinations ? 'destinations' : 'travel-tips';
   const postList = posts.map(
     (post, i) =>
@@ -54,10 +63,6 @@ const HomePostList = ({ posts, title }) => {
         </article>
       )
   );
-
-  if (title === 'stories') {
-    return <Stories posts={posts} />;
-  }
 
   return (
     <section
