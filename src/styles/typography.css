@@ -89,7 +89,7 @@ h1 {
 
 h2 {
   font-size: var(--font-l);
-  line-height: 1.1;
+  line-height: 1.2;
 }
 
 a {
@@ -141,7 +141,6 @@ li {
 
 @media screen and (min-width: 1024px) {
   body {
-    line-height: 1.6;
     font-size: 18px;
     color: var(--color-text);
   }
