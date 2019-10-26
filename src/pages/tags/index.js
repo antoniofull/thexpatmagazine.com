@@ -3,6 +3,7 @@ import kebabCase from 'lodash/kebabCase';
 import Helmet from 'react-helmet';
 import { Link, graphql } from 'gatsby';
 import Layout from '../../components/Layout';
+import './tags.css';
 
 const TagsPage = ({
   data: {
@@ -22,10 +23,13 @@ const TagsPage = ({
             style={{ marginBottom: '6rem' }}
           >
             <h1 className='title is-size-2 is-bold-light'>Tags</h1>
-            <ul className='taglist'>
+            <ul className='taglist-page'>
               {group.map(tag => (
-                <li key={tag.fieldValue}>
-                  <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
+                <li key={tag.fieldValue} className='tag-item'>
+                  <Link
+                    to={`/tags/${kebabCase(tag.fieldValue)}/`}
+                    title={`All article tagged in : ${tag}`}
+                  >
                     {tag.fieldValue} ({tag.totalCount})
                   </Link>
                 </li>

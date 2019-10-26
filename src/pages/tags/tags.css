@@ -1,0 +1,25 @@
+.taglist-page {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: start;
+}
+
+.tag-item {
+  flex: 1 1 50%;
+  list-style-type: disc;
+}
+
+.tag-item a {
+  color: var(--color-text);
+  text-transform: capitalize;
+}
+
+.tag-item a:hover {
+  font-weight: bold;
+}
+
+@media screen and (min-width: 1024px) {
+  .tag-item {
+    flex: 1 1 25%;
+  }
+}
