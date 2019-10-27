@@ -55,7 +55,7 @@
   border: 1px solid var(--color-text-third);
 }
 .post-meta--author img {
-  transition: 2s cubic-bezier(0.075, 0.82, 0.165, 1) !important;
+  transition: 2s cubic-bezier(0.075, 0.82, 0.165, 1);
 }
 
 .post-meta--author__name {

@@ -34,7 +34,7 @@
 }
 
 .slider-control-bottomcenter {
-  bottom: 8% !important;
+  bottom: 8%;
 }
 .slider-control-bottomcenter ul {
   display: flex;
@@ -50,7 +50,7 @@
   margin: auto var(--margin-s);
 }
 .paging-dot {
-  background: var(--color-white) !important;
+  background: var(--color-white);
   border: 1px solid var(--color-white);
   padding: 4px;
   position: absolute;
