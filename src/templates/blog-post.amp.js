@@ -3,7 +3,6 @@ import PropTypes from 'prop-types';
 import kebabCase from 'lodash/kebabCase';
 import { graphql, Link } from 'gatsby';
 import ReactMarkdown from 'react-markdown';
-import AdSense from 'react-adsense';
 
 import Helmet from 'react-helmet';
 import AuthorPostAmp from '../components/AuthorPostsAmp';
@@ -109,15 +108,6 @@ export const BlogPostTemplate = ({
             <Separator />
           </React.Fragment>
         )}
-        <div className='post__ads'>
-          <AdSense.Google
-            client='ca-pub-5100800746597188'
-            slot='9580336420'
-            style={{ display: 'block', textAlign: 'center' }}
-            layout='in-article'
-            format='fluid'
-          />
-        </div>
         <div className='post__content'>
           <PostContent content={content} className='post__article' />
 

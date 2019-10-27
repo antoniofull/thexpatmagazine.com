@@ -12,6 +12,7 @@ export default function HTML(props) {
           content='width=device-width, initial-scale=1, minimum-scale=1, shrink-to-fit=no'
         />
         {props.headComponents}
+        <meta name='msvalidate.01' content='1485342BF3BF131B9A6E5BA26C44796E' />
       </head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}
