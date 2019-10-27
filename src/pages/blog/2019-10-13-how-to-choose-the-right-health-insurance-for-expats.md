@@ -6,7 +6,7 @@ description: >-
   How do you choose the right health insurance when moving abroad? What is the
   best health insurance for expats? We give you some good tips on how to choose
   the right health insurance for your new expat life.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/health-insurance-expats.jpg
 imagealt: >-
   Health Insurance for Expats: Image from <a
