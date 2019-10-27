@@ -102,7 +102,7 @@ export const HitsWrapper = styled.div`
   background: white;
   border-radius: $4px;
   > * + * {
-    padding-top: 1em !important;
+    padding-top: 1em;
     border-top: 2px solid #bbb;
   }
   li + li {

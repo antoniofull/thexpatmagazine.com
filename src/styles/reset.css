@@ -107,7 +107,7 @@ q:after {
 }
 
 [hidden] {
-  display: none !important;
+  display: none;
 }
 
 i,

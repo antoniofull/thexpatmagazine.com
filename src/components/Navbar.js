@@ -50,7 +50,7 @@ const Navbar = class extends React.Component {
           <div className='mobile-toggle' onClick={this.toggleHamburger}>
             <span className='mobile-nav__text'>MENU</span>
             <button
-              aria-label='Open Naigation'
+              aria-label='Open Navigation'
               type='button'
               className='hamburger btn-link'
             >

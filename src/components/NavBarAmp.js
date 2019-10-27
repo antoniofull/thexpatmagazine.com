@@ -1,12 +1,12 @@
 import React from 'react';
-import Header from './Header';
+import Header from './amp/Header';
 import { Link, StaticQuery, graphql } from 'gatsby';
 import MediaQuery from 'react-responsive';
 
 import Logo from '../img/logo.svg';
 import MobileNavToggler from '../img/mobile-nav-toggle.svg';
-import MobileNavigation from './MobileNavigation';
-import DesktopNav from './DesktopNav';
+import MobileNavigation from './amp/MobileNavigation';
+import DesktopNav from './amp/DesktopNav';
 
 const NavbarAmp = class extends React.Component {
   constructor(props) {
@@ -50,7 +50,7 @@ const NavbarAmp = class extends React.Component {
           <div className='mobile-toggle' onClick={this.toggleHamburger}>
             <span className='mobile-nav__text'>MENU</span>
             <button
-              aria-label='Open Naigation'
+              aria-label='Open Navigation'
               type='button'
               className='hamburger btn-link'
             >

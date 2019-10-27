@@ -16,6 +16,7 @@
 .newsletter__header {
   font-size: var(--font-l);
   padding: var(--padding);
+  color: #ffffff;
 }
 .form-newsletter input {
   width: 100%;

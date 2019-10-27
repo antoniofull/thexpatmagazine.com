@@ -80,7 +80,7 @@ const NewsLetter = () => (
     url={url}
     render={({ subscribe, status, message }) => (
       <section className='newsletter'>
-        <h2 className='newsletter__header wf-os has-text-white has-text-center'>
+        <h2 className='newsletter__header wf-os has-text-center'>
           Stay Inspired
         </h2>
         <CustomForm

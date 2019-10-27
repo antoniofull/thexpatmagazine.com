@@ -13,7 +13,7 @@ import TwitterIcon from '../img/social/twitter.svg';
 
 const Footer = ({ site }) => {
   return (
-    <footer className='main-footer is-color-black has-text-white'>
+    <footer className='main-footer is-color-black'>
       <InstagramFeed />
       <NewsLetter />
       <section className='main-footer__about wf-os'>

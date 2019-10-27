@@ -1,38 +1,41 @@
 import React from 'react';
-import { graphql, StaticQuery, Link } from 'gatsby';
 import find from 'lodash/find';
 import kebabCase from 'lodash/kebabCase';
+import { Link, graphql, StaticQuery } from 'gatsby';
 
-const AuthorPostAmp = props => {
+import '../../styles/amp/meta.css';
+
+const AuthorMeta = props => {
   const authors = props.data.allMarkdownRemark.edges;
+  // const { readingTime } = props;
+
   const author = find(authors, a => {
     return a.node.frontmatter.title === props.author;
   });
   if (author) {
     return (
-      <React.Fragment>
-        <h3 className='post-author__title'>{`Written by: ${author.node.frontmatter.title}`}</h3>
+      <div
+        className={`meta wf-os text-color--dark-light post-meta--author ${props.className &&
+          props.className}`}
+      >
         <Link
           to={`/authors/${kebabCase(author.node.frontmatter.title)}`}
-          className='post-author__link primary'
+          className='post-meta--author__link'
         >
-          <div className='post-author'>
-            {author.node.frontmatter.photo &&
-              author.node.frontmatter.photo.childImageSharp && (
+          {author.node.frontmatter.photo &&
+            author.node.frontmatter.photo.childImageSharp && (
+              <span className='post-meta--author__image'>
                 <img
-                  layout='responsive'
-                  className='post-author__image'
-                  style={{ maxWidth: '200px' }}
-                  width={200}
-                  height={200}
-                  src={author.node.frontmatter.photo.publicURL}
                   alt={author.node.frontmatter.title}
+                  src={author.node.frontmatter.photo.publicURL}
                 />
-              )}
-            <p className='post-author__bio'>{author.node.frontmatter.bio}</p>
-          </div>
+              </span>
+            )}
+          <h4 className='post-meta--author__name wf-os'>
+            {author.node.frontmatter.title}
+          </h4>
         </Link>
-      </React.Fragment>
+      </div>
     );
   }
   return null;
@@ -53,13 +56,13 @@ export default props => (
                 slug
               }
               frontmatter {
-                bio
                 title
+                description
                 photo {
                   publicURL
                   childImageSharp {
-                    sizes(maxWidth: 60) {
-                      ...GatsbyImageSharpSizes
+                    fluid(maxWidth: 60) {
+                      ...GatsbyImageSharpFluid
                     }
                   }
                 }
@@ -69,6 +72,6 @@ export default props => (
         }
       }
     `}
-    render={data => <AuthorPostAmp data={data} {...props} />}
+    render={data => <AuthorMeta data={data} {...props} />}
   />
 );

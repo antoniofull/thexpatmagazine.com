@@ -1,6 +1,9 @@
 .instagram {
   padding: var(--padding-xl) var(--padding-xl);
 }
+.main-footer {
+  color: #ffffff;
+}
 .main-footer .icon-insta {
   width: 36px;
   fill: white;

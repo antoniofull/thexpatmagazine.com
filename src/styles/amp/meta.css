@@ -1,0 +1,84 @@
+.meta {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 var(--padding-s);
+  max-width: 280px;
+  min-height: 24px;
+  color: var(--color-text-third);
+  font-size: var(--font-s);
+  position: relative;
+}
+.meta * {
+  font-family: 'Open Sans', sans-serif;
+}
+.meta img {
+  margin-right: var(--margin);
+  display: block;
+}
+.meta h1,
+.meta h2,
+.meta h3,
+.meta h4,
+.meta h5 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.meta__date {
+  min-height: 14px;
+  color: var(--color-text-secondary);
+}
+.meta--align-left {
+  justify-content: start;
+}
+.post-meta--author__image {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 1px solid var(--border-color-light);
+}
+.divider--meta {
+  height: 100%;
+  width: 1px;
+  background-color: var(--border-color-light);
+  min-height: 24px;
+  margin-left: var(--margin-s);
+  margin-right: var(--margin-s);
+  max-width: 1px;
+}
+.post-meta--author__link .gatsby-image-wrapper {
+  max-width: 14px;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  border: 1px solid var(--color-text-third);
+}
+.post-meta--author img {
+  transition: 2s cubic-bezier(0.075, 0.82, 0.165, 1) !important;
+}
+
+.post-meta--author__name {
+  font-weight: 300;
+  color: var(--color-text-secondary);
+}
+.post-meta--author__link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  border: 1px solid #fff;
+}
+
+/* .post-meta--author__link:hover {
+  border-bottom: 1px solid var(--border-color);
+} */
+.post-meta--author__link:visited .post-meta--author__name {
+  color: var(--color-text-secondary);
+}
+
+.post-meta--author__link:hover .post-meta--author__name {
+  color: var(--color-primary);
+}
+.post-meta--author__name {
+  margin-left: var(--margin-s);
+}

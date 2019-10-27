@@ -298,7 +298,7 @@ exports.createPages = async ({ actions, graphql }) => {
         }
       });
 
-      if (edge.node.frontmatter.templateKey !== 'blog-post') {
+      if (edge.node.frontmatter.templateKey === 'blog-post') {
         createPage({
           path: `amp${edge.node.fields.slug}`,
           component: path.resolve('src/templates/blog-post.amp.js'),

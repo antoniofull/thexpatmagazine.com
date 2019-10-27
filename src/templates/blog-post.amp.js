@@ -7,7 +7,7 @@ import ReactMarkdown from 'react-markdown';
 import Helmet from 'react-helmet';
 import AuthorPostAmp from '../components/AuthorPostsAmp';
 import LayoutAmp from '../components/LayoutAmp';
-import AuthorMeta from '../components/AuthorMeta';
+import AuthorMeta from '../components/amp/AuthorMeta';
 import Content, { HTMLContent } from '../components/Content';
 import SEO from '../components/Seo';
 
@@ -98,7 +98,7 @@ export const BlogPostTemplate = ({
         </div>
         {image && (
           <React.Fragment>
-            <amp-img
+            <img
               src-set={image.publicURL}
               title={title}
               alt={description}
