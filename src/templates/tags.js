@@ -6,15 +6,15 @@ import Grid from '../components/Grid';
 import Seo from '../components/Seo';
 import Pagination from '../components/Pagination';
 
-// description, lang, image, meta, keywords, title, pathname
-
 const TagRoute = ({ pageContext }) => {
   const posts = pageContext.group;
-  console.log(pageContext);
+
   return (
     <Layout>
       <Helmet></Helmet>
       <Seo
+        lang='en'
+        keywords={pageContext.tag}
         pathname={`/${pageContext.pathPrefix}`}
         title={`Articles for: ${pageContext.tag}`}
         description={`${pageContext.pageCount}  articles at the expat magazine tagged with ${pageContext.tag}`}
