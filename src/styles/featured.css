@@ -25,7 +25,7 @@
   width: 100%;
 }
 .featured .slider {
-  height: 100% !important;
+  height: 100%;
 }
 .featured .post-meta--author .gatsby-image-wrapper {
   max-width: 24px;

@@ -127,7 +127,7 @@ li {
 
 .post__content ol li,
 .post__content ul li {
-  list-style-type: initial !important;
+  list-style-type: initial;
 }
 
 @media screen and (min-width: 768px) {

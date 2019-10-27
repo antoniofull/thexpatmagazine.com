@@ -107,7 +107,7 @@
   text-decoration: none;
   text-transform: uppercase;
   text-align: right;
-  transition: all 0.5s cubic-bezier(0.19, 1, 0.22, 1) !important;
+  transition: all 0.5s cubic-bezier(0.19, 1, 0.22, 1);
   font-size: 14px;
   display: flex;
   justify-content: flex-end;
@@ -148,7 +148,7 @@
   transition: all 0.5s cubic-bezier(0.19, 1, 0.22, 1);
 }
 .masonry__item img {
-  transition: all 0.5s cubic-bezier(0.19, 1, 0.22, 1) !important;
+  transition: all 0.5s cubic-bezier(0.19, 1, 0.22, 1);
 }
 
 .masonry__item:hover img {

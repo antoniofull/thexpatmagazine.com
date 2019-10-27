@@ -29,7 +29,6 @@ const focus = css`
   width: 10rem;
   + ${SearchIcon} {
     color: var(--color-text);
-    margin: 0.3em;
   }
 `;
 
@@ -54,7 +53,7 @@ const expand = css`
   margin-left: -1.6em;
   padding-left: 1.6em;
   + ${SearchIcon} {
-    margin: 0.3em;
+    margin: 0;
     @media (max-width: 1024px) {
       margin: 0;
     }
