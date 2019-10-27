@@ -28,7 +28,7 @@ I was born in the north of England pretty much at the beginning of the current E
 
 From a very early age, I fell in love with the idea of being in different countries. As a family, we went camping all over Europe in the fifties and early sixties. At the age of 12 I formed a deeply romantic notion of visiting the USA and even of being able to live there – to the extent that I requested detailed road maps from the US Department of the Interior and developed a fully documented six week road trip around the country, complete with Greyhound Bus departure and arrival times for each of the cities to be visited…Sadly it never came off.
 
-However, in 1975 the American Dream did become a reality when my first employer, Burroughs Machines Limited, transferred me from London to the company’s World HQ in Detroit. I was 23, engaged to be married, and it felt like the beginning of a huge adventure…
+However, in 1975 the [American Dream](/tags/american-dream) did become a reality when my first employer, Burroughs Machines Limited, transferred me from London to the company’s World HQ in Detroit. I was 23, engaged to be married, and it felt like the beginning of a huge adventure…
 
 …which, for the most part, it continued to be for the next four decades or so. Three years in Detroit were followed by three years back in the UK and then it was time to change again – this time to Paris. (In fact that three-year return to England was the longest of three failed attempts to “settle down” in my country of origin. The reasons are many and varied but are in no way a rejection of my sense of what the country is. My background and the opportunity to live elsewhere simply eliminated the need for me to have roots or even to put them down somewhere else…)
 

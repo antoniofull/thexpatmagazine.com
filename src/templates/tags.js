@@ -14,7 +14,7 @@ const TagRoute = ({ pageContext }) => {
       <Helmet></Helmet>
       <Seo
         lang='en'
-        keywords={pageContext.tag}
+        keywords={[pageContext.tag] || []}
         pathname={`/${pageContext.pathPrefix}`}
         title={`Articles for: ${pageContext.tag}`}
         description={`${pageContext.pageCount}  articles at the expat magazine tagged with ${pageContext.tag}`}
