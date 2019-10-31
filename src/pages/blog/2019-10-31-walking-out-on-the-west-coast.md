@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Walking out on the West Coast
+title: 'Vancouver: Walking out on the West Coast'
 date: 2019-10-31T17:11:33.461Z
 description: >-
   Samuel Bunyan lived in Vancouver for the past two years, and he unsurprisingly
