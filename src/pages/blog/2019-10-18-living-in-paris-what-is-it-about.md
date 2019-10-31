@@ -5,7 +5,7 @@ date: 2019-10-18T19:12:03.775Z
 description: >-
   What is like to live in Paris? From America, Magda Theodate shares her
   experience and top tips for all those people who want to do the same.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/eiffel-tower-768501_1920.jpg
 imagealt: >-
   [Paris
