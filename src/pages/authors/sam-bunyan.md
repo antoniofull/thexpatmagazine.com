@@ -10,7 +10,7 @@ bio: >-
   a foreign place. Further to that, finding that special ingredient in new
   locations. His studies include a History (International) degree from the
   University of Leeds and a British College of Journalism diploma.
-photo: /img/20190121_181328.jpg
+photo: /img/41013800_10157711767337067_1310995173185945600_o.jpg
 instagram: pommieperspective_
 ---
 
