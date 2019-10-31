@@ -5,6 +5,7 @@ date: 2019-10-28T08:01:25.186Z
 description: >-
   The reason why your plan might not be on time? This infographic will explain
   you why.
+featuredpost: true
 featuredimage: /img/why-plane-are-late.png
 imagealt: Infographic about travelling and flights
 tags:
