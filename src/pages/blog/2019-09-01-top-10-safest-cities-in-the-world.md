@@ -6,7 +6,7 @@ description: >-
   What are the safest cities in the World? A study based on 4 different factors
   for safety ranks Tokyo as the safest city in the World, followed by Singapore
   and Osaka.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/safest-cities-world-tokyo.jpg
 imagealt: 10 Safest cities in the World. Top 2 spots for Tokyo and Singapore
 tags:
