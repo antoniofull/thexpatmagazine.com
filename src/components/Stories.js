@@ -12,9 +12,14 @@ const masonryOptions = {
 };
 
 const Stories = ({ posts }) => {
+  let mql = window.matchMedia('(max-width: 1280px)');
+  let limit = 12;
+  if (mql.matches) {
+    limit = 6;
+  }
   const stories = posts.map(
     (story, i) =>
-      i < 12 && (
+      i < limit && (
         <article
           className='story story--home container--story container story-masonry masonry__item'
           key={story.node.id}

@@ -243,6 +243,9 @@
   .masonry__item {
     max-width: 33.33333%;
   }
+  .container-home--articles {
+    grid-template-columns: repeat(3, minmax(var(--grid-column-width), 1fr));
+  }
   @supports (display: grid) {
     .masonry {
       display: grid;

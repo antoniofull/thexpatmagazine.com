@@ -6,9 +6,14 @@ import Img from 'gatsby-image';
 import '../styles/tips.css';
 
 const Tips = ({ posts }) => {
+  let mql = window.matchMedia('(max-width: 1280px)');
+  let limit = 12;
+  if (mql.matches) {
+    limit = 6;
+  }
   const stories = posts.map(
     (story, i) =>
-      i < 12 && (
+      i < limit && (
         <article
           className='tip article--home has-border article--full-image'
           key={story.node.id}

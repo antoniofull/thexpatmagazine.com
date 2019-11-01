@@ -13,7 +13,6 @@ import SEO from '../components/Seo';
 
 // Import css files
 import '../styles/amp/reset.css';
-import '../styles/amp/layout.css';
 import '../styles/buttons.css';
 import '../styles/post.css';
 

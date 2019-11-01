@@ -7,10 +7,15 @@ import '../styles/tips.css';
 import '../styles/destinations.css';
 
 const Destinations = ({ posts }) => {
+  let mql = window.matchMedia('(max-width: 1280px)');
+  let limit = 12;
+  if (mql.matches) {
+    limit = 6;
+  }
   if (posts) {
     const stories = posts.map(
       (story, i) =>
-        i < 12 && (
+        i < limit && (
           <article
             className='destination article--home has-border article--full-image'
             key={story.node.id}
