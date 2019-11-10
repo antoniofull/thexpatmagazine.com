@@ -12,7 +12,7 @@ imagealt: >-
   <a
   href="https://unsplash.com/@napr0tiv?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge"
   target="_blank" rel="noopener noreferrer" title="Download free do whatever you
-  want high-resolution photos from Vasily Koloda"Top Tips for Study Abroad,
+  want high-resolution photos from Vasily Koloda">Top Tips for Study Abroad,
   Image from Unsplash</a>
 tags:
   - studying abroad
