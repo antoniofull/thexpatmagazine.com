@@ -9,8 +9,7 @@ description: >-
 featuredpost: true
 featuredimage: /img/vasily-koloda-8cqdvpuo_ki-unsplash.jpg
 imagealt: >-
-  [Diploma](<<a
-  style="background-color:black;color:white;text-decoration:none;padding:4px
+  [Diplom](<background-color:black;color:white;text-decoration:none;padding:4px
   6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;,
   &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe
   UI&quot;, Arial,
@@ -23,7 +22,7 @@ imagealt: >-
   style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white"
   viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12
   5h10v18H0V14h10v9h12v-9z"></path></svg></span><span
-  style="display:inline-block;padding:2px 3px">Vasily Koloda</span></a>>)
+  style="display:inline-block;padding:2px 3px">Vasily Koloda</span>)a
 tags:
   - studying abroad
   - top tips
