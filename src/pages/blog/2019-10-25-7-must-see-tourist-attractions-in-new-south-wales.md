@@ -6,7 +6,7 @@ description: >-
   What are the top places for tourists to visit in New South Wales? Our author
   Maryn gives you 7 must-see touristic attraction in New South Wales, you don't
   want to miss any of them.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/must-see-new-south-wales.jpg
 imagealt: >-
   7 Must-see top tourist attractions in New South Wales. Featured Image:
