@@ -3,14 +3,11 @@ import { Link } from 'gatsby';
 
 import AuthorMeta from './AuthorMeta';
 import Img from 'gatsby-image';
+import { mq } from '../utils/mq';
 import '../styles/tips.css';
 
 const Tips = ({ posts }) => {
-  let mql = window.matchMedia('(max-width: 1280px)');
-  let limit = 12;
-  if (mql.matches) {
-    limit = 6;
-  }
+  const { limit } = mq();
   const stories = posts.map(
     (story, i) =>
       i < limit && (

@@ -1,17 +1,14 @@
 import React from 'react';
 import { Link } from 'gatsby';
 
+import { mq } from '../utils/mq';
 import AuthorMeta from './AuthorMeta';
 import LatestPosts from './LatestPosts';
 import Img from 'gatsby-image';
 import Stories from './Stories';
 
 const HomePostList = ({ posts, title }) => {
-  let mql = window.matchMedia('(max-width: 1280px)');
-  let limit = 12;
-  if (mql.matches) {
-    limit = 6;
-  }
+  const { limit } = mq();
   if (title === 'stories') {
     return <Stories posts={posts} />;
   }

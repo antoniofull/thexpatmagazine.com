@@ -1,5 +1,6 @@
 import React from 'react';
 
+import { mq } from '../utils/mq';
 import Masonry from 'react-masonry-component';
 import { Link } from 'gatsby';
 import ReactResizeDetector from 'react-resize-detector';
@@ -12,11 +13,7 @@ const masonryOptions = {
 };
 
 const Stories = ({ posts }) => {
-  let mql = window.matchMedia('(max-width: 1280px)');
-  let limit = 12;
-  if (mql.matches) {
-    limit = 6;
-  }
+  const { limit } = mq();
   const stories = posts.map(
     (story, i) =>
       i < limit && (

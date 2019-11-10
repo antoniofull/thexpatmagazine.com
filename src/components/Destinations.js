@@ -2,16 +2,13 @@ import React from 'react';
 import { Link } from 'gatsby';
 import Img from 'gatsby-image';
 
+import { mq } from '../utils/mq';
 import AuthorMeta from './AuthorMeta';
 import '../styles/tips.css';
 import '../styles/destinations.css';
 
 const Destinations = ({ posts }) => {
-  let mql = window.matchMedia('(max-width: 1280px)');
-  let limit = 12;
-  if (mql.matches) {
-    limit = 6;
-  }
+  const { limit } = mq();
   if (posts) {
     const stories = posts.map(
       (story, i) =>
