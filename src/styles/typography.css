@@ -10,7 +10,7 @@ body {
   font-family: 'Lora', serif;
   font-weight: 300;
   font-display: optional;
-  line-height: 1.7;
+  line-height: 30px;
   color: var(--color-text);
   text-rendering: optimizeLegibility;
 

@@ -82,6 +82,7 @@
   padding-right: var(--padding);
   max-width: 700px;
   margin: auto;
+  padding: 24px;
 }
 .post__content a {
   color: var(--color-primary);
@@ -119,7 +120,6 @@
 }
 .post__article > p:first-of-type {
   font-size: 18px;
-  line-height: 1.6;
   margin-bottom: var(--margin-xl);
 }
 .post__article > p:first-of-type::first-letter {
