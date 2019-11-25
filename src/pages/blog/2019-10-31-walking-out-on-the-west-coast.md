@@ -6,7 +6,7 @@ description: >-
   Samuel Bunyan lived in Vancouver for the past two years, and he unsurprisingly
   discovered the abundance of life changing experiences available on the
   Canada’s West Coast.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/vancouver-1620772_1920.jpg
 imagealt: >-
   [Seattle](https://pixabay.com/photos/seattle-city-urban-cityscape-870282/)
