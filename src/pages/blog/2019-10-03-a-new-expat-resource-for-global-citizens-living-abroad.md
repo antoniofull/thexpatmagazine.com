@@ -7,8 +7,8 @@ description: >-
   questions. There is a lot of information you need to know and you are probably
   curious about, but how to find the answers?
 featuredpost: false
-featuredimage: /img/image001.jpg
-imagealt: expats
+featuredimage: /img/absolutvision-82tpeld0_e4-unsplash.jpg
+imagealt: Photo by AbsolutVision on Unsplash
 tags:
   - living abroad
 category:
