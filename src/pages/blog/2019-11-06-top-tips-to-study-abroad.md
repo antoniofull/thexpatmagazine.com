@@ -6,7 +6,7 @@ description: >-
   Moving abroad to pursue your under graduation or masters? We have a few tips
   on how you can make the most of your stint abroad without taking too much
   stress. Follow these 13 simple tips and you are good to go!
-featuredpost: true
+featuredpost: false
 featuredimage: /img/vasily-koloda-8cqdvpuo_ki-unsplash.jpg
 imagealt: >-
   <a
