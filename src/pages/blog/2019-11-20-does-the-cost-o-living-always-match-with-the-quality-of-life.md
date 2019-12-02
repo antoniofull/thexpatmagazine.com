@@ -7,7 +7,10 @@ description: >-
   best life is guaranteed in cheap countries or the other way around.
 featuredpost: true
 featuredimage: /img/1c0c630fb4e72ba0ea0758e863f821b7.jpg
-imagealt: '![](/img/doubt_.png)'
+imagealt: |-
+  Picture Credits @Pinterest
+
+  https://i.pinimg.com/564x/1c/0c/63/1c0c630fb4e72ba0ea0758e863f821b7.jpg
 tags:
   - cost of living
 category:
