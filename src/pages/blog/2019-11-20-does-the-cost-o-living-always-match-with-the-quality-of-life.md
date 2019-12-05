@@ -27,36 +27,7 @@ In some cases, the less expensive countries are, actually, the best place to liv
 
 Let’s have a quick look together at the first 30 Countries for the cost of living (on the left) and quality of life (on the right):
 
-1. Bermuda	               Australia
-2. Switzerland	        Macao
-3. Iceland	                Hong Kong
-4. Norway	                Portugal
-5. Bahamas	         Malta
-6. Denmark	                 Switzerland
-7. Luxemburg	         Austria
-8. Virgin Islands	         Singapore
-9. Israel	                 Japan
-10. Australia	                 Germany
-11. Ireland	                 Czechia
-12. Sweden	                 Spain
-13. Finland	                 Netherlands
-14. New Zealand          Cyprus
-15. United States	         South Korea
-16. United Kingdom	 Croatia
-17. Japan	                 Norway
-18. Netherlands	         Canada
-19. Belgium	                 Luxembourg
-20. France	                 United Arab Emirates
-21. Austria	                 Denmark
-22. Canada	                 Sweden
-23. Singapore	         Finland
-24. Hong Kong	         New Zealand
-25. South Korea	         Poland
-26. Germany	          Slovenia
-27. Italy	                         Bermuda
-28. Qatar	                 Greece
-29. Macao	                 Bulgaria
-30. Malta	                 Italy
+![](/img/cattura.jpg)
 
 Those lists take into account, especially, the monthly income (that has not to be confused with a wage or salary) and it is calculated from the gross national income per capita, the stability, civil rights, health and medical services, security, climate, costs and popularity.
 
