@@ -5,7 +5,7 @@ date: 2019-11-19T22:34:48.566Z
 description: >-
   Cost of living and quality of life are often confused or, people, think the
   best life is guaranteed in cheap countries or the other way around.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/1c0c630fb4e72ba0ea0758e863f821b7.jpg
 imagealt: |-
   Picture Credits @Pinterest
