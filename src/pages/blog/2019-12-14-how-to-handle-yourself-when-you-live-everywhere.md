@@ -43,7 +43,7 @@ You might want to do the conscious work with a transition coach (www.amazon.com/
 
 ## Few pointers to remember to not to get lost
 
-Ease and discuss. Connect with one or few trustworthy confidants or get a [transition coach](www.thefootloosecoach.com.), and feel free to talk about your impressions and emotions. There is nothing to be ashamed of, who travels, knows exactly what you are going through.
+Ease and discuss. Connect with one or few trustworthy confidants or get a [transition coach](www.thefootloosecoach.com), and feel free to talk about your impressions and emotions. There is nothing to be ashamed of, who travels, knows exactly what you are going through.
 
 Stay mind strong. Turn difficulties into opportunities by holding negativity on a short leash. When you face a tough situation, look at it as a chance to learn, explore, resolve, create, and improve instead of carrying it as a burden which you can't get over with.
 
