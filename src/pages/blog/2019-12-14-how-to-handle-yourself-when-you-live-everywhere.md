@@ -37,13 +37,13 @@ The challenge in front of you will always be the hardest, no matter of your loca
 
 We make up our thoughts by giving certain meaning to a happening, which might seem logical but clearly it is not a fact. So, one must realize that there are other possible interpretations for the same event. We can choose a different one when the old is not serving us well in our new setting or situation. The solution for any hardship will always come from the very same head which once built up the nonsense struggles and made you lose it. You can play your mind. And win over yourself.
 
-You might want to do the conscious work with a transition coach (www.amazon.com/author/mariannakisvardai), consult a lifestyle specialist or join an expat-group; do as you wish but dedicate some time and energy to shift your inner world while your outer world is changing.
+You might want to do the conscious work with a [transition coach](www.thefootloosecoach.com), consult a lifestyle specialist or join an expat-group; do as you wish but dedicate some time and energy to shift your inner world while your outer world is changing.
 
 ![](/img/kristopher-roller-pc_lbssxcze-unsplash.jpg)
 
 ## Few pointers to remember to not to get lost
 
-Ease and discuss. Connect with one or few trustworthy confidants or get a [transition coach](www.thefootloosecoach.com.), and feel free to talk about your impressions and emotions. There is nothing to be ashamed of, who travels, knows exactly what you are going through.
+Ease and discuss. Connect with one or few trustworthy confidants or get a transition coach, and feel free to talk about your impressions and emotions. There is nothing to be ashamed of, who travels, knows exactly what you are going through.
 
 Stay mind strong. Turn difficulties into opportunities by holding negativity on a short leash. When you face a tough situation, look at it as a chance to learn, explore, resolve, create, and improve instead of carrying it as a burden which you can't get over with.
 
