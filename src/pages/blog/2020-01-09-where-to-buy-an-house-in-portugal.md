@@ -17,8 +17,6 @@ category:
   - destinations
 author: Rossella Daví
 ---
-
-
 Portugal is a common expats destination in Europe, maybe the most common, thanks to the nice weather and also to the convenient tax laws.
 
 The tax law is one of the reasons why the property market is continuosly growing since few years and prices remain affordable.
@@ -53,8 +51,9 @@ Portigal
 
 ![](/img/3e2853c9-5723-42b6-8ff8-6c8158c15f42.jpeg)
 
-
-
 Having a look at the all 24 municipalities, we immediately realize how important is Porto in this list. It is, indeed, considered the best municipality!
 
 So what are you waiting for? Let's buy an house in Portugal to enjoy the beautiful Atlantic Ocean Coast, the Torre di Belém, visit Sintra (Unesco site) and its Palaciio Nacional and much more!
+
+\
+Check also https://www.thexpatmagazine.com/blog/2019-11-20-does-the-cost-o-living-always-match-with-the-quality-of-life/ to know the top Countries for quality of life
