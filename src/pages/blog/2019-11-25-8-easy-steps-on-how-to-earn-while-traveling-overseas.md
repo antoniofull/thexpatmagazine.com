@@ -6,7 +6,7 @@ description: >-
   If you desire to travel overseas but aren't wealthy, you will need to earn a
   living while you travel. Today, with the internet and co-working spaces, we
   have a global village in our hands.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/business-1868015_1920.jpg
 imagealt: Image by Pexels from Pixabay
 tags:
