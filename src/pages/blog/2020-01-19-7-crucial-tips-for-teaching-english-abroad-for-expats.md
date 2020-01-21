@@ -6,7 +6,7 @@ description: >-
   Teaching English is a ticket to living as an expat for most people, but there
   are a few things you have to consider first. 
 featuredpost: true
-featuredimage: /img/green-chameleon-s9cc2skysjm-unsplash.jpg
+featuredimage: /img/imgonline-com-ua-compressed-ivl48jhl9jbxeat.jpg
 imagealt: Photo by Green Chameleon on Unsplash
 tags:
   - expat living
