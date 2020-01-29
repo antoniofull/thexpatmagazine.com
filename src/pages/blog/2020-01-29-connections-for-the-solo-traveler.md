@@ -5,6 +5,7 @@ date: 2020-01-29T16:17:07.615Z
 description: >-
   If you’re going to be flying, driving, or otherwise moving between locations
   in the near future and you’re planning on doing so alone, here are a few tips
+  for you.
 featuredpost: true
 featuredimage: /img/woman-walking-on-pathway-while-strolling-luggage-1008155.jpg
 imagealt: Photo by VisionPic .net from Pexels
