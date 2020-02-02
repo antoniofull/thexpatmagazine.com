@@ -6,7 +6,7 @@ description: >-
   Phang Nga Island is a coastal town located in the southern part of Thailand.
   Few people set off to visit this island, but many get stuck here on their
   island-hopping escapades. So, why exactly should you plan to visit Phang Nga?
-featuredpost: true
+featuredpost: false
 featuredimage: /img/yap-chin-kuan-vphdvi4jaec-unsplash-1-.jpg
 imagealt: Phang Nga
 tags:
