@@ -8,8 +8,11 @@ description: >-
   culture. Discover more in this article.
 featuredimage: /img/titlephoto.jpg
 imagealt: Photos by unsplash.com
+tags:
+  - living abroad
+  - living in China
 country:
-  - Africa
+  - China
 category:
   - expat tips
 author: Diana Wills
