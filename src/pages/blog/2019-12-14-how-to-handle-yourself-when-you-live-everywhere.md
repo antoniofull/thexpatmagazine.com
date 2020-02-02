@@ -7,8 +7,8 @@ description: >-
   miles from us. I had to be taken home during the night since I would not
   survive even just few hours without my parents.Fast forward to 2019. So far, I
   have settled and lived in eleven countries and visited some fifty more on four
-  continents.
-featuredpost: true
+  continents. 
+featuredpost: false
 featuredimage: /img/jonathan-borba-zfabk1ar5-a-unsplash.jpg
 imagealt: Photo by Jonathan Borba on Unsplash
 tags:
