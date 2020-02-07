@@ -5,7 +5,7 @@ date: 2020-01-19T19:49:43.118Z
 description: >-
   Teaching English is a ticket to living as an expat for most people, but there
   are a few things you have to consider first. 
-featuredpost: true
+featuredpost: false
 featuredimage: /img/imgonline-com-ua-compressed-ivl48jhl9jbxeat.jpg
 imagealt: Photo by Green Chameleon on Unsplash
 tags:
