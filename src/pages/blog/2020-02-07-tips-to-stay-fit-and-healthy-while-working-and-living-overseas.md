@@ -21,8 +21,6 @@ Expat life is an opportunities to explore new adventures and culture, but it als
 
 ## Try Free Fitness Activities
 
-
-
 ![](/img/photo-by-alexander-redl-on-unsplash.jpg)
 
 One doesn’t have to join expensive gyms to keep fit and healthy especially if you have moved to a country with an expensive lifestyle, there are a lot of ways to keep fit without burning a hole in your wallet. All countries have public parks or recreation areas where you can have your fitness activities such as jogging. Another cheaper way to stay healthy is by using a bike as your means of transport. You can also ride your bike around the neighbourhood during your free time if your home to work distance requires you to commute. Cycling, just like running serves as a superb source of exercise.
@@ -31,13 +29,11 @@ One doesn’t have to join expensive gyms to keep fit and healthy especially if 
 
 ![](/img/photo-by-jana-sabeth-on-unsplash.jpg)
 
-
-
-Going to new country results in a change in temperature and altitude, which may, in turn, change the amount of water that you need in your body. Your body needs to be hydrated to keep healthy, but the amount of water needed may depend on the environment. If you are not sure of the amount of water, you need to drink each day, listen to your body and always drink water whenever you feel thirsty. You can also use the two litres daily rule.
+[Going to new country ](https://www.thexpatmagazine.com/blog/2014-06-23-culture-shock-expats/)results in a change in temperature and altitude, which may, in turn, change the amount of water that you need in your body. Your body needs to be hydrated to keep healthy, but the amount of water needed may depend on the environment. If you are not sure of the amount of water, you need to drink each day, listen to your body and always drink water whenever you feel thirsty. You can also use the two litres daily rule.
 
 ## Make new Friends
 
-Moving to another country creates the opportunity of meeting new people and making new friends. There are a lot of online groups where you can meet like minded people who will help you walk the journey. You can join the online keep fit clubs and groups and engage in their walking or running activities. You can also try sports such as football and volleyball or try new hobbies that will keep your weight in checks, such as a weight loss camp or dancing.
+Moving to another country creates the opportunity of meeting new people and making new friends. There are a lot of online groups where you can meet like minded people who will help you walk the journey. You can join the online keep fit clubs and groups and engage in their walking or running activities. You can also try sports such as football and volleyball or try new hobbies that will keep your weight in checks, such as a [weight loss camp](https://www.weightlossformenthai.com/lose-weight-thailand-holidays-reviews-tips/) or dancing.
 
 ## Get a Health Insurance Policy
 
@@ -51,9 +47,9 @@ One common mistake that people make is to spend so much time exercising, yet the
 
 ![](/img/photo-by-kinga-cichewicz-on-unsplash.jpg)
 
-Having the recommended eight hour a day sleep may be a challenge for expats due to the time taken by the activities of frequent travelling, but you can try keeping a regular sleep pattern. Sleeping time is the body repair time and a night of good sleep at night is a source of new energy in the morning. One of the risks of inadequate sleep is a weak immune system, which will, in turn, leave you vulnerable to illnesses. Avoid stress through relaxation techniques since stress is a significant contributor to sleepless nights.
+Having the recommended eight hour a day sleep may be a challenge for expats due to the time taken by the activities of frequent travelling, but you can try keeping a regular sleep pattern. Sleeping time is the body repair time and a night of [good sleep at night is a source of new energy in the morning](https://www.nia.nih.gov/health/good-nights-sleep). One of the risks of inadequate sleep is a weak immune system, which will, in turn, leave you vulnerable to illnesses. Avoid stress through relaxation techniques since stress is a significant contributor to sleepless nights.
 
-## Take Necessary Health Precautions
+## Take Necessary Health Precautions
 
 The weather and climate in the new country are mostly different from what you are used to. Some countries also have high levels of air pollution, meaning you have to use a face musk when walking around. You can also buy an air purifier for your new home to avoid pollutants such as dust and disease-causing bacteria in the air. Most countries have a health information page that will inform you about the health risks that you are more likely to face in the new country and the available prevention methods.
 
