@@ -6,7 +6,7 @@ description: >-
   China is becoming an increasingly popular expat destination, especially cities
   such as Beijing, Shanghai, Hong Kong and Taipei, which offer a great expat
   culture. Discover more in this article.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/titlephoto.jpg
 imagealt: Photos by unsplash.com
 tags:
