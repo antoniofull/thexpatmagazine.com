@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
-title: 5 Reasons Why Utrecht Is Better Than Amsterdam
-date: 2014-11-25T18:22:25.000Z
+title: 'Utrecht Vs Amsterdam: 5 Reasons why you should choose Utrecht'
+date: 2020-02-29T18:22:25.000Z
 description: >-
   Utrecht or Amsterdam, which city is better for living? We give you 5 good
   reasons why Utrecht is better than Amsterdam and why you should at least visit
   it.
-featuredimage: /img/utrecht-or-amsterdam.jpg
-imagealt: Utrecht or Amsterdam? Which one is better?
+featuredimage: /img/0aff76ad-cd28-4b0d-b22f-63c1d4c749ab_1_105_c.jpeg
+imagealt: Utrecht Vs Amsterdam
 tags:
   - amsterdam
   - utrecht
@@ -17,33 +17,32 @@ country:
   - Netherlands
 category:
   - expat tips
-  - destinations
 author: Editorial Team
 ---
-Whenever I talk with some friends about my [**_life in Netherlands_**,](https://www.thexpatmagazine.com/netherlands) the first questions they ask me are all about **Amsterdam** and why, despite the fact that I _work in Amsterdam_, I decided to live in **Utrecht**. It seems that many people can just "recognise" **Netherlands in Amsterdam**. With this post I am going to explain you the reasons why I think that **Utrecht is better than Amsterdam for living.** And of course this is my personal opinions, but I am not the only one who thinks that **Utrecht** is much way **better** than **Amsterdam**.
+When I talk to some people and I mention that I live in The Netherlands, first question is: in Amsterdam? Some people identify the whole country with just one city, which is not fair. The Netherlands has quite some lovely city and I chose Utrecht. A very personal feeling, but I consider it the most beautiful one. Now, you're probably wondering why Utrecht is better than Amsterdam? Here following are my 5 main reasons. 
 
-## 1. The canals
+And yes, I'm very curious to hear also what are your reasons why you think the place you live in now is better than everything else. 
+
+## 1. Its lively city centre
+
+A lot of things are all within the city centre and walking distances. There are all kind of restaurants, cafes, pubs with live music, theatres and concerts. As well as different events to discover the city, like the [Utrecht Free Tours](https://freewalkingtourutrecht.com) (they do it in English too), or the Language Cafè where people meet on a weekly basis to learn and practise Dutch. 
+
+## 2. Utrecht is still Dutch
+
+There are a lot of tourists and expats in both cities, but Amsterdam is kind of overcrowded. The government is trying to inspire people to visit other cities too and spread around the country the amount of tourists. I work in Amsterdam and I notice everyday is that feeling of expats taking over. When entering a bar or restaurant, the first language (even from the waiter) is English. Which makes things much easier for everyone, that's for sure. I'm not talking for everybody, but sometimes I have the feeling that people there live more in a bubble. A much different feeling here in Utrecht and I'm not talking about the language. 
+
+## 3. The canals
 
 ![Utrecht is better than Amsterdam](/img/uploads/2014/11/7804170274_315f39592a_z.jpg)
 
-The **_canals of Utrecht_** [are the most beautiful](https://oranjeflamingo.wordpress.com/2014/04/11/europes-most-beautiful-canals-are-in-utrecht/) in **Europe**. If it happens to you to be here on a sunny day, just take a walk trough the city centre around the canals and see how awesome it is. Something that Amsterdam definitely does not have are all the **restaurants and bars just on the side of the canals**. It is amazing enjoying a fresh drink while sitting near by the canals. Seriously if you have never walked there, you are missing one of the most beautiful part of **Netherlands**.
+The **_canals of Utrecht_** [ ](https://oranjeflamingo.wordpress.com/2014/04/11/europes-most-beautiful-canals-are-in-utrecht/)are gorgeous. Canals are very popular in The Netherlands in general and you can find them in Amsterdam too. What you won't find for sure are the restaurants along the main canal...what makes it different? Utrecht is the only city in the whole country where restaurants have terraces just next to the water, basically same level as water. The atmosphere is simply lovely.
 
-## 2. Utrecht is really dutch, Amsterdam not.
+## 4. Parks and green areas 
 
-Yes, I repeat it loudly, **Utrecht is dutch Amsterdam is not**. A lot of the people living in Amsterdam are expats who do not speak dutch. It's not only the language, is about the culture and lifestyle. Since the city hosts so many expats, and so the city is pretty much influenced with all the international environment. This does not happens in Utrecht where you can still enjoy the full dutch lifestyle while still being able to be in a very international environment.
+There are quite some parks and gree anreas very close to the city centre, just to mention a few well known: Griftpark, Wilhelminapark, Oog in Al and Lepelenburg. In these last two, you can also find sun loungers to enjoy the sunny days. Also, Griftpark has an area with animals where kids can go and feed them - there's also an amazing playground, which I tried as a grown up and enjoyed a lot (yes, I admit that!).
 
-## 3. Bars, Terraces, Cafe'.
+## 5. Hoog Caterijne and the station.
 
-Yes, all of these. Sitting on a terrace in a **_Bar in Neude_** is one of my favorite things to do. It resemble the classic European cafe' culture with car free centre and a lot of terraces and good drinks. (Tip : Try _**warme wijn**_ in winter :D)
+**A station? How can a station can make Utrecht better than Amsterdam?** Well... **Hoog Catharijne** is a huge indoor shopping mall right in the hearth of the station or connected to the station. Basically, as soon as you checkout from the train station, you're already in the mall. It has 113 shops, including restaurants and cafes. You can find anything you need here. And what happens when you go out? You're right away in the city centre. 
 
-## 4 Speaking about the centre, is beautiful.
-
-**_Leidseplein, Dam Square_**? They are big and full of tourists, in the evening most of them are drunk or stoned. The city often looks dirty. The centre of Utrecht is beautiful, historical, and easy to do it by walk. There are plenty of small bars where you can enjoy the real dutch atmosphere, sit down with your friends and have a beer. The city is also full of students and so parties are common in many places. Several bars organise expat events and many dutch people enjoy hanging out with expats.
-
-## 5 Hoog Caterijne and the station.
-
-![Utrecht is better than Amsterdam](/img/uploads/2014/11/10350172764_79cbe1c3ae_z.jpg)
-
-**A station? How can a station can make Utrecht better than Amsterdam?** Well... **Hoog Caterijne** is a huge indoor shopping mall right in the hearth of the station. All the trains "stop" in **Utrecht**. Is very easy to move by public transport from **Utrecht** everywhere in **Netherlands**. If you are wondering how far is **Amsterdam from Utrecht, it is about 25 minutes by train**, several people do this every day to go to work, I do the same. Often the companies here pay the transports costs, if living a certain distance from work, so it won't cost you money. And when it's very cold you can stay in the station and shopping!  😀
-
-So, what about you? Have you ever been to **_Utrecht_**? What do you think? 😀
+So, what about you? What are your main reasons to choose Utrecht, Amsterdam or any other city you live in?
