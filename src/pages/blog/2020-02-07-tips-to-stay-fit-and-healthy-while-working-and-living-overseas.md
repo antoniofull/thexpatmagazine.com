@@ -6,7 +6,7 @@ description: >-
   Expat life is an opportunities to explore new adventures and culture, but it
   also comes with its risks. Expats also face the health and fitness challenge
   and Katherine explains why.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/bruno-nascimento-phigyugqpvu-unsplash.jpg
 imagealt: Photo by Bruno Nascimento on Unsplash
 tags:
