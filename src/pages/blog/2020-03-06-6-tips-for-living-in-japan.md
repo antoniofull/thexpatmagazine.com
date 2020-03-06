@@ -12,7 +12,7 @@ imagealt: Image by Hitesh Choudhary from Pixabay
 tags:
   - living abroad
 country:
-  - Africa
+  - Japan
 category:
   - expat tips
 author: George Pytcher
