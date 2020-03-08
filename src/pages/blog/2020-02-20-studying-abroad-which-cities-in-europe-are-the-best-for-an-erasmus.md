@@ -6,7 +6,7 @@ description: >-
   A semester abroad is a great opportunity to explore a different culture and
   improve your language skills. Which destination you should choose for your
   Erasmus?
-featuredpost: true
+featuredpost: false
 featuredimage: /img/porto-2048724_1920.jpg
 imagealt: Image by nathsegato from Pixabay
 tags:
