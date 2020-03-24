@@ -6,7 +6,7 @@ description: >-
   Utrecht or Amsterdam, which city is better for living? We give you 5 good
   reasons why Utrecht is better than Amsterdam and why you should at least visit
   it.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/0aff76ad-cd28-4b0d-b22f-63c1d4c749ab_1_105_c.jpeg
 imagealt: Utrecht Vs Amsterdam
 tags:
