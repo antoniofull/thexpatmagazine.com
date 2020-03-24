@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: How to work from home and be productive
-date: 2020-03-24T18:00:00.000Z
+date: 2020-03-24T09:27:00.000Z
 description: >+
   Duirng the last years we have heard more and more about Working From Home
   (WFH) and in the last period, due to the spread of COVID-19, this opportunity
