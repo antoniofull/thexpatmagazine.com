@@ -7,19 +7,23 @@ description: >+
   (WFH) and in the last period, due to the spread of COVID-19, this opportunity
   became a reality for almost everyone.
 
+featuredpost: true
 featuredimage: /img/30e1eb1d4dd0ae169e6047d70be1d636.jpg
 imagealt: 'https://www.pinterest.it/pin/360428776432389411/'
 tags:
-  - '#workingfromhome #homeworking #workingremotely #wfh #tools #rules '
+  - working from home
+  - wfh
+  - home working
+  - working remotely
 category:
   - expat tips
 author: Rossella Daví
 ---
 During the last years we have heard more and more about Working From Home (WFH) and in the last period, due to the spread of COVID-19, this opportunity became a reality for almost everyone.
 
-If on a hand working remotely can be the perfect match that allows us to do our job in a more relaxed environment and alternate it with domestic tasks, on the other hand we risk to don't focus, don't have enough break and to be overwhelmed with all the daily duties.
+If on a hand working remotely can be the perfect match that allows us to do our job in a more relaxed environment while alternating it with domestic tasks, on the other hand we risk not focus, don't have enough break and to be overwhelmed with all the daily duties.
 
-The fear to don't be productive, to be checked by the managers and the idea to can have lunch in front of the laptop put us in front of a big risk of stress, in particular if we are not used to WFH and/or we have to do it for long time.
+The fear of not being productive, to be checked by the managers and the idea to have lunch in front of the laptop, puts us in front of a big risk of stress, in particular if we are not used to WFH and/or we have to do it for a long time.
 
 What to do then?
 
