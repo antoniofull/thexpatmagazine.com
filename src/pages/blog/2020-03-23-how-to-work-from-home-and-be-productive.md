@@ -19,7 +19,7 @@ category:
   - expat tips
 author: Rossella Daví
 ---
-During the last years we have heard more and more about Working From Home (WFH) and in the last period, due to the spread of COVID-19, this opportunity became a reality for almost everyone.
+During the last years we have heard more and more about Working From Home (WFH) and in the last period, due to the spread of COVID-19, this opportunity became a reality for almost everyone.Non
 
 If on a hand working remotely can be the perfect match that allows us to do our job in a more relaxed environment while alternating it with domestic tasks, on the other hand we risk not focus, don't have enough break and to be overwhelmed with all the daily duties.
 
@@ -37,10 +37,10 @@ What to do then?
 
 ![](/img/9ff4365f-8c0e-4626-87c2-e2e33905bb80.jpg)
 
-Communication is always very important in a work enviroment, it doesn't matter if we are in the office or not. Luckily technology is helping us with alternatives. Zoom. Skype, Teams Microsoft permit us to talk and see each other, but also Google drive or wetransfer make possible to share documents in realtime without wasting time.  (for more imputs on tools have a look [here](https://www.iamexpat.nl/career/employment-news/best-online-tools-use-when-working-home) and for documents storage tool [here](https://www.thexpatmagazine.com/blog/2015-02-09-store-important-documents/))
+Communication is always very important in a work enviroment, it doesn't matter if we are in the office or not. Luckily technology is helping us with alternatives. Zoom. Skype, Teams Microsoft permit us to talk and see each other, but also Google drive or wetransfer make possible to share documents in realtime without wasting time.  (A lot of imputs about [tools](https://www.iamexpat.nl/career/employment-news/best-online-tools-use-when-working-home) are available online, There are also some about [documents storage](https://www.thexpatmagazine.com/blog/2015-02-09-store-important-documents/) that might be useful for this temporary new work conditions)
 
 We have all the elements to can have a safe and healthy work environment as well at home as in the office, is on us to make everything work and to chose what is more adapt to our life and specific situation. Give yourself rules but don't pretend too much in the begininng. Your mind has to adapt to the new condition, it might take few days. Also remember to call in sick even if you are home. If you don't feel good you wouldn't be productive and the days after you'll need to repair at the mistakes done while you weren't focus.
 
-Some more detailed and more tips can be found [here](https://www.pcmag.com/news/get-organized-20-tips-for-working-from-home)
+Find out more [details ](https://www.pcmag.com/news/get-organized-20-tips-for-working-from-home)and tips and if you have others share them with us
 
 Keep calm and Work From Home!
