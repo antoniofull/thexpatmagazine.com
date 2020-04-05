@@ -6,7 +6,7 @@ description: >-
   With its distinguished culture, history and innovation in technology, expats
   have been flocking to Japan to discover what makes this country so special.
   Discover why!
-featuredpost: true
+featuredpost: false
 featuredimage: /img/japan-4744625_1920.jpg
 imagealt: Image by Hitesh Choudhary from Pixabay
 tags:
