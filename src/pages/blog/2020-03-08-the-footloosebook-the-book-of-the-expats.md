@@ -5,7 +5,7 @@ date: 2020-03-08T15:48:07.999Z
 description: >-
   The FootlooseBook is the book you should read as an expat! Are you wondering
   why? Rossella tells us how she felt while reading this book. What about you?
-featuredpost: true
+featuredpost: false
 featuredimage: /img/img_3319.jpg
 imagealt: Image by Rossella
 tags:
