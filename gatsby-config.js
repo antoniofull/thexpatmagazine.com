@@ -1,7 +1,7 @@
-var proxy = require('http-proxy-middleware');
-const queries = require('./src/utils/algolia');
+var proxy = require('http-proxy-middleware')
+const queries = require('./src/utils/algolia')
 
-require('dotenv').config();
+require('dotenv').config()
 
 module.exports = {
   siteMetadata: {
@@ -59,15 +59,15 @@ module.exports = {
         ]
       }
     },
-    // {
-    //   resolve: `gatsby-plugin-algolia`,
-    //   options: {
-    //     appId: process.env.GATSBY_ALGOLIA_APP_ID,
-    //     apiKey: process.env.ALGOLIA_ADMIN_KEY,
-    //     queries,
-    //     chunkSize: 10000 // default: 1000
-    //   }
-    // },
+    {
+      resolve: `gatsby-plugin-algolia`,
+      options: {
+        appId: process.env.GATSBY_ALGOLIA_APP_ID,
+        apiKey: process.env.ALGOLIA_ADMIN_KEY,
+        queries,
+        chunkSize: 10000 // default: 1000
+      }
+    },
     `gatsby-plugin-styled-components`,
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
@@ -107,8 +107,8 @@ module.exports = {
                   guid: site.siteMetadata.siteURL + edge.node.fields.slug,
                   author: edge.node.frontmatter.author,
                   custom_elements: [{ 'content:encoded': edge.node.html }]
-                });
-              });
+                })
+              })
             },
             query: `
               {
@@ -262,6 +262,6 @@ module.exports = {
           '/.netlify/functions/': ''
         }
       })
-    );
+    )
   }
-};
+}
