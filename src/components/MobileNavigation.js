@@ -1,13 +1,13 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import { Link } from 'gatsby';
-import { Motion, spring } from 'react-motion';
-import Div100vh from 'react-div-100vh';
-import kebabCase from 'lodash/kebabCase';
+import React from 'react'
+import PropTypes from 'prop-types'
+import { Link } from 'gatsby'
+import { Motion, spring } from 'react-motion'
+import Div100vh from 'react-div-100vh'
+import kebabCase from 'lodash/kebabCase'
 
-import { searchIndices } from './search/indices';
-import Search from './search/';
-import '../styles/nav.css';
+import { searchIndices } from './search/indices'
+import Search from './search/'
+import '../styles/nav.css'
 
 const MobileNavigation = ({ items, active, toggleState }) => {
   if (active) {
@@ -42,6 +42,16 @@ const MobileNavigation = ({ items, active, toggleState }) => {
                         )}
                       </li>
                     ))}
+                    <li className='main-nav__item'>
+                      <a
+                        href='https://bit.ly/expat-newsletter'
+                        target='_blank'
+                        rel='noopener noreferrer'
+                        title='expat newsletter'
+                      >
+                        Newsletter
+                      </a>
+                    </li>
                   </ul>
                 </nav>
               </div>
@@ -53,13 +63,13 @@ const MobileNavigation = ({ items, active, toggleState }) => {
           </Div100vh>
         )}
       </Motion>
-    );
+    )
   }
 
-  return null;
-};
+  return null
+}
 
 MobileNavigation.propTypes = {
   active: PropTypes.bool.isRequired
-};
-export default MobileNavigation;
+}
+export default MobileNavigation

@@ -1,6 +1,6 @@
-import React from 'react';
-import { Link } from 'gatsby';
-import kebabCase from 'lodash/kebabCase';
+import React from 'react'
+import { Link } from 'gatsby'
+import kebabCase from 'lodash/kebabCase'
 
 const DesktopNav = ({ items }) => {
   return (
@@ -20,10 +20,20 @@ const DesktopNav = ({ items }) => {
               )}
             </li>
           ))}
+          <li className='main-nav__item'>
+            <a
+              href='https://bit.ly/expat-newsletter'
+              target='_blank'
+              rel='noopener noreferrer'
+              title='expat newsletter'
+            >
+              Newsletter
+            </a>
+          </li>
         </ul>
       </nav>
     </React.Fragment>
-  );
-};
+  )
+}
 
-export default DesktopNav;
+export default DesktopNav
