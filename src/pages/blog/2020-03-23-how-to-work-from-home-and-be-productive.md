@@ -7,7 +7,7 @@ description: >+
   (WFH) and in the last period, due to the spread of COVID-19, this opportunity
   became a reality for almost everyone.
 
-featuredpost: true
+featuredpost: false
 featuredimage: /img/30e1eb1d4dd0ae169e6047d70be1d636.jpg
 imagealt: 'https://www.pinterest.it/pin/360428776432389411/'
 tags:
