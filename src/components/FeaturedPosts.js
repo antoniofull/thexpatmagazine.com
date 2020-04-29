@@ -71,7 +71,7 @@ const FeaturedPosts = ({ posts, authors }) => {
           easing='easeCubic'
           dragging={true}
           initialSlideHeight={500}
-          enableKeyboardControls={true}
+          pf={true}
           autoplay={true}
           width='100%'
         >
