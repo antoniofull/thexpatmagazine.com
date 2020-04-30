@@ -2,10 +2,10 @@
 templateKey: blog-post
 title: Tips for surviving your move to Poland
 date: 2020-04-05T14:25:54.940Z
-description: >-
-  Moving to Poland it’s easy, all you need is a good reason and a plane ticket.
-  Well, sometimes you require a visa, too. Read out Chiara's advice!
-featuredpost: true
+description: Moving to Poland it’s easy, all you need is a good reason and a
+  plane ticket. Well, sometimes you require a visa, too. Read out Chiara's
+  advice!
+featuredpost: false
 featuredimage: /img/wroclaw.jpg
 imagealt: _The main square in Wroclaw_
 tags:
@@ -15,7 +15,7 @@ tags:
 country: []
 category:
   - expat tips
-author: 'Chiara Campanelli  '
+author: "Chiara Campanelli  "
 ---
 Moving to Poland it’s easy, all you need is a good reason and a plane ticket. Well, sometimes you require a visa, too. 
 
