@@ -223,7 +223,6 @@ BlogPostTemplate.propTypes = {
 const BlogPost = (props) => {
   const { markdownRemark: post } = props.data
   const { relatedArticles } = props.pageContext
-
   return (
     <Layout>
       <SEO
@@ -231,6 +230,7 @@ const BlogPost = (props) => {
         description={post.frontmatter.description}
         image={post.frontmatter.featuredimage && post.frontmatter.featuredimage}
         type='article'
+        pathname={post.fields.slug}
       />
       <BlogPostTemplate
         content={post.html}

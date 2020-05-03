@@ -73,7 +73,9 @@ function SEO({
                   ? [
                       {
                         property: `og:image`,
-                        content: metaImage,
+                        content:
+                          metaImage ||
+                          'https://www.thexpatmagazine.com/static/img/logo-share.jpg',
                       },
                       {
                         property: 'og:image:secure_url',
@@ -84,14 +86,6 @@ function SEO({
                       {
                         property: `og:image:alt`,
                         content: title,
-                      },
-                      {
-                        property: 'og:image:width',
-                        content: image.width,
-                      },
-                      {
-                        property: 'og:image:height',
-                        content: image.height,
                       },
                       {
                         name: `twitter:card`,
