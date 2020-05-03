@@ -1,11 +1,11 @@
-import React from 'react';
-import find from 'lodash/find';
-import { Link } from 'gatsby';
-import Carousel from 'nuka-carousel';
-import BackgroundImage from 'gatsby-background-image';
+import React from 'react'
+import find from 'lodash/find'
+import { Link } from 'gatsby'
+import Carousel from 'nuka-carousel'
+import BackgroundImage from 'gatsby-background-image'
 
-import AuthorMeta from './AuthorMeta';
-import '../styles/featured.css';
+import AuthorMeta from './AuthorMeta'
+import '../styles/featured.css'
 
 const Featured = ({ post }) => {
   return (
@@ -50,13 +50,13 @@ const Featured = ({ post }) => {
         </article>
       </div>
     </React.Fragment>
-  );
-};
+  )
+}
 
 const FeaturedPosts = ({ posts, authors }) => {
-  const author = find(authors, a => {
-    return a.node.frontmatter.title === posts[0].node.frontmatter.author;
-  });
+  const author = find(authors, (a) => {
+    return a.node.frontmatter.title === posts[0].node.frontmatter.author
+  })
   return (
     <section className='featured is-color-white'>
       <div className='featured__container'>
@@ -75,13 +75,13 @@ const FeaturedPosts = ({ posts, authors }) => {
           autoplay={true}
           width='100%'
         >
-          {posts.map(post => (
+          {posts.map((post) => (
             <Featured key={post.node.id} post={post} author={author} />
           ))}
         </Carousel>
       </div>
     </section>
-  );
-};
+  )
+}
 
-export default FeaturedPosts;
+export default FeaturedPosts

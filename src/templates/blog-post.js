@@ -1,11 +1,11 @@
-import React, { useState } from 'react';
-import PropTypes from 'prop-types';
-import kebabCase from 'lodash/kebabCase';
+import React, { useState } from 'react'
+import PropTypes from 'prop-types'
+import kebabCase from 'lodash/kebabCase'
 
-import { graphql, Link } from 'gatsby';
-import Img from 'gatsby-image';
-import ReactMarkdown from 'react-markdown';
-import AdSense from 'react-adsense';
+import { graphql, Link } from 'gatsby'
+import Img from 'gatsby-image'
+import ReactMarkdown from 'react-markdown'
+import AdSense from 'react-adsense'
 import {
   FacebookShareButton,
   FacebookIcon,
@@ -14,17 +14,17 @@ import {
   TelegramShareButton,
   TelegramIcon,
   WhatsappShareButton,
-  WhatsappIcon
-} from 'react-share';
-import Helmet from 'react-helmet';
-import AuthorPost from '../components/AuthorPosts';
-import Layout from '../components/Layout';
-import AuthorMeta from '../components/AuthorMeta';
-import Content, { HTMLContent } from '../components/Content';
-import RelatedArticles from '../components/RelatedArticles';
-import SEO from '../components/Seo';
+  WhatsappIcon,
+} from 'react-share'
+import Helmet from 'react-helmet'
+import AuthorPost from '../components/AuthorPosts'
+import Layout from '../components/Layout'
+import AuthorMeta from '../components/AuthorMeta'
+import Content, { HTMLContent } from '../components/Content'
+import RelatedArticles from '../components/RelatedArticles'
+import SEO from '../components/Seo'
 
-import '../styles/post.css';
+import '../styles/post.css'
 
 const Separator = () => (
   <div className='dots'>
@@ -32,7 +32,7 @@ const Separator = () => (
     <span className='dot'></span>
     <span className='dot'></span>
   </div>
-);
+)
 
 const Figcaption = ({ figcaption }) => (
   <figure>
@@ -40,7 +40,7 @@ const Figcaption = ({ figcaption }) => (
       <ReactMarkdown source={figcaption} />
     </figcaption>
   </figure>
-);
+)
 
 export const BlogPostTemplate = ({
   content,
@@ -55,18 +55,18 @@ export const BlogPostTemplate = ({
   category,
   url,
   relatedArticles,
-  mtime
+  mtime,
 }) => {
-  const PostContent = contentComponent || Content;
+  const PostContent = contentComponent || Content
 
-  const [comments, setComments] = useState(null);
+  const [comments, setComments] = useState(null)
 
   const handleComments = async (url, title) => {
-    const module = await import('../components/Comments');
-    setComments(React.createElement(module.default, { url, title }));
-  };
+    const module = await import('../components/Comments')
+    setComments(React.createElement(module.default, { url, title }))
+  }
 
-  const baseUrl = 'https://www.thexpatmagazine.com/';
+  const baseUrl = 'https://www.thexpatmagazine.com/'
   return (
     <section className='section post'>
       <Helmet>
@@ -149,7 +149,7 @@ export const BlogPostTemplate = ({
 
           {tags && tags.length ? (
             <ul className='taglist'>
-              {tags.map(tag => (
+              {tags.map((tag) => (
                 <li className='font-small wf-os post__tag' key={tag + `tag`}>
                   <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
                 </li>
@@ -199,7 +199,7 @@ export const BlogPostTemplate = ({
             ) : (
               <button
                 onClick={() => {
-                  handleComments(url, title);
+                  handleComments(url, title)
                 }}
                 className='open-comments'
               >
@@ -210,25 +210,27 @@ export const BlogPostTemplate = ({
         </div>
       </div>
     </section>
-  );
-};
+  )
+}
 
 BlogPostTemplate.propTypes = {
   content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
   description: PropTypes.string,
   title: PropTypes.string,
-  helmet: PropTypes.object
-};
-const BlogPost = props => {
-  const { markdownRemark: post } = props.data;
-  const { relatedArticles } = props.pageContext;
+  helmet: PropTypes.object,
+}
+const BlogPost = (props) => {
+  const { markdownRemark: post } = props.data
+  const { relatedArticles } = props.pageContext
+
   return (
     <Layout>
       <SEO
         title={post.frontmatter.title}
         description={post.frontmatter.description}
         image={post.frontmatter.featuredimage && post.frontmatter.featuredimage}
+        type='article'
       />
       <BlogPostTemplate
         content={post.html}
@@ -250,16 +252,16 @@ const BlogPost = props => {
         mtime={post.parent.mtime}
       />
     </Layout>
-  );
-};
+  )
+}
 
 BlogPost.propTypes = {
   data: PropTypes.shape({
-    markdownRemark: PropTypes.object
-  })
-};
+    markdownRemark: PropTypes.object,
+  }),
+}
 
-export default BlogPost;
+export default BlogPost
 
 export const pageQuery = graphql`
   query BlogPostByID($id: String!) {
@@ -295,4 +297,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`;
+`
