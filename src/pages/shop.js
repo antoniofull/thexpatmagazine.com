@@ -1,18 +1,22 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 
 import Layout from '../components/Layout'
 import Helmet from 'react-helmet'
 
 const Shop = () => {
-  if (typeof window !== 'undefined') {
-    window.spread_shop_config = {
-      shopName: 'thexpatmagazine',
-      locale: 'en_GB',
-      prefix: 'https://shop.spreadshirt.co.uk',
-      baseId: 'myShop',
-      startToken: 'the+expat+magazine?idea=5e91b7675fd3e441f18c728f',
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      window.addEventListener('DOMCOntentLoaded', () => {
+        window.spread_shop_config = {
+          shopName: 'thexpatmagazine',
+          locale: 'en_GB',
+          prefix: 'https://shop.spreadshirt.co.uk',
+          baseId: 'myShop',
+          startToken: 'the+expat+magazine?idea=5e91b7675fd3e441f18c728f',
+        }
+      })
     }
-  }
+  }, [])
   return (
     <Layout>
       <Helmet>
