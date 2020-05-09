@@ -16,13 +16,13 @@ const MobileNavigation = ({ items, active, toggleState }) => {
         defaultStyle={{ opacity: 0, y: -1600 }}
         style={{ opacity: spring(1), y: spring(0) }}
       >
-        {style => (
+        {(style) => (
           <Div100vh>
             <div
               className='nav--mobile'
               style={{
                 opacity: style.opacity,
-                transform: `translateY(${style.y}px)`
+                transform: `translateY(${style.y}px)`,
               }}
             >
               <div className='nav--mobile__bg'>
@@ -33,7 +33,7 @@ const MobileNavigation = ({ items, active, toggleState }) => {
                   aria-label='main-navigation'
                 >
                   <ul className='main-nav__list'>
-                    {items.map(item => (
+                    {items.map((item) => (
                       <li className='main-nav__item' key={item}>
                         {item === 'guests' ? (
                           <Link to={`/pages/write-for-us/`}>Guest Posts</Link>
@@ -51,6 +51,11 @@ const MobileNavigation = ({ items, active, toggleState }) => {
                       >
                         Newsletter
                       </a>
+                    </li>
+                    <li className='main-nav__item'>
+                      <Link to={'/shop'} title='Expat Shop'>
+                        Shop
+                      </Link>
                     </li>
                   </ul>
                 </nav>
@@ -70,6 +75,6 @@ const MobileNavigation = ({ items, active, toggleState }) => {
 }
 
 MobileNavigation.propTypes = {
-  active: PropTypes.bool.isRequired
+  active: PropTypes.bool.isRequired,
 }
 export default MobileNavigation
