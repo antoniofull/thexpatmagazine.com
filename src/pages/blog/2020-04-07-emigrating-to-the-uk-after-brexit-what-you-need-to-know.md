@@ -1,11 +1,10 @@
 ---
 templateKey: blog-post
-title: 'Emigrating to The UK After Brexit: What You Need to Know'
+title: "Emigrating to The UK After Brexit: What You Need to Know"
 date: 2020-04-07T15:28:08.887Z
-description: >-
-  If you are from Europe and moving to the UK, here is a guide on what you will
-  need to organise when you arrive in the country. 
-featuredpost: true
+description: "If you are from Europe and moving to the UK, here is a guide on
+  what you will need to organise when you arrive in the country. "
+featuredpost: false
 featuredimage: /img/uk.jpg
 imagealt: Image by paulohabreuf from Pixabay
 tags:
