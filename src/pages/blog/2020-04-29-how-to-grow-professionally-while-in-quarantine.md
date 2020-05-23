@@ -2,13 +2,11 @@
 templateKey: blog-post
 title: How to Grow Professionally While in Quarantine
 date: 2020-04-29T15:05:56.532Z
-description: >-
-  Discover how you can improve your skills while in quarantine. Learn now to be
-  able to reach your goals later. 
-featuredpost: true
+description: "Discover how you can improve your skills while in quarantine.
+  Learn now to be able to reach your goals later. "
+featuredpost: false
 featuredimage: /img/campaign-creators-pypeceajezy-unsplash.jpg
-imagealt: >-
-  Photo by [Campaign Creators
+imagealt: Photo by [Campaign Creators
   ](https://unsplash.com/@campaign_creators?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
   [Unsplash](https://unsplash.com/s/photos/laptop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 tags:
