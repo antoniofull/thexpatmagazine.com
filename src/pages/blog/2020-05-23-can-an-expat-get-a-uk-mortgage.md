@@ -54,9 +54,9 @@ Top tip: store your bank statements, this will show how the savings you’ve use
 
 Fluctuating exchange rates will also cause your salary to appear less stable and therefore flag a riskier investment to lenders, which may affect the likelihood of your mortgage approval.
 
-Top Tip #1: When checking out specialist expat mortgage providers, see if they have an ‘approved currency list’. Match the currency used by your current country of residence before applying.
+**Top Tip #1**: When checking out specialist expat mortgage providers, see if they have an ‘approved currency list’. Match the currency used by your current country of residence before applying.
 
-Top Tip #2: If you’re applying for a buy-to-let expat mortgage, the rent you’ll be charging should cover the repayments and this may be enough to secure the loan.
+**Top Tip #2:** If you’re applying for a buy-to-let expat mortgage, the rent you’ll be charging should cover the repayments and this may be enough to secure the loan.
 
 ## Seek independent financial advice
 
