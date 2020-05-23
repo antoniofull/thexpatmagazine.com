@@ -2,22 +2,21 @@
 templateKey: blog-post
 title: How to send money abroad during COVID-19 time
 date: 2020-04-09T17:28:10.981Z
-description: >-
-  Sending and receiving money abroad is not always easy. There are several
-  reasons you want to do that, and so much more needed in this period in case of
-  emergency. Discover how you can do it in a fast and safe way. 
-featuredpost: true
+description: "Sending and receiving money abroad is not always easy. There are
+  several reasons you want to do that, and so much more needed in this period in
+  case of emergency. Discover how you can do it in a fast and safe way. "
+featuredpost: false
 featuredimage: /img/6-smart-ways-to-spend-the-check-uncle-sam-is-sending-you.png
-imagealt: 'https://pin.it/5UHtMzU'
+imagealt: https://pin.it/5UHtMzU
 tags:
-  - '#money'
-  - '#moneytransfer'
-  - '#abroad'
-  - '#exchangerate'
-  - '#expat'
-  - '#coronavirus'
-  - '#livingabroad'
-  - '#thexpatmagazine'
+  - "#money"
+  - "#moneytransfer"
+  - "#abroad"
+  - "#exchangerate"
+  - "#expat"
+  - "#coronavirus"
+  - "#livingabroad"
+  - "#thexpatmagazine"
 country: []
 category:
   - expat tips
