@@ -2,13 +2,11 @@
 templateKey: blog-post
 title: Just a diplomatic spouse
 date: 2020-05-07T13:34:13.194Z
-description: >-
-  Alexandra Paucescu shares her story of being a spouse of a diplomatic. Read
-  more and discover her experience. 
-featuredpost: true
+description: "Alexandra Paucescu shares her story of being a spouse of a
+  diplomatic. Read more and discover her experience. "
+featuredpost: false
 featuredimage: /img/swim-2754903_1920.jpg
-imagealt: >-
-  Image by[Gerd
+imagealt: Image by[Gerd
   Altmann](https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2754903)from[Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2754903)
 tags:
   - living abroad
