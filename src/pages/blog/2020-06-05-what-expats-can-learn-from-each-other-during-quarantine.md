@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: What Expats Can Learn From Each Other During Quarantine
+title: "Expats during Quarantine: what we can learn from each other"
 date: 2020-06-05T14:10:42.589Z
 description: During this pandemic situation many of us decided to stay where we
   were, why? Anna Luo interviewed expats to gather insights. Discover her
