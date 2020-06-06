@@ -3,6 +3,7 @@
 }
 .main-footer {
   color: #ffffff;
+  padding-top: var(--padding-xl);
 }
 .main-footer .icon-insta {
   width: 36px;

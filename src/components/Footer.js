@@ -1,20 +1,19 @@
-import React from 'react';
-import { Link } from 'gatsby';
+import React from 'react'
+import { Link } from 'gatsby'
 
-import '../styles/footer.css';
+import '../styles/footer.css'
 
-import InstagramFeed from './InstagramFeed';
-import NewsLetter from './NewsLetter';
-import Logo from '../img/logo.svg';
-import FacebookIcon from '../img/social/facebook.svg';
-import InstagramIcon from '../img/social/instagram.svg';
-import PinterestIcon from '../img/social/pinterest.svg';
-import TwitterIcon from '../img/social/twitter.svg';
+import InstagramFeed from './InstagramFeed'
+import NewsLetter from './NewsLetter'
+import Logo from '../img/logo.svg'
+import FacebookIcon from '../img/social/facebook.svg'
+import InstagramIcon from '../img/social/instagram.svg'
+import PinterestIcon from '../img/social/pinterest.svg'
+import TwitterIcon from '../img/social/twitter.svg'
 
 const Footer = ({ site }) => {
   return (
     <footer className='main-footer is-color-black'>
-      <InstagramFeed />
       <NewsLetter />
       <section className='main-footer__about wf-os'>
         <div className='main-footer__container'>
@@ -77,7 +76,7 @@ const Footer = ({ site }) => {
         &copy; copyright 2019 - thexpatmagazine.com
       </section>
     </footer>
-  );
-};
+  )
+}
 
-export default Footer;
+export default Footer

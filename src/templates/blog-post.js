@@ -226,7 +226,7 @@ const BlogPost = (props) => {
   return (
     <Layout>
       <SEO
-        title={post.frontmatter.title}
+        title={post.frontmatter.seotitle || post.frontmatter.title}
         description={post.frontmatter.description}
         image={post.frontmatter.featuredimage && post.frontmatter.featuredimage}
         type='article'
