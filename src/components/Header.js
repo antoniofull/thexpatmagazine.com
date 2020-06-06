@@ -15,9 +15,9 @@ const Header = ({ children }) => (
     </Helmet>
     <div className='main-header__container container'>
       {children}
-      {/* <MediaQuery query='(min-width: 1024px)'>
+      <MediaQuery query='(min-width: 1024px)'>
         <Search collapse indices={searchIndices} />
-      </MediaQuery> */}
+      </MediaQuery>
     </div>
   </header>
 )

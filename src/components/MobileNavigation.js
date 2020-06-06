@@ -26,7 +26,7 @@ const MobileNavigation = ({ items, active, toggleState }) => {
               }}
             >
               <div className='nav--mobile__bg'>
-                {/* <Search collapse={false} indices={searchIndices} /> */}
+                <Search collapse={false} indices={searchIndices} />
                 <nav
                   className='main-nav '
                   role='navigation'
