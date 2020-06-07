@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
 title: 7 reasons to live (or retire) in Costa Rica
-seotitle: "Living in Costa Rica "
+seotitle: Living in Costa Rica
 date: 2014-02-03T11:36:00.000Z
-description: "Are you thinking to retiring in to an exotic and safe place? Then
+description: 'Are you thinking to retiring in to an exotic and safe place? Then
   retiring to Costa Rica might be a good option. A beautiful place located in
   Central America, with beautiful beaches and stunning nature, Costa Rica is the
-  place to go, for holidays or for retirement. "
+  place to go, for holidays or for retirement. '
 featuredpost: false
 featuredimage: /img/atanas-malamov.jpg
 imagealt: Photo by [Atanas
@@ -24,6 +24,7 @@ category:
   - destinations
 author: Editorial Team
 ---
+
 If you are looking for a place to enjoy your retirement, then look no further than **Costa Rica,** a tropical-paradise in the **Central America** surrounded by beautiful landscapes that will leave you breathless. Mountains, Caribbean sea and amazing beaches, plenty of healthy and exotic fruits and  incredible places like the **Osa Peninsula**;  one of the most bio-diverse  places in the world.
 
 **Cost of life in Cost Rica is cheap (although higher than many other latin countries)** and people are among the **happiest in the** world. Is one of the most democratic country in Latin America and has no army since 1948.

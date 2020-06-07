@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 5 reasons to live in the Netherlands
+seotitle: Living in The Netherlands
 date: 2014-02-23T20:41:09.000Z
 description: >-
   Are you thinking about moving to Netherlands? We give you 5 reasons why moving
@@ -20,6 +21,7 @@ category:
   - travel tips
 author: Editorial Team
 ---
+
 **Netherlands** is a country in the North of Europe with 16 million inhabitants and an incredible and increasing expat community. The 50% of habitants in Amsterdam don't speak dutch. Many expats have decided to move there and call Amsterdam their home. A lot of them are coming from Us and overseas countries.  Let's see  what are the **main 5 reasons**[ **to live in the Netherlands**](http://thexpatmagazine.com/netherlands) **and why you should** [**move to Amsterdam**](https://www.thexpatmagazine.com/tags/relocating-to-amsterdam/)**.**
 
 ## 1 - Job.
