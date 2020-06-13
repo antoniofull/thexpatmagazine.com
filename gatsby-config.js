@@ -226,6 +226,17 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `The Expat Magazine`,
+        short_name: `Expat Magazine`,
+        start_url: `/`,
+        background_color: `#f7f0eb`,
+        theme_color: `#a2466c`,
+        display: `standalone`,
+      },
+    },
+    {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {
         modulePath: `${__dirname}/src/cms/cms.js`,
@@ -237,17 +248,6 @@ module.exports = {
         develop: true, // Activates purging in npm run develop
       },
     }, // must be after other CSS plugins
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `The Expat Magazine`,
-        short_name: `Expat Magazine`,
-        start_url: `/`,
-        background_color: `#f7f0eb`,
-        theme_color: `#a2466c`,
-        display: `standalone`,
-      },
-    },
     'gatsby-plugin-offline',
     'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],
