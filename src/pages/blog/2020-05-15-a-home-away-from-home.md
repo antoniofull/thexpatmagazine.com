@@ -1,10 +1,11 @@
 ---
 templateKey: blog-post
 title: A Home away from Home
+seotitle: A Home away from Home
 date: 2020-05-15T17:10:16.632Z
 description: "Feeling comfortable and safe at home is a priority for anyone but
   even more for someone who lives abroad. Read more about Raffaella's tips "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/lea-bohm-bt0it9pozxm-unsplash.jpg
 imagealt: Photo by [Lea Böhm
   ](https://unsplash.com/@alleslea?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
