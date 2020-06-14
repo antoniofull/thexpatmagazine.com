@@ -1,10 +1,11 @@
 ---
 templateKey: blog-post
 title: Can an expat get a UK mortgage?
+seotitle: "Mortgage in UK: all you need to know"
 date: 2020-05-23T11:18:27.413Z
 description: Do you live in UK and are you wondering how mortgage work there?
   Take a look at this article and discover the top tips you don't want to miss!
-featuredpost: true
+featuredpost: false
 featuredimage: /img/empty-street-photo-2253916.jpg
 imagealt: Photo by **[Lina Kivaka
   ](https://www.pexels.com/@lina?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**from
