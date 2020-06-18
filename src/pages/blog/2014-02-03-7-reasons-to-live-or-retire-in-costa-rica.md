@@ -1,5 +1,5 @@
 ---
-featuredimage: https://res.cloudinary.com/thexpatmagazine/image/upload/c_scale,h_640,q_auto,w_1280/v1589312750/reasons-live-costarica_hzm3ib.webp
+featuredimage: https://res.cloudinary.com/thexpatmagazine/image/upload/v1589312750/reasons-live-costarica_hzm3ib.jpg
 templateKey: blog-post
 title: 7 reasons to live (or retire) in Costa Rica
 seotitle: Living in Costa Rica
