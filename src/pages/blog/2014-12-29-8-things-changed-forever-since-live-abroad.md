@@ -2,7 +2,10 @@
 templateKey: blog-post
 title: 8 Things that changed forever since you live abroad
 date: 2020-05-29T16:04:15.000Z
-featuredpost: true
+description: Living abroad is an amazing experience, but it has some drawback
+  with it. Things change, and so do you. Find out the 8 things that changed
+  forever!
+featuredpost: false
 featuredimage: /img/denys-nevozhai-z0nvqfroqwa-unsplash.jpg
 imagealt: Photo by [Denys Nevozhai
   ](https://unsplash.com/@dnevozhai?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
@@ -16,9 +19,7 @@ country:
   - Expat
   - Living abroad
 type: post
-description: Living abroad is an amazing experience, but it has some drawback
-  with it. Things change, and so do you. Find out the 8 things that changed
-  forever!
+seotitle: 8 Things that changed forever since you live abroad
 category:
   - expat tips
 ---
