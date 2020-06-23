@@ -1,25 +1,26 @@
-import React from 'react';
-import { Link } from 'gatsby';
+import React from 'react'
+import { Link } from 'gatsby'
+import LazyLoad from 'react-lazyload'
 
-import { mq } from '../utils/mq';
-import AuthorMeta from './AuthorMeta';
-import LatestPosts from './LatestPosts';
-import Img from 'gatsby-image';
-import Stories from './Stories';
+import { mq } from '../utils/mq'
+import AuthorMeta from './AuthorMeta'
+import LatestPosts from './LatestPosts'
+import Img from 'gatsby-image'
+import Stories from './Stories'
 
 const HomePostList = ({ posts, title }) => {
-  const { limit } = mq();
+  const { limit } = mq()
   if (title === 'stories') {
-    return <Stories posts={posts} />;
+    return <Stories posts={posts} />
   }
   if (title === 'latests') {
-    return <LatestPosts posts={posts} />;
+    return <LatestPosts posts={posts} />
   }
-  const isDestinations = title === 'destinations';
+  const isDestinations = title === 'destinations'
   const viewTitle = isDestinations
     ? 'Destinations'
-    : 'Travel And Expat Tips' || 'Latest Posts';
-  const catLink = isDestinations ? 'destinations' : 'travel-tips';
+    : 'Travel And Expat Tips' || 'Latest Posts'
+  const catLink = isDestinations ? 'destinations' : 'travel-tips'
   const postList = posts.map(
     (post, i) =>
       i < limit && (
@@ -64,35 +65,37 @@ const HomePostList = ({ posts, title }) => {
           </div>
         </article>
       )
-  );
+  )
 
   return (
-    <section
-      className={`home-row ${
-        title === 'destinations' ? 'home-row--blue' : 'home-row--white'
-      }`}
-    >
-      <div className='container container--home container-row'>
-        <Link to='/destinations/'>
-          <h3
-            alt={`Expat ${title}`}
-            className='home-row__header container padding-xl'
-          >
-            {title}
-          </h3>
-        </Link>
-        <div className='container-home--articles'>{postList}</div>
-        <div
-          className={`view-all-home ${title === 'destinations' &&
-            'view-all-home--accent'}`}
-        >
-          <Link to={`/${catLink}/`} className=' view-all'>
-            View all {viewTitle}
+    <LazyLoad height={200} offset={50} throttle={200} once>
+      <section
+        className={`home-row ${
+          title === 'destinations' ? 'home-row--blue' : 'home-row--white'
+        }`}
+      >
+        <div className='container container--home container-row'>
+          <Link to='/destinations/'>
+            <h3
+              alt={`Expat ${title}`}
+              className='home-row__header container padding-xl'
+            >
+              {title}
+            </h3>
           </Link>
+          <div className='container-home--articles'>{postList}</div>
+          <div
+            className={`view-all-home ${title === 'destinations' &&
+              'view-all-home--accent'}`}
+          >
+            <Link to={`/${catLink}/`} className=' view-all'>
+              View all {viewTitle}
+            </Link>
+          </div>
         </div>
-      </div>
-    </section>
-  );
-};
+      </section>
+    </LazyLoad>
+  )
+}
 
-export default HomePostList;
+export default HomePostList

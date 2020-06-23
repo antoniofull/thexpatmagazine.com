@@ -1,55 +1,55 @@
-import React, { Component } from 'react';
-import PropTypes from 'prop-types';
-import { graphql } from 'gatsby';
-import Helmet from 'react-helmet';
-import { CookieBanner } from '@palmabit/react-cookie-law';
-import AdSense from 'react-adsense';
+import React, { Component } from 'react'
+import PropTypes from 'prop-types'
+import { graphql } from 'gatsby'
+import Helmet from 'react-helmet'
+import { CookieBanner } from '@palmabit/react-cookie-law'
+import AdSense from 'react-adsense'
 
-import Layout from '../components/Layout';
-import FeaturedPosts from '../components/FeaturedPosts';
-import SEO from '../components/Seo';
-import HomePostList from '../components/HomePostList';
-import '../styles/variables.css';
-import '../styles/reset.css';
-import '../styles/typography.css';
-import '../styles/home-page.css';
+import Layout from '../components/Layout'
+import FeaturedPosts from '../components/FeaturedPosts'
+import SEO from '../components/Seo'
+import HomePostList from '../components/HomePostList'
+import '../styles/variables.css'
+import '../styles/reset.css'
+import '../styles/typography.css'
+import '../styles/home-page.css'
 
 class IndexPage extends Component {
   constructor(props) {
-    super(props);
-    this.state = {};
+    super(props)
+    this.state = {}
   }
 
   componentWillMount() {
-    const authors = this.props.data.authors.edges;
+    const authors = this.props.data.authors.edges
 
     // remove duplicates
-    const allposts = this.props.data.posts.edges;
-    const featured = this.props.data.featured.edges;
-    const latestPosts = allposts.slice(0, 12);
-    const categoriesPosts = allposts.slice(12);
-    const ids = new Set();
-    let [stories, destinations, tips] = [[], [], []];
-
+    const allposts = this.props.data.posts.edges
+    const featured = this.props.data.featured.edges
+    const latestPosts = allposts.slice(0, 12)
+    const categoriesPosts = allposts.slice(12)
+    const ids = new Set()
+    let [stories, destinations, tips] = [[], [], []]
+    console.log(featured)
     categoriesPosts.forEach((post, i) => {
-      const cat = post.node.frontmatter.category;
-      const id = post.node.id;
+      const cat = post.node.frontmatter.category
+      const id = post.node.id
       if (cat.includes('destinations') && !ids.has(id) && i < 30) {
-        destinations.push(post);
-        ids.add(id);
+        destinations.push(post)
+        ids.add(id)
       }
       if (
         (cat.includes('travel tips') || cat.includes('expat tips')) &&
         !ids.has(id)
       ) {
-        tips.push(post);
-        ids.add(id);
+        tips.push(post)
+        ids.add(id)
       }
       if (cat.includes('stories') && !ids.has(id)) {
-        stories.push(post);
-        ids.add(id);
+        stories.push(post)
+        ids.add(id)
       }
-    });
+    })
 
     if (destinations.length > 0) {
       this.setState({
@@ -59,8 +59,8 @@ class IndexPage extends Component {
         featured,
         tips,
         destinations,
-        stories
-      });
+        stories,
+      })
     }
   }
 
@@ -71,14 +71,14 @@ class IndexPage extends Component {
       stories,
       destinations,
       tips,
-      latestPosts
-    } = this.state;
+      latestPosts,
+    } = this.state
 
     return (
       <Layout>
         <Helmet
           bodyAttributes={{
-            class: 'body-home'
+            class: 'body-home',
           }}
         />
         <SEO
@@ -89,7 +89,7 @@ class IndexPage extends Component {
             'travel',
             'life abroad',
             'expatriates',
-            'expat life'
+            'expat life',
           ]}
         />
         <main className='home'>
@@ -98,7 +98,6 @@ class IndexPage extends Component {
             posts={featured}
             count={featured.length}
           />
-
           <HomePostList title='latests' posts={latestPosts} />
           <HomePostList title='stories' posts={stories} />
           <div className='ad--index'>
@@ -116,7 +115,6 @@ class IndexPage extends Component {
             count={destinations.length}
             title='destinations'
           />
-
           <HomePostList
             title='tips'
             authors={authors}
@@ -136,7 +134,7 @@ class IndexPage extends Component {
           necessaryOptionText='Allow Cookies'
         />
       </Layout>
-    );
+    )
   }
 }
 
@@ -242,14 +240,14 @@ export const indexQuery = graphql`
       }
     }
   }
-`;
+`
 
 IndexPage.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.shape({
-      frontmatter: PropTypes.object
-    })
-  })
-};
+      frontmatter: PropTypes.object,
+    }),
+  }),
+}
 
-export default IndexPage;
+export default IndexPage

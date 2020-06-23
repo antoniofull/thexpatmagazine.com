@@ -215,6 +215,7 @@ module.exports = {
               linkImagesToOriginal: false,
             },
           },
+          `gatsby-remark-lazy-load`,
           `gatsby-remark-images-medium-zoom`,
           {
             resolve: 'gatsby-remark-copy-linked-files',
