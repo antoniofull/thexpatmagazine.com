@@ -3,6 +3,10 @@ templateKey: page
 title: About us
 photo: ""
 ---
+Thexpatmagazine is a passion and a belief for us, it's a blog from expats to expats with the aim to build a community where we are all free to share experiences, stories and top tips. A great way to support each other and to let our voice be heard.
+
+## Who's part of this crew to make this happen?
+
 **Lorena** - *SEO & Content Strategist*
 
 I’m a Southern Italian living in The Netherlands since quite some years now. I love travelling (of course, right?) and food - which goes for both cooking and eating. 
