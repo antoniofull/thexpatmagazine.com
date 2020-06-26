@@ -1,11 +1,12 @@
 ---
 templateKey: blog-post
 title: "Expats during Quarantine: what we can learn from each other"
+seotitle: "Expats during Quarantine: what we can learn from each other"
 date: 2020-06-05T14:10:42.589Z
 description: During this pandemic situation many of us decided to stay where we
   were, why? Anna Luo interviewed expats to gather insights. Discover her
   findings!
-featuredpost: true
+featuredpost: false
 featuredimage: /img/etienne-boulanger-ercpgyxnlto-unsplash.jpg
 imagealt: Photo by [Etienne Boulanger
   ](https://unsplash.com/@etienneblg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
