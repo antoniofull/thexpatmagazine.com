@@ -25,7 +25,7 @@ If you had the chance to come to The Netherlands or talk to people that live in 
 
 Let's start to say that the cities are both  located in the area called Holland, of The Nerherlands, Rotterdam in the South Holland and Amsterdam in the North Holland Region.
 
-I belive they are both beautiful even if in a different way, probably Rotterdam is more unique because of its story that made it as the centr of modernism in the Country. Rotterdam, or Roffa, as Dutches call it, was bombing during the II World War and its center totally destroyed and rebuilt again in a more actual way... from there on it became the city of architecture and it is enough to have a short walk in some areas to realise it. One example for all the Cubic Houses. Instead Amsterdam keeps a more typical and traditional architecture, with the classic houses built with bricks in front of the canals.
+I belive they are both beautiful even if in a different way, probably Rotterdam is more unique because of its story that made it as the center of modernism in the Country. Rotterdam, or Roffa, as Dutches call it, was bombing during the II World War and its center totally destroyed and rebuilt again in a more actual way... from there on it became the city of architecture and it is enough to have a short walk in some areas to realise it. One example for all the Cubic Houses. Instead Amsterdam keeps a more typical and traditional architecture, with the classic houses built with bricks in front of the canals.
 
 ![on the top Rotterdam, Willemsbrug and the Cube Hiuses, On the down side Amsterdam, classic houses in front of the canal and Light Festival in Amstel](/img/aaeca4af-a3ea-40fd-9c77-07cb3fb149a6.jpg)
 
