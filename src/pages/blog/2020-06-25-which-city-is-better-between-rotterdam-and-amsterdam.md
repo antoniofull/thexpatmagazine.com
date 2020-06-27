@@ -23,6 +23,8 @@ category:
   - expat tips
 author: Rossella Daví
 ---
+If you had the chance to come to The Netherlands or talk to people who live in Amsterdam and Rotterdam, you already know there is a kind of competition between this two cities. But how different are they? Which one is better?
+
 Let's start to say that the cities are both located in the area called Holland, of The Nerherlands, Rotterdam in the South Holland and Amsterdam in the North Holland Region.
 
 ## Rotterdam Vs Amsterdam
