@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
 title: 5 jobs titles and careers that have the most demand overseas
+seotitle: 5 jobs titles and careers that have the most demand overseas
 date: 2019-08-17T15:35:22.141Z
-description: >-
-  As populations grow across the globe and environments in certain industries
-  begin to evolve and change, we’re finding that the need to fill job roles seem
-  to be going in a merry-go-round​. 
+description: "As populations grow across the globe and environments in certain
+  industries begin to evolve and change, we’re finding that the need to fill job
+  roles seem to be going in a merry-go-round​. "
 featuredpost: false
 featuredimage: /img/success-2697951_1920.jpg
 imagealt: Jobs overseas
@@ -43,4 +43,4 @@ This can be a similar role to that of a registered nurse, except it comes with l
 
 Perhaps you prefer a more hands on approach? If you like the physical type of work then your efforts won’t be looked over if you’re looking to get into construction. The reason for its high demand is mainly down to the risks and injuries that can be involved with being a construction labourer. The benefit of becoming a construction laborer is down to experience as you don’t require any. Typically, in the role you can receive on the job training and a form of education isn’t required. The average salary for the role is around $34,500 annually. 
 
-Although these jobs are in-demand, it’s important to consider your current skill set and whether it’ll meet what’s required of these jobs. It may be appealing due to salary demands, but they’re also in demand roles for a reason. You may be lucky enough to have the required skills to fill the job that’s already in your region, whilst others may need to move elsewhere to satisfy their career needs. In which case, think about other aspects that are required, such as [legal documents, transfer policies and tier 2 visa](https://www.themuse.com/advice/15-things-you-need-to-know-about-working-abroad) requirements. Regardless, with the right application there is the opportunity to fill roles that are more in-demand than ever.
+Although these jobs are in-demand, it’s important to [consider your current skill set](https://www.thexpatmagazine.com/blog/2020-04-29-how-to-grow-professionally-while-in-quarantine/) and whether it’ll meet what’s required of these jobs. It may be appealing due to salary demands, but they’re also in demand roles for a reason. You may be lucky enough to have the required skills to fill the job that’s already in your region, whilst others may need to move elsewhere to satisfy their career needs. In which case, think about other aspects that are required, such as [legal documents, transfer policies and tier 2 visa](https://www.themuse.com/advice/15-things-you-need-to-know-about-working-abroad) requirements. Regardless, with the right application there is the opportunity to fill roles that are more in-demand than ever.
