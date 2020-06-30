@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
 title: Life of an Expat in Islamabad
+seotitle: Life of an Expat in Islamabad
 date: 2019-08-27T20:21:19.599Z
-description: >-
-  They state you cry multiple times when you go to Pakistan, first when you hear
-  you are being posted to on Pakistan and the second when your posting is over
-  and you need to leave Pakistan.
+description: They state you cry multiple times when you go to Pakistan, first
+  when you hear you are being posted to on Pakistan and the second when your
+  posting is over and you need to leave Pakistan.
 featuredpost: false
 featuredimage: /img/20170817_121619.jpg
 imagealt: Hira Malin
@@ -17,11 +17,11 @@ category:
   - stories
 author: Hira Malin
 ---
-I am Hira, Pakistani, married to a Romanian expat and we met in Pakistan. I am writing this blog to tell about expat life from the eye of a local and expat.
+I am Hira, Pakistani, married to a Romanian expat and we met in Pakistan. I am writing this blog to tell about [expat life](https://www.thexpatmagazine.com/blog/2018-03-28-the-top-8-countries-for-expats/) from the eye of a local and expat.
 
 They state you cry multiple times when you go to Pakistan, first when you hear you are being posted to on Pakistan and the second when your posting is over and you need to leave Pakistan. 
 
-## Alright! So let me clarify the previous part “you cry when you hear you are being presented on Pakistan". 
+## Alright! So let me clarify the previous part “you cry when you hear you are being presented on Pakistan".
 
 As Pakistan is among the underdeveloped nations so everything you can consider is the uneven streets, unhygienic nourishment, intestinal sickness, fear based oppression (what you hear from media) and the rundown goes on. One the contrary roads are adequate, nature is spotless rather you enjoy all the four seasons and Islamabad is much protected particularly for expats. Houses are spacious in Pakistan comparing with Europe. Expats get the accommodation in probably the most delightful territory in Islamabad, the mansions they are so lavish that you could never have a craving for leaving them. 
 
