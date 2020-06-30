@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
 title: American Sarah Emery talks about Expat Life in Singapore
+seotitle: Expat Life in Singapore by Sarah Emery
 date: 2019-07-13T13:53:13.349Z
-description: >-
-  Expat life in Singapore has become the best sight-unseen, moving decision I
-  have made to date.  It has enhanced my traveling lifestyle, exposed me to new
-  experiences and vastly increased my worldly outlook.  
+description: "Expat life in Singapore has become the best sight-unseen, moving
+  decision I have made to date.  It has enhanced my traveling lifestyle, exposed
+  me to new experiences and vastly increased my worldly outlook.  "
 featuredpost: false
 featuredimage: /img/singapore-sarah-emery-expat.jpg
 imagealt: Singapore
@@ -26,7 +26,7 @@ Within a month of deciding to move abroad.  We both quit our jobs, sold most of 
 
 Together we arrived in Singapore with 2 suitcases each, in October of 2017. Suddenly my daily routine in America transformed to expat life in Singapore.
 
-![](/img/singapore-expat-life-sarah-emery.jpg)
+![Singapore](/img/singapore-expat-life-sarah-emery.jpg)
 
 ## What is Singapore like?
 
@@ -40,7 +40,7 @@ I still consider myself a newbie expat, because during my first year I traveled 
 
 Traveling is a big part of our lives as expatriates.  Singapore is a busy hub that provides easy access to neighboring countries.  It's been a blast to share our new home when friends come to visit and we explore new countries together as well.
 
-![](/img/singapore-sarah-emery-expat-life.jpg)
+![Life in Singapore](/img/singapore-sarah-emery-expat-life.jpg)
 
 ## What about the language?
 
@@ -60,13 +60,13 @@ English is one of the official languages of Singapore. It’s very common to hea
 * Flipping the order of the written dates - day/ month/ year vs month /day/year.
 * And lastly, this is more of a first timer expat realization; I'm the one with an accent.
 
-We’ve learned to embrace a lot of do not’s as well.  For the first time in my adult life, we do not own cars.  We do not own a home.  We don't shop in big box stores, like Target or Costco (I miss you, Tar-jay).  And we definitely don't ask the introductory question, "What do you do for a living?" Thankfully, it has been replaced with a more meaningful question of, "Where else have you lived?"
+We’ve learned to embrace a lot of do not’s as well.  For the first time in my adult life, we do not own cars.  We do not own a home.  We don't shop in big box stores, like Target or Costco (I miss you, Tar-jay).  And we definitely don't ask the introductory question, "What do you do for a living?" Thankfully, it has been replaced with a more meaningful question of "Where else have you lived?"
 
-![](/img/expat-life-in-singapore-sarah-emery.jpg)
+![Expat life in Singapore](/img/expat-life-in-singapore-sarah-emery.jpg)
 
 ## The secret to easing into expat life.
 
-The driving force that has helped ease our life abroad, is the meaningful friendships we have developed.  Singapore hosts a revolving door of expatriates and there’s a fantastic expat community that has helped us navigate around our new surroundings.
+The driving force that has helped ease our life abroad, is the meaningful friendships we have developed.  Singapore hosts a revolving door of expatriates and there’s a fantastic[ expat community](https://www.thexpatmagazine.com/blog/2019-02-08-what-expatriation-really-is/) that has helped us navigate around our new surroundings.
 
 Our local friends are equally amazing.  While we continue to celebrate American holidays, our local friends have been so welcoming by integrating us into the culture and introducing us to new traditions and customs.  
 
