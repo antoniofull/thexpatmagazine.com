@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
 title: What are the best credit cards for Expats living abroad?
+seotitle: "Credit cards for expats abroad: what are the best ones?"
 date: 2019-07-07T14:46:13.043Z
-description: >-
-  Moving to a new country can feel like hitting reset on your whole life -
-  especially when it comes to your finances. When I moved from Poland to London,
-  I learnt a lot about making a home away from home.
+description: Moving to a new country can feel like hitting reset on your whole
+  life - especially when it comes to your finances. When I moved from Poland to
+  London, I learnt a lot about making a home away from home.
 featuredimage: /img/clay-banks-tgqumvhnlc4-unsplash.jpg
 imagealt: England
 tags:
@@ -17,11 +17,11 @@ category:
   - expat tips
 author: Karolina Plaskaty
 ---
-Moving to a new country can feel like hitting reset on your whole life - especially when it comes to your finances. When I moved from Poland to London, I learnt a lot about making a home away from home. The experience is exhilarating and inspiring. But sorting out your finances is one of the more pragmatic aspects of the journey. The credit score you attentively built in your home country has to be left behind. Fortunately, there are a few options to get you back on track. 
+[Moving to a new country](https://www.thexpatmagazine.com/blog/2019-02-26-8-apps-to-make-moving-abroad-easier-infographic/) can feel like hitting reset on your whole life - especially when it comes to your finances. When I moved from Poland to London, I learnt a lot about making a home away from home. The experience is exhilarating and inspiring. But sorting out your finances is one of the more pragmatic aspects of the journey. The credit score you attentively built in your home country has to be left behind. Fortunately, there are a few options to get you back on track. 
 
 Opening a current account is one of the first steps to becoming a resident. You can start paying bills and get a proof of address. Here are some choices to help facilitate your new life abroad.
 
-## Monese 
+## Monese
 
 No need to worry if you’re still looking for a place to live. You don’t need a UK address to set up an account with Monese. You can also make bank transfers for up to 8 times cheaper than a bank. Once you’re all settled in, you can think about upgrading your plan or switching current accounts. 
 
@@ -31,7 +31,7 @@ No need to worry if you’re still looking for a place to live. You don’t need
 * Transfer money abroad into 8 currencies 
 * Supports Apple Pay and Google Pay
 
-## Transferwise Mastercard 
+## Transferwise Mastercard
 
 With a Transferwise borderless account, enjoy zero banks fees when you send, receive and spend money abroad. Use their Transferwise debit Mastercard to get low conversion fees and absolutely no transaction fees. Transferwise makes it easy to manage your money globally, so you can juggle money between your new and old home while you get set up.
 
@@ -80,6 +80,6 @@ You no doubt had certain expectations about moving to this new country. But be c
 
 Get out and explore outside your comfort zone. There is a certain charm to walking around a new city by yourself and taking everything in. Go and find your favourite coffee shop or local park, and you’ll be feeling at home in no time. 
 
-## Make local friends   
+## Make local friends
 
 Feeling lonely at one point or another is a natural part of moving somewhere by yourself. Sometimes you can feel like an outsider surrounded by a new place and culture. This too will pass. By making a conscious effort to meet as many new people as possible, you’ll find friends in no time. Reaching out to locals speeds up the settling in process and helps you embrace the culture. Let them teach you that native slang word or show you the best place for brunch.
