@@ -1,14 +1,14 @@
 ---
 templateKey: blog-post
-title: 'My Expat Life between London, Amsterdam and Barcelona'
+title: My Expat Life between London, Amsterdam and Barcelona
+seotitle: My Expat Life between London, Amsterdam and Barcelona
 date: 2018-05-07T18:06:55.000Z
-description: >-
-  I am Alessio, 29 years old and I come from a small village of 850 inhabitants
-  in the north of Sardinia called Ardara. It was 2008 when my expat life
-  started, when I decided to try a new experience and think of my personal
+description: I am Alessio, 29 years old and I come from a small village of 850
+  inhabitants in the north of Sardinia called Ardara. It was 2008 when my expat
+  life started, when I decided to try a new experience and think of my personal
   growth, enrich my culture and my habits in another country.
 featuredimage: /wp-content/uploads/2018/05/IMG_5584-e1526734827525.jpg
-imagealt: 'London, Amsterdam and Barcelona'
+imagealt: London, Amsterdam and Barcelona
 tags:
   - amsterdam
   - barcelona
@@ -24,8 +24,7 @@ category:
   - stories
 author: Editorial Team
 ---
-
-I am Alessio, 29 years old and I come from a small village of 850 inhabitants in the north of Sardinia called Ardara. It was 2008 when my expat life started, when I decided to try a new experience and think of my personal growth, enrich my culture and my habits in another country. I remember to be very scared and I can still clearly remember what my mother said back then "but where are you going? I'm sure that in two weeks you will be back home" and well yes, this is what she said 11 years ago and I am still living abroad 🙂
+I am Alessio, 29 years old and I come from a small village of 850 inhabitants in the north of Sardinia called Ardara. It was 2008 when my expat life started, when I decided to try a new experience and think of [my personal growth](https://www.thexpatmagazine.com/blog/2020-04-29-how-to-grow-professionally-while-in-quarantine/), enrich my culture and my habits in another country. I remember to be very scared and I can still clearly remember what my mother said back then "but where are you going? I'm sure that in two weeks you will be back home" and well yes, this is what she said 11 years ago and I am still living abroad 🙂
 
 I bought a one-way ticket to London a suitcase of 20 kg, a pair of underwear's, socks, two t-shirts (not that much actually), and a couple of photos, while my heart was beating so fast full of fears and, at the same time, a lot of curiosity and desire to discover, develop and be myself to create something new.
 
@@ -35,19 +34,19 @@ The first difficulty when I arrived in London was the language, I did not speak 
 
 At the beginning, I stayed in a hostel in the beautiful Piccadilly Circus croweded of many tourists visiting the city, as well as many other guys in my same situation, looking for new experiences and to start a new expat life.
 
-The first thing I did was to contact the well known Anna Mundus agency , very efficient in helping just-arrived expats to look for jobs like waiter, kitchen hand, or cook in a very short time. Working conditions were not the best, but at least I could count on a starting job.
+The first thing I did was to contact the well known Anna Mundus agency, very efficient in helping just-arrived expats to look for jobs like waiter, kitchen hand, or cook in a very short time. Working conditions were not the best, but at least I could count on a starting job.
 
 After 4 days my arrival, I found my very first accommodation with two of my dearest friends from Sardinia, in an apartment in Stanford area (zone 5) and it costed almost 1500 pounds, not counting all the bills and expenses on top of that. It wasn't all that easy, or better it wasn't at all but having my own income and a roof gave me a lot of satisfaction and motivation to go on and achieve even more.
 
 It took me some weeks to realize that the little bar that made me wash glasses and paid me in black would not be a future. So despite the fear and the few money left, I decided to leave and take a safer way. I started all the procedures to open a bank account, immediately after buying an English phone number and obtained the National Insurance Number document that allows you to be a citizen and gives you the permission to work legally in UK, with all working conditions guaranteed.
 
-I updated my CV in English and started to apply for jobs by using <a href="https://www.gumtree.com">Gumtree</a>  a very well known website in UK, where you can look for apartments, jobs, machines etc. Obviously the motivation was down because I was sure that with my level of English I was not going anywhere.<br /> Eager to succeed, I continued for days with the job hunting until the moment I received a call from the Buddha bar a very famous and luxurious place in London.  When I walked in for my interview, I had the WOW effect, there was a statue of Buddha almost 5 meters high and the whole place was amazing . I kept on thinking "I won't never get this job". But guess what? After 40 minutes of a mixed English and Italian interview I was offered the job.
+I updated my CV in English and started to apply for jobs by using [Gumtree](https://www.gumtree.com)  a very well known website in UK, where you can look for apartments, jobs, machines etc. Obviously the motivation was down because I was sure that with my level of English I was not going anywhere. Eager to succeed, I continued for days with the job hunting until the moment I received a call from the Buddha bar a very famous and luxurious place in London.  When I walked in for my interview, I had the WOW effect, there was a statue of Buddha almost 5 meters high and the whole place was amazing . I kept on thinking "I won't never get this job". But guess what? After 40 minutes of a mixed English and Italian interview I was offered the job.
 
-This was a great opportunity for me, I earned good enough and had colleagues who spoke only English to me so basically a new world opened up for me.<br /> Finally I had the chance to live and explore the city, Oxford street, Soho, Mayfair, West end, South London and more. I tried to enjoy it as much as possible, I started to make new friends and my English took the wing. I spent almost 3 years at the Buddha bar and it was one of the best working experiences of my life.
+This was a great opportunity for me, I earned good enough and had colleagues who spoke only English to me so basically a new world opened up for me. Finally I had the chance to live and explore the city, Oxford street, Soho, Mayfair, West end, South London and more. I tried to enjoy it as much as possible, I started to make new friends and my English took the wing. I spent almost 3 years at the Buddha bar and it was one of the best working experiences of my life.
 
 London is a hectic and dynamic city, where everything runs at every minute or hour of the day and the night. Here you find all kind of cultures, people from all over the world, and it makes you open your mind, learn from every single day and person you come across with. One thing I am sure about is that London can offer so much on both professional and personal levels.
 
-After spending these 5 years in UK, I released I wanted to discover more, so for personal motivation and the will of moving always forward, I have decided to **head to Amsterdam in Holland**.
+After spending these 5 years in UK, I released I wanted to discover more, so for personal motivation and the will of moving always forward, I have decided to **head to [Amsterdam in Holland](https://www.thexpatmagazine.com/blog/2020-06-25-which-city-is-better-between-rotterdam-and-amsterdam/)**.
 
 ![Amsterdam](/img/uploads/2018/05/ams3.jpeg)
 
