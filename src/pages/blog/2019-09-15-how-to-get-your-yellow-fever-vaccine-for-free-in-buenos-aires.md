@@ -1,11 +1,12 @@
 ---
 templateKey: blog-post
 title: How to Get Your Yellow Fever Vaccine (For Free) in Buenos Aires
+seotitle: How to Get Your Yellow Fever Vaccine (For Free) in Buenos Aires
 date: 2019-09-15T17:01:51.382Z
-description: >-
-  In general, it’s best to take care of vaccines before you do any international
-  travel so you can be sure you’re covered for everything ahead of time. But
-  what happens when you find yourself abroad and in need of a vaccination? 
+description: "In general, it’s best to take care of vaccines before you do any
+  international travel so you can be sure you’re covered for everything ahead of
+  time. But what happens when you find yourself abroad and in need of a
+  vaccination? "
 featuredpost: false
 featuredimage: /img/dsc_0022.jpg
 imagealt: Argentina
@@ -21,7 +22,7 @@ In general, it’s best to take care of vaccines before you do any international
 
 I found myself in this position while visiting Argentina for the first time this year as part of a year long trip around the world. I had discussed the possibility of needing the yellow fever vaccine with my doctor before leaving my home country, but she had told me that, for Argentina, I only needed to get the vaccine if I was planning to see Iguazu Falls. I assured my doctor, and myself, that I didn’t have any plans of going there while I was in Argentina. Later, after arriving in Argentina and hearing so many people tell me I should see the waterfalls while I was there, I started to regret the decision I had made months before. I began to wonder if it was something I could take care of easily, midtrip. 
 
-At times it can be tricky to navigate the medical system and facilities of another country, especially if you don’t speak the language. But as I found out Buenos Aires, it doesn’t always have to be a challenge. Luckily for foreigners in need of the yellow fever vaccine, Buenos Aires has an easy process for getting the vaccine that is free for both residents and visitors.
+At times it can be tricky to navigate the medical system and facilities of another country, especially [if you don’t speak the language](https://www.thexpatmagazine.com/blog/2019-06-20-to-learn-or-not-to-learn-the-local-language/). But as I found out Buenos Aires, it doesn’t always have to be a challenge. Luckily for foreigners in need of the yellow fever vaccine, Buenos Aires has an easy process for getting the vaccine that is free for both residents and visitors.
 
 ## Make an Vaccination Appointment for Yellow Fever Online
 
@@ -39,7 +40,7 @@ When I requested my appointment online, there were plenty of slots available for
 
 After you request a date and time, you will need to fill out the requested personal information, including passport number, and click on the green button that says “Confirmar.” You will receive a confirmation email from “Mi Argentina” that will confirm the time, date, and location of your appointment. Now you are all set to show up for your vaccination!
 
-## Arrival at Sanidad de Fronteras in Buenos Aires 
+## Arrival at Sanidad de Fronteras in Buenos Aires
 
 The vaccination will take place at the office of Sanidad de Fronteras (Border Health), which is located at the intersection of Avenida Pedro de Mendoza y 20 de Septiembre in the neighborhood of La Boca in Buenos Aires. The website lists the address as being at the intersection of Avenida Pedro de Mendoza with Juan Manuel Blanes, which is incorrect and is one block away from the actual location. This part of Avenida Pedro de Mendoza is directly underneath a raised freeway and the building is situated in the median area separating the two directions of traffic on the Avenida. There is no number associated with the address – it is only identified by the intersection of the two streets.
 
