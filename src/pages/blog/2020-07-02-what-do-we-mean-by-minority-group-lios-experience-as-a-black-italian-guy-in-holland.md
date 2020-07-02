@@ -3,9 +3,7 @@ templateKey: blog-post
 title: >-
   What do we mean by "minority group" Lio's experience as a black Italian guy in
   Holland
-seotitle: >-
-  What do we mean by "minority group" Lio's experience as a black Italian guy in
-  Holland
+seotitle: minority group
 date: 2020-07-02T21:30:00.000Z
 description: >-
   First most important thing is not to make mistakes with definitions and
