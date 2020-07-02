@@ -6,7 +6,7 @@ title: >-
 seotitle: >-
   What do we mean by "minority group" Lio's experience as a black Italian guy in
   Holland
-date: 2020-07-03T07:00:00.000Z
+date: 2020-07-02T21:30:00.000Z
 description: >-
   First most important thing is not to make mistakes with definitions and
   correct use of the words. The United Nation Human Rights definition of
