@@ -1,18 +1,17 @@
 ---
 templateKey: blog-post
-title: >-
-  What do we mean by "minority group" Lio's experience as a black Italian guy in
-  Holland
+title: What do we mean by "minority group" Lio's experience as a black Italian
+  guy in Holland
 seotitle: minority group
 date: 2020-07-02T21:30:00.000Z
-description: >-
-  First most important thing is not to make mistakes with definitions and
-  correct use of the words. The United Nation Human Rights definition of
-  Minority is:
+description: "First most important thing is not to make mistakes with
+  definitions and correct use of the words. The United Nation Human Rights
+  definition of Minority is:"
+featuredpost: true
 featuredimage: /img/img_1238.jpg
-imagealt: '@rory_in_trip'
+imagealt: "@rory_in_trip"
 tags:
-  - 'expat '
+  - "expat "
   - minorities
   - expatlife
   - abroad
