@@ -31,7 +31,8 @@ The term “minority” sounds a bit weird if we think about numbers, only in Eu
 * Africans, more precisely North Africans, approximately 5 million mainly in Italy, Spain, The Netherlands, France and Sweden.
 * Latin Americans, approximately 2.2 million mainly in Spain.
 * South Asian, approximately 3-4million mainly in UK, but some in Germany and France too
-* In America the Census of 2019 can be summarised in the following table:
+
+In America the Census of 2019 can be summarised in the following table:
 
 ## Lio's experience
 
