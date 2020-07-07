@@ -31,13 +31,10 @@ First most important thing is not to make mistakes with definitions and correct 
 
 The term “minority” sounds a bit weird if we think about numbers, only in Europe there are about 105 million people part of a minority group (14% of Europeans). To give some examples:
 
-Jews are approximately 2.2 million living manly in UK, Germany and Russia. 
-
-Africans, more precisely North Africans, approximately 5 million mainly in Italy, Spain, The Netherlands, France and Sweden.
-
-Latin Americans, approximately 2.2 million mainly in Spain.
-
-South Asian, approximately 3-4million mainly in UK, but some in Germany and France too
+* Jews are approximately 2.2 million living manly in UK, Germany and Russia. 
+* Africans, more precisely North Africans, approximately 5 million mainly in Italy, Spain, The Netherlands, France and Sweden.
+* Latin Americans, approximately 2.2 million mainly in Spain.
+* South Asian, approximately 3-4million mainly in UK, but some in Germany and France too
 
 In America the Census of 2019 can be summarised in the following table:
 
