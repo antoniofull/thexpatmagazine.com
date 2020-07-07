@@ -6,7 +6,7 @@ date: 2020-06-14T10:56:20.971Z
 description: Where is home? Marianna, transition coach, shares her experience
   and thoughts around this topic. Find out more and share your experience as
   well
-featuredpost: true
+featuredpost: false
 featuredimage: /img/harmen-jelle-van-mourik-0yfwdwhob0g-unsplash.jpg
 imagealt: Photo by Harmen Jelle van Mourik on Unsplash
 tags:
