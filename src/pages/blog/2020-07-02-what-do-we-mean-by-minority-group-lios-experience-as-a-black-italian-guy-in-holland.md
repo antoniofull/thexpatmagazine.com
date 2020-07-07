@@ -34,6 +34,8 @@ The term “minority” sounds a bit weird if we think about numbers, only in Eu
 
 In America the Census of 2019 can be summarised in the following table:
 
+![Census of 2019](/img/unnamed.png)
+
 ## Lio's experience
 
 Due also to all the recent events, I asked myself a lot of questions about people who have origins in from different places, have grown somewhere else and ended up in a third Country. So I asked some questions to Lio, an Italian black guy living in The Netherlands, and this is his story with his own words:
