@@ -43,6 +43,8 @@ In America the Census of 2019 can be summarised in the following table:
 
 ![](/img/unnamed.png)
 
+## Lio's Experience
+
 Due also to all the recent events, I asked myself a lot of questions about people who have origins in from different places, have grown somewhere else and ended up in a third Country. So I asked some questions to Lio, an Italian black guy living in The Netherlands, and this is his story with his own words:
 
 “Hey there, I am Lionello, 41 years old and I was born in Rome, Italy. My parents, instead, are form Cape Verde, I would like to say it again my parents are from Cape Verde, io....sò de Roma (I am from Rome said in the Roman slang). I want to put some emphasis on that because often people ask me twice the same question, they think that because I am black it is weird I am actually Italian. Well I want to say that what is around you is what make you be who you are. I have grown in Italy and I lived in Italy until I was 20/21 years old, I have visited Cape Verde only twice. So where am I from? Rome, Italy.
