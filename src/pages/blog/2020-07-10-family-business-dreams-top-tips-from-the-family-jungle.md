@@ -26,6 +26,8 @@ Our “ah ha” moment came on the day of my college graduation (class of 2007).
 
 Our journey has been transformative, challenging and incredibly rewarding. Working as a family is truly what has kept us going all these years and allowed us to thrive. Together, we tackled the challenges of stepping into the unknown and blazing our own trail. We chose to perceive obstacles as stepping stones (there is no failure!) and together, we became masters of artful mistake making.We’re a family of Wildpreneurs—it’s not just business, it’s a lifestyle.
 
+![business dream](/img/tamra029.jpeg)
+
 ## **Considerations Before You Begin**
 
 Regardless of your geographic location,as you and your family explore your business ideas, you may also want to consider these practical questions (as a family and individually):
