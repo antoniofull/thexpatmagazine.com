@@ -6,7 +6,7 @@ date: 2020-06-21T15:52:20.241Z
 description: The diplomatic wife Alexandra shares with us her experience in
   raising kids in a very multicultural expat life. Find out her challenges and
   tips.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/marisa-howenstine-cq9slnxv8yu-unsplash.jpg
 imagealt: Photo by [Marisa Howenstine
   ](https://unsplash.com/@marisahowenstine?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)o
