@@ -7,7 +7,7 @@ description: If you had the chance to come to The Netherlands or talk to people
   who live in Amsterdam and Rotterdam, you already know there is a kind of
   competition between this two cities. But how different are they? Which one is
   better?
-featuredpost: true
+featuredpost: false
 featuredimage: /img/ee575ddb-cc83-46d0-b60e-1bff6606c56e.jpg
 imagealt: "Photos: @rory_in_trip"
 tags:
