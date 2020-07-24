@@ -6,7 +6,7 @@ seotitle: "Minority group: Lio's experience"
 date: 2020-07-02T21:30:00.000Z
 description: "What does minority group really mean? Read Lio's experience as a
   black Italian guy living in Holland. "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/img_1238.jpg
 imagealt: "@rory_in_trip"
 tags:
