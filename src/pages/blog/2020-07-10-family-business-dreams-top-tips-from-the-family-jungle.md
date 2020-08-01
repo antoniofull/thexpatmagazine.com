@@ -6,7 +6,7 @@ date: 2020-07-10T15:50:23.769Z
 description: "Has your family been daydreaming about creating a business
   together? Read Tamara's story to get inspiration and, much more, top tips on
   how to setup your family business dreams. "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/junglefamily.jpeg
 imagealt: "*Photo credit to Kelly Guenther*"
 tags:
