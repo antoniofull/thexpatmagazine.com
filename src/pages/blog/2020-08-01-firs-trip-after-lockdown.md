@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: Firs Trip After Lockdown
-seotitle: Firs Trip After Lockdown
+title: First Trip After Lockdown
+seotitle: First Trip After Lockdown
 date: 2020-08-01T08:09:54.035Z
 description: After all these past scary months and the lockdown, I finally went
   on a first trip. No, coronavirus is not over, but luckily we can enjoy again
