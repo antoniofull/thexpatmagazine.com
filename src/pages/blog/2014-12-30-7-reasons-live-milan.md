@@ -1,60 +1,58 @@
 ---
 templateKey: blog-post
-title: 7 reasons why you should live in Milan
+title: 5 Things You Should Know About Milan
+date: 2020-08-07T11:58:00.000Z
+description: "Are you planning to visit or move to Milan? It's quite an
+  interesting and unique city. Read the 5 things you should know about Milan! "
+featuredpost: true
+featuredimage: /img/benjamin-voros-jhjdl3tzkjk-unsplash.jpg
+imagealt: Photo by [Benjamin Voros
+  ](https://unsplash.com/@vorosbenisop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)o
+  n[Unsplash](https://unsplash.com/s/photos/milan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+tags:
+  - Italy
+  - Milan
+  - Living abroad
+  - Living Italy
 author: Editorial Team
-type: post
-date: 2014-12-30T12:58:19.000Z
 url: /2014/europe/7-reasons-live-milan/
-featuredimage: /wp-content/uploads/2014/12/14971250168_1f99afda24_z-606x500.jpg
 country:
   - Europe
   - Italy
-tags:
-  - italy
-  - milan
+type: post
+seotitle: 5 Things You Should Know About Milan
 category:
   - expat tips
   - destinations
 ---
+As soon as I say Italy there are 3 main things that pop up in your mind: ***pizza, bolognese and pasta***. Am I right? “*Il Bel Paese*” is well known for its food and the beauty of its cities. But would you live in one of these cities? What about Milan? The economic capital of Italy. Do you want to discover more? Here's for you ***5 things you should know about Milan.***
 
-As soon as I say Italy there are 3 main things that pop up in your mind: _**pizza, bolognese and pasta**_. Am I right? “_Il Bel Paese_” is well known for its food and the beauty of its cities. But would you live in one of them? What about Milan? The economic capital of Italy. Here  for you _**7 reasons why you should live in Milan.**_<!--more-->
+### 1- In love with BIkeMi
 
-## 1 The coffee's world.
+![BikeMi Milan](/img/uploads/2014/12/7651869236_c386251a8d_h.jpg)
 
-Once you start living in Milan you learn what is the difference between a caffè, caffè corretto, caffè macchiato, cappuccino, latte macchiato, etc. Moreover, you learn at what time of the day each drink is appropriate, and you learn to look down at people who ask for a cappuccino after 11:00 in the morning.
+Once you start, you won't be able to stop. You can subscribe and hire these bikes from different spots in the city, as well as leaving them to dedicated spots. So very handy while moving around the city and it will make you feel brave enough to go anywhere. Bike paths are not everywhere, which can be challenging but you will manage to find your way.
 
-### 2 BikeMi in love
+## 2- Never miss an "aperitivo"
 
-![BikeMi in love](/img/uploads/2014/12/7651869236_c386251a8d_h.jpg)
+![Aperitivo Milan](/img/ja-san-miguel-npma9h4noh0-unsplash.jpg)
 
-If you start, you will not be able to stop. The bike will make you feel brave enough to go around in the city. All streets don't have bike paths, but you will manage to find your way.
+The word aperitivo will fill your days, whatever it is weekend or not. There are loads of places across the city where you can enjoy a nice drink along with good for a fixed price. Some places will give you more like bites with cold cuts, cheeses, crisps and so on; while other places will give you something that looks like more like a dinner. You'll love it! 🙂
 
-## 3 Never miss an "aperitivo"
+## 3- Esselunga's **addiction**
 
-![Never miss an "aperitivo"](/img/uploads/2014/12/2491755597_24be8e0494_b-201x300.jpg)
+![Esselunga Milan](/img/mehrad-vosoughi-yomsdjt7dug-unsplash.jpg)
 
-The word aperitivo will fill your days, whatever it is weekend or not. I don't need to add anything else, you know what I mean 🙂
+Everything you need can be found at ***Esselunga*** supermarkets. They are everywhere and have a very wide selection of products and prices. You can't be in Milan if you don't go to Esselunga. You can also order online and have delivered at home. Don't forget to get the difelity card Fidaty to collect bonuses & points for a present receive.
 
-## 4 Esselunga's **addiction**
+## 4- The desert in August.
 
-![Esselunga](/img/uploads/2014/12/2491755597_24be8e0494_b-201x300.jpg)
+![Milan](/img/uploads/2014/12/milan.jpg)
 
-Everything you need can be found at _**Esselunga**_ supermarkets.  The coolest thing is that you can shopping online and a gentle man will bring you everything at home at the time you choose, but don't forget to get the fidelity card Fidaty.
+What do people do in *August* in **Milan**? Basically you won't find anyone, because everybody goes on holiday. Most of the shops, restaurants and bars are closed. It may seem very strange at first, but I think it's the best time to enjoy the city without walking in croweded stretts or taking packed transports. It's something quite unique!
 
-## 5. The desert in August.
+## 5- The Duomo.
 
-![Esselunga](/img/uploads/2014/12/milan.jpg)
+![Duomo Milan](/img/uploads/2014/12/14971250168_1f99afda24_z.jpg)
 
-What do people do in _August_ in **Milan**? Basically you won't find anyone, because everybody goes on holiday. Shops, restaurants and bars you are closed, but you can still enjoy the quiet in the city centre.
-
-## 6- Public transports and strikes.
-
-![Esselunga](/img/uploads/2014/12/2547579362_5345776f68_b.jpg)
-
-Don't tell me you're still surprised? There is a strike once per month and -the funniest thing it happens ALWAYS on Friday. No worries, you will get used to it and, most of the time, don't get pissed off 🙂
-
-## 7- The Duomo.
-
-![Esselunga](/img/uploads/2014/12/14971250168_1f99afda24_z.jpg)
-
-It's the beautiful _**Gothic Cathedral of Milan**_ and the third biggest church in Europe. It will seduce you every time you pass in front of it. It doesn't matter if it's every single day, it will still be as impressive as it was the first day.
+It's the beautiful ***Gothic Cathedral of Milan*** and the third biggest church in Europe. It will seduce you every time you pass in front of it. It's impressive and fascinating. You can also climb up to admire the architecture and to have a beautiful view over the city. Once on top, you'll be surprised how quiet it is over there compared to the rest of the city.
