@@ -6,7 +6,7 @@ date: 2020-07-17T15:39:50.440Z
 description: "Are you thinking of moving abroad? Here's what you need: the
   OceanFinance's research to discover which are the most affordable countries to
   live, considering rent, bills and socialising. "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/scott-graham-5fnmwej4taa-unsplash.jpg
 imagealt: Photo by [Scott Graham
   ](https://unsplash.com/@sctgrhm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
