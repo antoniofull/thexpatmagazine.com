@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
 title: 5 Things You Should Know About Milan
-seotitle: 5 Things You Should Know About Milan
-date: 2014-12-30T12:58:19.000Z
+date: 2020-08-07T11:58:00.000Z
 description: "Are you planning to visit or move to Milan? It's quite an
   interesting and unique city. Read the 5 things you should know about Milan! "
+featuredpost: true
 featuredimage: /img/benjamin-voros-jhjdl3tzkjk-unsplash.jpg
 imagealt: Photo by [Benjamin Voros
   ](https://unsplash.com/@vorosbenisop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)o
@@ -20,6 +20,7 @@ country:
   - Europe
   - Italy
 type: post
+seotitle: 5 Things You Should Know About Milan
 category:
   - expat tips
   - destinations
