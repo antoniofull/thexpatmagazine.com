@@ -1,14 +1,14 @@
 ---
 templateKey: blog-post
 title: My Paradise Called Rotterdam
-seotitle: 'Rotterdam, The Netherlands'
-date: 2018-04-10T20:00:07.000Z
-description: >-
-  There are places that I have never thought of visiting, even less to be able
-  to call it home; this is until I found my paradise, which is called Rotterdam.
+seotitle: "Rotterdam: my paradise in The Netherlands"
+date: 2020-09-05T20:00:07.000Z
+description: There are places that I have never thought of visiting, even less
+  to be able to call it home; this is until I found my paradise, which is called
+  Rotterdam.
 featuredpost: true
 featuredimage: /img/rotterdam-pic.jpg
-imagealt: 'Rotterdam, Erasmus Bridge. @rory_in_trip'
+imagealt: Rotterdam, Erasmus Bridge. @rory_in_trip
 tags:
   - living abroad
   - Rotterdam
@@ -33,7 +33,9 @@ Rotterdam has a lot of history and it's all there, you can see it just by walkin
 
 ![](/img/rotterdam-pic-3.jpg)
 
-What stroke me the most? It's what Rotterdam can offer, thanks to its soul of a metropolitan city enclosed in 319km². Further more, all the people living there, the feeling of being part of a new family met by chance during an Expat Event or while looking for a new apartment through Facebook pages and social networks. Everybody who wants to share his experience or provide useful advice to the "Expat wanna be" very often use the social networks, such as "Expats in Rotterdam", "Italians (or French, Germans, etc.) in Rotterdam" you might want to give it a try.
+## What stroke me the most? 
+
+It's what Rotterdam can offer, thanks to its soul of a metropolitan city enclosed in 319km². Further more, all the people living there, the feeling of being part of a new family met by chance during an Expat Event or while looking for a new apartment through Facebook pages and social networks. Everybody who wants to share his experience or provide useful advice to the "Expat wanna be" very often use the social networks, such as "Expats in Rotterdam", "Italians (or French, Germans, etc.) in Rotterdam" you might want to give it a try.
 
 Looking for a job in 2013 was a bit easier than nowadays, anyway my advice is to learn at least English before going into this adventure. Once you've done that, you can download the [Undutchables](https://undutchables.nl) app to be up to date on new job opportunities, which you can filter by city or primary language. Linkedin is crucial to finda job and HR employer are definitely active there. Remember to be patient and you need a lot of enthusiasm to be back into the game. From my personal experience it doesn't take too long to find a good job.
 
@@ -42,8 +44,6 @@ Since then (2013) I have moved again to Italy for some years, but I had also the
 I had to go trough all processes again and this time everything took even less. The registration in the Country again took me a phone call and a short visit to the city all holding only my passport and a format I had to download from the website. In 1 month I have done 5 interviews and got the job I like. 
 
 From the [administrational side](https://www.youtube.com/watch?v=khOxra8c3Do&t=287s), I remember how efficient and fast is the bureaucracy for things such as registration at the municipality, open a bank account and receiving the [health insurance](https://www.thexpatmagazine.com/blog/2019-10-13-how-to-choose-the-right-health-insurance-for-expats/) card. I think I did everything in 3 hours and 1 appointment, as I knew in advance all the documents needed thanks to the call I had before going to the office. 
-
-
 
 Doe doe (ciao ciao)
 
