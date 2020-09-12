@@ -6,7 +6,7 @@ date: 2020-08-14T14:53:24.426Z
 description: "Read this amazing expat story, main characters are Cristina and
   Ilaria: two Italian friends and expats in Zanzibar who fell in love with two
   Maasai warriors met on this tropical island in the Indian ocean."
-featuredpost: true
+featuredpost: false
 featuredimage: /img/img_20200622_085734_275.jpg
 imagealt: Photos by Cristina and Ilaria
 tags:
