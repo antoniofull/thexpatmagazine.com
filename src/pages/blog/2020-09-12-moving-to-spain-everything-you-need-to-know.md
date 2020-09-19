@@ -4,29 +4,15 @@ title: "Moving to Spain: Everything you need to know"
 seotitle: "Moving to Spain: Everything you need to know"
 date: 2020-09-12T16:38:46.261Z
 description: Thinking of moving to Spain? Here is everything you need to know before moving
+featuredpost: true
 featuredimage: /img/0aff76ad-cd28-4b0d-b22f-63c1d4c749ab_1_105_c.jpeg
 imagealt: description
+country:
+  - Spain
 category:
   - expat tips
 author: Editorial Team
 ---
-Moving to Spain, everything you need to know.
-
-
-
-
-
-* the Country
-* The Expat Community in Spain
-* Major cities
-* Languages
-* Job
-* House
-* NIE Documents
-* Health insurance
-
-
-
 Although the Corona Virus pandemic is still on, a lot of expats keep moving to other countries, especially in Europe as it’s easier to move from one country to another.
 
 One of the favorite country by expats is, without any doubt, Spain.
@@ -35,17 +21,24 @@ Expats move to Spain for several reasons, work, life balance, good weather and c
 
 With this article we are going to tell you everything you need to know if you are planning to move and live in Spain for long term.
 
+### Table of contents
+
+* #### the Country
+* #### The Expat Community in Spain
+* #### Major cities
+* #### Languages
+
 ### The country.
 
-Spain is the second most visited country in the world, according with weforum (link: <https://www.weforum.org/agenda/2020/06/most-visited-countries-world-tourism-organization>)
+Spain is the second most visited country in the world, according with [Weforum](https://www.weforum.org/agenda/2020/06/most-visited-countries-world-tourism-organization)
 
-The country is divided in 17 autonomous communities and 2 autonomous cities. The autonomous cities are Ceuta and Melilla, which are located in the Africa, at the border with Morocco.
+Spain is divided in 17 autonomous communities and 2 autonomous cities. The autonomous cities are Ceuta and Melilla, which are located in the Africa, at the border with Morocco.
 
-Although the word autonomous might make think to a federal state, Spain is instead a decentralised state. It means that every community (comunidad) always depend on the main government, located in the capital Madrid.
+Although the word autonomous might make think to a federal state, Spain is instead a decentralised state. It means that every community (Comunidad) always depend on the main government, located in the capital Madrid.
 
 A side note:
 
-Apart from being hit hard by COVID, Spain has also been on the news for the Catalunya independence ongoing issue. But despite what it looks for, it is still a pretty safe country and, even if not living in, a visit to Barcelona is a must for every tourist.
+Apart from being hit hard by COVID, Spain has also been on the news for the Catalunya independence ongoing issue. But despite what it looks for, it is still a pretty safe country and -even if not living in - [a visit to Barcelona is a must for every tourist.](https://www.thexpatmagazine.com/blog/2014-11-16-27-reasons-barcelona-best-city-world/)
 
 ### The Expat Community
 
@@ -53,15 +46,12 @@ Many people would think that Madrid and Barcelona have the largest community of 
 
 The province of Malaga and Alicante are the provinces with a greater number of expats. But we also need to consider that not all expats living in these areas are not working, both areas are well known for being a favorite place for expats from Northern Europe to retire in a more mild and warm climate.
 
-The biggest expats communities in Spain - according with the office of statistics in Spain, are:
+The biggest expats communities in Spain - according with the office of statistics in Spain - are:
 
-1. Morocco
-
-2. Romenia
-
-3. United Kingdom
-
-4. Italy
+1. **Morocco**
+2. **Romenia**
+3. **United Kingdom**
+4. **Italy**
 
 There is also a large community of latin Americans, and in the recent years - due to their political situation - the Venezuelan community has grown a lot.
 
@@ -93,4 +83,19 @@ Bilbao and the Basc community are also pretty well organised and have a lot of o
 
 ### Languages.
 
-If you expect every spaniard to speak english, then you might be disappointed. Although there are very big UK and english speaking comnunites in Spain, english it’s not a common spoken language.
+If you expect every spaniard to speak english, then you might be disappointed. Although there are very big UK and english speaking communities in Spain, english it’s not a common spoken language. In the main cities like Madrid and Barcelona it's easier to find english speaking and of course the young generations are more prone to speak english. However Spain is a country that has been isolated for many years, due to the dictatorship, and only in the last year english has become more common in the country.
+
+While in the south (Andalusia and the province of Alicante) there are plenty of english speaking expats, that does not mean that every spaniard in the south speak english.
+
+Spain is not just a decentralised state but is also a country with different traditions and - of course - languages. Here is a list of some other languages spoken in Spain:
+
+* **Catalan is spoken in Catalunya, Valencia and Balearic Islands**
+* **Gallego is spoken in Galicia**
+* **Basque is spoken in Basque region (Bilbao)**
+
+**Part II :** 
+
+* #### Job
+* #### House
+* #### NIE Documents
+* #### Health insurance
