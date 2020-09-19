@@ -158,6 +158,23 @@ collections:
           required: false,
         }
 
+  - name: 'partners'
+    label: 'Partners'
+    folder: 'src/pages/partners'
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - {
+          label: 'Template Key',
+          name: 'templateKey',
+          widget: 'hidden',
+          default: 'blog-partner',
+        }
+      - { label: 'Name', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'markdown' }
+      - { label: 'Photo', name: 'photo', widget: image }
+      - { label: 'Website', name: 'website', widget: 'string', required: false }
+
   - name: 'pages'
     label: 'Pages'
     folder: 'src/pages/pages'
