@@ -21,12 +21,12 @@ Expats move to Spain for several reasons, work, life balance, good weather and c
 
 With this article we are going to tell you everything you need to know if you are planning to move and live in Spain for long term.
 
-### Table of contents
+### Table of contents (click to skip to the section that interests you)
 
-* #### the Country
-* #### The Expat Community in Spain
-* #### Major cities
-* #### Languages
+* #### [the Country](#spain-country)
+* #### [The Expat Community in Spain](#spain-expat-community)
+* #### [Major cities](#spain-cities)
+* #### [Languages](#spain-languages)
 
 ### The country.
 
