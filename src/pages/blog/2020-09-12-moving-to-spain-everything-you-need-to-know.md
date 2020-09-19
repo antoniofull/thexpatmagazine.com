@@ -23,10 +23,10 @@ With this article we are going to tell you everything you need to know if you ar
 
 ### Table of contents (click to skip to the section that interests you)
 
-* #### [the Country](#spain-country)
-* #### [The Expat Community in Spain](#spain-expat-community)
-* #### [Major cities](#spain-cities)
-* #### [Languages](#spain-languages)
+ #### [the Country](#spain-country)
+ #### [The Expat Community in Spain](#spain-expat-community)
+ #### [Major cities](#spain-cities)
+ #### [Languages](#spain-languages)
 
 <h3 name="spain-country>The country.</h3>
 
