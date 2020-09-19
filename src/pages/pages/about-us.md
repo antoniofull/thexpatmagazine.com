@@ -7,7 +7,7 @@ Thexpatmagazine is a passion and a belief for us, it's a blog from expats to exp
 
 ## Who's part of this crew to make this happen?
 
-**Lorena** - *SEO & Content Strategist*
+### **Lorena** - *SEO & Content Strategist*
 
 I’m a Southern Italian living in The Netherlands since quite some years now. I love travelling (of course, right?) and food - which goes for both cooking and eating. 
 
@@ -15,7 +15,9 @@ Within Thexpatmagazine Crew, I’m the one all about SEO and content. This inclu
 
 ![SEO & Content Strategist](/img/764d7693-2244-4ab4-b6b5-17c16807b952_1_105_c.jpeg)
 
-**Rossella** - *Social Media Manager*
+
+
+### **Rossella** - *Social Media Manager*
 
 From Sicily to Spain to The Netherlands. It is all about curiosity and challenging, I love my expat life because it gives me the opportunity to know more; and travelling is the cherry on top of the cake.
 
@@ -23,6 +25,8 @@ Within The Expat Magazine Crew, I am the one that manages the social media accou
 
 ![Social media manager](/img/100991636_266183374435452_9125807028323012219_n-1-.jpg)
 
-**Antonio** - *Founder & Developer*
+
+
+### **Antonio** - *Founder & Developer*
 
 The one who started and believed in this project since the very beginning, and the one taking care of the core of this blog, which would not exist without him.

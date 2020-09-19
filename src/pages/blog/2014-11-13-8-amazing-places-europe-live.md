@@ -6,7 +6,7 @@ date: 2020-07-24T13:00:00.000Z
 description: Europe is big, full of history and with many, many beautiful
   places. Some of them are really famous, but there are some magical, secret
   ones that you probably have not heard so much. Take a look at our top 10!
-featuredpost: true
+featuredpost: false
 featuredimage: /img/calvin-hanson-poqjewrvfnu-unsplash.jpg
 imagealt: Photo by [Calvin Hanson
   ](https://unsplash.com/@calvinhanson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
