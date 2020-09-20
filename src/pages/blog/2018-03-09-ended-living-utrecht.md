@@ -6,7 +6,7 @@ date: 2020-08-21T07:04:13.000Z
 description: Have you ever had the feeling of wanting to change, leave, explore
   new places and experiences? I did! here's my story of how I went to live in
   Utrecht.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/2e085add-ccd4-4ee1-9595-68d90a47487c_1_105_c.jpeg
 imagealt: Utrecht
 tags:
