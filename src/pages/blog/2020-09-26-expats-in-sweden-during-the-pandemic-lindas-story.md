@@ -6,7 +6,7 @@ date: 2020-09-26T11:49:03.616Z
 description: Are you wondering how is it being an expat in Sweden during this
   pandemic time? Linda shares her experience in this article. Discover more!
 featuredpost: true
-featuredimage: /img/statue-sweden.jpg
+featuredimage: /img/park-sweden.jpg
 imagealt: "*Photos of Linda Lautrec*"
 tags:
   - expats Sweden
@@ -49,7 +49,7 @@ Sweden prides itself on being welcoming to migrants but it is nothing like the d
 
 Back home in the US, my friends and family (and I in agreement from afar) were rebelling against the lack of uniform policy and direction from the government there. I continued to listen to NY Governor, Andrew Cuomo to keep abreast of the news. Many people weren’t buying the “party line,” but here, it was different. Since the COVID policy relegates responsibility to the people to comply with the public health policy, socially distancing is vague at best and I found people with conflicting views. Some people were more outspoken about their views, such as a guy at an outdoor cafe who said “I think this whole thing is a hoax. It is like the flu. It won’t hurt me. I’m going to go to work and go out and do whatever I want.”
 
-![expats in Sweden](/img/park-sweden.jpg)
+![expats in Sweden](/img/statue-sweden.jpg)
 
 The Scandinavian summer was late in its arrival. It wasn’t warm until July, but the nights were bright with the midnight sun. **Sometimes, I would wake up in the middle of the night to see the brief two hours of darkness**. I became used to it to some extent. It rained nearly every day. Someone said that the psychology behind the lack of a lockdown was how long and early the winter darkness was here.
 
