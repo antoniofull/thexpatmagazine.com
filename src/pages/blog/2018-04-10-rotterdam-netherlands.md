@@ -6,7 +6,7 @@ date: 2020-09-05T20:00:07.000Z
 description: There are places that I have never thought of visiting, even less
   to be able to call it home; this is until I found my paradise, which is called
   Rotterdam.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/rotterdam-pic.jpg
 imagealt: Rotterdam, Erasmus Bridge. @rory_in_trip
 tags:
