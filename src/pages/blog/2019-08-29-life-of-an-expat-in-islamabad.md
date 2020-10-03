@@ -1,11 +1,10 @@
 ---
 templateKey: blog-post
-title: Life of an Expat in Islamabad
-seotitle: Life of an Expat in Islamabad
+title: Living in Islamabad as an Expat
+seotitle: Living in Islamabad as an Expat
 date: 2019-08-27T20:21:19.599Z
-description: They state you cry multiple times when you go to Pakistan, first
-  when you hear you are being posted to on Pakistan and the second when your
-  posting is over and you need to leave Pakistan.
+description: Hira and her husband Romanian met in Pakistan. She tells us about
+  the expat life from the eye of a local and expat.
 featuredpost: false
 featuredimage: /img/20170817_121619.jpg
 imagealt: Hira Malin
@@ -21,9 +20,11 @@ I am Hira, Pakistani, married to a Romanian expat and we met in Pakistan. I am w
 
 They state you cry multiple times when you go to Pakistan, first when you hear you are being posted to on Pakistan and the second when your posting is over and you need to leave Pakistan. 
 
-## Alright! So let me clarify the previous part “you cry when you hear you are being presented on Pakistan".
+Alright! So let me clarify the previous part “you cry when you hear you are being presented on Pakistan".
 
 As Pakistan is among the underdeveloped nations so everything you can consider is the uneven streets, unhygienic nourishment, intestinal sickness, fear based oppression (what you hear from media) and the rundown goes on. One the contrary roads are adequate, nature is spotless rather you enjoy all the four seasons and Islamabad is much protected particularly for expats. Houses are spacious in Pakistan comparing with Europe. Expats get the accommodation in probably the most delightful territory in Islamabad, the mansions they are so lavish that you could never have a craving for leaving them. 
+
+## Islamabad living conditions
 
 Islamabad is so lovely and surrounded by Margalla hills. There is variety of food options in Islamabad yet you need to become accustomed to spicy food. My better half never had food contamination living there for right around 3 years however as per him, he has a bullet proof stomach hahaha! Truly, mangoes are the best in Pakistan and you can't avoid yourself from overeating.
 
