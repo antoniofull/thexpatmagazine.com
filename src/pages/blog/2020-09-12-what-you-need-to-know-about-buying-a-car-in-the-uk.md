@@ -5,7 +5,7 @@ seotitle: What You Need to Know About Buying A Car in the UK
 date: 2020-09-12T17:33:14.279Z
 description: Moving to the UK is exciting, but it also involves a bit of
   paperwork and practical information. Find out what you need to know!
-featuredpost: true
+featuredpost: false
 featuredimage: /img/car-in-the-uk.jpg
 imagealt: Buying a car in UK
 tags:
