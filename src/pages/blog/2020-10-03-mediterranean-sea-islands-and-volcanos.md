@@ -7,10 +7,9 @@ description: "Do you want to know more about volcanos in the Mediterranean Sea?
   Two of them are still active! Find out all the top tips: how to get there and
   what to see. "
 featuredpost: true
-featuredimage: /img/petr-slovacek-uelojexj4l8-unsplash.jpg
-imagealt: Photo by [Petr Slováček
-  ](https://unsplash.com/@grwood?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
-  [Unsplash](https://unsplash.com/s/photos/stromboli?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+featuredimage: /img/img_3048_original.jpg
+imagealt: Photo by
+  [@](https://unsplash.com/@grwood?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)[rory_in_trip](https://www.instagram.com/rory_in_trip/)
 tags:
   - travelling
 country:
