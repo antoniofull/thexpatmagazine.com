@@ -3,13 +3,13 @@ import { Link } from 'gatsby'
 
 import '../styles/footer.css'
 
-import InstagramFeed from './InstagramFeed'
 import NewsLetter from './NewsLetter'
 import Logo from '../img/logo.svg'
 import FacebookIcon from '../img/social/facebook.svg'
 import InstagramIcon from '../img/social/instagram.svg'
 import PinterestIcon from '../img/social/pinterest.svg'
 import TwitterIcon from '../img/social/twitter.svg'
+import YoutubeIcon from '../img/social/youtube.svg'
 
 const Footer = ({ site }) => {
   return (
@@ -27,6 +27,15 @@ const Footer = ({ site }) => {
                 aria-label='Visit our instagram page'
               >
                 <InstagramIcon className='social-icon' />
+              </a>
+            </li>
+            <li>
+              <a
+                href={site.links.youtube}
+                className='footer-social__youtube'
+                aria-label='Visit our youtube page'
+              >
+                <YoutubeIcon className='social-icon' />
               </a>
             </li>
             <li>
@@ -56,6 +65,7 @@ const Footer = ({ site }) => {
                 <TwitterIcon className='social-icon' />
               </a>
             </li>
+           
           </ul>
           <ul className='page-info font-small wf-os'>
             <li>

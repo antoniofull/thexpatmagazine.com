@@ -14,6 +14,7 @@ const useSiteMetadata = () => {
               facebook
               pinterest
               twitter
+              youtube
             }
           }
         }

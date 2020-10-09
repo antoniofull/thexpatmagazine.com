@@ -16,6 +16,7 @@ module.exports = {
       twitter: 'https://twitter.com/ThexpatMagazine',
       instagram: 'https://www.instagram.com/the_expatmagazine/',
       pinterest: 'https://www.pinterest.com/08zwmxzliph7fpzk2p5heehhd5yb4y/',
+      youtube: 'https://www.youtube.com/channel/UCklnL4k6pw-LDU4Cvp6mNBQ'
     },
   },
   plugins: [
