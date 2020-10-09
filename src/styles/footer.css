@@ -89,6 +89,9 @@
   height: 24px;
   list-style-type: none;
 }
+.footer-social li a {
+  display: block;
+}
 .social-icon {
   color: var(--color-white);
   fill: var(--color-white);
