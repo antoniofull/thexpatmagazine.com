@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: How to work from home and be productive
+seotitle: "Work from home and be productive: find out how"
 date: 2020-03-24T09:27:00.000Z
 description: >+
   During the last years we have heard more and more about Working From Home
@@ -8,8 +9,10 @@ description: >+
   became a reality for almost everyone.
 
 featuredpost: false
-featuredimage: /img/30e1eb1d4dd0ae169e6047d70be1d636.jpg
-imagealt: 'https://www.pinterest.it/pin/360428776432389411/'
+featuredimage: /img/thought-catalog-uk78i6vk3sc-unsplash.jpg
+imagealt: Photo by [Thought Catalog
+  ](https://unsplash.com/@thoughtcatalog?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
+  [Unsplash](https://unsplash.com/s/photos/work-from-home?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 tags:
   - working from home
   - wfh
