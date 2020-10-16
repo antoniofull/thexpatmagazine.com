@@ -5,7 +5,7 @@ seotitle: "Expats in Sweden during the pandemic: Linda's story"
 date: 2020-09-26T11:49:03.616Z
 description: Are you wondering how is it being an expat in Sweden during this
   pandemic time? Linda shares her experience in this article. Discover more!
-featuredpost: true
+featuredpost: false
 featuredimage: /img/park-sweden.jpg
 imagealt: "*Photos of Linda Lautrec*"
 tags:
