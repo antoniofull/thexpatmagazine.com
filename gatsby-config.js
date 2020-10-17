@@ -20,6 +20,8 @@ module.exports = {
     },
   },
   plugins: [
+    'gatsby-plugin-sharp',
+    'gatsby-transformer-sharp',   
     `gatsby-plugin-advanced-sitemap`,
     {
       resolve: `gatsby-plugin-amp`,
@@ -186,8 +188,6 @@ module.exports = {
         name: 'images',
       },
     },
-    'gatsby-plugin-sharp',
-    'gatsby-transformer-sharp',
     {
       resolve: 'gatsby-plugin-webpack-bundle-analyzer',
       options: {

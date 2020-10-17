@@ -1,7 +1,7 @@
 ---
 templateKey: page
 title: About us
-photo: ""
+photo: /img/764d7693-2244-4ab4-b6b5-17c16807b952_1_105_c.jpeg
 ---
 Thexpatmagazine is a passion and a belief for us, it's a blog from expats to expats with the aim to build a community where we are all free to share experiences, stories and top tips. A great way to support each other and to let our voice be heard.
 
