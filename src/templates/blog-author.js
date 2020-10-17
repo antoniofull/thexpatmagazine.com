@@ -3,8 +3,7 @@ import Helmet from 'react-helmet';
 import { Link, graphql } from 'gatsby';
 import Image from 'gatsby-image';
 import kebabCase from 'lodash/kebabCase';
-import SEO from '../components/Seo';
-
+import { GatsbySeo } from 'gatsby-plugin-next-seo'
 import Layout from '../components/Layout';
 import Pagination from '../components/Pagination';
 import AuthorMeta from '../components/AuthorMeta';
@@ -52,17 +51,27 @@ const AuthorRoute = props => {
   if (author) {
     return (
       <Layout>
-        <SEO
-          keywords={[
-            'expats',
-            'travel',
-            'life abroad',
-            'expatriates',
-            'expat life',
-            author.frontmatter.title
-          ]}
-          title={`${author.frontmatter.title}, Author at The Expat Magazine`}
-          description={`${author.frontmatter.bio}`}
+        <GatsbySeo
+          openGraph={{
+            title: author.frontmatter.title,
+            description: author.frontmatter.bio,
+            url: 'https://www.example.com/@firstlast123',
+            type: 'profile',
+            profile: {
+              firstName: author.frontmatter.title,
+              lastName: 'Last',
+              username: 'firstlast123',
+              gender: 'female',
+            },
+            images: [
+              {
+                url: 'https://www.test.ie/images/profile.jpg',
+                width: 850,
+                height: 650,
+                alt: 'Profile Photo',
+              },
+            ],
+          }}
         />
         <Helmet
           title={`${author.frontmatter.title}, Author at The Expat Magazine`}

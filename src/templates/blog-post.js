@@ -22,7 +22,7 @@ import Layout from '../components/Layout'
 import AuthorMeta from '../components/AuthorMeta'
 import Content, { HTMLContent } from '../components/Content'
 import RelatedArticles from '../components/RelatedArticles'
-import SEO from '../components/Seo'
+import { ArticleJsonLd, GatsbySeo } from 'gatsby-plugin-next-seo';
 
 import '../styles/post.css'
 
@@ -43,11 +43,13 @@ const Figcaption = ({ figcaption }) => (
 )
 
 export const BlogPostTemplate = ({
+  fields,
   content,
   contentComponent,
   tags,
   title,
   author,
+  seotitle,
   description,
   date,
   image,
@@ -65,43 +67,27 @@ export const BlogPostTemplate = ({
     const module = await import('../components/Comments')
     setComments(React.createElement(module.default, { url, title }))
   }
-
+  console.log(seotitle, title)
   const baseUrl = 'https://www.thexpatmagazine.com/'
   return (
     <section className='section post'>
+      <ArticleJsonLd
+        url={`${baseUrl}${url}`}
+        headline={title}
+        images={[
+          `${image && baseUrl + image.publicURL}`,
+        ]}
+        datePublished={date}
+        dateModified={date}
+        authorName={author}
+        publisherName={'Editorial Team'}
+        publisherLogo='https://www.thexpatmagazine.com/img/logo.svg'
+        description={description}
+        overrides={{
+          '@type': 'BlogPosting', // set's this as a blog post.
+        }}
+      />
       <Helmet>
-        <script type='application/ld+json'>{`
-          {
-            "@context": "https://schema.org",
-            "@type": "Article",
-            "mainEntityOfPage": {
-              "@type": "WebPage",
-              "@id": "${baseUrl}${url}"
-            },
-            "headline": "${title}",
-            "image": [
-              "${image && baseUrl + image.publicURL}"
-             ],
-            "datePublished": "${date}",
-            "dateModified": "${mtime}",
-            "author": {
-              "@type": "Person",
-              "name": "${author}"
-            },
-             "publisher": {
-              "@type": "Organization",
-              "name": "The Expat Magazine",
-              "logo": {
-                "@type": "ImageObject",
-                "url": "https://www.thexpatmagazine.com/icons/icon-512x512.png"
-              }
-            },
-            
-            "description": "${
-              description ? description.replace(/['"]+/g, '') : title
-            }"
-          }
-        `}</script>
         <link
           rel='amphtml'
           href={`https://www.thexpatmagazine.com/amp${url}`}
@@ -225,14 +211,39 @@ const BlogPost = (props) => {
   const { relatedArticles } = props.pageContext
   return (
     <Layout>
-      <SEO
-        title={post.frontmatter.seotitle || post.frontmatter.title}
+      <GatsbySeo
+        language='en'
+        title={post.frontmatter.seotitle}
         description={post.frontmatter.description}
-        image={post.frontmatter.featuredimage && post.frontmatter.featuredimage}
-        type='article'
-        pathname={post.fields.slug}
+        openGraph={{
+        url: `https://www.thexpatmagazine.com/${post.fields.slug}`,
+        title: post.frontmatter.seotitle,
+        description: post.frontmatter.description,
+        images: [
+          {
+            url: post.frontmatter.featuredimage.publicURL,
+            width: 800,
+            height: 600,
+            alt: 'The Expat Magazine',
+          },
+          {
+            url: post.frontmatter.featuredimage.publicURL,
+            width: 900,
+            height: 800,
+            alt: 'The Expat Magazine',
+          }
+        ],
+        site_name: 'The Expat Magazine',
+      }}
+      twitter={{
+        handle: '@thexpatmagazine',
+        site: '@thexpatmagazine',
+        cardType: 'summary_large_image',
+      }}
       />
       <BlogPostTemplate
+        seotitle={post.frontmatter.seotitle}
+        fields={post.fields}
         content={post.html}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}

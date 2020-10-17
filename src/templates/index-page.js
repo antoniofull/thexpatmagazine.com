@@ -4,10 +4,10 @@ import { graphql } from 'gatsby'
 import Helmet from 'react-helmet'
 import { CookieBanner } from '@palmabit/react-cookie-law'
 import AdSense from 'react-adsense'
+import { GatsbySeo, BlogJsonLd } from 'gatsby-plugin-next-seo';
 
 import Layout from '../components/Layout'
 import FeaturedPosts from '../components/FeaturedPosts'
-import SEO from '../components/Seo'
 import HomePostList from '../components/HomePostList'
 import '../styles/variables.css'
 import '../styles/reset.css'
@@ -30,7 +30,6 @@ class IndexPage extends Component {
     const categoriesPosts = allposts.slice(12)
     const ids = new Set()
     let [stories, destinations, tips] = [[], [], []]
-    console.log(featured)
     categoriesPosts.forEach((post, i) => {
       const cat = post.node.frontmatter.category
       const id = post.node.id
@@ -73,7 +72,6 @@ class IndexPage extends Component {
       tips,
       latestPosts,
     } = this.state
-
     return (
       <Layout>
         <Helmet
@@ -81,16 +79,58 @@ class IndexPage extends Component {
             class: 'body-home',
           }}
         />
-        <SEO
-          title='The Expat Magazine Home Page'
-          description='The Expat Magazine is an online community made of expats and travellers who write and share tips, news and experiences to help you travel and live abroad.'
-          keywords={[
-            'expats',
-            'travel',
-            'life abroad',
-            'expatriates',
-            'expat life',
+        <BlogJsonLd
+          url='https://www.thexpatmagazine.com/'
+          headline='The Expat Magazine is an online community made of expats and travellers who write and share tips, news and experiences to help you travel and live abroad.'
+          images={featured[0].node.frontmatter.featuredimage.publicURL}
+          posts={[
+            { 
+              headline: featured[0].node.frontmatter.title, 
+              image: featured[0].node.frontmatter.featuredimage.publicURL 
+            }, { 
+              headline: featured[1].node.frontmatter.title,
+              image: featured[1].node.frontmatter.featuredimage.publicURL 
+            },{ 
+              headline: featured[2].node.frontmatter.title,
+              image: featured[2].node.frontmatter.featuredimage.publicURL 
+            },
           ]}
+          datePublished={featured[2].node.frontmatter.date}
+          dateModified={featured[2].node.frontmatter.date}
+          authorName='The Expat Magazine Editorial Team'
+          description='The Expat Magazine is an online community made of expats and travellers who write and share tips, news and experiences to help you travel and live abroad.'
+        />
+        <GatsbySeo
+          language='en'
+          title='The Expat Magazine Home Page'
+           description='The Expat Magazine is an online community made of expats and travellers who write and share tips, news and experiences to help you travel and live abroad.'
+           openGraph={{
+            url: 'https://www.thexpatmagazine.com',
+            title: 'Open Graph Title',
+            description: 'The Expat Magazine is an online community made of expats and travellers who write and share tips, news and experiences to help you travel and live abroad.',
+            images: [
+              {
+                url: featured[0].node.frontmatter.featuredimage.publicURL,
+                width: 800,
+                height: 600,
+                alt: 'The Expat Magazine',
+              },
+              {
+                url: featured[1].node.frontmatter.featuredimage.publicURL,
+                width: 900,
+                height: 800,
+                alt: 'The Expat Magazine',
+              },
+              { url:  featured[0].node.frontmatter.featuredimage.publicURL },
+              { url:  featured[1].node.frontmatter.featuredimage.publicURL },
+            ],
+            site_name: 'The Expat Magazine',
+          }}
+          twitter={{
+            handle: '@thexpatmagazine',
+            site: '@thexpatmagazine',
+            cardType: 'summary_large_image',
+          }}
         />
         <main className='home'>
           <FeaturedPosts
@@ -158,12 +198,14 @@ export const indexQuery = graphql`
           }
           frontmatter {
             title
+            seotitle
             category
             author
             templateKey
             date(formatString: "MMMM DD, YYYY")
             featuredpost
             featuredimage {
+              publicURL
               childImageSharp {
                 fluid(maxWidth: 1600) {
                   ...GatsbyImageSharpFluid
@@ -194,6 +236,7 @@ export const indexQuery = graphql`
           }
           frontmatter {
             title
+            seotitle
             category
             author
             templateKey
@@ -223,6 +266,7 @@ export const indexQuery = graphql`
           }
           frontmatter {
             title
+            seotitle
             description
             role
             instagram

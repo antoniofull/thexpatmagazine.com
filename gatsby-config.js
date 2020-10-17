@@ -24,6 +24,22 @@ module.exports = {
     'gatsby-transformer-sharp',   
     `gatsby-plugin-advanced-sitemap`,
     {
+      resolve: 'gatsby-plugin-next-seo',
+      options: {
+        openGraph: {
+          type: 'website',
+          locale: 'en_EN',
+          url: 'https://www.thexpatmagazine.com',
+          site_name: 'The Expat Magazine',
+        },
+        twitter: {
+          handle: '@Thexpatmagazine',
+          site: '@Thexpatmagazine',
+          cardType: 'summary_large_image',
+        },
+      },
+    },
+    {
       resolve: `gatsby-plugin-amp`,
       options: {
         analytics: {

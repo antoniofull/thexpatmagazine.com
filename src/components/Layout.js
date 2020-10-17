@@ -16,9 +16,6 @@ const TemplateWrapper = ({ children }) => {
   return (
     <React.Fragment>
       <Helmet>
-        <html lang='en' />
-        <title>{site.title}</title>
-        <meta name='description' content={site.description} />
         <link
           rel='apple-touch-icon'
           sizes='180x180'
