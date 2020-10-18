@@ -8,7 +8,6 @@ import {BASE_URL} from '../utils/utils'
 const CatRoute = ({ pageContext }) => {
   const posts = pageContext.group;
   const { cat, pathPrefix, group } = pageContext
-  console.log(group[0].node.frontmatter)
   return (
     <Layout>
      <GatsbySeo
