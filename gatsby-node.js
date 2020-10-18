@@ -63,6 +63,7 @@ exports.createPages = async ({ actions, graphql }) => {
                 }
                 frontmatter {
                   title
+                  seotitle
                   author
                   description
                   date(formatString: "MMMM DD, YYYY")
@@ -129,6 +130,7 @@ exports.createPages = async ({ actions, graphql }) => {
                 }
                 frontmatter {
                   title
+                  seotitle
                   author
                   description
                   date(formatString: "MMMM DD, YYYY")
@@ -192,6 +194,7 @@ exports.createPages = async ({ actions, graphql }) => {
                 }
                 frontmatter {
                   title
+                  seotitle
                   author
                   description
                   date(formatString: "MMMM DD, YYYY")
@@ -251,6 +254,7 @@ exports.createPages = async ({ actions, graphql }) => {
                 templateKey
                 author
                 title
+                seotitle
                 category
                 description
                 featuredimage {
@@ -340,6 +344,7 @@ exports.createPages = async ({ actions, graphql }) => {
                 }
                 frontmatter {
                   title
+                  seotitle
                   author
                   description
                   date(formatString: "MMMM DD, YYYY")

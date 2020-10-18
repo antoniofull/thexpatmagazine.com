@@ -21,6 +21,8 @@ const Post = ({ post }) => (
         post.node.frontmatter.featuredimage.childImageSharp && (
           <Link to={post.node.fields.slug}>
             <Image
+              alt={post.node.frontmatter.title}
+              title={post.node.frontmatter.title}
               fluid={post.node.frontmatter.featuredimage.childImageSharp.fluid}
             />
           </Link>
@@ -76,25 +78,6 @@ const AuthorRoute = props => {
         <Helmet
           title={`${author.frontmatter.title}, Author at The Expat Magazine`}
         >
-          <script type='application/ld+json'>{`
-           {
-            "@context": "https://schema.org",
-            "@type": "Person",
-            "image": "https://thexpatmagazine.com/${
-              author.frontmatter.photo.publicURL
-            }",
-            "name": "${author.frontmatter.title ||
-              'The Expat Magazine Author'}",
-            "url": "${author.frontmatter.website ||
-              'https://thexpatmagazine.com'}",
-            "sameAs" : [ 
-              "${author.frontmatter.instagram && author.frontmatter.instagram}",
-              "${author.frontmatter.pinterest && author.frontmatter.pinterest}",
-              "${author.frontmatter.facebook && author.frontmatter.facebook}",
-              "${author.frontmatter.twitter && author.frontmatter.twitter}"
-            ]
-          }
-        `}</script>
         </Helmet>
         <section className='blog-author'>
           <div className='author'>
