@@ -11,6 +11,7 @@ import FacebookIcon from '../img/social/facebook.svg';
 import InstagramIcon from '../img/social/instagram.svg';
 import PinterestIcon from '../img/social/pinterest.svg';
 import TwitterIcon from '../img/social/twitter.svg';
+import { BASE_URL } from '../utils/utils'
 import '../styles/author.css';
 import '../styles/home-page.css';
 
@@ -50,6 +51,7 @@ const Post = ({ post }) => (
 const AuthorRoute = props => {
   const posts = props.pageContext.group;
   const author = props.data.markdownRemark;
+  console.log(author)
   if (author) {
     return (
       <Layout>
@@ -57,20 +59,19 @@ const AuthorRoute = props => {
           openGraph={{
             title: author.frontmatter.title,
             description: author.frontmatter.bio,
-            url: 'https://www.example.com/@firstlast123',
+            url: `${BASE_URL}authors/${kebabCase(author.frontmatter.title)}`,
             type: 'profile',
             profile: {
               firstName: author.frontmatter.title,
-              lastName: 'Last',
-              username: 'firstlast123',
-              gender: 'female',
+              lastName: author.frontmatter.title,
+              username: author.frontmatter.title,
             },
             images: [
               {
-                url: 'https://www.test.ie/images/profile.jpg',
+                url: `${BASE_URL}${author.frontmatter.photo.publicURL}`,
                 width: 850,
                 height: 650,
-                alt: 'Profile Photo',
+                alt: author.frontmatter.bio,
               },
             ],
           }}
