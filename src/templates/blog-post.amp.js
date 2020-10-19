@@ -1,20 +1,19 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import kebabCase from 'lodash/kebabCase';
-import { graphql, Link } from 'gatsby';
-import ReactMarkdown from 'react-markdown';
+import React from 'react'
+import PropTypes from 'prop-types'
+import kebabCase from 'lodash/kebabCase'
+import { graphql, Link } from 'gatsby'
+import ReactMarkdown from 'react-markdown'
 
-import Helmet from 'react-helmet';
-import AuthorPostAmp from '../components/AuthorPostsAmp';
-import LayoutAmp from '../components/LayoutAmp';
-import AuthorMeta from '../components/amp/AuthorMeta';
-import Content, { HTMLContent } from '../components/Content';
-import SEO from '../components/Seo';
+import Helmet from 'react-helmet'
+import AuthorPostAmp from '../components/AuthorPostsAmp'
+import LayoutAmp from '../components/LayoutAmp'
+import AuthorMeta from '../components/amp/AuthorMeta'
+import Content, { HTMLContent } from '../components/Content'
 
 // Import css files
-import '../styles/amp/reset.css';
-import '../styles/buttons.css';
-import '../styles/post.css';
+import '../styles/amp/reset.css'
+import '../styles/buttons.css'
+import '../styles/post.css'
 
 const Separator = () => (
   <div className='dots'>
@@ -22,7 +21,7 @@ const Separator = () => (
     <span className='dot'></span>
     <span className='dot'></span>
   </div>
-);
+)
 
 const Figcaption = ({ figcaption }) => (
   <figure>
@@ -30,7 +29,7 @@ const Figcaption = ({ figcaption }) => (
       <ReactMarkdown source={figcaption} />
     </figcaption>
   </figure>
-);
+)
 
 export const BlogPostTemplate = ({
   content,
@@ -45,8 +44,8 @@ export const BlogPostTemplate = ({
   category,
   url
 }) => {
-  const PostContent = contentComponent || Content;
-  const baseUrl = 'https://www.thexpatmagazine.com/';
+  const PostContent = contentComponent || Content
+  const baseUrl = 'https://www.thexpatmagazine.com/'
   return (
     <section className='section post'>
       <Helmet>
@@ -123,8 +122,8 @@ export const BlogPostTemplate = ({
         </div>
       </div>
     </section>
-  );
-};
+  )
+}
 
 BlogPostTemplate.propTypes = {
   content: PropTypes.node.isRequired,
@@ -132,17 +131,12 @@ BlogPostTemplate.propTypes = {
   description: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.object
-};
+}
 const BlogPost = props => {
-  const { markdownRemark: post } = props.data;
-  const { relatedArticles } = props.pageContext;
+  const { markdownRemark: post } = props.data
+  const { relatedArticles } = props.pageContext
   return (
     <LayoutAmp>
-      <SEO
-        title={post.frontmatter.title}
-        description={post.frontmatter.description}
-        image={post.frontmatter.featuredimage && post.frontmatter.featuredimage}
-      />
       <BlogPostTemplate
         content={post.html}
         contentComponent={HTMLContent}
@@ -162,16 +156,16 @@ const BlogPost = props => {
         url={post.fields.slug}
       />
     </LayoutAmp>
-  );
-};
+  )
+}
 
 BlogPost.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.object
   })
-};
+}
 
-export default BlogPost;
+export default BlogPost
 
 export const pageQuery = graphql`
   query BlogPostAmpByID($id: String!) {
@@ -202,4 +196,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`;
+`

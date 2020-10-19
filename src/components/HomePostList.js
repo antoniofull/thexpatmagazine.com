@@ -9,6 +9,7 @@ import Img from 'gatsby-image'
 import Stories from './Stories'
 
 const HomePostList = ({ posts, title }) => {
+  if (!posts) return null
   const { limit } = mq()
   if (title === 'stories') {
     return <Stories posts={posts} />

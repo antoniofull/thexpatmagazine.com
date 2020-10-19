@@ -54,7 +54,7 @@ const Featured = ({ post }) => {
 }
 
 const FeaturedPosts = ({ posts, authors }) => {
-  const author = find(authors, (a) => {
+  const author = find(authors, a => {
     return a.node.frontmatter.title === posts[0].node.frontmatter.author
   })
   return (
@@ -75,9 +75,10 @@ const FeaturedPosts = ({ posts, authors }) => {
           autoplay={true}
           width='100%'
         >
-          {posts.map((post) => (
-            <Featured key={post.node.id} post={post} author={author} />
-          ))}
+          {posts &&
+            posts.map(post => (
+              <Featured key={post.node.id} post={post} author={author} />
+            ))}
         </Carousel>
       </div>
     </section>

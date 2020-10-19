@@ -14,7 +14,7 @@ import {
   TelegramShareButton,
   TelegramIcon,
   WhatsappShareButton,
-  WhatsappIcon,
+  WhatsappIcon
 } from 'react-share'
 import Helmet from 'react-helmet'
 import AuthorPost from '../components/AuthorPosts'
@@ -22,7 +22,7 @@ import Layout from '../components/Layout'
 import AuthorMeta from '../components/AuthorMeta'
 import Content, { HTMLContent } from '../components/Content'
 import RelatedArticles from '../components/RelatedArticles'
-import { ArticleJsonLd, GatsbySeo } from 'gatsby-plugin-next-seo';
+import { ArticleJsonLd, GatsbySeo } from 'gatsby-plugin-next-seo'
 
 import '../styles/post.css'
 
@@ -57,7 +57,7 @@ export const BlogPostTemplate = ({
   category,
   url,
   relatedArticles,
-  mtime,
+  mtime
 }) => {
   const PostContent = contentComponent || Content
 
@@ -67,16 +67,13 @@ export const BlogPostTemplate = ({
     const module = await import('../components/Comments')
     setComments(React.createElement(module.default, { url, title }))
   }
-  console.log(seotitle, title)
   const baseUrl = 'https://www.thexpatmagazine.com/'
   return (
     <section className='section post'>
       <ArticleJsonLd
         url={`${baseUrl}${url}`}
         headline={title}
-        images={[
-          `${image && baseUrl + image.publicURL}`,
-        ]}
+        images={[`${image && baseUrl + image.publicURL}`]}
         datePublished={date}
         dateModified={date}
         authorName={author}
@@ -84,7 +81,7 @@ export const BlogPostTemplate = ({
         publisherLogo='https://www.thexpatmagazine.com/img/logo.svg'
         description={description}
         overrides={{
-          '@type': 'BlogPosting', // set's this as a blog post.
+          '@type': 'BlogPosting' // set's this as a blog post.
         }}
       />
       <Helmet>
@@ -135,7 +132,7 @@ export const BlogPostTemplate = ({
 
           {tags && tags.length ? (
             <ul className='taglist'>
-              {tags.map((tag) => (
+              {tags.map(tag => (
                 <li className='font-small wf-os post__tag' key={tag + `tag`}>
                   <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
                 </li>
@@ -204,11 +201,20 @@ BlogPostTemplate.propTypes = {
   contentComponent: PropTypes.func,
   description: PropTypes.string,
   title: PropTypes.string,
-  helmet: PropTypes.object,
+  helmet: PropTypes.object
 }
-const BlogPost = (props) => {
+const BlogPost = props => {
   const { markdownRemark: post } = props.data
   const { relatedArticles } = props.pageContext
+  const images = []
+  if (post.frontmatter && post.frontmatter.featuredimage) {
+    images.push({
+      url: post.frontmatter.featuredimage.publicURL,
+      width: 800,
+      height: 600,
+      alt: post.frontmatter.seotitle
+    })
+  }
   return (
     <Layout>
       <GatsbySeo
@@ -216,30 +222,16 @@ const BlogPost = (props) => {
         title={post.frontmatter.seotitle}
         description={post.frontmatter.description}
         openGraph={{
-        url: `https://www.thexpatmagazine.com/${post.fields.slug}`,
-        title: post.frontmatter.seotitle,
-        description: post.frontmatter.description,
-        images: [
-          {
-            url: post.frontmatter.featuredimage.publicURL,
-            width: 800,
-            height: 600,
-            alt: 'The Expat Magazine',
-          },
-          {
-            url: post.frontmatter.featuredimage.publicURL,
-            width: 900,
-            height: 800,
-            alt: 'The Expat Magazine',
-          }
-        ],
-        site_name: 'The Expat Magazine',
-      }}
-      twitter={{
-        handle: '@thexpatmagazine',
-        site: '@thexpatmagazine',
-        cardType: 'summary_large_image',
-      }}
+          url: `https://www.thexpatmagazine.com/${post.fields.slug}`,
+          title: post.frontmatter.seotitle,
+          description: post.frontmatter.description,
+          images
+        }}
+        twitter={{
+          handle: '@thexpatmagazine',
+          site: '@thexpatmagazine',
+          cardType: 'summary_large_image'
+        }}
       />
       <BlogPostTemplate
         seotitle={post.frontmatter.seotitle}
@@ -268,8 +260,8 @@ const BlogPost = (props) => {
 
 BlogPost.propTypes = {
   data: PropTypes.shape({
-    markdownRemark: PropTypes.object,
-  }),
+    markdownRemark: PropTypes.object
+  })
 }
 
 export default BlogPost

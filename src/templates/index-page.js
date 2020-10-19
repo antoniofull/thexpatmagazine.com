@@ -1,10 +1,10 @@
-import React, { Component } from 'react'
+import React, { useState, useEffect } from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Helmet from 'react-helmet'
 import { CookieBanner } from '@palmabit/react-cookie-law'
 import AdSense from 'react-adsense'
-import { GatsbySeo, BlogJsonLd } from 'gatsby-plugin-next-seo';
+import { GatsbySeo, BlogJsonLd } from 'gatsby-plugin-next-seo'
 
 import Layout from '../components/Layout'
 import FeaturedPosts from '../components/FeaturedPosts'
@@ -14,18 +14,15 @@ import '../styles/reset.css'
 import '../styles/typography.css'
 import '../styles/home-page.css'
 
-class IndexPage extends Component {
-  constructor(props) {
-    super(props)
-    this.state = {}
-  }
+const IndexPage = ({ data }) => {
+  const [state, setState] = useState({})
 
-  componentWillMount() {
-    const authors = this.props.data.authors.edges
+  useEffect(() => {
+    const authors = data.authors.edges
 
     // remove duplicates
-    const allposts = this.props.data.posts.edges
-    const featured = this.props.data.featured.edges
+    const allposts = data.posts.edges
+    const featured = data.featured.edges
     const latestPosts = allposts.slice(0, 12)
     const categoriesPosts = allposts.slice(12)
     const ids = new Set()
@@ -51,131 +48,163 @@ class IndexPage extends Component {
     })
 
     if (destinations.length > 0) {
-      this.setState({
-        ...this.state,
+      setState({
+        ...state,
         latestPosts,
         authors,
         featured,
         tips,
         destinations,
-        stories,
+        stories
       })
     }
+  }, [data])
+
+  const {
+    authors = [],
+    featured = [],
+    stories = [],
+    destinations = [],
+    tips = [],
+    latestPosts = []
+  } = state
+
+  const posts = []
+  const images = []
+  if (
+    featured[0] &&
+    featured[0].node.frontmatter &&
+    featured[0].node.frontmatter.featuredimage
+  ) {
+    posts.push({
+      headline: featured[0].node.frontmatter.title,
+      image: featured[0].node.frontmatter.featuredimage.publicURL
+    })
+    images.push({
+      url: featured[0].node.frontmatter.featuredimage.publicURL,
+      width: 800,
+      height: 600,
+      alt: featured[2].node.frontmatter.title
+    })
+  }
+  if (
+    featured[1] &&
+    featured[1].node.frontmatter &&
+    featured[1].node.frontmatter.featuredimage
+  ) {
+    posts.push({
+      headline: featured[1].node.frontmatter.title,
+      image: featured[1].node.frontmatter.featuredimage.publicURL
+    })
+    images.push({
+      url: featured[1].node.frontmatter.featuredimage.publicURL,
+      width: 800,
+      height: 600,
+      alt: featured[2].node.frontmatter.title
+    })
+  }
+  if (
+    featured[2] &&
+    featured[2].node.frontmatter &&
+    featured[2].node.frontmatter.featuredimage
+  ) {
+    posts.push({
+      headline: featured[2].node.frontmatter.title,
+      image: featured[2].node.frontmatter.featuredimage.publicURL
+    })
+    images.push({
+      url: featured[2].node.frontmatter.featuredimage.publicURL,
+      width: 800,
+      height: 600,
+      alt: featured[2].node.frontmatter.title
+    })
   }
 
-  render() {
-    const {
-      authors,
-      featured,
-      stories,
-      destinations,
-      tips,
-      latestPosts,
-    } = this.state
-    return (
-      <Layout>
-        <Helmet
-          bodyAttributes={{
-            class: 'body-home',
-          }}
+  return (
+    <Layout>
+      <Helmet
+        bodyAttributes={{
+          class: 'body-home'
+        }}
+      />
+      <BlogJsonLd
+        url='https://www.thexpatmagazine.com/'
+        headline='The Expat Magazine is an online community made of expats and travellers who write and share tips, news and experiences to help you travel and live abroad.'
+        images={
+          (featured[0] &&
+            featured[0].node.frontmatter.featuredimage.publicURL) ||
+          undefined
+        }
+        posts={posts}
+        datePublished={
+          (featured[0] && featured[0].node.frontmatter.date) || new Date()
+        }
+        dateModified={
+          (featured[0] && featured[0].node.frontmatter.date) || new Date()
+        }
+        authorName='The Expat Magazine Editorial Team'
+        description='The Expat Magazine is an online community made of expats and travellers who write and share tips, news and experiences to help you travel and live abroad.'
+      />
+      <GatsbySeo
+        language='en'
+        title='The Expat Magazine Home Page'
+        description='The Expat Magazine is an online community made of expats and travellers who write and share tips, news and experiences to help you travel and live abroad.'
+        openGraph={{
+          url: 'https://www.thexpatmagazine.com',
+          title: 'Open Graph Title',
+          description:
+            'The Expat Magazine is an online community made of expats and travellers who write and share tips, news and experiences to help you travel and live abroad.',
+          images
+        }}
+        twitter={{
+          handle: '@thexpatmagazine',
+          site: '@thexpatmagazine',
+          cardType: 'summary_large_image'
+        }}
+      />
+      <main className='home'>
+        <FeaturedPosts
+          authors={authors}
+          posts={featured}
+          count={featured.length}
         />
-        <BlogJsonLd
-          url='https://www.thexpatmagazine.com/'
-          headline='The Expat Magazine is an online community made of expats and travellers who write and share tips, news and experiences to help you travel and live abroad.'
-          images={featured[0].node.frontmatter.featuredimage.publicURL}
-          posts={[
-            { 
-              headline: featured[0].node.frontmatter.title, 
-              image: featured[0].node.frontmatter.featuredimage.publicURL 
-            }, { 
-              headline: featured[1].node.frontmatter.title,
-              image: featured[1].node.frontmatter.featuredimage.publicURL 
-            },{ 
-              headline: featured[2].node.frontmatter.title,
-              image: featured[2].node.frontmatter.featuredimage.publicURL 
-            },
-          ]}
-          datePublished={featured[2].node.frontmatter.date}
-          dateModified={featured[2].node.frontmatter.date}
-          authorName='The Expat Magazine Editorial Team'
-          description='The Expat Magazine is an online community made of expats and travellers who write and share tips, news and experiences to help you travel and live abroad.'
-        />
-        <GatsbySeo
-          language='en'
-          title='The Expat Magazine Home Page'
-           description='The Expat Magazine is an online community made of expats and travellers who write and share tips, news and experiences to help you travel and live abroad.'
-           openGraph={{
-            url: 'https://www.thexpatmagazine.com',
-            title: 'Open Graph Title',
-            description: 'The Expat Magazine is an online community made of expats and travellers who write and share tips, news and experiences to help you travel and live abroad.',
-            images: [
-              {
-                url: featured[0].node.frontmatter.featuredimage.publicURL,
-                width: 800,
-                height: 600,
-                alt: 'The Expat Magazine',
-              },
-              {
-                url: featured[1].node.frontmatter.featuredimage.publicURL,
-                width: 900,
-                height: 800,
-                alt: 'The Expat Magazine',
-              },
-              { url:  featured[0].node.frontmatter.featuredimage.publicURL },
-              { url:  featured[1].node.frontmatter.featuredimage.publicURL },
-            ],
-            site_name: 'The Expat Magazine',
-          }}
-          twitter={{
-            handle: '@thexpatmagazine',
-            site: '@thexpatmagazine',
-            cardType: 'summary_large_image',
-          }}
-        />
-        <main className='home'>
-          <FeaturedPosts
-            authors={authors}
-            posts={featured}
-            count={featured.length}
+        <HomePostList title='latests' posts={latestPosts} />
+        <HomePostList title='stories' posts={stories} />
+        <div className='ad--index'>
+          <AdSense.Google
+            client='ca-pub-5100800746597188'
+            slot='9580336420'
+            style={{ display: 'block', textAlign: 'center' }}
+            layout='in-article'
+            format='fluid'
           />
-          <HomePostList title='latests' posts={latestPosts} />
-          <HomePostList title='stories' posts={stories} />
-          <div className='ad--index'>
-            <AdSense.Google
-              client='ca-pub-5100800746597188'
-              slot='9580336420'
-              style={{ display: 'block', textAlign: 'center' }}
-              layout='in-article'
-              format='fluid'
-            />
-          </div>
-          <HomePostList
-            authors={authors}
-            posts={destinations}
-            count={destinations.length}
-            title='destinations'
-          />
-          <HomePostList
-            title='tips'
-            authors={authors}
-            posts={tips}
-            count={tips.length}
-          />
-        </main>
-        <CookieBanner
-          message='This website uses cookie, read more about it on our privacy page'
-          onAccept={() => {}}
-          onAcceptPreferences={() => {}}
-          onAcceptStatistics={() => {}}
-          onAcceptMarketing={() => {}}
-          policyLink={'/pages/privacy-and-cookies-policy/'}
-          dismissOnScroll={true}
-          showPreferencesOption={false}
-          necessaryOptionText='Allow Cookies'
+        </div>
+        <HomePostList
+          authors={authors}
+          posts={destinations}
+          count={destinations.length}
+          title='destinations'
         />
-      </Layout>
-    )
-  }
+        <HomePostList
+          title='tips'
+          authors={authors}
+          posts={tips}
+          count={tips.length}
+        />
+      </main>
+      <CookieBanner
+        message='This website uses cookie, read more about it on our privacy page'
+        onAccept={() => {}}
+        onAcceptPreferences={() => {}}
+        onAcceptStatistics={() => {}}
+        onAcceptMarketing={() => {}}
+        policyLink={'/pages/privacy-and-cookies-policy/'}
+        dismissOnScroll={true}
+        showPreferencesOption={false}
+        necessaryOptionText='Allow Cookies'
+      />
+    </Layout>
+  )
 }
 
 export const indexQuery = graphql`
@@ -289,9 +318,9 @@ export const indexQuery = graphql`
 IndexPage.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.shape({
-      frontmatter: PropTypes.object,
-    }),
-  }),
+      frontmatter: PropTypes.object
+    })
+  })
 }
 
 export default IndexPage
