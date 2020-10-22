@@ -1,10 +1,11 @@
 ---
 templateKey: blog-post
-title: 'The FootlooseBook: the book of the expats'
+title: "The FootlooseBook: the book of the expats"
+seotitle: "The FootlooseBook: the book of the expats"
 date: 2020-03-08T15:48:07.999Z
-description: >-
-  The FootlooseBook is the book you should read as an expat! Are you wondering
-  why? Rossella tells us how she felt while reading this book. What about you?
+description: The FootlooseBook is the book you should read as an expat! Are you
+  wondering why? Rossella tells us how she felt while reading this book. What
+  about you?
 featuredpost: false
 featuredimage: /img/img_3319.jpg
 imagealt: Image by Rossella
@@ -19,7 +20,7 @@ How interesting could be to read a book about someone else's experiences and fin
 
 ## This is the effect of the FootlooseBook to an expat.
 
-Let’s try to start from the beginning, what is this book about and who wrote it?! To explain it I will use the words of the author, [Marianna Kisvardai](https://www.amazon.co.uk/FootlooseBook-Marianna-Kisvardai/dp/1699244030): «I was moving between countries and continents and taking notes for over a decade. They served me as notes of learnings and conclusions and as a conversation with myself to dispense the thoughts that I couldn't share in that moment. Last year, I was sitting with my old journals and I was keen to start writing.\[…] I opened those old notes and travelled back in time to revive my memories. I am not a writer. But I wrote and wrote and all was pouring out of me. Some stories came with great details, some are small snippets as examples, but hand on heart, I wanted to mention everything with a hope that it might help others on the go.»
+Let’s try to start from the beginning, what is this book about and who wrote it?! To explain it I will use the words of the author, [Marianna Kisvardai](https://www.amazon.co.uk/gp/product/1699244030/ref=as_li_tl?ie=UTF8&tag=thexpatmaga06-21&camp=1634&creative=6738&linkCode=as2&creativeASIN=1699244030&linkId=6911ea7345e9c5bea9b9c00fd64621e8): «I was moving between countries and continents and taking notes for over a decade. They served me as notes of learnings and conclusions and as a conversation with myself to dispense the thoughts that I couldn't share in that moment. Last year, I was sitting with my old journals and I was keen to start writing.\[…] I opened those old notes and travelled back in time to revive my memories. I am not a writer. But I wrote and wrote and all was pouring out of me. Some stories came with great details, some are small snippets as examples, but hand on heart, I wanted to mention everything with a hope that it might help others on the go.»
 
 From the heart it comes and to the heart it arrives. Reading the pages of this long trip it is possible to feel Marianna’s emotion, for example the first time she left her home Country and started her adventure, you get the anxiety, the fear and, at the same time, the excitement to begin her first adventure in St.Thomas as an intern. Going to live so far from home, packing your own life in few suitcases, meeting people you have no idea who they are and need to trust them using a [language that most probably is not native](https://www.thexpatmagazine.com/blog/2019-06-20-to-learn-or-not-to-learn-the-local-language/) for none of you and try to figure out culture and mentality of your new City and new friends… this is what happens when you make such a brave decision.
 
