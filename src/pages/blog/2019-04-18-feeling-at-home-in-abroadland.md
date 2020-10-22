@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
 title: Feeling at home in Abroadland
+seotitle: Feeling at home in Abroadland
 date: 2019-04-18T20:41:07.000Z
-description: >-
-  How to find a home abroad? Not the physical property but quite the opposite,
-  what is left when specific walls are taken away, what is in the core of home?
-  And what things can add the feeling of home to you?
+description: How to find a home abroad? Not the physical property but quite the
+  opposite, what is left when specific walls are taken away, what is in the core
+  of home? And what things can add the feeling of home to you?
 featuredimage: /img/feeling-expat.jpg
 imagealt: feeling at home
 tags:
@@ -18,7 +18,6 @@ category:
   - expat tips
 author: Helena Jalanka
 ---
-
 **How to find a home abroad? Not the physical property but quite the opposite: what is left when specific walls are taken away, what is in the core of home? And what things can add the feeling of home to you?**
 
 We who live abroad have multiple definitions for home, and many of us are trying to figure out where we could be the happiest versions of ourselves. Some places you settle almost immediately, whereas in other places it may be a longer journey. When asked, “What is home to you?” expats often mention their loved ones and a place where they can be themselves. How could we keep and cultivate the feeling of home, no matter where we live, to carry it with us like snails carry their shells?
@@ -37,7 +36,9 @@ Not having too many items goes well with the life on the move but some objects c
 
 > “Fill your life with experiences, not things. Have stories to tell, not stuff to show.”
 
-    -unknown
+```
+-unknown
+```
 
 **Extend your home outside of the walls.**
 
@@ -55,12 +56,14 @@ Your family and friends, the people who you share your life with, are like ancho
 
 > “Every day is a journey, and the journey itself is home.”
 
-    Matsuo Bashō
+```
+Matsuo Bashō
+```
 
 All of the aspects above can support us with finding the suitable and unique dosage of cosiness. A home zone from which it’s easier to go and explore the world, to throw ourselves into all the adventures waiting for us out there.
 
-**_Are there some other things that make a home to you?_**
+***Are there some other things that make a home to you?***
 
 ##### About the author:
 
-Helena Jalanka,the author and illustrator of the book <a href="https://abroadland.com/"  target="_blank" rel="noopener noreferrer" rel="noopener"> Greetings from Abroadland – Experiences of Family Life Abroad </a>. Besides the home, the book’s topics are about moving, adapting, language, culture, environment, early education and visiting friends and family in the native country. The chapters are a mix of personal experiences and intercultural experts’ viewpoints. The compact and colourful guide book comes with 35 real-life cartoons and 75 ‘survive and thrive’ tips.
+Helena Jalanka,the author and illustrator of the book <a href="https://abroadland.com/"  target="_blank" rel="noopener noreferrer" rel="noopener"> Greetings from Abroadland – Experiences of Family Life Abroad </a>. Besides the home, [the book’s topics are about moving, adapting, language, culture, environment, early education and visiting friends and family in the native country.](https://amzn.to/3dMHTct) The chapters are a mix of personal experiences and intercultural experts’ viewpoints. The compact and colourful guide book comes with 35 real-life cartoons and 75 ‘survive and thrive’ tips.
