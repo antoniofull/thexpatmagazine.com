@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Just a diplomatic spouse
+seotitle: Just a diplomatic spouse
 date: 2020-05-07T13:34:13.194Z
 description: "Alexandra Paucescu shares her story of being a spouse of a
   diplomatic. Read more and discover her experience. "
@@ -32,4 +33,4 @@ We are trailing spouses, as we are often called. Many people see us just as hous
 
 Moving is never easy. I figured that it usually takes around six months to start feeling comfortable about your new life, your new home, in the new city of residence. It is always important to keep some old routines (or establish new ones), in order to feel emotionally more secure. 
 
-I wrote about these in my book, '[Just a Diplomatic Spouse'](https://www.amazon.de/Just-Diplomatic-Spouse-story-English-ebook/dp/B08661CS2B/ref=sr_1_1?__mk_de_DE=ÅMÅŽÕÑ&dchild=1&keywords=alexandra+paucescu&qid=1587834940&sr=8-1). I wrote about deep feelings and a roller-coaster of emotions, about my adventures as a trailing spouse, the life I had in Vienna and Berlin and also gave some tips, a plan to adapt to the diplomatic/ expat experience as smoothly as possible. I also read recently other priceless suggestions to ease your way into expat world here, in [The Expat Magazine](https://www.thexpatmagazine.com). The more people talk about it, the better. However, it is never easy for both diplomats and expats in general, it takes time and diligence, you will not be always understood by the people you left home, you will lose connections but also make new and dear friends and eventually will start to blend in with the locals and feel yourself again. But, in our world, most often when you get comfortable, it is time to move again...
+I wrote about these in my book, '[Just a Diplomatic Spouse](https://amzn.to/2HpqcDB)'. I wrote about deep feelings and a roller-coaster of emotions, about my adventures as a trailing spouse, the life I had in Vienna and Berlin and also gave some tips, a plan to adapt to the diplomatic/ expat experience as smoothly as possible. I also read recently other priceless suggestions to ease your way into expat world here, in [The Expat Magazine](https://www.thexpatmagazine.com). The more people talk about it, the better. However, it is never easy for both diplomats and expats in general, it takes time and diligence, you will not be always understood by the people you left home, you will lose connections but also make new and dear friends and eventually will start to blend in with the locals and feel yourself again. But, in our world, most often when you get comfortable, it is time to move again...
