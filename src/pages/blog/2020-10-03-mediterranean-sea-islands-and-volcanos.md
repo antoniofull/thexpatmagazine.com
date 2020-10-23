@@ -6,7 +6,7 @@ date: 2020-10-03T15:17:45.661Z
 description: "Do you want to know more about volcanos in the Mediterranean Sea?
   Two of them are still active! Find out all the top tips: how to get there and
   what to see. "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/img_3048_original.jpg
 imagealt: Photo by
   [@](https://unsplash.com/@grwood?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)[rory_in_trip](https://www.instagram.com/rory_in_trip/)
