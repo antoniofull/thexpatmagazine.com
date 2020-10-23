@@ -12,7 +12,8 @@ imagealt: Photos of @thelinguaphiliaproject
 tags:
   - Studying abroad
   - Living abroad
-country: []
+country:
+  - Lithuania
 category:
   - stories
 author: Emma Duncan
