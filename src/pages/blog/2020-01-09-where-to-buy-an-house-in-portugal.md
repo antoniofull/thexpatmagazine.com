@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
 title: Where to buy a house in Portugal?
+seotitle: Where to buy a house in Portugal?
 date: 2020-01-10T20:47:44.042Z
-description: >-
-  New research has ranked Portugal's municipalities on factors, such as rental
-  cost (per square meter), rental yield and average house value to reveal which
-  areas are perfect for potential investments.
+description: New research has ranked Portugal's municipalities on factors, such
+  as rental cost (per square meter), rental yield and average house value to
+  reveal which areas are perfect for potential investments.
 featuredimage: /img/e3e20116-169c-459e-9f06-2956c8b9c5c8.jpeg
-imagealt: 'https://i.pinimg.com/originals/4f/9b/e8/4f9be87c5c7396a7bf100ca8993d2598.jpg'
+imagealt: https://i.pinimg.com/originals/4f/9b/e8/4f9be87c5c7396a7bf100ca8993d2598.jpg
 tags:
   - buying a house
   - expat living
@@ -15,7 +15,6 @@ country:
   - Portugal
 category:
   - expat tips
-  - destinations
 author: Rossella Daví
 ---
 Portugal is a common expat destination in Europe, maybe the most common, thanks to the nice weather and also the convenient tax laws. The tax law is one of the reasons why the property market is continuosly growing since few years and prices remain affordable.
