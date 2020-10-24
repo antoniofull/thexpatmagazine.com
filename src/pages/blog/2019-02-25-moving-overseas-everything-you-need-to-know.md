@@ -1,20 +1,26 @@
 ---
 templateKey: blog-post
-title: 'Moving overseas: everything you need to know!'
-author: Rossella Daví
-type: post
+title: "Moving overseas: everything you need to know!"
+seotitle: "Moving overseas: everything you need to know!"
 date: 2019-02-25T17:09:49.000Z
-url: /2019/europe/moving-overseas-everything-you-need-to-know/
-featuredimage: /wp-content/uploads/2019/02/IMG_3634.jpg
-country:
-  - America
-  - Europe
+description: Since Alexandra has moved from America to Ireland she got a lot of
+  questions from people looking for advice.  She had spoken about it in her blog
+  and Instagram profile.
+featuredimage: /img/michal-balog-66nacdbrkcs-unsplash.jpg
+imagealt: Photo by [Michal Balog
+  ](https://unsplash.com/@mikbutcher?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
+  [Unsplash](https://unsplash.com/s/photos/moving?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 tags:
   - immigration visa
   - living abroad
+author: Rossella Daví
+url: /2019/europe/moving-overseas-everything-you-need-to-know/
+country:
+  - America
+  - Europe
+type: post
 category:
   - expat tips
-  - destinations
 ---
 
 Since Alexandra has moved from America to Ireland she got a lot of questions from people looking for advice.  She had spoken about it in her blog and Instagram profile.
