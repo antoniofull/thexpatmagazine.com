@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
 title: The reason why your plane might not be on time
+seotitle: The reason why your plane might not be on time
 date: 2019-10-28T08:01:25.186Z
-description: >-
-  The reason why your plan might not be on time? This infographic will explain
-  you why.
+description: The reason why your plan might not be on time? This infographic
+  will explain you why.
 featuredpost: false
 featuredimage: /img/plane-170272_1920.jpg
 imagealt: Infographic about travelling and flights
@@ -14,7 +14,7 @@ tags:
   - travel
   - plane
 category:
-  - destinations
+  - travel tips
 author: Editorial Team
 ---
 Air travel has not only opened new borders for our Generation, but it has also given us the freedom to explore the world as wanted. The process only requires a smartphone, internet and a credit card to start planning time abroad. Air travel has also become so common that we sometimes don’t realize the logistical masterpiece needed to make it work! We thought we could maybe stop for a second and consider the figures
