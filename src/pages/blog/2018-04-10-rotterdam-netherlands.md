@@ -16,9 +16,7 @@ country:
   - Europe
   - Netherlands
 category:
-  - destinations
   - stories
-  - expat tips
 author: Rossella Daví
 ---
 There are places that I have never thought of visiting, even less to be able to call it home; this is until I found my paradise, which is called **Rotterdam**.
