@@ -1,20 +1,26 @@
 ---
 templateKey: blog-post
 title: How to Negotiate a Salary Increase Step by Step Guide
-author: Editorial Team
-type: post
+seotitle: How to Negotiate a Salary Increase Step by Step Guide
 date: 2019-04-12T09:18:52.000Z
-url: /2019/expat-life/how-to-negotiate-a-salary-increase-step-by-step-guide/
-featuredimage: /wp-content/uploads/2019/04/chris-liverani-552022-unsplash.jpg
-country:
-  - Expat
+description: One of the most controversial topics to be writing on. One of the
+  biggest ‘worth of words’ is only known to a writer that expects nothing but a
+  “loyal increment” in return. Find out more!
+featuredimage: /img/cytonn-photography-n95vmlxqm2i-unsplash.jpg
+imagealt: Photo by [Cytonn Photography
+  ](https://unsplash.com/@cytonn_photography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
+  [Unsplash](https://unsplash.com/s/photos/deal?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 tags:
   - salary increase
   - top tips
   - working abroad
+author: Editorial Team
+url: /2019/expat-life/how-to-negotiate-a-salary-increase-step-by-step-guide/
+country:
+  - Expat
+type: post
 category:
   - expat tips
-  - destinations
 ---
 
 One of the most controversial topics to be writing on. One of the biggest ‘worth of words’ is only known to a writer that expects nothing but a “loyal increment” in return. Since I’m a writer and I know what credentials I hold when it comes to my job, but there comes to marketing gap where you’re intended not to follow you’re creative work but get reprimanded into rigid “marketing rules & regulations” out of the land of nowhere. When you consider of how to negotiate a salary increase, you’re throttled back into place due to your unworthy usage of words.
