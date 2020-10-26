@@ -15,22 +15,27 @@ import '../styles/typography.css'
 import '../styles/home-page.css'
 
 const IndexPage = ({ data }) => {
-  const [state, setState] = useState({})
-
+  const [state, setState] = useState({
+    stories: [],
+    destinations: [],
+    tips: [],
+    posts: data.posts.edges,
+    latestPosts: data.posts.edges.slice(0, 12),
+    categoriesPosts: data.featured.edges.slice(0, 12),
+    featured: data.featured.edges,
+    authors: data.authors.edges
+  })
+  const ids = new Set()
   useEffect(() => {
-    const authors = data.authors.edges
-
+    const destinations = []
+    const tips = []
+    const stories = []
     // remove duplicates
-    const allposts = data.posts.edges
-    const featured = data.featured.edges
-    const latestPosts = allposts.slice(0, 12)
-    const categoriesPosts = allposts.slice(12)
-    const ids = new Set()
-    let [stories, destinations, tips] = [[], [], []]
-    categoriesPosts.forEach((post, i) => {
+    state.posts.forEach((post, i) => {
       const cat = post.node.frontmatter.category
       const id = post.node.id
       if (cat.includes('destinations') && !ids.has(id) && i < 30) {
+        console.log(post)
         destinations.push(post)
         ids.add(id)
       }
@@ -50,13 +55,13 @@ const IndexPage = ({ data }) => {
     if (destinations.length > 0) {
       setState({
         ...state,
-        latestPosts,
         authors,
         featured,
         tips,
         destinations,
         stories
       })
+      console.log('state here', state)
     }
   }, [data])
 
@@ -65,8 +70,8 @@ const IndexPage = ({ data }) => {
     featured = [],
     stories = [],
     destinations = [],
-    tips = [],
-    latestPosts = []
+    tips,
+    latestPosts
   } = state
 
   const posts = []
