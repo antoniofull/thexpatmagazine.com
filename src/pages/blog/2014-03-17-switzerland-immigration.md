@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Switzerland approved the referendum against immigration
+seotitle: Switzerland approved the referendum against immigration
 date: 2014-03-17T17:33:55.000Z
 description: Switzerland approved a new referendum against the immigration
 featuredimage: /img/products-full-width.jpg
@@ -17,7 +18,7 @@ category:
   - destinations
 author: Editorial Team
 ---
-**Switzerland** approved with a referendum a new law to **limitate immigration in the country.** After a very uncertain exit poll the yes won for **50.3%**.
+[**Switzerland** approved with a referendum](https://amzn.to/3ovXp17) a new law to **limitate immigration in the country.** After a very uncertain exit poll the yes won for **50.3%**.
 
 The **European Union** did not like the move of **Switzerland**, which goes against the agreements taken previously with EU. The first result is that Swiss students will not be accepted anymore to Erasmus program.<!--more-->
 
