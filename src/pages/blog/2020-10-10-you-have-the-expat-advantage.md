@@ -6,7 +6,7 @@ date: 2020-10-10T10:14:09.048Z
 description: "That's right: you have the advantage of being an expat during this
   pandemic! Read this article to find out what Kirsten Pontius has to tell us
   about this topic. "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/simone-busatto-wzh1qzfb4kc-unsplash.jpg
 imagealt: Photo by [Simone Busatto
   ](https://unsplash.com/@simone_busatto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
