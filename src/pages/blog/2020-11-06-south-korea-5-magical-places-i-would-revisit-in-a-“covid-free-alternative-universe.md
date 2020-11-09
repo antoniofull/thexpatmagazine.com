@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: "South Korea: 5 magical places I would revisit in a “COVID-Free
-  Alternative Universe"
-seotitle: "South Korea: 5 magical places I would revisit in a “COVID-Free
-  Alternative Universe"
+title: 'South Korea: 5 magical places I would revisit in a “COVID-Free
+  Alternative Universe"'
+seotitle: 'South Korea: 5 magical places I would revisit in a “COVID-Free
+  Alternative Universe"'
 date: 2020-11-06T14:44:20.202Z
 description: "For 3 years, I got the opportunity to live and study in South
   Korea, a chapter of my life that I had to put on holddue to the COVID-19
@@ -15,7 +15,8 @@ tags:
   - South Korea Travelling
   - South Korea Expat
   - Living abroad
-country: []
+country:
+  - South Korea
 category:
   - stories
 author: Lisseth Aizpurua
