@@ -6,7 +6,7 @@ date: 2020-10-23T16:11:45.460Z
 description: "Do you also have loads of questions about what will happen after
   graduation? Read this article and find out Emma's experience after graduation.
   She lived in 5 countries in 5 years. "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/gutenbergmuseum.jpg
 imagealt: Photos of @thelinguaphiliaproject
 tags:
