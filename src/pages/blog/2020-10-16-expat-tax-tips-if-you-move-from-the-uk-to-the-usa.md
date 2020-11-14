@@ -5,7 +5,7 @@ seotitle: "Expat Tax Tips: If You Move from the UK to the USA"
 date: 2020-10-16T14:21:26.553Z
 description: "Do you want to move from the UK to the USA? Here you can find the
   top tips on what you need to know about taxes before going there. "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/scott-graham-oqmzwnd3thu-unsplash.jpg
 imagealt: Photo by [Scott Graham
   ](https://unsplash.com/@sctgrhm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
