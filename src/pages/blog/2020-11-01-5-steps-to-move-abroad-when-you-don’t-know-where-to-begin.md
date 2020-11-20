@@ -6,7 +6,7 @@ date: 2020-11-01T12:00:17.525Z
 description: "Moving abroad can feel daunting, overwhelming, and even something
   that you feel isn’t realistic. The expat mentor Kat Smith explains how to
   overcome this mental block. "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/dsc06670.jpg
 imagealt: "*Photos by Kat Smith*"
 category:
