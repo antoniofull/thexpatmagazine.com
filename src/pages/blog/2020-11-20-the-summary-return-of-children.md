@@ -4,8 +4,7 @@ title: The Summary Return of Children
 seotitle: The Summary Return of Children
 date: 2020-11-20T15:22:49.562Z
 description: Dubai - the struggle of single parents who want to leave with their
-  children and they are not allowed. Here Nicole Webb tells us more on this
-  topic.
+  children and they are not allowed.
 featuredpost: true
 featuredimage: /img/jeniffer-araujo-6cbkmxtymww-unsplash.jpg
 imagealt: Photo by [Jeniffer Araújo
@@ -17,11 +16,7 @@ category:
   - expat tips
 author: Editorial Team
 ---
-In the past weeks we had the pleasure to have Nicole Webb in one of our live chats on [Instagram](https://www.instagram.com/the_expatmagazine/), it was a very interesting one and we strongly suggest to take a moment and check it out in our IG account. Nicole is a journalist, writer and speaker who recently published the book China Blonde whichtalks about expat life, moving from Australia to Hong Kong and then China.
-
-#### You can find the e-book [China Blonde here on Amazon ](https://amzn.to/38XYU2N)and the paperback on [Nicole Webb's website](https://nicolewebbonline.com). 
-
-With this article Nicole shares another perspective of Dubai, which is strictly related to single parents who want to leave with their children and they are not allowed. Quite a struggle for many of them who feel trapped and with not many escapes.
+With this article we want to share another perspective of Dubai, which is strictly related to single parents who want to leave with their children and they are not allowed. Quite a struggle for many of them who feel trapped and with not many escapes.
 
 ## Getting out of Dubai is not always easy
 
@@ -66,3 +61,5 @@ My experience has been that very few children are returned to the UAE for the fo
 * Whilst it is possible for parents to make agreements capable of registration in the Personal Status Courts of the UAE as orders, there is limited experience of them being tested with extreme prejudice and even local experts give them at best a 70% guarantee.
 
 Inevitably, the dilemmas faced by parents in these situations are severe. Mediation before the event is clearly not an option as the father would be on notice and lawyers will never (I imagine) feel able to encourage the actual move without notice, leaving mothers very much on their own. However, there are a handful of lawyers in both jurisdictions with specialist experience who can advise on the consequences of such a move and particularly the appropriate tactical and practical approach.
+
+##### Source of information: Joslyn Hill Communications
