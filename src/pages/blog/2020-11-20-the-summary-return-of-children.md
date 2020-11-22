@@ -17,9 +17,9 @@ category:
   - expat tips
 author: Editorial Team
 ---
-In the past weeks we had the pleasure to have Nicole Webb in one of our live chats on [Instagram](https://www.instagram.com/the_expatmagazine/), it was a very interesting one and we strongly suggest to take a moment and check it out in our IG account. Nicole is a journalist, writer and speaker who recently published the bookChina Blonde whichtalks about expat life, moving from Australia to Hong Kong and then China.
+In the past weeks we had the pleasure to have Nicole Webb in one of our live chats on [Instagram](https://www.instagram.com/the_expatmagazine/), it was a very interesting one and we strongly suggest to take a moment and check it out in our IG account. Nicole is a journalist, writer and speaker who recently published the book China Blonde whichtalks about expat life, moving from Australia to Hong Kong and then China.
 
-#### You can find the book [China Blonde here on Amazon](https://amzn.to/38XYU2N).
+#### You can find the e-book [China Blonde here on Amazon ](https://amzn.to/38XYU2N)and the paperback on [Nicole Webb's website](https://nicolewebbonline.com). 
 
 With this article Nicole shares another perspective of Dubai, which is strictly related to single parents who want to leave with their children and they are not allowed. Quite a struggle for many of them who feel trapped and with not many escapes.
 
