@@ -8,7 +8,7 @@ date: 2020-11-06T14:44:20.202Z
 description: "For 3 years, I got the opportunity to live and study in South
   Korea, a chapter of my life that I had to put on holddue to the COVID-19
   pandemic. Found out about Lisseth Aizpurúa's story. "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/b8dcbb09-5be4-4b98-8c73-20782cd98ef4.jpeg
 imagealt: Photos by ©Lisseth Aizpurúa
 tags:
