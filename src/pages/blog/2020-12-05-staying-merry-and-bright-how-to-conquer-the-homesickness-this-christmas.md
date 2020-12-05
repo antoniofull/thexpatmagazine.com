@@ -10,6 +10,10 @@ featuredimage: /img/jeshoots-com-7voyz0-io0o-unsplash.jpg
 imagealt: Photo b y[JESHOOTS.COM
   ](https://unsplash.com/@jeshoots?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
   [Unsplash](https://unsplash.com/s/photos/christmas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+tags:
+  - Living abroad
+  - expat life
+  - Christmas
 category:
   - expat tips
 author: Asha Mentzer
