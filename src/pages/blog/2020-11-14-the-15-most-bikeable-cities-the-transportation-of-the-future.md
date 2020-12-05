@@ -5,7 +5,7 @@ seotitle: "The 15 Most Bikeable Cities: the transportation of the future"
 date: 2020-11-14T11:38:30.881Z
 description: "Technology continues to expand and sustainability is even more
   needed. Find out the 15 most bikeable cities and they are chosen. "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/clique-studios-qr-7vwzi6uk-unsplash.jpg
 imagealt: Photo by [Clique Studios
   ](https://unsplash.com/@cliquestudios?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
