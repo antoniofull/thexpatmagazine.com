@@ -51,7 +51,7 @@ Consider the decoration of your home an excuse to go out and explore your new ci
 
 ## 6. Nurture your traditions and culture
 
-Don’t forget where you come from, it’s part of you! When you pack before moving, don’t forget to bring with you a couple of things that brings you Joy, it can be anything … pictures of your family, your favorite book,… objects are not only decorative or functional, they have also a deep emotional meaning.
+Don’t forget where you come from, it’s part of you! When you pack before moving, don’t forget to bring with you a couple of things that brings you Joy, it can be anything … pictures of your family, your favorite book,… objects are not only decorative or functional, they have also a deep emotional meaning. It is important to [celabrate your culture throught home interior design](https://porch.com/advice/celebrate-culture-home-interior-design) too. 
 
 While embracing the new culture, you’ll appreciate even more small rituals of your own country, for many Food is on top of the list, immediately followed by Music!
 
