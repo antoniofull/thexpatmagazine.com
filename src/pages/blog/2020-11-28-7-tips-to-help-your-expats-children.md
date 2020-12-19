@@ -6,7 +6,7 @@ date: 2020-11-28T14:03:47.564Z
 description: Embracing the expat journey is for sure a brilliant experience for
   your children as well, and just life you they can also find some struggles
   with it. Here 7 tips to help them adjust.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/ben-wicks-idctsz-inhi-unsplash.jpg
 imagealt: Photo by [Ben Wicks
   ](https://unsplash.com/@profwicks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
