@@ -89,7 +89,7 @@ const IndexPage = ({ data }) => {
       url: featured[0].node.frontmatter.featuredimage.publicURL,
       width: 800,
       height: 600,
-      alt: featured[2].node.frontmatter.title
+      alt: featured[2] && featured[2].node.frontmatter.title
     })
   }
   if (
@@ -105,7 +105,7 @@ const IndexPage = ({ data }) => {
       url: featured[1].node.frontmatter.featuredimage.publicURL,
       width: 800,
       height: 600,
-      alt: featured[2].node.frontmatter.title
+      alt: featured[2] && featured[2].node.frontmatter.title
     })
   }
   if (
@@ -114,14 +114,14 @@ const IndexPage = ({ data }) => {
     featured[2].node.frontmatter.featuredimage
   ) {
     posts.push({
-      headline: featured[2].node.frontmatter.title,
+      headline: featured[2] && featured[2].node.frontmatter.title,
       image: featured[2].node.frontmatter.featuredimage.publicURL
     })
     images.push({
       url: featured[2].node.frontmatter.featuredimage.publicURL,
       width: 800,
       height: 600,
-      alt: featured[2].node.frontmatter.title
+      alt: featured[2] && featured[2].node.frontmatter.title
     })
   }
 
