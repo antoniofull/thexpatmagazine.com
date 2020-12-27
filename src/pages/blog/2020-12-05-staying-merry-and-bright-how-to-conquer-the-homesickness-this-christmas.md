@@ -5,7 +5,7 @@ seotitle: "Staying Merry and Bright: How to conquer the homesickness this Christ
 date: 2020-12-05T11:23:29.360Z
 description: "Like many expats, we’re fast-approaching a Christmas that will be
   spent away from loved ones. Read the 5 tips to cheer you up this Christmas. "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/jeshoots-com-7voyz0-io0o-unsplash.jpg
 imagealt: Photo b y[JESHOOTS.COM
   ](https://unsplash.com/@jeshoots?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
