@@ -6,7 +6,7 @@ date: 2020-12-11T17:26:10.805Z
 description: The Fiesta Murder is a book about an expat English detective
   learning to adjust to life on the Spanish island of Menorca. David, the
   author, tells us more about it.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/the-fiesta-murder.jpg
 imagealt: David E Burke
 tags:
