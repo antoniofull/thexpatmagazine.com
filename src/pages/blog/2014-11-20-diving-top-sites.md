@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: The Top 5 Most Amazing Scuba Diving Sites In The World
 seotitle: The Top 5 Most Amazing Scuba Diving Sites In The World
-date: 2021-01-03T20:42:29.000Z
+date: 2021-01-03T08:42:00.000Z
 description: Are you a diver or wannabe? Looking for the most beautiful sights
   to dive? No more searching, we found it! Here the top 5 places in the world
   where every diver should go at least once in it's life.
