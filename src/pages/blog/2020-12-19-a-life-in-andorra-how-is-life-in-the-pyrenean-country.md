@@ -5,7 +5,7 @@ seotitle: "A life in Andorra: how is life in the Pyrenean Country"
 date: 2020-12-19T12:39:17.485Z
 description: "Have you ever thought of living in Andorra? Live & Work in Andorra
   shares everything you need to know about this beautiful country. "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/10.png
 imagealt: Live & Work in Andorra
 tags:
