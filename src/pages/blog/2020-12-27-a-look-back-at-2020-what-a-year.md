@@ -5,7 +5,7 @@ seotitle: "A look back at 2020: what a year!"
 date: 2020-12-27T15:09:36.999Z
 description: The 2020 is the year everybody will remember forever and probably
   for a lot of reasons. Let's take a look back and see what happened.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/kelly-sikkema-1kfv102fccq-unsplash.jpg
 imagealt: Photo b y[Kelly Sikkema
   ](https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
