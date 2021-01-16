@@ -34,7 +34,7 @@ If you are an EU, EEA or Swiss citizen and currently living in the UK all your r
 
 2- **If you are a student** and you are supposed to move to the UK for a period longer than 6 months you must pay for [your VISA](https://study-uk.britishcouncil.org/moving-uk/eu-students), the cost should be £ 348 and the request and payment can be handled online or in person to the ambassy. The good news is that all students will receive a 25% discount on their [Immigration Health Surcharge](https://www.gov.uk/healthcare-immigration-application), to compensate a bit the cost of the VISA. If, after the University, you want to remain in the Country, from July 2021, it would be available the [Graduate Route](https://www.internationalstudents.cam.ac.uk/immigration/work-visas-after-study/graduate-immigration-route). Thanks to this document students can stay for other 2 years in the Country (3 if you have got a PhD) and have the time to find a job that allows them to get the Settled Status and the VISA (point 1).
 
-## **What if I am just a traveller:**
+## **What if you are just a traveller:**
 
 If you are an EU, EEA or Swiss citizen there are some changes but these are the same that we have when we travel to other Continents. The big difference is that in general everyone needs to show the passport and cannot travel anymore only with the ID. The process of Brexit is long and it will be ended only in 2025, that time we’ll probably have to apply for an ETA in order to enter the Country.
 
