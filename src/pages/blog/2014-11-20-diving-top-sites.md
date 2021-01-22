@@ -6,7 +6,7 @@ date: 2021-01-03T08:42:00.000Z
 description: Are you a diver or wannabe? Looking for the most beautiful sights
   to dive? No more searching, we found it! Here the top 5 places in the world
   where every diver should go at least once in it's life.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/david-henrichs-okbb9_v-k1i-unsplash.jpg
 imagealt: Photo by [david henrichs
   ](https://unsplash.com/@davidhenrichs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
