@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Helmet from 'react-helmet'
 import { CookieBanner } from '@palmabit/react-cookie-law'
-import AdSense from 'react-adsense'
+// import AdSense from 'react-adsense'
 import { GatsbySeo, BlogJsonLd } from 'gatsby-plugin-next-seo'
 
 import Layout from '../components/Layout'
@@ -177,7 +177,7 @@ const IndexPage = ({ data }) => {
         />
         <HomePostList title='latests' posts={latestPosts} />
         <HomePostList title='stories' posts={stories} />
-        <div className='ad--index'>
+        {/* <div className='ad--index'>
           <AdSense.Google
             client='ca-pub-5100800746597188'
             slot='9580336420'
@@ -185,7 +185,7 @@ const IndexPage = ({ data }) => {
             layout='in-article'
             format='fluid'
           />
-        </div>
+        </div> */}
         <HomePostList
           authors={authors}
           posts={destinations}

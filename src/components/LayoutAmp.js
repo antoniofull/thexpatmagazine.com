@@ -1,11 +1,11 @@
-import React from 'react';
-import Helmet from 'react-helmet';
+import React from 'react'
+import Helmet from 'react-helmet'
 
-import NavbarAmp from '../components/NavBarAmp';
-import useSiteMetadata from './SiteMetadata';
+import NavbarAmp from '../components/NavBarAmp'
+import useSiteMetadata from './SiteMetadata'
 
 const TemplateWrapper = ({ children }) => {
-  const site = useSiteMetadata();
+  const site = useSiteMetadata()
 
   return (
     <React.Fragment>
@@ -55,7 +55,7 @@ const TemplateWrapper = ({ children }) => {
           rel='preconnect'
           crossorigin
         ></link>
-        <link
+        {/* <link
           href='https://pagead2.googlesyndication.com'
           rel='preconnect'
           crossorigin
@@ -74,18 +74,18 @@ const TemplateWrapper = ({ children }) => {
           href='https://adservice.google.com'
           rel='preconnect'
           crossorigin
-        ></link>
+        ></link> */}
 
         <link
           href='https://www.google-analytics.com'
           rel='preconnect'
           crossorigin
         ></link>
-        <link
+        {/* <link
           href='https://stats.g.doubleclick.net'
           rel='preconnect'
           crossorigin
-        ></link>
+        ></link> */}
         <link href='https://www.google.com' rel='preconnect' crossorigin></link>
         <link
           href='https://apis.google.com'
@@ -96,7 +96,7 @@ const TemplateWrapper = ({ children }) => {
       <NavbarAmp />
       {children}
     </React.Fragment>
-  );
-};
+  )
+}
 
-export default TemplateWrapper;
+export default TemplateWrapper

@@ -5,7 +5,7 @@ import kebabCase from 'lodash/kebabCase'
 import { graphql, Link } from 'gatsby'
 import Img from 'gatsby-image'
 import ReactMarkdown from 'react-markdown'
-import AdSense from 'react-adsense'
+// import AdSense from 'react-adsense'
 import {
   FacebookShareButton,
   FacebookIcon,
@@ -117,7 +117,7 @@ export const BlogPostTemplate = ({
             <Figcaption figcaption={figcaption} />
           </React.Fragment>
         )}
-        <div className='post__ads'>
+        {/* <div className='post__ads'>
           <AdSense.Google
             client='ca-pub-5100800746597188'
             slot='9580336420'
@@ -125,7 +125,7 @@ export const BlogPostTemplate = ({
             layout='in-article'
             format='fluid'
           />
-        </div>
+        </div> */}
         <Separator />
         <div className='post__content'>
           <PostContent content={content} className='post__article' />

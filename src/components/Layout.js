@@ -1,17 +1,17 @@
-import React from 'react';
-import Helmet from 'react-helmet';
+import React from 'react'
+import Helmet from 'react-helmet'
 
-import Footer from '../components/Footer';
-import Navbar from '../components/Navbar';
-import useSiteMetadata from './SiteMetadata';
+import Footer from '../components/Footer'
+import Navbar from '../components/Navbar'
+import useSiteMetadata from './SiteMetadata'
 
 // Import css files
-import '../styles/reset.css';
-import '../styles/layout.css';
-import '../styles/buttons.css';
+import '../styles/reset.css'
+import '../styles/layout.css'
+import '../styles/buttons.css'
 
 const TemplateWrapper = ({ children }) => {
-  const site = useSiteMetadata();
+  const site = useSiteMetadata()
 
   return (
     <React.Fragment>
@@ -58,7 +58,7 @@ const TemplateWrapper = ({ children }) => {
           rel='preconnect'
           crossorigin
         ></link>
-        <link
+        {/* <link
           href='https://pagead2.googlesyndication.com'
           rel='preconnect'
           crossorigin
@@ -77,18 +77,18 @@ const TemplateWrapper = ({ children }) => {
           href='https://adservice.google.com'
           rel='preconnect'
           crossorigin
-        ></link>
+        ></link> */}
 
         <link
           href='https://www.google-analytics.com'
           rel='preconnect'
           crossorigin
         ></link>
-        <link
+        {/* <link
           href='https://stats.g.doubleclick.net'
           rel='preconnect'
           crossorigin
-        ></link>
+        ></link> */}
         <link href='https://www.google.com' rel='preconnect' crossorigin></link>
         <link
           href='https://apis.google.com'
@@ -100,7 +100,7 @@ const TemplateWrapper = ({ children }) => {
       {children}
       <Footer site={site} />
     </React.Fragment>
-  );
-};
+  )
+}
 
-export default TemplateWrapper;
+export default TemplateWrapper
