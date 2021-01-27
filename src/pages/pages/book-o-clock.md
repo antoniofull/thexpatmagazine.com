@@ -10,19 +10,19 @@ If you cannot follow the stories right away, don't worry! You can check this pag
 
 As always, we encourage you to share also your thoughts and, why not, also share the books that you read and found interesting. 
 
-**The Art of Thinking Clearly: Better Thinking, Better Decisions** - Rolf Dobelli
+## **The Art of Thinking Clearly: Better Thinking, Better Decisions** - Rolf Dobelli
 
 [You can buy it here](https://amzn.to/3r88V3B). 
 
 ![The Art of Thinking Clearly](/img/img_9990.jpg)
 
-**The Rosie Project** - Graeme Simsion
+## **The Rosie Project** - Graeme Simsion
 
 [You can buy it here](https://amzn.to/3sEPKQk). 
 
 ![The Rosie Project](/img/img_9987.jpg)
 
-**Emma** - Jane Austen
+## **Emma** - Jane Austen
 
 [You can buy it here](https://amzn.to/39n5Jec).
 
