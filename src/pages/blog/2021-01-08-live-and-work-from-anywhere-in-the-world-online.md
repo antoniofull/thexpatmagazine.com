@@ -6,7 +6,7 @@ date: 2021-01-08T14:04:02.392Z
 description: Online business was typically viewed as a risky career move, but
   now being self-employed and creating your own stability has never been more
   appealing to a broader audience. Find out how!
-featuredpost: true
+featuredpost: false
 featuredimage: /img/groningen_april-2019_panoramic-sunrise-from-apartment-roof_kayla-ihrig_writing-from-nowhere.jpg
 imagealt: Credits to @kayla_ih
 tags:
