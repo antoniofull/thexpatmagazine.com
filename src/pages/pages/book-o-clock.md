@@ -10,6 +10,12 @@ If you cannot follow the stories right away, don't worry! You can check this pag
 
 As always, we encourage you to share also your thoughts and, why not, also share the books that you read and found interesting. 
 
+## The How of Happiness: A New Approach to Getting the Life You Want - Sonja Lyubomirsky
+
+[You can buy it here](https://amzn.to/3axBmkq). 
+
+![The How of Happiness: A New Approach to Getting the Life You Want](/img/4b51c6aa-b3e7-411b-a7f8-000a595aac96.png)
+
 ## **The Art of Thinking Clearly: Better Thinking, Better Decisions** - Rolf Dobelli
 
 [You can buy it here](https://amzn.to/3r88V3B). 
