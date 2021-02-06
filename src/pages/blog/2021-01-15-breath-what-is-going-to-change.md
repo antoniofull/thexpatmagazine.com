@@ -6,7 +6,7 @@ date: 2021-01-15T15:58:58.320Z
 description: "Brexit is finally coming true! Are you wondering what's going to
   change from now on? Read this article and find out whatever you are an expat,
   student or traveler. "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/habib-ayoade-uwfoa8brybm-unsplash.jpg
 imagealt: Photo by [Habib Ayoade
   ](https://unsplash.com/@thedolapo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
