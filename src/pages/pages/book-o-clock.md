@@ -8,7 +8,13 @@ Every week we share a new book on our stories on Instagram. These are book that 
 
 If you cannot follow the stories right away, don't worry! You can check this page every week or check the Highlights section on our [Instagram Account](https://www.instagram.com/the_expatmagazine/). 
 
-As always, we encourage you to share also your thoughts and, why not, also share the books that you read and found interesting. 
+As always, we encourage you to share also your thoughts and, why not, also share the books that you read and found interesting.
+
+## The Art of Loving - Eruch Fromm
+
+[You can buy it here.](https://amzn.to/2Orr7qH) (The link brings you to an English version) 
+
+![The art of loving](/img/img_0528.jpg)
 
 ## The How of Happiness: A New Approach to Getting the Life You Want - Sonja Lyubomirsky
 
