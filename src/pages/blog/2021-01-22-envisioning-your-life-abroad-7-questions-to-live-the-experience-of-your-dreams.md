@@ -7,7 +7,7 @@ seotitle: "Envisioning Your Life Abroad: 7 Questions to Live the Experience of
 date: 2021-01-22T17:27:02.790Z
 description: "What are your answers? Give a try and discover the 7 questions
   that will give you a better vision of your expat life. "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/samuel-chenard-bdc8uzy9epw-unsplash.jpg
 imagealt: Photo by [Samuel Chenard
   ](https://unsplash.com/@samuelchenard?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
