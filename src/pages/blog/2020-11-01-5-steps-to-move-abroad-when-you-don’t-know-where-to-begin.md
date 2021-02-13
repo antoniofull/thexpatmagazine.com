@@ -39,7 +39,7 @@ Have some fun here and write down a few places that excite you. I’d put them i
 
 Now that you have 3 countries you’d like to live in, start researching jobs you can do in each place. This will be based on your past job experience and if you’re looking to change careers or not.
 
-Girls Gone Working is a great resource for finding out different job opportunities around the world or online. Some might be jobs you’re familiar with, like teaching English abroad, but others might be something you hadn’t thought about before, like being an overland tour guide. [Browse the website to get your ideas flowing.](http://www.girlsgoneworking.world/)
+A Way Abroad is a great resource for finding out different job opportunities around the world or online. Some might be jobs you’re familiar with, like teaching English abroad, but others might be something you hadn’t thought about before, like being an overland tour guide. [Browse the website to get your ideas flowing.](http://www.girlsgoneworking.world/)
 
 I’d suggest finding out what you can do for work in each of the countries you noted for plan A, plan B and plan C. It could all be the same job or it could be completely different.
 
