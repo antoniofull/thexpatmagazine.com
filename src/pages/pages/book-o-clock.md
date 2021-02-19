@@ -10,6 +10,12 @@ If you cannot follow the stories right away, don't worry! You can check this pag
 
 As always, we encourage you to share also your thoughts and, why not, also share the books that you read and found interesting.
 
+## Rebecca - Daphne Du Maurier
+
+[You can buy it here](https://amzn.to/3u9TGt4). 
+
+![## Rebecca - Daphne Du Maurier](/img/img_0027.jpg)
+
 ## The Art of Loving - Eruch Fromm
 
 [You can buy it here.](https://amzn.to/2Orr7qH) (The link brings you to an English version) 
