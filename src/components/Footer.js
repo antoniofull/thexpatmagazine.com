@@ -77,7 +77,7 @@ const Footer = ({ site }) => {
               <Link to={'/pages/collaborations/'}>Collaborations</Link>
             </li>
             <li>
-              <Link to={'/pages/book-o-clock/'}>Book Club</Link>
+              <Link to={'/pages/book-o-clock/'}>Book O' Clock</Link>
             </li>
             <li>
               <Link to={'/pages/advertising-on-the-expat-magazine/'}>
