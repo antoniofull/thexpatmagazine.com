@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
-title: "Brexit: what is going to change?"
-seotitle: "Breath: what is going to change?"
+title: 'Brexit: what is going to change?'
+seotitle: 'Breath: what is going to change?'
 date: 2021-01-15T15:58:58.320Z
 description: "Brexit is finally coming true! Are you wondering what's going to
   change from now on? Read this article and find out whatever you are an expat,
   student or traveler. "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/habib-ayoade-uwfoa8brybm-unsplash.jpg
 imagealt: Photo by [Habib Ayoade
   ](https://unsplash.com/@thedolapo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
@@ -20,13 +20,14 @@ category:
   - expat tips
 author: Rossella Daví
 ---
+
 As we all know, Brexit became a reality since we say goodbye to 2020 and started the new year.
 
 We have tried to collect some info that explain a bit what is going to change for travellers, students, expats (already in the Country) and expats-wanna-be.
 
 ## **What if you are already in the Country**
 
-If you are an EU, EEA or Swiss citizen and currently living in the UK all your rights remain the same until 30/06/2021. After this date, you must have a new document to stay. You should then request the *[Settlement Scheme ](https://www.gov.uk/settled-status-eu-citizens-families)*to receive the *settled* or *pre-settled status* that is nothing more than a document confirming you have the permanent or temporal status to remain in the UK. The [submission of the settlement scheme](https://www.gov.uk/settled-status-eu-citizens-families/what-youll-need-to-apply) is free of charge and can be sent till 30/06/2021. Basically you only need your document to apply for this status.
+If you are an EU, EEA or Swiss citizen and currently living in the UK all your rights remain the same until 30/06/2021. After this date, you must have a new document to stay. You should then request the *[Settlement Scheme ](https://www.gov.uk/settled-status-eu-citizens-families)*to receive the _settled_ or _pre-settled status_ that is nothing more than a document confirming you have the permanent or temporal status to remain in the UK. The [submission of the settlement scheme](https://www.gov.uk/settled-status-eu-citizens-families/what-youll-need-to-apply) is free of charge and can be sent till 30/06/2021. Basically you only need your document to apply for this status.
 
 ## **What if you want to move to UK after Brexit:**
 
