@@ -6,7 +6,7 @@ date: 2021-01-30T14:23:10.464Z
 description: "Are you in an intercultural marriage or is someone close to you?
   In this article Elena, cross-cultural psychologist, gives more insights on
   this topic. "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/freestocks-7_sgiqa688q-unsplash.jpg
 imagealt: Photo by [freestocks
   ](https://unsplash.com/@freestocks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
