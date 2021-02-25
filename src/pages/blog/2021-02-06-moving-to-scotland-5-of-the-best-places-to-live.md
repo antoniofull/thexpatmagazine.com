@@ -6,7 +6,7 @@ date: 2021-02-06T15:31:46.082Z
 description: Planning to move to Scotland? Even though the country’s average
   rainfall might intimidate at first, there are plenty of reasons to move to
   here. A rich culture, wild nature, and friendly people make Scotland perfect.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/dsc_0027.jpg
 imagealt: SavannahSchrödinger
 tags:
