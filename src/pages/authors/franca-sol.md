@@ -7,4 +7,5 @@ bio: Franca Sol is a Middle East based writer and humanitarian worker. She has
   based. Her background is in Intercultural Affairs, specialized in the Middle
   East.Little Adventures in Yemen is her debut novel.
 photo: /img/franca.jpg
+instagram: https://instagram.com/littleyemen?igshid=dv6d6rh64oih
 ---
