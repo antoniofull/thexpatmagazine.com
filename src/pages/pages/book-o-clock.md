@@ -10,6 +10,12 @@ If you cannot follow the stories right away, don't worry! You can check this pag
 
 As always, we encourage you to share also your thoughts and, why not, also share the books that you read and found interesting.
 
+Becoming - Michelle Obama
+
+[You can buy it here. ](https://amzn.to/38gKcmn)
+
+![Becoming - Michelle Obama](/img/img_0596.jpg)
+
 ## Rebecca - Daphne Du Maurier
 
 [You can buy it here](https://amzn.to/3u9TGt4). 
