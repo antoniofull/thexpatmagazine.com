@@ -10,7 +10,13 @@ If you cannot follow the stories right away, don't worry! You can check this pag
 
 As always, we encourage you to share also your thoughts and, why not, also share the books that you read and found interesting.
 
-Becoming - Michelle Obama
+## Parable of Shower - Octavia E. Butler
+
+[You can buy it here.](https://amzn.to/3rzeHMd) 
+
+![Parable of Shower](/img/img_0840.jpg)
+
+## Becoming - Michelle Obama
 
 [You can buy it here. ](https://amzn.to/38gKcmn)
 
