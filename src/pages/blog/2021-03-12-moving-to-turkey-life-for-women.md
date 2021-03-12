@@ -14,6 +14,8 @@ imagealt: Photo by [Anna
 tags:
   - moving to Turkey
   - women in Turkey
+country:
+  - Turkey
 category:
   - expat tips
 author: Rossella Daví
