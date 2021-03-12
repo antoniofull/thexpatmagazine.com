@@ -6,7 +6,7 @@ date: 2021-02-21T15:08:01.790Z
 description: "Whatever you are moving abroad alone, with your partner or someone
   else, there is always a moment when you feel the need to meet new people. We
   share 5 tips from our personal experiences. "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/duy-pham-cecb0_8hx-o-unsplash.jpg
 imagealt: Photo by [Duy Pham
   ](https://unsplash.com/@miinyuii?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
