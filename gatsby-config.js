@@ -5,8 +5,8 @@ require('dotenv').config()
 
 module.exports = {
   siteMetadata: {
-    title: 'Thexpatmagazine.com - A Magazine for Expats',
-    description: `The Expat Magazine is an online community made of expats and travellers who write and share tips, news and experiences to help you travel and live abroad.`,
+    title: 'The Expat Magazine: The Worldwide Expat Community ',
+    description: `Thexpatmagazine is an online community made of expats and travellers who share tips, experiences and news to help you live and travel abroad.`,
     siteURL: 'https://www.thexpatmagazine.com',
     siteUrl: 'https://www.thexpatmagazine.com',
     lang: 'en',
@@ -23,102 +23,6 @@ module.exports = {
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
     'gatsby-plugin-sitemap',
-    // {
-    //   resolve: `gatsby-plugin-advanced-sitemap`,
-    //   options: {
-    //     // 1 query for each data type
-    //     query: `
-    //       {
-    //         allPosts: allMarkdownRemark(filter: {frontmatter: {templateKey: {eq: "blog-post"}}}, sort: {fields: frontmatter___date}) {
-    //         edges {
-    //           node {
-    //             id
-    //             fields {
-    //               slug
-    //             }
-    //             frontmatter {
-    //               templateKey
-    //               author
-    //               title
-    //               seotitle
-    //               category
-    //               description
-    //               featuredimage {
-    //                 publicURL
-    //               }
-    //             }
-    //           }
-    //         }
-    //       }
-    //       allPages: allMarkdownRemark(filter: {frontmatter: {templateKey: {eq: "page"}}}, sort: {fields: frontmatter___date}) {
-    //         edges {
-    //           node {
-    //             id
-    //             fields {
-    //               slug
-    //             }
-    //             frontmatter {
-    //               templateKey
-    //               author
-    //               title
-    //               seotitle
-    //               category
-    //               description
-    //               featuredimage {
-    //                 publicURL
-    //               }
-    //             }
-    //           }
-    //         }
-    //       }
-    //       allCategories: allMarkdownRemark(filter: {frontmatter: {templateKey: {eq: "categories"}}}, sort: {fields: frontmatter___date}) {
-    //         edges {
-    //           node {
-    //             id
-    //             fields {
-    //               slug
-    //             }
-    //             frontmatter {
-    //               templateKey
-    //               author
-    //               title
-    //               seotitle
-    //               category
-    //               description
-    //               featuredimage {
-    //                 publicURL
-    //               }
-    //             }
-    //           }
-    //         }
-    //       }
-    //     }
-    //     `,
-    //     mapping: {
-    //       // Each data type can be mapped to a predefined sitemap
-    //       // Routes can be grouped in one of: posts, tags, authors, pages, or a custom name
-    //       // The default sitemap - if none is passed - will be pages
-    //       allPosts: {
-    //         sitemap: `posts`
-    //       },
-    //       allPages: {
-    //         sitemap: `pages`
-    //       },
-    //       allCategories: {
-    //         sitemap: `categories`
-    //       }
-    //     },
-    //     exclude: [
-    //       `/404`,
-    //       `/404.html`,
-    //       `/offline-plugin-app-shell-fallback`,
-    //       /(\/)?hash-\S*/ // you can also pass valid RegExp to exclude internal tags for example
-    //     ],
-    //     createLinkInHead: true, // optional: create a link in the `<head>` of your site
-    //     addUncaughtPages: true, // optional: will fill up pages that are not caught by queries and mapping and list them under `sitemap-pages.xml`
-    //     additionalSitemaps: []
-    //   }
-    // },
     {
       resolve: 'gatsby-plugin-next-seo',
       options: {
