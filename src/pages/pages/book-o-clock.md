@@ -28,9 +28,9 @@ As always, we encourage you to share also your thoughts and, why not, also share
 
 ![## Rebecca - Daphne Du Maurier](/img/img_0027.jpg)
 
-## The Art of Loving - Eruch Fromm
+## The Art of Loving - Erich Fromm
 
-[You can buy it here.](https://amzn.to/2Orr7qH) (The link brings you to an English version) 
+[You can buy it here](https://amzn.to/38DuMsw). (The link brings you to an English version) 
 
 ![The art of loving](/img/img_0528.jpg)
 
