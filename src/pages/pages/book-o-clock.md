@@ -10,6 +10,14 @@ If you cannot follow the stories right away, don't worry! You can check this pag
 
 As always, we encourage you to share also your thoughts and, why not, also share the books that you read and found interesting.
 
+## The FootlooseBook - Marianna Kisvardai
+
+This book is a guide to turn emotional, mental and spiritual hurdles of travelling and relocation into your happiest opportunities. Explore, observe, sense and learn by sharing.
+
+[Click here to buy it](https://amzn.to/3vt7649).
+
+![The FootlooseBook](/img/img_1095.jpg)
+
 ## Parable of Shower - Octavia E. Butler
 
 It is a science fiction novel written in 1993, but the novel takes place in 2025. While breaks into enclaves and everybody fights for survival, Lauren begins a faithfull journey towards a better future. 
