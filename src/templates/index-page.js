@@ -134,7 +134,7 @@ const IndexPage = ({ data }) => {
       />
       <BlogJsonLd
         url='https://www.thexpatmagazine.com/'
-        headline='The Expat Magazine is an online community made of expats and travellers who write and share tips, news and experiences to help you travel and live abroad.'
+        headline='Thexpatmagazine is an online community made of expats and travellers who share tips, experiences and news to help you live and travel abroad.'
         images={
           (featured[0] &&
             featured[0].node.frontmatter &&
@@ -150,17 +150,17 @@ const IndexPage = ({ data }) => {
           (featured[0] && featured[0].node.frontmatter.date) || new Date()
         }
         authorName='The Expat Magazine Editorial Team'
-        description='The Expat Magazine is an online community made of expats and travellers who write and share tips, news and experiences to help you travel and live abroad.'
+        description='Thexpatmagazine is an online community made of expats and travellers who share tips, experiences and news to help you live and travel abroad.'
       />
       <GatsbySeo
         language='en'
-        title='The Expat Magazine Home Page'
-        description='The Expat Magazine is an online community made of expats and travellers who write and share tips, news and experiences to help you travel and live abroad.'
+        title='The Expat Magazine: The Worldwide Expat Community'
+        description='Thexpatmagazine is an online community made of expats and travellers who share tips, experiences and news to help you live and travel abroad.'
         openGraph={{
           url: 'https://www.thexpatmagazine.com',
           title: 'Open Graph Title',
           description:
-            'The Expat Magazine is an online community made of expats and travellers who write and share tips, news and experiences to help you travel and live abroad.',
+            'Thexpatmagazine is an online community made of expats and travellers who share tips, experiences and news to help you live and travel abroad.',
           images
         }}
         twitter={{
