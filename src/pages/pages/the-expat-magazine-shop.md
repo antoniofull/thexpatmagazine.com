@@ -15,6 +15,6 @@ You can **buy them on this page** and, even better, you can personalise them! Th
 3. *Choose your message*
 4. *Sit down and relax. We'll send it over as soon as possible*
 
-
+### **BUY NOW**
 
 ![Handmade Card](/img/handmade-cards.001.jpeg)
