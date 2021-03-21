@@ -6,7 +6,7 @@ date: 2021-02-25T19:41:30.492Z
 description: Little Adventures in Yemen tells stories of a woman living through
   the adventures and misadventures of expat life, and the resilience of a
   country
-featuredpost: true
+featuredpost: false
 featuredimage: /img/almwald-alezzey-yy9_yybd-uu-unsplash.jpg
 imagealt: Photo by [ALMWALD ALEZZEY
   ](https://unsplash.com/@yamany88?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
