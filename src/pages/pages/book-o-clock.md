@@ -78,7 +78,7 @@ This novel focuses on Don Tillman, a genetics professor who struggles to have a 
 
 A novel about youthful hubrids and romantic misunderstandings. It involves relationships among people of a small number of families. Austen explores the concerns and difficulties of genteel women living in Georgian-Regency England. 
 
-[Click here to buy it](https://amzn.to/39n5Jec).
+[Click here to buy it.](https://amzn.to/3f81Qx1)
 
 ![Emma](/img/img_9989.jpg)
 
