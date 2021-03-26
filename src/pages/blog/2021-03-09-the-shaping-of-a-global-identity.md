@@ -5,7 +5,7 @@ seotitle: The Shaping of a Global Identi
 date: 2021-03-09T17:45:30.872Z
 description: "Sam's story: a global nomad, A 4th generation global nomad to be
   precise. Who lived in 14 countries and 18 cities so far. Discover more!"
-featuredpost: true
+featuredpost: false
 featuredimage: /img/fernando-cferdo-tndyn8jwyfm-unsplash.jpg
 imagealt: Photo of [Fernando @cferdo](https://unsplash.com/@cferdo) on Unsplash
 tags:
