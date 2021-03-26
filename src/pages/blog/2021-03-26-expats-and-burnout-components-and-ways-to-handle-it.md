@@ -73,8 +73,7 @@ In other words, we are neurologically designed to produce an emotional response 
 
 An incomplete stress cycle leads to burnout. This is because exhaustion happens when we get stuck in an emotion. And, here’s the catch: Even if we fix the problem and take away the external stressor that is causing the stress, it still doesn’t address the emotion. This is because dealing with the feeling is different than dealing with the action: Just because we remove the stressor doesn’t mean that we’ve completed the stress cycle, so when we don’t complete the emotional stress cycle, that’s when we face burnout.
 
-## \
-Ways to Break the Stress Cycle
+## Ways to Break the Stress Cycle
 
 As suggested by Emily and Amelia Nagoski in their podcast episode with Brene Brown, here are 7 ways for us to address and break the stress cycle, wherever in the world we are:
 
