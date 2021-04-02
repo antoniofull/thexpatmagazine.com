@@ -6,7 +6,7 @@ date: 2021-03-12T15:11:23.624Z
 description: "How to move to Turkey: a video with practical tips by from Elena –
   former expat in Turkey. As well as sharing the expat experience as a woman in
   this country. "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/anna-0n0ahb1fgtq-unsplash.jpg
 imagealt: Photo by [Anna
   ](https://unsplash.com/@ashta?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
