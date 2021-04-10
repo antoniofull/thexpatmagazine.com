@@ -12,6 +12,8 @@ tags:
   - Discover Slovenia
   - Travelling to Slovenia
   - Discover Europe
+country:
+  - Slovenia
 category:
   - travel tips
 author: Julia Martinet
