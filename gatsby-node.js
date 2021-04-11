@@ -1,9 +1,9 @@
-const intersectionBy = require('lodash/intersectionBy');
-const kebabCase = require('lodash/kebabCase');
-const path = require('path');
-const { createFilePath } = require('gatsby-source-filesystem');
-const { fmImagesToRelative } = require('gatsby-remark-relative-images');
-const createPaginatedPages = require('gatsby-paginate');
+const intersectionBy = require('lodash/intersectionBy')
+const kebabCase = require('lodash/kebabCase')
+const path = require('path')
+const { createFilePath } = require('gatsby-source-filesystem')
+const { fmImagesToRelative } = require('gatsby-remark-relative-images')
+const createPaginatedPages = require('gatsby-paginate')
 /**
  *
  * @param {Object} currentArticle
@@ -12,36 +12,36 @@ const createPaginatedPages = require('gatsby-paginate');
  */
 
 const getRelatedArticles = (currentArticle, articles) => {
-  const CATEGORIES_IN_COMMON = 1;
+  const CATEGORIES_IN_COMMON = 1
   const verifyCategories = ({ node }) => {
     if (currentArticle.node.id === node.id) {
-      return false;
+      return false
     }
     const categoriesInCommon = intersectionBy(
       currentArticle.node.frontmatter.category,
       node.frontmatter.category,
       category => category
-    );
-    return categoriesInCommon.length >= CATEGORIES_IN_COMMON;
-  };
-  const related = articles.filter(verifyCategories);
-  if (related.length > 3) {
-    return related.slice(0, 4);
+    )
+    return categoriesInCommon.length >= CATEGORIES_IN_COMMON
   }
-  return null;
-};
+  const related = articles.filter(verifyCategories)
+  if (related.length > 3) {
+    return related.slice(0, 4)
+  }
+  return null
+}
 
 const wrapper = promise =>
   promise.then(result => {
     if (result.errors) {
-      result.errors.forEach(e => console.error(e.toString()));
-      throw result.errors;
+      result.errors.forEach(e => console.error(e.toString()))
+      throw result.errors
     }
-    return result;
-  });
+    return result
+  })
 
 exports.createPages = async ({ actions, graphql }) => {
-  const { createPage } = actions;
+  const { createPage } = actions
 
   const categoriesPosts = await wrapper(
     graphql(`
@@ -88,12 +88,12 @@ exports.createPages = async ({ actions, graphql }) => {
         }
       }
     `)
-  );
+  )
 
-  const categories = categoriesPosts.data.allMarkdownRemark.group;
+  const categories = categoriesPosts.data.allMarkdownRemark.group
 
   categories.forEach(g => {
-    const catPath = kebabCase(g.fieldValue);
+    const catPath = kebabCase(g.fieldValue)
     createPaginatedPages({
       edges: g.edges,
       createPage: createPage,
@@ -105,8 +105,8 @@ exports.createPages = async ({ actions, graphql }) => {
       },
       buildPath: (index, pathPrefix) =>
         index > 1 ? `${pathPrefix}/${index}` : `/${pathPrefix}` // This is optional and this is the default
-    });
-  });
+    })
+  })
 
   // All countries posts
 
@@ -154,12 +154,12 @@ exports.createPages = async ({ actions, graphql }) => {
         }
       }
     `)
-  );
+  )
 
-  const countries = countriesPosts.data.allMarkdownRemark.group;
+  const countries = countriesPosts.data.allMarkdownRemark.group
 
   countries.forEach(g => {
-    const countryPath = `${kebabCase(g.fieldValue)}`;
+    const countryPath = `${kebabCase(g.fieldValue)}`
     createPaginatedPages({
       edges: g.edges,
       createPage: createPage,
@@ -171,8 +171,8 @@ exports.createPages = async ({ actions, graphql }) => {
       },
       buildPath: (index, pathPrefix) =>
         index > 1 ? `${pathPrefix}/${index}` : `/${pathPrefix}` // This is optional and this is the default
-    });
-  });
+    })
+  })
 
   const authorsList = await wrapper(
     graphql(`
@@ -218,12 +218,12 @@ exports.createPages = async ({ actions, graphql }) => {
         }
       }
     `)
-  );
+  )
 
-  const authors = authorsList.data.allMarkdownRemark.group;
+  const authors = authorsList.data.allMarkdownRemark.group
 
   authors.forEach(g => {
-    const authorPath = `authors/${kebabCase(g.fieldValue)}`;
+    const authorPath = `authors/${kebabCase(g.fieldValue)}`
 
     createPaginatedPages({
       edges: g.edges,
@@ -236,8 +236,8 @@ exports.createPages = async ({ actions, graphql }) => {
       },
       buildPath: (index, pathPrefix) =>
         index > 1 ? `${pathPrefix}/${index}` : `/${pathPrefix}` // This is optional and this is the default
-    });
-  });
+    })
+  })
 
   // All Blog Posts
   const allposts = await wrapper(
@@ -275,13 +275,13 @@ exports.createPages = async ({ actions, graphql }) => {
         }
       }
     `)
-  );
+  )
   // Create Posts
-  const posts = allposts.data.allMarkdownRemark.edges;
+  const posts = allposts.data.allMarkdownRemark.edges
 
   posts.forEach(edge => {
-    const id = edge.node.id;
-    const { author, title } = edge.node.frontmatter;
+    const id = edge.node.id
+    const { author, title } = edge.node.frontmatter
     if (
       edge.node.frontmatter.templateKey !== 'categories' &&
       edge.node.frontmatter.templateKey !== 'blog-country' &&
@@ -300,28 +300,28 @@ exports.createPages = async ({ actions, graphql }) => {
           title,
           relatedArticles: getRelatedArticles(edge, posts)
         }
-      });
+      })
 
-      if (edge.node.frontmatter.templateKey === 'blog-post') {
-        createPage({
-          path: `amp${edge.node.fields.slug}`,
-          component: path.resolve('src/templates/blog-post.amp.js'),
-          context: {
-            id,
-            author,
-            title,
-            slug: edge.node.fields.slug,
-            relatedArticles: getRelatedArticles(edge, posts)
-          }
-        });
-      }
+      // if (edge.node.frontmatter.templateKey === 'blog-post') {
+      //   createPage({
+      //     path: `amp${edge.node.fields.slug}`,
+      //     component: path.resolve('src/templates/blog-post.amp.js'),
+      //     context: {
+      //       id,
+      //       author,
+      //       title,
+      //       slug: edge.node.fields.slug,
+      //       relatedArticles: getRelatedArticles(edge, posts)
+      //     }
+      //   });
+      // }
     }
-  });
+  })
   // Index Page
   createPage({
     path: '/',
     component: path.resolve(`src/templates/index-page.js`)
-  });
+  })
 
   // Tags
   const tagsList = await wrapper(
@@ -368,12 +368,12 @@ exports.createPages = async ({ actions, graphql }) => {
         }
       }
     `)
-  );
+  )
 
-  const tags = tagsList.data.allMarkdownRemark.group;
+  const tags = tagsList.data.allMarkdownRemark.group
 
   tags.forEach(g => {
-    const tagPath = `tags/${kebabCase(g.fieldValue)}`;
+    const tagPath = `tags/${kebabCase(g.fieldValue)}`
 
     createPaginatedPages({
       edges: g.edges,
@@ -386,23 +386,24 @@ exports.createPages = async ({ actions, graphql }) => {
       },
       buildPath: (index, pathPrefix) =>
         index > 1 ? `${pathPrefix}/${index}` : `/${pathPrefix}` // This is optional and this is the default
-    });
-  });
-};
+    })
+  })
+}
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
-  const { createNodeField } = actions;
-  fmImagesToRelative(node); // convert image paths for gatsby images
+  const { createNodeField } = actions
+  fmImagesToRelative(node) // convert image paths for gatsby images
 
   if (node.internal.type === `MarkdownRemark`) {
     const value = createFilePath({
       node,
-      getNode
-    });
+      getNode,
+      trailingSlash: false
+    })
     createNodeField({
       name: `slug`,
       node,
       value
-    });
+    })
   }
-};
+}

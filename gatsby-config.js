@@ -23,6 +23,7 @@ module.exports = {
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
     'gatsby-plugin-sitemap',
+    `gatsby-plugin-remove-trailing-slashes`,
     {
       resolve: 'gatsby-plugin-next-seo',
       options: {

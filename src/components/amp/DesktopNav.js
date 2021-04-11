@@ -1,6 +1,6 @@
-import React from 'react';
-import { Link } from 'gatsby';
-import kebabCase from 'lodash/kebabCase';
+import React from 'react'
+import { Link } from 'gatsby'
+import kebabCase from 'lodash/kebabCase'
 
 const DesktopNav = ({ items }) => {
   return (
@@ -14,16 +14,16 @@ const DesktopNav = ({ items }) => {
           {items.map(item => (
             <li className='main-nav__item' key={item}>
               {item === 'guests' ? (
-                <Link to={`/pages/write-for-us/`}>Guest Posts</Link>
+                <Link to={`/pages/write-for-us`}>Guest Posts</Link>
               ) : (
-                <Link to={`/${kebabCase(item)}/`}>{item}</Link>
+                <Link to={`/${kebabCase(item)}`}>{item}</Link>
               )}
             </li>
           ))}
         </ul>
       </nav>
     </React.Fragment>
-  );
-};
+  )
+}
 
-export default DesktopNav;
+export default DesktopNav

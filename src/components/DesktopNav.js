@@ -11,12 +11,12 @@ const DesktopNav = ({ items }) => {
         aria-label='main-navigation'
       >
         <ul className='main-nav__list'>
-          {items.map((item) => (
+          {items.map(item => (
             <li className='main-nav__item' key={item}>
               {item === 'guests' ? (
-                <Link to={`/pages/write-for-us/`}>Guest Posts</Link>
+                <Link to={`/pages/write-for-us`}>Guest Posts</Link>
               ) : (
-                <Link to={`/${kebabCase(item)}/`}>{item}</Link>
+                <Link to={`/${kebabCase(item)}`}>{item}</Link>
               )}
             </li>
           ))}

@@ -1,20 +1,20 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import kebabCase from 'lodash/kebabCase';
-import { Link } from 'gatsby';
+import React from 'react'
+import PropTypes from 'prop-types'
+import kebabCase from 'lodash/kebabCase'
+import { Link } from 'gatsby'
 
 const Pagination = ({ count, title, base }) => {
-  const pages = [];
+  const pages = []
 
   for (let i = 1; i <= count; i++) {
-    pages.push(i);
+    pages.push(i)
   }
-  let baseUrl = '';
+  let baseUrl = ''
   if (title) {
-    baseUrl = kebabCase(title);
+    baseUrl = kebabCase(title)
   }
   if (base) {
-    baseUrl = base;
+    baseUrl = base
   }
   return (
     <div className='pagination'>
@@ -22,25 +22,25 @@ const Pagination = ({ count, title, base }) => {
         {pages.map(page => (
           <Link
             key={page}
-            to={`${page === 1 ? `/${baseUrl}/` : `/${baseUrl}/${page}`}`}
+            to={`${page === 1 ? `/${baseUrl}` : `/${baseUrl}/${page}`}`}
           >
             {page}
           </Link>
         ))}
       </div>
     </div>
-  );
-};
+  )
+}
 
 Pagination.defaultProps = {
   title: '',
   base: ''
-};
+}
 
 Pagination.propTypes = {
   count: PropTypes.number.isRequired,
   title: PropTypes.string,
   base: PropTypes.string
-};
+}
 
-export default Pagination;
+export default Pagination

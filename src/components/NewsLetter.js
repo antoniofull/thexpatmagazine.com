@@ -1,24 +1,24 @@
-import React from 'react';
-import MailchimpSubscribe from 'react-mailchimp-subscribe';
-import { Link } from 'gatsby';
+import React from 'react'
+import MailchimpSubscribe from 'react-mailchimp-subscribe'
+import { Link } from 'gatsby'
 
-import '../styles/newsletter.css';
+import '../styles/newsletter.css'
 
 const url =
-  'https://expatmagazine.us14.list-manage.com/subscribe/post?u=c34682e786a3e125e739029e5&amp;id=ce9bebc2af';
+  'https://expatmagazine.us14.list-manage.com/subscribe/post?u=c34682e786a3e125e739029e5&amp;id=ce9bebc2af'
 
 const CustomForm = ({ status, message, onValidated }) => {
-  let email, name;
+  let email, name
   const submit = e => {
-    e.preventDefault();
+    e.preventDefault()
     email &&
       name &&
       email.value.indexOf('@') > -1 &&
       onValidated({
         EMAIL: email.value,
         NAME: name.value
-      });
-  };
+      })
+  }
   return (
     <>
       <div className='form-newsletter__msg'>
@@ -62,9 +62,7 @@ const CustomForm = ({ status, message, onValidated }) => {
         <div className='form-newsletter__container'>
           <span className='form-newsletter__privacy wf-os'>
             Only one email per month. No spam. Read our{' '}
-            <Link to={`/pages/privacy-and-cookies-policy/`}>
-              privacy policy
-            </Link>
+            <Link to={`/pages/privacy-and-cookies-policy`}>privacy policy</Link>
           </span>
           <button className='btn btn--primary btn--rounded' onClick={submit}>
             Get Free Travel Tips
@@ -72,8 +70,8 @@ const CustomForm = ({ status, message, onValidated }) => {
         </div>
       </form>
     </>
-  );
-};
+  )
+}
 
 const NewsLetter = () => (
   <MailchimpSubscribe
@@ -91,6 +89,6 @@ const NewsLetter = () => (
       </section>
     )}
   />
-);
+)
 
-export default NewsLetter;
+export default NewsLetter

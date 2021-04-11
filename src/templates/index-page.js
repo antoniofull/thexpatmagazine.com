@@ -35,7 +35,6 @@ const IndexPage = ({ data }) => {
       const cat = post.node.frontmatter.category
       const id = post.node.id
       if (cat.includes('destinations') && !ids.has(id) && i < 30) {
-        console.log(post)
         destinations.push(post)
         ids.add(id)
       }
@@ -61,7 +60,6 @@ const IndexPage = ({ data }) => {
         destinations,
         stories
       })
-      console.log('state here', state)
     }
   }, [data])
 
