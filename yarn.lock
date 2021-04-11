@@ -7057,6 +7057,13 @@ gatsby-plugin-remove-serviceworker@^1.0.0:
   resolved "https://registry.yarnpkg.com/gatsby-plugin-remove-serviceworker/-/gatsby-plugin-remove-serviceworker-1.0.0.tgz#9fb433bc8bd766e14e1d3711c4ac6f051e1dff7c"
   integrity sha1-n7QzvIvXZuFOHTcRxKxvBR4d/3w=
 
+gatsby-plugin-remove-trailing-slashes@^3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-remove-trailing-slashes/-/gatsby-plugin-remove-trailing-slashes-3.2.0.tgz#3f2f662f1fe444d479e0f6c8128ab9a7826d1687"
+  integrity sha512-IgB+ThWcZB/Ad4S5HYZBfXKP1qI+IjCcAma2+Xi5ZXdDUlQIVVgSaOI5iJVZJRynMbKDoGj87fvwUZAm45083w==
+  dependencies:
+    "@babel/runtime" "^7.12.5"
+
 gatsby-plugin-robots-txt@^1.4.0:
   version "1.5.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-robots-txt/-/gatsby-plugin-robots-txt-1.5.0.tgz#3b7d04dd475da138d5613171c3a36f500568369e"

@@ -1,19 +1,19 @@
-import React from 'react';
+import React from 'react'
 
-import { mq } from '../utils/mq';
-import Masonry from 'react-masonry-component';
-import { Link } from 'gatsby';
-import ReactResizeDetector from 'react-resize-detector';
-import Img from 'gatsby-image';
+import { mq } from '../utils/mq'
+import Masonry from 'react-masonry-component'
+import { Link } from 'gatsby'
+import ReactResizeDetector from 'react-resize-detector'
+import Img from 'gatsby-image'
 
-import AuthorMeta from './AuthorMeta';
+import AuthorMeta from './AuthorMeta'
 
 const masonryOptions = {
   transitionDuration: 0
-};
+}
 
 const Stories = ({ posts }) => {
-  const { limit } = mq();
+  const { limit } = mq()
   const stories = posts.map(
     (story, i) =>
       i < limit && (
@@ -58,16 +58,16 @@ const Stories = ({ posts }) => {
           </div>
         </article>
       )
-  );
+  )
 
-  const imagesLoadedOptions = { background: '.my-bg-image-el' };
+  const imagesLoadedOptions = { background: '.my-bg-image-el' }
 
   return (
     <ReactResizeDetector handleWidth handleHeight>
       {() => (
         <section className='home-row'>
           <div className='container container--home is-color-white container-row'>
-            <Link to='/stories/'>
+            <Link to='/stories'>
               <h3
                 alt='Latest Stories'
                 className='home-row__header container padding-xl'
@@ -86,7 +86,7 @@ const Stories = ({ posts }) => {
               {stories}
             </Masonry>
             <div className='view-all-home'>
-              <Link to='/stories/' className=' view-all'>
+              <Link to='/stories' className=' view-all'>
                 View All Stories
               </Link>
             </div>
@@ -94,7 +94,7 @@ const Stories = ({ posts }) => {
         </section>
       )}
     </ReactResizeDetector>
-  );
-};
+  )
+}
 
-export default Stories;
+export default Stories

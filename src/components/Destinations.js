@@ -1,14 +1,14 @@
-import React from 'react';
-import { Link } from 'gatsby';
-import Img from 'gatsby-image';
+import React from 'react'
+import { Link } from 'gatsby'
+import Img from 'gatsby-image'
 
-import { mq } from '../utils/mq';
-import AuthorMeta from './AuthorMeta';
-import '../styles/tips.css';
-import '../styles/destinations.css';
+import { mq } from '../utils/mq'
+import AuthorMeta from './AuthorMeta'
+import '../styles/tips.css'
+import '../styles/destinations.css'
 
 const Destinations = ({ posts }) => {
-  const { limit } = mq();
+  const { limit } = mq()
   if (posts) {
     const stories = posts.map(
       (story, i) =>
@@ -54,11 +54,11 @@ const Destinations = ({ posts }) => {
             </div>
           </article>
         )
-    );
+    )
     return (
       <section className='home-row home-row--blue'>
         <div className='container container--home container-row'>
-          <Link to='/destinations/'>
+          <Link to='/destinations'>
             <h3
               alt='Destinations. Chose your next travel destination'
               className='home-row__header container padding-xl'
@@ -68,15 +68,15 @@ const Destinations = ({ posts }) => {
           </Link>
           <div className='container-home--articles'>{stories}</div>
           <div className='view-all-home view-all-home--accent'>
-            <Link to='/destinations/' className=' view-all'>
+            <Link to='/destinations' className=' view-all'>
               View All Destinations
             </Link>
           </div>
         </div>
       </section>
-    );
+    )
   }
-  return null;
-};
+  return null
+}
 
-export default Destinations;
+export default Destinations

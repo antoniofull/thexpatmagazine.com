@@ -1,13 +1,13 @@
-import React from 'react';
-import { Link } from 'gatsby';
+import React from 'react'
+import { Link } from 'gatsby'
 
-import AuthorMeta from './AuthorMeta';
-import Img from 'gatsby-image';
-import { mq } from '../utils/mq';
-import '../styles/tips.css';
+import AuthorMeta from './AuthorMeta'
+import Img from 'gatsby-image'
+import { mq } from '../utils/mq'
+import '../styles/tips.css'
 
 const Tips = ({ posts }) => {
-  const { limit } = mq();
+  const { limit } = mq()
   const stories = posts.map(
     (story, i) =>
       i < limit && (
@@ -51,12 +51,12 @@ const Tips = ({ posts }) => {
           </div>
         </article>
       )
-  );
+  )
 
   return (
     <section className='home-row home-row--white'>
       <div className='container container--home container-row'>
-        <Link to='/destinations/'>
+        <Link to='/destinations'>
           <h3
             alt='Tips for Expats and Travellers'
             className='home-row__header container padding-xl'
@@ -66,13 +66,13 @@ const Tips = ({ posts }) => {
         </Link>
         <div className='container-home--articles'>{stories}</div>
         <div className='view-all-home'>
-          <Link to='/travel-tips/' className=' view-all'>
+          <Link to='/travel-tips' className=' view-all'>
             View all Tips
           </Link>
         </div>
       </div>
     </section>
-  );
-};
+  )
+}
 
-export default Tips;
+export default Tips

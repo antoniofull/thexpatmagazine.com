@@ -84,12 +84,7 @@ export const BlogPostTemplate = ({
           '@type': 'BlogPosting' // set's this as a blog post.
         }}
       />
-      <Helmet>
-        <link
-          rel='amphtml'
-          href={`https://www.thexpatmagazine.com/amp${url}`}
-        ></link>
-      </Helmet>
+      <Helmet></Helmet>
       <div className='container'>
         <div className='post__container'>
           <p className='wf-os font-small post__top-meta'>
@@ -97,7 +92,7 @@ export const BlogPostTemplate = ({
             {category && category.length && (
               <span>
                 {' '}
-                <Link to={`/${kebabCase(category[0])}/`}>{category[0]}</Link>
+                <Link to={`/${kebabCase(category[0])}`}>{category[0]}</Link>
               </span>
             )}
           </p>
@@ -134,7 +129,7 @@ export const BlogPostTemplate = ({
             <ul className='taglist'>
               {tags.map(tag => (
                 <li className='font-small wf-os post__tag' key={tag + `tag`}>
-                  <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                  <Link to={`/tags/${kebabCase(tag)}`}>{tag}</Link>
                 </li>
               ))}
             </ul>
@@ -221,6 +216,7 @@ const BlogPost = props => {
         language='en'
         title={post.frontmatter.seotitle}
         description={post.frontmatter.description}
+        canonical={`https://www.thexpatmagazine.com/${post.fields.slug}`}
         openGraph={{
           url: `https://www.thexpatmagazine.com/${post.fields.slug}`,
           title: post.frontmatter.seotitle,

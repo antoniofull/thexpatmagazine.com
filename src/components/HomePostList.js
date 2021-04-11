@@ -76,7 +76,7 @@ const HomePostList = ({ posts, title }) => {
         }`}
       >
         <div className='container container--home container-row'>
-          <Link to='/destinations/'>
+          <Link to='/destinations'>
             <h3
               alt={`Expat ${title}`}
               className='home-row__header container padding-xl'
@@ -89,7 +89,7 @@ const HomePostList = ({ posts, title }) => {
             className={`view-all-home ${title === 'destinations' &&
               'view-all-home--accent'}`}
           >
-            <Link to={`/${catLink}/`} className=' view-all'>
+            <Link to={`/${catLink}`} className=' view-all'>
               View all {viewTitle}
             </Link>
           </div>

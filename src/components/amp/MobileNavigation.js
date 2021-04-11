@@ -1,11 +1,11 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import { Link } from 'gatsby';
-import { Motion, spring } from 'react-motion';
-import Div100vh from 'react-div-100vh';
-import kebabCase from 'lodash/kebabCase';
+import React from 'react'
+import PropTypes from 'prop-types'
+import { Link } from 'gatsby'
+import { Motion, spring } from 'react-motion'
+import Div100vh from 'react-div-100vh'
+import kebabCase from 'lodash/kebabCase'
 
-import '../../styles/nav.css';
+import '../../styles/nav.css'
 
 const MobileNavigation = ({ items, active, toggleState }) => {
   if (active) {
@@ -33,9 +33,9 @@ const MobileNavigation = ({ items, active, toggleState }) => {
                     {items.map(item => (
                       <li className='main-nav__item' key={item}>
                         {item === 'guests' ? (
-                          <Link to={`/pages/write-for-us/`}>Guest Posts</Link>
+                          <Link to={`/pages/write-for-us`}>Guest Posts</Link>
                         ) : (
-                          <Link to={`/${kebabCase(item)}/`}>{item}</Link>
+                          <Link to={`/${kebabCase(item)}`}>{item}</Link>
                         )}
                       </li>
                     ))}
@@ -50,13 +50,13 @@ const MobileNavigation = ({ items, active, toggleState }) => {
           </Div100vh>
         )}
       </Motion>
-    );
+    )
   }
 
-  return null;
-};
+  return null
+}
 
 MobileNavigation.propTypes = {
   active: PropTypes.bool.isRequired
-};
-export default MobileNavigation;
+}
+export default MobileNavigation

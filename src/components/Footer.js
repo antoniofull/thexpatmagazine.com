@@ -68,24 +68,24 @@ const Footer = ({ site }) => {
           </ul>
           <ul className='page-info font-small wf-os'>
             <li>
-              <Link to={'/pages/about-us/'}>About Us</Link>
+              <Link to={'/pages/about-us'}>About Us</Link>
             </li>
             <li>
-              <Link to={'/pages/write-for-us/'}>Write for Us</Link>
+              <Link to={'/pages/write-for-us'}>Write for Us</Link>
             </li>
             <li>
-              <Link to={'/pages/collaborations/'}>Collaborations</Link>
+              <Link to={'/pages/collaborations'}>Collaborations</Link>
             </li>
             <li>
-              <Link to={'/pages/book-o-clock/'}>Book O' Clock</Link>
+              <Link to={'/pages/book-o-clock'}>Book O' Clock</Link>
             </li>
             <li>
-              <Link to={'/pages/advertising-on-the-expat-magazine/'}>
+              <Link to={'/pages/advertising-on-the-expat-magazine'}>
                 Advertising
               </Link>
             </li>
             <li>
-              <Link to={'/pages/privacy-and-cookies-policy/'}>Privacy</Link>
+              <Link to={'/pages/privacy-and-cookies-policy'}>Privacy</Link>
             </li>
           </ul>
         </div>

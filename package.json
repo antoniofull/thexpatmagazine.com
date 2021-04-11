@@ -113,6 +113,7 @@
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-plugin-react": "^7.13.0",
+    "gatsby-plugin-remove-trailing-slashes": "^3.2.0",
     "gatsby-remark-lazy-load": "^1.0.2",
     "http-proxy-middleware": "^0.19.1",
     "lazysizes": "^5.2.2",
