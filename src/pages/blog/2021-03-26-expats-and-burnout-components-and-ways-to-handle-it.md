@@ -6,7 +6,7 @@ date: 2021-03-26T15:58:40.057Z
 description: "Christine Hodges, teacher turned coach, talks about the components
   of burnout, chronic stressors, emotions as tunnels, and ways to handle stress.
   "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/whoislimos-kfvmyjk6hz8-unsplash.jpg
 imagealt: Photo by [whoislimos
   ](https://unsplash.com/@whoislimos?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
