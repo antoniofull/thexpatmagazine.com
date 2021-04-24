@@ -10,7 +10,12 @@ import kebabCase from 'lodash/kebabCase'
 
 const PageRoute = ({ data }) => {
   const [img, setImg] = useState('as')
-  const { title, description } = data.markdownRemark.frontmatter
+  const {
+    title,
+    description,
+    seotitle,
+    seodescription
+  } = data.markdownRemark.frontmatter
   const PageContent = HTMLContent || Content
   useEffect(() => {
     if (
@@ -21,16 +26,17 @@ const PageRoute = ({ data }) => {
       setImg(window.document.querySelector('img').getAttribute('src'))
     }
   }, [data])
+
   return (
     <Layout>
       <GatsbySeo
         language='en'
-        title={title}
-        description={description}
+        title={seotitle}
+        description={seodescription}
         openGraph={{
           url: `${BASE_URL}${kebabCase(title)}`,
-          title: title,
-          description: description,
+          title: seotitle,
+          description: seodescription,
           images: [
             {
               url: img,
@@ -42,8 +48,10 @@ const PageRoute = ({ data }) => {
         }}
       />
       <section className='container page'>
-        <Helmet title={title} />
-        <h1 className='post__title'>{title}</h1>
+        <Helmet title={seotitle} />
+        <h1 alt={seotitle} className='post__title'>
+          {title}
+        </h1>
         <PageContent
           content={data.markdownRemark.html}
           className='post__content'

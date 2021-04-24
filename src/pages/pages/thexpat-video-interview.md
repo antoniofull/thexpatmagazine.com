@@ -1,6 +1,8 @@
 ---
 templateKey: page
 title: The Expat Magazine video interview
+seotitle: The Expat Magazine video interview
+seodescription:
 ---
 
 <video style="width: 100%;" controls>

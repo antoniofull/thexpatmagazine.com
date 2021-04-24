@@ -188,5 +188,7 @@ collections:
           default: 'page',
         }
       - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Seo Title', name: 'seotitle', widget: 'string' }
+      - { label: 'Seo Description', name: 'seodescription', widget: 'string' }
       - { label: 'Page content', name: 'body', widget: 'markdown' }
       - { label: 'Photo', name: 'photo', widget: image, required: false }

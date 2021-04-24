@@ -1,6 +1,8 @@
 ---
 templateKey: page
 title: Advertising on The Expat Magazine
+seotitle: Advertising on The Expat Magazine
+seodescription:
 ---
 
 If you are planning to advertise on our website, we are happy to discuss it. We accept different types of advertising as long as they are related to our topics and helpful for our readers.

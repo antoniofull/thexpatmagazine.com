@@ -1,6 +1,8 @@
 ---
 templateKey: page
 title: Privacy and Cookies Policy
+seotitle: Privacy and Cookies Policy
+seodescription:
 ---
 
 At The Expat Magazine we take your privacy very carefully. Here is a breakdown of how we use cookies and manage your data when you visit our website.

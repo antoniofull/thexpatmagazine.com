@@ -1,7 +1,10 @@
 ---
 templateKey: page
 title: Write for us
+seotitle: Write with us and be part of our community
+seodescription: Write with us and be part of our community
 ---
+
 We always look for volunteers!
 
 [Thexpatmagazine.com](https://thexpatmagazine.com) is a multi-author blog for expats launched in february 2014. We **write about expat life, culture abroad, travelling** and everything that can be related to living abroad.
@@ -19,7 +22,7 @@ We are always looking for volunteers who want to share their stories, tips and s
 
 If you can provide us also a short bio, your website and or social media accounts, we will add you as author on our [authors page](https://www.thexpatmagazine.com/authors/). Take a look at[ Rossella's page](https://www.thexpatmagazine.com/authors/rossella-davi/) as an example for inspiration, one of our authors.
 
-If you are rather interested in promoting or advertising on this website, then you can have a look at our [advertising page](https://www.thexpatmagazine.com/pages/advertising-on-the-expat-magazine/). 
+If you are rather interested in promoting or advertising on this website, then you can have a look at our [advertising page](https://www.thexpatmagazine.com/pages/advertising-on-the-expat-magazine/).
 
 So, are you ready to share your experience with us? We are waiting for you 🙂
 

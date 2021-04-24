@@ -2,6 +2,8 @@
 templateKey: page
 title: Newsletter
 photo: /img/roman-kraft-_zua2hyvtbk-unsplash.jpg
+seotitle: Newsletter
+seodescription:
 ---
 
 Do you want to be updated with expat and travelling news? Discover more stories and top tips? Then, this is what you are looking for!
