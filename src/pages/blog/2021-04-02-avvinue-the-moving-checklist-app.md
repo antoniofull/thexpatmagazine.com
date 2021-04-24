@@ -5,7 +5,7 @@ seotitle: "Avvinue: The Moving Checklist App"
 date: 2021-04-02T12:35:07.655Z
 description: Avvinue is a revolutionary App launched in March 2021 with the goal
   of helping people plan, coordinate and manage all the aspects of a moving.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/nicole-caba-avvinue-all-in-one-relocation-platform-24.jpg
 imagealt: Nicole Caba
 tags:
