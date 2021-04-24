@@ -15,7 +15,7 @@ category:
   - expat tips
 author: Damian Porter
 ---
-In this guide, we cover most popular questions about [international health insurance for expats](< https://www.william-russell.com/the-expat-magazine/>), including how you can save money on your insurance premium.
+In this guide, we cover most popular questions about [international health insurance for expats](https://www.william-russell.com), including how you can save money on your insurance premium.
 
 **Firstly, do you need international health insurance?**
 
