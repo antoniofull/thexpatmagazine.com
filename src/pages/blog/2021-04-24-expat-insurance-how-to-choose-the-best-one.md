@@ -7,7 +7,7 @@ description: "In this guide, we cover most popular questions about international
   health insurance for expats. Discover how to choose your best insurance. "
 featuredpost: true
 featuredimage: /img/image.jpg
-imagealt: By William Russel, Specialist in Expat Insurance
+imagealt: By William Russell, Specialist in Expat Insurance
 tags:
   - Expat insurance
   - How to choose health insurance
@@ -15,7 +15,7 @@ category:
   - expat tips
 author: Damian Porter
 ---
-In this guide, we cover most popular questions about [international health insurance for expats](https://www.william-russell.com), including how you can save money on your insurance premium.
+In this guide, we cover most popular questions about [international health insurance for expats](< https://www.william-russell.com/the-expat-magazine/>), including how you can save money on your insurance premium.
 
 **Firstly, do you need international health insurance?**
 
