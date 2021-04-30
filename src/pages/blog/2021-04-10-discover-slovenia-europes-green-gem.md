@@ -5,7 +5,7 @@ seotitle: "Discover Slovenia: Europe's Green Gem"
 date: 2021-04-10T12:25:34.462Z
 description: What places to visit in this beautiful country and where to stay.
   Julia Martinet, expat in Slovenia, tells us all about it. Read more!
-featuredpost: true
+featuredpost: false
 featuredimage: /img/dsc_0065.jpg
 imagealt: By Julia Martinet @mymoveablefeast
 tags:
