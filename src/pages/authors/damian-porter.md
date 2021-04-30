@@ -9,5 +9,5 @@ bio: Damian Porter is responsible for implementing Introducer Partnerships and
   He is a keen runner (or plodder) and hiker, with nearly 250 parkruns under his
   belt!
 photo: /img/meet-a-team-damian-porter-william-russell_meet-a-team-caryn-greenhough-william-russell-copy.jpg
-website: https://www.william-russell.com
+website: https://www.william-russell.com/the-expat-magazine/
 ---
