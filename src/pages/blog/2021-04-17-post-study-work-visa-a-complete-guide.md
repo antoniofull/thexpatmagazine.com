@@ -6,7 +6,7 @@ date: 2021-04-17T13:01:46.322Z
 description: "The visa policies and requirements vary from one country to
   another. In this article you can find some tips for: USA, UK, Canada,
   Australia and Germany."
-featuredpost: true
+featuredpost: false
 featuredimage: /img/kyle-gregory-devaras-6rtm8esd1t8-unsplash.jpg
 imagealt: Photo by [Kyle Gregory Devaras
   ](https://unsplash.com/@kyledevaras?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
