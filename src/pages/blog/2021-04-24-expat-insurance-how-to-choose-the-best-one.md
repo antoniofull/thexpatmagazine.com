@@ -5,7 +5,7 @@ seotitle: "Expat Insurance: How to Choose the Best One"
 date: 2021-04-24T09:32:58.638Z
 description: "In this guide, we cover most popular questions about international
   health insurance for expats. Discover how to choose your best insurance. "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/image.jpg
 imagealt: By William Russell, Specialist in Expat Insurance
 tags:
