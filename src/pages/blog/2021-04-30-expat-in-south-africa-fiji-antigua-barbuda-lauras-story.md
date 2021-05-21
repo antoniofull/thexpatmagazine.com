@@ -5,7 +5,7 @@ seotitle: "Expat in South Africa, Fiji, Antigua & Barbuda: Laura's Story"
 date: 2021-04-30T15:08:15.707Z
 description: Laura, a bare feet expat life between Antigua & Barbuda, Fiji and
   South Africa. Read our interview and find out more about these adventures!
-featuredpost: true
+featuredpost: false
 featuredimage: /img/1617797664130-01.jpeg
 imagealt: "*Laura Rossi*"
 tags:
