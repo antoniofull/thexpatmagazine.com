@@ -6,7 +6,7 @@ date: 2021-05-08T10:49:19.011Z
 description: What does technology offer for the education industry? This article
   allows us to observe the collaboration of the tech industry with learning.
   Find out more!
-featuredpost: true
+featuredpost: false
 featuredimage: /img/aleks-dorohovich-njdwuhmay8a-unsplash.jpg
 imagealt: Photo by [Aleks Dorohovich
   ](https://unsplash.com/@doctype?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
