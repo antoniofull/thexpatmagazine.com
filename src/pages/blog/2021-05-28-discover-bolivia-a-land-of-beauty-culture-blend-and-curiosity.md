@@ -44,7 +44,7 @@ Cultural elements of any group are visible in anything, architecture, food, reli
 
 Talking about clothes the most relevant is the ***ski*** that passed from being symbol of oppression (Spanish obliged indigenous women to wear it) to symbol of pride in being indigenous and nowadays it is a status symbol.
 
-![Bolivian clothes](/img/embarquez-pour-l’isla-del-sol-fameuse-île-du-lac-titicaca.jpg)
+![Explore Bolivia](/img/lesly-derksen-osczx5dk4xi-unsplash.jpg "Photo by Lesly Derksen on Unsplash")
 
 ## **What about Expats?**
 
