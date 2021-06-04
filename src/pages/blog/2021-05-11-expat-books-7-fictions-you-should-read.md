@@ -6,7 +6,7 @@ date: 2021-05-11T12:50:18.516Z
 description: "Books allow us to experience adventures, to travel and to make
   sense of the life we are living. Discover the list for expats that you don’t
   want to miss! "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/florencia-viadana-1j8k0qqufyy-unsplash.jpg
 imagealt: Photo by [Florencia Viadana
   ](https://unsplash.com/@florenciaviadana?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
