@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: "Moving to Spain: Everything you need to know"
-seotitle: "Moving to Spain: Everything you need to know"
+title: 'Moving to Spain: Everything you need to know'
+seotitle: 'Moving to Spain: Everything you need to know'
 date: 2020-09-20T16:38:46.261Z
 description: "Are you thinking about moving to Spain? Here's the perfect guide
   to explain you everything you need to know about this beautiful country. "
@@ -19,13 +19,14 @@ category:
   - expat tips
 author: Editorial Team
 ---
-Although the Coronavirus pandemic is still on, a lot of expats keep on moving to other countries, especially in Europe as it’s easier to move from one country to another. 
+
+Although the Coronavirus pandemic is still on, a lot of expats keep on moving to other countries, especially in Europe as it’s easier to move from one country to another.
 
 One of the favorite country by expats is, without any doubt, Spain. Expats move to Spain for several reasons, such as work, life balance, good weather and cheaper cost of life.
 
 With this article we are going to tell you everything you need to know if you are planning to move and live in Spain for a long term.
 
-### Table of contents 
+### Table of contents
 
 #### [the Country](#spain-country)
 
@@ -88,13 +89,15 @@ While in the south (Andalusia and the province of Alicante) there are plenty of 
 
 Spain is not just a decentralised state but it is also a country with different traditions and - of course - languages. Here is a list of some other languages spoken in Spain:
 
-* **Catalan is spoken in Catalunya, Valencia and Balearic Islands**
-* **Gallego is spoken in Galicia**
-* **Basque is spoken in Basque region (Bilbao)**
+- **Catalan is spoken in Catalunya, Valencia and Balearic Islands**
+- **Gallego is spoken in Galicia**
+- **Basque is spoken in Basque region (Bilbao)**
 
 There is still so much to discover about Spain, and for this reason we will have another article soon to talk about:
 
-* #### Job
-* #### House
-* #### NIE Documents
-* #### Health insurance
+- #### Job
+- #### House
+- #### NIE Documents
+- #### Health insurance
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FzNZAoiKH3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
