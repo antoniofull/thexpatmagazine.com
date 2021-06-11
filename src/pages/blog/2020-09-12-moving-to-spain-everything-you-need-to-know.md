@@ -84,9 +84,10 @@ Spain is not just a decentralised state but it is also a country with different 
 
 ## How to move to Spain: the video
 
-<div class="video">
-  <iframe width="500" height="390" src="https://www.youtube-nocookie.com/embed/FzNZAoiKH3Y" title="Moving To Spain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 After sharing all the information regarding the country and languages, you also need to know what to do on a more **practical side. How do you register? What about the health insurance? How to open a bank account?**
 
 These are just a few of the questions Isotta answers for us in this video. She is an Italian living in Madrid, where she also runs her business [Eatsperiencemadrid](https://www.instagram.com/eatsperiencemadrid/). Watch the video and you'll be fully ready to move to Spain.
+
+<div class="video">
+  <iframe width="500" height="390" src="https://www.youtube-nocookie.com/embed/FzNZAoiKH3Y" title="Moving To Spain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
