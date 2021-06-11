@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: "Moving to Spain: Everything you need to know"
-seotitle: "Moving to Spain: Everything you need to know"
+title: 'Moving to Spain: Everything you need to know'
+seotitle: 'Moving to Spain: Everything you need to know'
 date: 2020-09-20T16:38:46.261Z
 description: "Are you thinking about moving to Spain? Here's the perfect guide
   for you! Find out useful info about the country and how to settle once you
@@ -22,9 +22,10 @@ category:
   - expat tips
 author: Editorial Team
 ---
-Although the Coronavirus pandemic is still on, a lot of expats keep on moving to other countries, especially in Europe as it’s easier to move from one country to another. 
 
-One of the favorite country by expats is, without any doubt, Spain. [Expats move to Spain for several reasons](https://www.thexpatmagazine.com/blog/2014-03-02-6-reasons-live-in-spain), such as work, life balance, good weather and cheaper cost of life. 
+Although the Coronavirus pandemic is still on, a lot of expats keep on moving to other countries, especially in Europe as it’s easier to move from one country to another.
+
+One of the favorite country by expats is, without any doubt, Spain. [Expats move to Spain for several reasons](https://www.thexpatmagazine.com/blog/2014-03-02-6-reasons-live-in-spain), such as work, life balance, good weather and cheaper cost of life.
 
 With this article we are going to tell you **everything you need to know if you are planning to move and live in Spain for a long term**. Information about the Country, the expat community, major cities and also the languages. You will also find a video with practical and administrational information, such as registration, bank account and health insurance. So, keep on reading!
 
@@ -49,7 +50,7 @@ The biggest expats communities in Spain - according to the office of statistics 
 
 There is also a large community of latin Americans, and in the recent years - due to their political situation - the Venezuelan community has grown a lot.
 
-Most of Moroccan and UK citizens live in the southern part of Spain, in the famous “Costa del Sol”: the coast that goes from Malaga up to Gibraltar being the favorite destinations for UK expats. We are also curious to see what happens with the [British migrating to Spain after Brexit](https://www.thexpatmagazine.com/blog/2019-08-12-emigrating-to-spain-after-brexit-the-top-7-facts-you-need-to-know).  
+Most of Moroccan and UK citizens live in the southern part of Spain, in the famous “Costa del Sol”: the coast that goes from Malaga up to Gibraltar being the favorite destinations for UK expats. We are also curious to see what happens with the [British migrating to Spain after Brexit](https://www.thexpatmagazine.com/blog/2019-08-12-emigrating-to-spain-after-brexit-the-top-7-facts-you-need-to-know).
 
 Barcelona and Madrid are mostly favoured by Italians and Latin Americans and - we will discuss it soon - are the cities with most favorable job opportunities.
 
@@ -77,12 +78,15 @@ While in the south (Andalusia and the province of Alicante) there are plenty of 
 
 Spain is not just a decentralised state but it is also a country with different traditions and - of course - languages. Here is a list of some other languages spoken in Spain:
 
-* **Catalan is spoken in Catalunya, Valencia and Balearic Islands**
-* **Gallego is spoken in Galicia**
-* **Basque is spoken in Basque region (Bilbao)**
+- **Catalan is spoken in Catalunya, Valencia and Balearic Islands**
+- **Gallego is spoken in Galicia**
+- **Basque is spoken in Basque region (Bilbao)**
 
 ## How to move to Spain: the video
 
-After sharing all the information regarding the country and languages, you also need to know what to do on a more **practical side. How do you register? What about the health insurance? How to open a bank account?** 
+<div class="video">
+  <iframe width="500" height="390" src="https://www.youtube-nocookie.com/embed/FzNZAoiKH3Y" title="Moving To Spain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+After sharing all the information regarding the country and languages, you also need to know what to do on a more **practical side. How do you register? What about the health insurance? How to open a bank account?**
 
 These are just a few of the questions Isotta answers for us in this video. She is an Italian living in Madrid, where she also runs her business [Eatsperiencemadrid](https://www.instagram.com/eatsperiencemadrid/). Watch the video and you'll be fully ready to move to Spain.
