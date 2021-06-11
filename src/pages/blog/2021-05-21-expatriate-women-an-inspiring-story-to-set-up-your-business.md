@@ -6,7 +6,7 @@ date: 2021-05-21T14:29:33.325Z
 description: Cri & Dan share their inspiring story as expat women setting up
   their business and expanding it throughout the world. Read more and get
   inspired!
-featuredpost: true
+featuredpost: false
 featuredimage: /img/riccardo-annandale-7e2pe9wjl9m-unsplash.jpg
 imagealt: Photo by [Riccardo Annandale
   ](https://unsplash.com/@pavement_special?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
