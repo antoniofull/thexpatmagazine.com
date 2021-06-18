@@ -6,7 +6,7 @@ date: 2020-09-20T16:38:46.261Z
 description: "Are you thinking about moving to Spain? Here's the perfect guide
   for you! Find out useful info about the country and how to settle once you
   move. "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/willian-justen-de-vasconcellos-7vkp5bam8wg-unsplash.jpg
 imagealt: Photo by [Willian Justen de Vasconcellos
   ](https://unsplash.com/@willianjusten?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
