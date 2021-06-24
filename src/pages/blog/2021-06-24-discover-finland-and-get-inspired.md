@@ -14,7 +14,8 @@ imagealt: Photo by [Arctic Guesthouse & Igloos
 tags:
   - Discover Finland
   - Explore Finland
-country: []
+country:
+  - Finland
 category:
   - expat tips
 author: Rossella Daví
