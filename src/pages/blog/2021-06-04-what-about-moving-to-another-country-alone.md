@@ -6,7 +6,7 @@ date: 2021-06-04T08:55:37.834Z
 description: "Moving abroad to another country can be an empowering and
   challenging experience at the same time! Read Lorena's experience and find out
   more. "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/325992b7-1023-415e-b734-3eb379757e9d_1_105_c.jpeg
 imagealt: Photo of Lorena in Ameland - The Netherlands
 tags:
