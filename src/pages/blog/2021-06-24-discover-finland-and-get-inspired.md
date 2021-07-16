@@ -6,7 +6,7 @@ date: 2021-06-24T20:19:10.510Z
 description: "We want to share some info that might make you curious enough to
   think about travelling there or maybe moving there too, you never know. Read
   more. "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/arctic-guesthouse-igloos-few9rsodeq4-unsplash.jpg
 imagealt: Photo by [Arctic Guesthouse & Igloos
   ](https://unsplash.com/@arcticguesthouse?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
