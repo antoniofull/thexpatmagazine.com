@@ -6,7 +6,7 @@ date: 2021-07-03T16:17:07.061Z
 description: In this article you will find 4 tips on how to send packages
   overseas easier, safer, and what you should be aware of when. Discover more
   now!
-featuredpost: true
+featuredpost: false
 featuredimage: /img/adobestock_294037807.jpeg
 imagealt: <https://stock.adobe.com/>
 tags:
