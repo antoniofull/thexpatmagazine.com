@@ -14,7 +14,8 @@ imagealt: Photo by [ZQ Lee
 tags:
   - movingtodubai
   - relocatingtodubai
-country: []
+country:
+  - United Arab Emirates
 category:
   - expat tips
 author: Praful Gupta
