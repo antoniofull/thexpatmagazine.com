@@ -2,12 +2,19 @@
 templateKey: page
 title: Collaborations
 seotitle: Collaborations
-seodescription:
+seodescription: In this page you will find our collaborations! We are always
+  happy to hear from you, share information within our community and be ready to
+  help each other.
 ---
-
 We are happy to share with you our collaborations on this page! We are always happy to hear from you, share information within our community and be ready to help each other.
 
 Feel free to contact us if you wish to initiate a collaboration too!
+
+## Life Coach for Expat Women
+
+Giulia is a certified Life Coachsupporting women leaders all around the world. She helps high achieving, professional women put themselves first, so they remove the word “can’t” from their vocabulary.
+
+![## Life Coach for Expat Women](/img/logo-design-giulia-porro-sfondo-trasparente.png)
 
 ## Dutch Courses Rotterdam
 
