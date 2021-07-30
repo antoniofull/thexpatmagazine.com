@@ -5,7 +5,7 @@ seotitle: "Expat in Montreal: Sara's story in Canada"
 date: 2021-07-09T08:10:30.906Z
 description: "New article about Sara expat’s story in Montreal, Canada: feeling
   overwhelmed, reinventing herself and finding a new balance."
-featuredpost: true
+featuredpost: false
 featuredimage: /img/eva-blue-1xgnrbvf_ui-unsplash.jpg
 imagealt: Photo by [Eva Blue
   ](https://unsplash.com/@evablue?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
