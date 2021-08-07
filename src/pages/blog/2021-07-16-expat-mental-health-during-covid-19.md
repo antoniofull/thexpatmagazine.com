@@ -6,7 +6,7 @@ date: 2021-07-16T13:48:26.397Z
 description: How did the pandemic affect the mental health of expats? Read this
   article and the findings of the survey ran by William Russel who interviewed
   expats around the world.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/anthony-tran-vxymirxr5ac-unsplash.jpg
 imagealt: Photo by [Anthony Tran
   ](https://unsplash.com/@anthonytran?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
