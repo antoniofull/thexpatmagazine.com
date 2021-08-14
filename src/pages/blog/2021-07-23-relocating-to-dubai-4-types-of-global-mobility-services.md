@@ -6,7 +6,7 @@ date: 2021-07-23T12:10:34.499Z
 description: From home shifting services to visa and immigration help, employee
   outreach to destination services, read on for the four types of global
   mobility services.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/zq-lee-vbdjv8-8ibc-unsplash.jpg
 imagealt: Photo by [ZQ Lee
   ](https://unsplash.com/@zqlee?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
