@@ -6,7 +6,7 @@ date: 2021-07-30T09:58:47.353Z
 description: "In this article you’ll discover this beautiful country, find out
   about expat communities in Italy and read what Italians say about their
   country. Curious? "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/christopher-czermak-gzkzbhso6ky-unsplash.jpg
 imagealt: Photo by [Christopher Czermak
   ](https://unsplash.com/@czermak_photography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
