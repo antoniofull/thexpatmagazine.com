@@ -14,7 +14,8 @@ imagealt: Photo by [Joshuva Daniel
 tags:
   - exploreindia
   - exploreindiatravel
-country: []
+country:
+  - India
 category:
   - destinations
 author: Rossella Daví
