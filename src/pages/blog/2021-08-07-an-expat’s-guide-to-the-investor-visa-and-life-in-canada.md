@@ -6,7 +6,7 @@ date: 2021-08-07T07:50:12.478Z
 description: Canada offers several visa options, including the
   provincial-specific nominee program. Learn about the different options and
   find the best one for you.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/kylie-anderson-agdilbe1kus-unsplash.jpg
 imagealt: Photo by [Kylie Anderson
   ](https://unsplash.com/@kanderson17?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
