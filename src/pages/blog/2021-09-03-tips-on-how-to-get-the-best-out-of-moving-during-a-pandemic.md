@@ -14,7 +14,7 @@ tags:
   - relocatingduringpandemic
 category:
   - expat tips
-author: Abhyank Srinet
+author: Federica Viganò
 ---
 We have already been talking on this blog about how [it looks like moving abroad alone](https://www.thexpatmagazine.com/blog/2021-06-04-what-about-moving-to-another-country-alone), what if this happens during a pandemic, in a new city and being jobless? Let's try to understand together how it is possible to survive and get the most out of it!
 
