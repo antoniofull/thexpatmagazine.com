@@ -19,15 +19,15 @@ const Post = ({ post }) => (
   <article className='author__post'>
     {post.node.frontmatter.featuredimage &&
       post.node.frontmatter.featuredimage &&
-        post.node.frontmatter.featuredimage.childImageSharp && (
-          <Link to={post.node.fields.slug}>
-            <Image
-              alt={post.node.frontmatter.title}
-              title={post.node.frontmatter.title}
-              fluid={post.node.frontmatter.featuredimage.childImageSharp.fluid}
-            />
-          </Link>
-        )}
+      post.node.frontmatter.featuredimage.childImageSharp && (
+        <Link to={post.node.fields.slug}>
+          <Image
+            alt={post.node.frontmatter.title}
+            title={post.node.frontmatter.title}
+            fluid={post.node.frontmatter.featuredimage.childImageSharp.fluid}
+          />
+        </Link>
+      )}
     <div className='article--home__content is-color-white'>
       <h2 className='article-home__header'>
         <Link to={post.node.fields.slug}>{post.node.frontmatter.title}</Link>
@@ -67,7 +67,7 @@ const AuthorRoute = props => {
             },
             images: [
               {
-                url: `${BASE_URL}${author.frontmatter.photo.publicURL}`,
+                url: `${BASE_URL}${author.frontmatter?.photo?.publicURL}`,
                 width: 850,
                 height: 650,
                 alt: author.frontmatter.bio
