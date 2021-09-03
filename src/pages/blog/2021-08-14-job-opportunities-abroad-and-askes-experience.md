@@ -5,7 +5,7 @@ seotitle: Job opportunities abroad and Aske's experience
 date: 2021-08-14T09:04:13.367Z
 description: How we have been taught to land a job and how expat careers are
   different. Aske shares his experience and let us know about yours. Read now!
-featuredpost: true
+featuredpost: false
 featuredimage: /img/luke-ellis-craven-knk0vdw0gme-unsplash.jpg
 imagealt: Photo by [Luke Ellis-Craven
   ](https://unsplash.com/@lukeelliscraven?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
