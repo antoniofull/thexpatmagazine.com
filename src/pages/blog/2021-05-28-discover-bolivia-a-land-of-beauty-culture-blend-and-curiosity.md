@@ -5,7 +5,7 @@ seotitle: "Discover Bolivia: a land of beauty, culture blend and curiosity"
 date: 2021-05-28T14:10:19.373Z
 description: Read this article to explore the beauty of this Country and find
   out curiosities that will make you read the article twice. Ready?
-featuredpost: true
+featuredpost: false
 featuredimage: /img/milos-hajder-luetjx5czee-unsplash.jpg
 imagealt: Photo by [Milos Hajder
   ](https://unsplash.com/@mlshajder?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
@@ -17,7 +17,7 @@ category:
   - travel tips
 author: Rossella Daví
 ---
-If you follow us on[ social media](https://www.instagram.com/the_expatmagazine/), you might have noticed that we have talked about Bolivia in this last week. Together with Isotta from [EatEsperienceMadrid ](https://www.instagram.com/eatsperiencemadrid/?hl=en)we have started a new monthly appointment to talk about various Countries starting from food using **\#onerecipeoneculture**!
+If you follow us on[ social media](https://www.instagram.com/the_expatmagazine/), you might have noticed that we have talked about Bolivia in this last week. Together with Isotta from [EatEsperienceMadrid](https://www.eatsperience.es/bolivian-sopa-de-mani/) we have started a new monthly appointment to talk about various Countries starting from food using **\#onerecipeoneculture**!
 
 The [first recipe ](https://www.instagram.com/tv/CPS4-f9qCve/?utm_source=ig_web_copy_link)and Country was Bolivian: *Sopa de Man*í! But what else do we know about Bolivia?
 
