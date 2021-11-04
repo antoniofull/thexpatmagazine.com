@@ -5,7 +5,7 @@ seotitle: How the World of Work is Going to Change Post-Covid?
 date: 2021-08-20T16:15:40.049Z
 description: This epidemic has affected both start-ups and established
   Organizations in two different ways. Read this article and find out more!
-featuredpost: true
+featuredpost: false
 featuredimage: /img/javier-allegue-barros-c7b-exxpoie-unsplash.jpg
 imagealt: Photo by[Javier Allegue Barros
   ](https://unsplash.com/@soymeraki?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
