@@ -46,3 +46,7 @@ I would also recommend having an extra budget, do not stick with the cost of the
 Finally, another aspect to take into account in England, it’s the low construction quality… Unfortunately, being such a humid country, the damp is a very common problem in many houses, and it’s something that the buyer should be prepared to deal with prior or during the ownership.
 
 I have been living in England for 10 years and it isn’t something new to me, however, when you rent a property you don’t have to deal with the repair costs, something that changes when you become the owner. So, try to check everything properly in advance, book the most complete house survey for peace of mind, and keep some savings for anything that may come in the future.
+
+## 5 - Extra tip
+
+[Price ](https://www.statista.com/statistics/899300/cost-of-apartments-in-the-united-kingdom/)in UK can be very different, London city is definitely more expensive than others cities, or other areas. The suggestion is always to have a clear idea of what you can get for the mortgage and having a list of "must have" in your future apartment.
