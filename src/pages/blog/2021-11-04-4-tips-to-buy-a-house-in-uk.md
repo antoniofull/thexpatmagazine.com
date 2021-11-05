@@ -17,7 +17,7 @@ country:
   - United Kingdom
 category:
   - expat tips
-author: Patri
+author: Patri en UK
 ---
 I imagine that being a first time [home buyer in the UK](https://www.thexpatmagazine.com/blog/2020-05-23-can-an-expat-get-a-uk-mortgage) can be as stressful as in any other country. It’s a very different commitment to any other thing that many of us have done in the past.
 
